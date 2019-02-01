@@ -1,0 +1,1028 @@
+112	9	child girl	about 20 kids	about 20 kids in traditional clothing and hats waiting on stairs .	0.583333333333
+996	2	hat	traditional clothing	about 20 kids in traditional clothing and hats waiting on stairs .	0.333333333333
+996	2	hat	hats	about 20 kids in traditional clothing and hats waiting on stairs .	1.0
+59	1	stairs	stairs	about 20 kids in traditional clothing and hats waiting on stairs .	1.0
+942	5	house	a house	a house and a green wall with gate in the background .	1.0
+998	3	wall	a green wall	a house and a green wall with gate in the background .	1.0
+736	13	door	gate	a house and a green wall with gate in the background .	0.333333333333
+844	1	humans	the background	a house and a green wall with gate in the background .	0.166666666667
+646	6	public sign	a sign	a sign saying that plants can't be picked up on the right .	0.5
+25	3	building	plants	a sign saying that plants can't be picked up on the right .	0.25
+844	1	humans	the right	a sign saying that plants can't be picked up on the right .	0.1
+942	6	rock	a rock hole	a rock hole in the ground surrounded by sand .	1.0
+999	5	ground	the ground	a rock hole in the ground surrounded by sand .	1.0
+49	8	sand beach	sand	a rock hole in the ground surrounded by sand .	0.55
+767	8	man	man	one man in a white tee-shirt , grey pants and a white cap is holding a shovel , the other one is wearing black pants , a white jumper and a traditional hat , is walking towards him .	1.0
+62	3	swimming pool	a white tee-shirt	one man in a white tee-shirt , grey pants and a white cap is holding a shovel , the other one is wearing black pants , a white jumper and a traditional hat , is walking towards him .	0.125
+996	2	hat	pants	one man in a white tee-shirt , grey pants and a white cap is holding a shovel , the other one is wearing black pants , a white jumper and a traditional hat , is walking towards him .	0.142857142857
+996	2	hat	a white cap	one man in a white tee-shirt , grey pants and a white cap is holding a shovel , the other one is wearing black pants , a white jumper and a traditional hat , is walking towards him .	0.333333333333
+999	6	cloth	a shovel	one man in a white tee-shirt , grey pants and a white cap is holding a shovel , the other one is wearing black pants , a white jumper and a traditional hat , is walking towards him .	0.142857142857
+996	2	hat	pants	one man in a white tee-shirt , grey pants and a white cap is holding a shovel , the other one is wearing black pants , a white jumper and a traditional hat , is walking towards him .	0.142857142857
+873	4	person	a white jumper	one man in a white tee-shirt , grey pants and a white cap is holding a shovel , the other one is wearing black pants , a white jumper and a traditional hat , is walking towards him .	0.5
+996	2	hat	a traditional hat	one man in a white tee-shirt , grey pants and a white cap is holding a shovel , the other one is wearing black pants , a white jumper and a traditional hat , is walking towards him .	1.0
+999	6	cloth	him	one man in a white tee-shirt , grey pants and a white cap is holding a shovel , the other one is wearing black pants , a white jumper and a traditional hat , is walking towards him .	0.0
+32	4	edifice	a yellow building	a yellow building with white columns in the background .	1.0
+59	6	column	columns	a yellow building with white columns in the background .	1.0
+844	1	humans	the background	a yellow building with white columns in the background .	0.166666666667
+51	6	palm	palm	two palm trees in front of the house .	1.0
+33	2	trees	trees	two palm trees in front of the house .	1.0
+999	5	ground	front	two palm trees in front of the house .	0.111111111111
+942	5	house	the house	two palm trees in front of the house .	1.0
+694	5	car	cars	cars parked in front of the house .	1.0
+999	5	ground	front	cars parked in front of the house .	0.111111111111
+942	5	house	the house	cars parked in front of the house .	1.0
+942	1	woman	a woman	a woman and a child are walking over the square .	1.0
+992	1	child	a child	a woman and a child are walking over the square .	1.0
+28	2	statue	the square	a woman and a child are walking over the square .	0.111111111111
+709	3	ancent building	a large building	a large building on the left , a palm tree in centre of picture , ( mostly ) white cars in the street at a junction , some of them turning left , others going straight .	1.0
+999	5	ground	the left	a large building on the left , a palm tree in centre of picture , ( mostly ) white cars in the street at a junction , some of them turning left , others going straight .	0.166666666667
+714	3	tree	a palm tree	a large building on the left , a palm tree in centre of picture , ( mostly ) white cars in the street at a junction , some of them turning left , others going straight .	1.0
+999	6	cloth	picture	a large building on the left , a palm tree in centre of picture , ( mostly ) white cars in the street at a junction , some of them turning left , others going straight .	0.2
+694	5	car	cars	a large building on the left , a palm tree in centre of picture , ( mostly ) white cars in the street at a junction , some of them turning left , others going straight .	1.0
+61	1	street	the street	a large building on the left , a palm tree in centre of picture , ( mostly ) white cars in the street at a junction , some of them turning left , others going straight .	1.0
+999	5	ground	a junction	a large building on the left , a palm tree in centre of picture , ( mostly ) white cars in the street at a junction , some of them turning left , others going straight .	0.166666666667
+999	6	cloth	them	a large building on the left , a palm tree in centre of picture , ( mostly ) white cars in the street at a junction , some of them turning left , others going straight .	0.0
+999	6	cloth	others	a large building on the left , a palm tree in centre of picture , ( mostly ) white cars in the street at a junction , some of them turning left , others going straight .	0.0
+62	5	umbrella	umbrellas	there are red umbrellas in a park on the right .	1.0
+58	1	flowerbed	a park	there are red umbrellas in a park on the right .	0.2
+844	1	humans	the right	there are red umbrellas in a park on the right .	0.1
+844	1	humans	people	people are walking through the park , others are crossing the road in the foreground .	0.333333333333
+58	1	flowerbed	the park	people are walking through the park , others are crossing the road in the foreground .	0.2
+999	6	cloth	others	people are walking through the park , others are crossing the road in the foreground .	0.0
+45	2	building	the road	people are walking through the park , others are crossing the road in the foreground .	0.2
+844	1	humans	the foreground	people are walking through the park , others are crossing the road in the foreground .	0.0909090909091
+28	2	statue	large statue	a white , large statue with spread arms on a hill .	1.0
+844	1	humans	spread	a white , large statue with spread arms on a hill .	0.111111111111
+47	6	tower	arms	a white , large statue with spread arms on a hill .	0.2
+966	5	hill	a hill	a white , large statue with spread arms on a hill .	1.0
+999	6	cloth	picture	picture taken from behind .	0.2
+999	6	cloth	behind	picture taken from behind .	0.0
+49	3	trees	bushes	bushes and small trees on the hill .	0.333333333333
+49	3	trees	trees	bushes and small trees on the hill .	1.0
+966	5	hill	the hill	bushes and small trees on the hill .	1.0
+966	5	hill	the hill	street leading up the hill .	1.0
+966	1	cloud	clouds	there are white clouds in the blue sky .	1.0
+52	4	sky blue	the blue sky	there are white clouds in the blue sky .	1.0
+844	1	humans	view	view of a city with many dark green trees and white houses with red roofs .	0.125
+731	3	city	a city	view of a city with many dark green trees and white houses with red roofs .	1.0
+714	3	tree	trees	view of a city with many dark green trees and white houses with red roofs .	1.0
+53	2	edifice	houses	view of a city with many dark green trees and white houses with red roofs .	0.5
+687	6	roof	roofs	view of a city with many dark green trees and white houses with red roofs .	1.0
+54	2	road	buildings	there are a few high-rise buildings and a stadium in the centre .	0.2
+54	2	road	a stadium	there are a few high-rise buildings and a stadium in the centre .	0.2
+38	2	waterfall	a cascading waterfall	a cascading waterfall in the middle of the jungle .	1.0
+999	5	ground	the middle	a cascading waterfall in the middle of the jungle .	0.166666666667
+999	5	ground	the jungle	a cascading waterfall in the middle of the jungle .	0.25
+62	3	swimming pool	front view	front view with pool of dirty water in the foreground .	0.163461538462
+55	6	edifice	pool	front view with pool of dirty water in the foreground .	0.2
+999	2	water	dirty water	front view with pool of dirty water in the foreground .	1.0
+844	1	humans	the foreground	front view with pool of dirty water in the foreground .	0.0909090909091
+767	8	man	a man	a man in a red tee-shirt and a woman carrying a red bag are watching some waterfalls on a lookout in the foreground .	1.0
+49	1	sky red sunset dusk	a red tee-shirt	a man in a red tee-shirt and a woman carrying a red bag are watching some waterfalls on a lookout in the foreground .	0.25
+942	1	woman	a woman	a man in a red tee-shirt and a woman carrying a red bag are watching some waterfalls on a lookout in the foreground .	1.0
+717	8	cup	a red bag	a man in a red tee-shirt and a woman carrying a red bag are watching some waterfalls on a lookout in the foreground .	0.333333333333
+38	2	waterfall	waterfalls	a man in a red tee-shirt and a woman carrying a red bag are watching some waterfalls on a lookout in the foreground .	1.0
+873	4	person	a lookout	a man in a red tee-shirt and a woman carrying a red bag are watching some waterfalls on a lookout in the foreground .	0.166666666667
+844	1	humans	the foreground	a man in a red tee-shirt and a woman carrying a red bag are watching some waterfalls on a lookout in the foreground .	0.0909090909091
+57	6	trees	trees	green trees , black rocks and a grey sky in the background .	1.0
+942	6	rock	rocks	green trees , black rocks and a grey sky in the background .	1.0
+924	2	sky	sky	green trees , black rocks and a grey sky in the background .	1.0
+844	1	humans	the background	green trees , black rocks and a grey sky in the background .	0.166666666667
+844	1	humans	view	view of giant , thunderous waterfalls over a u-shaped cliff .	0.125
+38	2	waterfall	waterfalls	view of giant , thunderous waterfalls over a u-shaped cliff .	1.0
+999	5	ground	a u-shaped cliff	view of giant , thunderous waterfalls over a u-shaped cliff .	0.25
+962	2	sky blue	a blue sky	white clouds in a blue sky in the background .	1.0
+844	1	humans	the background	white clouds in a blue sky in the background .	0.166666666667
+60	3	building	a long dam	a long dam with high voltage pylons .	0.2
+966	1	cloud	high voltage	a long dam with high voltage pylons .	0.25
+962	2	sky blue	a blue sky	a blue sky with white fleecy clouds in the background .	1.0
+62	3	swimming pool	white fleecy	a blue sky with white fleecy clouds in the background .	0.125
+844	1	humans	the background	a blue sky with white fleecy clouds in the background .	0.166666666667
+62	3	swimming pool	rising street	a narrow , rising street with colourful houses on both sides , among them a green house with balconies and a white car parked in front of it , and a blue-and-white church on the right .	0.238095238095
+942	5	house	houses	a narrow , rising street with colourful houses on both sides , among them a green house with balconies and a white car parked in front of it , and a blue-and-white church on the right .	1.0
+999	5	ground	sides	a narrow , rising street with colourful houses on both sides , among them a green house with balconies and a white car parked in front of it , and a blue-and-white church on the right .	0.2
+999	6	cloth	them	a narrow , rising street with colourful houses on both sides , among them a green house with balconies and a white car parked in front of it , and a blue-and-white church on the right .	0.0
+62	3	swimming pool	a green house	a narrow , rising street with colourful houses on both sides , among them a green house with balconies and a white car parked in front of it , and a blue-and-white church on the right .	0.208333333333
+709	3	ancent building	balconies	a narrow , rising street with colourful houses on both sides , among them a green house with balconies and a white car parked in front of it , and a blue-and-white church on the right .	0.333333333333
+694	5	car	a white car	a narrow , rising street with colourful houses on both sides , among them a green house with balconies and a white car parked in front of it , and a blue-and-white church on the right .	1.0
+999	5	ground	front	a narrow , rising street with colourful houses on both sides , among them a green house with balconies and a white car parked in front of it , and a blue-and-white church on the right .	0.111111111111
+999	6	cloth	it	a narrow , rising street with colourful houses on both sides , among them a green house with balconies and a white car parked in front of it , and a blue-and-white church on the right .	0.0
+739	1	church	a blue-and-white church	a narrow , rising street with colourful houses on both sides , among them a green house with balconies and a white car parked in front of it , and a blue-and-white church on the right .	1.0
+844	1	humans	the right	a narrow , rising street with colourful houses on both sides , among them a green house with balconies and a white car parked in front of it , and a blue-and-white church on the right .	0.1
+694	5	car	car	one car is going up the street .	1.0
+61	1	street	the street	one car is going up the street .	1.0
+64	1	vegetation	people	there are a few people in the street and a large thundercloud in the background .	0.25
+61	1	street	the street	there are a few people in the street and a large thundercloud in the background .	1.0
+966	1	cloud	a large thundercloud	there are a few people in the street and a large thundercloud in the background .	0.2
+844	1	humans	the background	there are a few people in the street and a large thundercloud in the background .	0.166666666667
+739	1	church	light brown church	two light brown church towers with pinnacles on all four sides .	1.0
+56	6	tower	towers	two light brown church towers with pinnacles on all four sides .	1.0
+56	6	tower	pinnacles	two light brown church towers with pinnacles on all four sides .	0.333333333333
+999	5	ground	four sides	two light brown church towers with pinnacles on all four sides .	0.2
+651	2	hut	tower	the left tower with windows , the right tower also with a clock .	0.25
+844	1	humans	windows	the left tower with windows , the right tower also with a clock .	0.0909090909091
+651	2	hut	the right tower	the left tower with windows , the right tower also with a clock .	0.25
+742	9	clock	a clock	the left tower with windows , the right tower also with a clock .	1.0
+652	3	house	the artful central nave	the artful central nave is a bit darker and has a cross on top .	0.2
+844	1	humans	a bit	the artful central nave is a bit darker and has a cross on top .	0.142857142857
+652	3	house	a cross	the artful central nave is a bit darker and has a cross on top .	0.25
+652	2	ground	top	the artful central nave is a bit darker and has a cross on top .	0.2
+844	1	humans	view	view of an old town of a city with its colourful buidings and two churches from one of its alleys in the shade .	0.125
+731	3	city	an old town	view of an old town of a city with its colourful buidings and two churches from one of its alleys in the shade .	0.333333333333
+731	3	city	a city	view of an old town of a city with its colourful buidings and two churches from one of its alleys in the shade .	1.0
+999	6	cloth	buidings	view of an old town of a city with its colourful buidings and two churches from one of its alleys in the shade .	0.0
+739	1	church	two churches	view of an old town of a city with its colourful buidings and two churches from one of its alleys in the shade .	1.0
+61	1	street	alleys	view of an old town of a city with its colourful buidings and two churches from one of its alleys in the shade .	0.5
+844	1	humans	the shade	view of an old town of a city with its colourful buidings and two churches from one of its alleys in the shade .	0.111111111111
+56	6	tower	towers	the towers of the churches are still in the sun , the rest in already in the shade .	1.0
+739	1	church	churches	the towers of the churches are still in the sun , the rest in already in the shade .	1.0
+942	6	rock	the sun	the towers of the churches are still in the sun , the rest in already in the shade .	0.2
+895	7	paper	the rest	the towers of the churches are still in the sun , the rest in already in the shade .	0.2
+844	1	humans	the shade	the towers of the churches are still in the sun , the rest in already in the shade .	0.111111111111
+739	1	church	blue church	a white and blue church , with only the two towers in the sun , the rest in the shade .	1.0
+56	6	tower	two towers	a white and blue church , with only the two towers in the sun , the rest in the shade .	1.0
+66	3	rock	the sun	a white and blue church , with only the two towers in the sun , the rest in the shade .	0.2
+895	7	paper	the rest	a white and blue church , with only the two towers in the sun , the rest in the shade .	0.2
+844	1	humans	the shade	a white and blue church , with only the two towers in the sun , the rest in the shade .	0.111111111111
+999	5	ground	the side	view from the side , with the old town of a city in the background .	0.2
+731	3	city	the old town	view from the side , with the old town of a city in the background .	0.333333333333
+731	3	city	a city	view from the side , with the old town of a city in the background .	1.0
+844	1	humans	the background	view from the side , with the old town of a city in the background .	0.166666666667
+999	6	cloth	against-the-light photograph	against-the-light photograph of a beach at sunset .	0.2
+662	10	hill	a beach	against-the-light photograph of a beach at sunset .	0.25
+924	2	sky	the sky	some clouds in the sky .	1.0
+664	1	group of persons	people	there are people at the beach and palm trees in the background .	0.321428571429
+49	8	sand beach	the beach	there are people at the beach and palm trees in the background .	0.55
+51	6	palm	palm	there are people at the beach and palm trees in the background .	1.0
+714	3	tree	trees	there are people at the beach and palm trees in the background .	1.0
+844	1	humans	the background	there are people at the beach and palm trees in the background .	0.166666666667
+999	6	cloth	against-the-light photograph	against-the-light photograph of a large , grey building with many arches and columns and a small tower with pinnacles .	0.2
+709	3	ancent building	building	against-the-light photograph of a large , grey building with many arches and columns and a small tower with pinnacles .	1.0
+844	1	humans	arches	against-the-light photograph of a large , grey building with many arches and columns and a small tower with pinnacles .	0.125
+59	6	column	columns	against-the-light photograph of a large , grey building with many arches and columns and a small tower with pinnacles .	1.0
+56	6	tower	a small tower	against-the-light photograph of a large , grey building with many arches and columns and a small tower with pinnacles .	1.0
+56	6	tower	pinnacles	against-the-light photograph of a large , grey building with many arches and columns and a small tower with pinnacles .	0.333333333333
+63	8	flag	the paraguayan flag	the paraguayan flag is waving on top of the building .	1.0
+999	5	ground	top	the paraguayan flag is waving on top of the building .	0.2
+709	3	ancent building	the building	the paraguayan flag is waving on top of the building .	1.0
+51	6	palm	palms	there are dark palms in the foreground and a blue sky in the background .	1.0
+844	1	humans	the foreground	there are dark palms in the foreground and a blue sky in the background .	0.0909090909091
+962	2	sky blue	a blue sky	there are dark palms in the foreground and a blue sky in the background .	1.0
+844	1	humans	the background	there are dark palms in the foreground and a blue sky in the background .	0.166666666667
+52	3	boat	steam ship	steam ship in a lake , docked .	0.333333333333
+38	2	waterfall	a lake	steam ship in a lake , docked .	0.333333333333
+63	8	flag	the flag	the flag of paraguay at the bow of the ship .	1.0
+731	3	city	paraguay	the flag of paraguay at the bow of the ship .	0.166666666667
+999	6	cloth	the bow	the flag of paraguay at the bow of the ship .	0.125
+52	3	boat	the ship	the flag of paraguay at the bow of the ship .	0.333333333333
+962	2	sky blue	a blue sky	a blue sky in the background .	1.0
+844	1	humans	the background	a blue sky in the background .	0.166666666667
+709	3	ancent building	building	a grey building with many columns and arches and the modern high-rise buildings of a city with a blue sky in the background .	1.0
+59	6	column	columns	a grey building with many columns and arches and the modern high-rise buildings of a city with a blue sky in the background .	1.0
+844	1	humans	arches	a grey building with many columns and arches and the modern high-rise buildings of a city with a blue sky in the background .	0.125
+56	6	tower	the modern high-rise	a grey building with many columns and arches and the modern high-rise buildings of a city with a blue sky in the background .	0.5
+709	3	ancent building	buildings	a grey building with many columns and arches and the modern high-rise buildings of a city with a blue sky in the background .	1.0
+731	3	city	a city	a grey building with many columns and arches and the modern high-rise buildings of a city with a blue sky in the background .	1.0
+962	2	sky blue	a blue sky	a grey building with many columns and arches and the modern high-rise buildings of a city with a blue sky in the background .	1.0
+844	1	humans	the background	a grey building with many columns and arches and the modern high-rise buildings of a city with a blue sky in the background .	0.166666666667
+62	3	swimming pool	a black steam engine	a black steam engine with one wagon .	0.1875
+717	8	cup	wagon	a black steam engine with one wagon .	0.25
+714	3	tree	trees	trees in the background .	1.0
+844	1	humans	the background	trees in the background .	0.166666666667
+54	1	train	four locals	four locals are sitting on a bench in a canteen kitchen , leaning on a red brick wall .	0.333333333333
+712	11	chair	a bench	four locals are sitting on a bench in a canteen kitchen , leaning on a red brick wall .	0.333333333333
+709	3	ancent building	a canteen kitchen	four locals are sitting on a bench in a canteen kitchen , leaning on a red brick wall .	0.2
+683	6	wall	a red brick wall	four locals are sitting on a bench in a canteen kitchen , leaning on a red brick wall .	1.0
+684	2	child girl	three women	the three women are wearing skirts , wests and hats , one of them is holding a yellow plastic bag .	0.35
+999	5	ground	wests	the three women are wearing skirts , wests and hats , one of them is holding a yellow plastic bag .	0.2
+996	2	hat	hats	the three women are wearing skirts , wests and hats , one of them is holding a yellow plastic bag .	1.0
+999	6	cloth	them	the three women are wearing skirts , wests and hats , one of them is holding a yellow plastic bag .	0.0
+717	8	cup	a yellow plastic bag	the three women are wearing skirts , wests and hats , one of them is holding a yellow plastic bag .	0.333333333333
+767	8	man	the man	the man is wearing trousers , a shirt and a cap .	1.0
+996	2	hat	trousers	the man is wearing trousers , a shirt and a cap .	0.2
+996	2	hat	a shirt	the man is wearing trousers , a shirt and a cap .	0.2
+996	2	hat	a cap	the man is wearing trousers , a shirt and a cap .	0.333333333333
+686	4	toy	against-the-light photograph	against-the-light photograph of a gate in the shade , with towers to its left and right .	0.2
+736	13	door	a gate	against-the-light photograph of a gate in the shade , with towers to its left and right .	0.333333333333
+844	1	humans	the shade	against-the-light photograph of a gate in the shade , with towers to its left and right .	0.111111111111
+686	11	wall	towers	against-the-light photograph of a gate in the shade , with towers to its left and right .	0.25
+999	5	ground	left	against-the-light photograph of a gate in the shade , with towers to its left and right .	0.166666666667
+844	1	humans	right	against-the-light photograph of a gate in the shade , with towers to its left and right .	0.1
+714	3	tree	trees	there are dark trees in the foreground and a blue sky in the background .	1.0
+844	1	humans	the foreground	there are dark trees in the foreground and a blue sky in the background .	0.0909090909091
+687	1	sky blue	a blue sky	there are dark trees in the foreground and a blue sky in the background .	1.0
+844	1	humans	the background	there are dark trees in the foreground and a blue sky in the background .	0.166666666667
+62	3	swimming pool	front view	well exposed front view of the cathedral in asuncion .	0.163461538462
+731	3	city	asuncion	well exposed front view of the cathedral in asuncion .	0.333333333333
+690	10	house	two towers	two towers with flags , three arched entry gates , large central ave with several pinnacles and a cross on top .	0.25
+63	8	flag	flags	two towers with flags , three arched entry gates , large central ave with several pinnacles and a cross on top .	1.0
+844	1	humans	arched entry	two towers with flags , three arched entry gates , large central ave with several pinnacles and a cross on top .	0.111111111111
+873	4	person	gates	two towers with flags , three arched entry gates , large central ave with several pinnacles and a cross on top .	0.25
+62	3	swimming pool	large central ave	two towers with flags , three arched entry gates , large central ave with several pinnacles and a cross on top .	0.125
+56	6	tower	pinnacles	two towers with flags , three arched entry gates , large central ave with several pinnacles and a cross on top .	0.333333333333
+690	10	house	a cross	two towers with flags , three arched entry gates , large central ave with several pinnacles and a cross on top .	0.25
+690	4	ground	top	two towers with flags , three arched entry gates , large central ave with several pinnacles and a cross on top .	0.2
+742	9	clock	a clock	there is a clock on the right tower .	1.0
+692	8	wall	the right tower	there is a clock on the right tower .	0.25
+999	6	cloth	streetlamps	streetlamps at the middle gate and at the corners .	0.0
+736	13	door	the middle gate	streetlamps at the middle gate and at the corners .	0.333333333333
+999	5	ground	corners	streetlamps at the middle gate and at the corners .	0.166666666667
+694	7	road	towers	bells visible in both towers .	0.2
+696	14	wall	a fountain	a fountain and cobbled walkway in the foreground , a pink and white buidling with many arches in the background .	0.25
+754	4	sidewalk	walkway	a fountain and cobbled walkway in the foreground , a pink and white buidling with many arches in the background .	0.5
+844	1	humans	the foreground	a fountain and cobbled walkway in the foreground , a pink and white buidling with many arches in the background .	0.0909090909091
+62	3	swimming pool	white buidling	a fountain and cobbled walkway in the foreground , a pink and white buidling with many arches in the background .	0.125
+844	1	humans	arches	a fountain and cobbled walkway in the foreground , a pink and white buidling with many arches in the background .	0.125
+844	1	humans	the background	a fountain and cobbled walkway in the foreground , a pink and white buidling with many arches in the background .	0.166666666667
+714	3	tree	trees	trees on the right .	1.0
+844	1	humans	the right	trees on the right .	0.1
+700	3	wall	a white building	a white building with lots of columns and arches , a neat lawn and neatly cut trees and bushes in the foreground .	0.25
+844	1	humans	lots	a white building with lots of columns and arches , a neat lawn and neatly cut trees and bushes in the foreground .	0.142857142857
+59	6	column	columns	a white building with lots of columns and arches , a neat lawn and neatly cut trees and bushes in the foreground .	1.0
+844	1	humans	arches	a white building with lots of columns and arches , a neat lawn and neatly cut trees and bushes in the foreground .	0.125
+62	3	swimming pool	a neat lawn	a white building with lots of columns and arches , a neat lawn and neatly cut trees and bushes in the foreground .	0.170454545455
+714	3	tree	trees	a white building with lots of columns and arches , a neat lawn and neatly cut trees and bushes in the foreground .	1.0
+731	4	bush	bushes	a white building with lots of columns and arches , a neat lawn and neatly cut trees and bushes in the foreground .	1.0
+844	1	humans	the foreground	a white building with lots of columns and arches , a neat lawn and neatly cut trees and bushes in the foreground .	0.0909090909091
+63	8	flag	the flag	the flag of paraguay is waving at the top of the building .	1.0
+731	3	city	paraguay	the flag of paraguay is waving at the top of the building .	0.166666666667
+62	3	swimming pool	the top	the flag of paraguay is waving at the top of the building .	0.125
+702	14	wall	the building	the flag of paraguay is waving at the top of the building .	0.25
+652	5	furniture	a flower bed	there is a flower bed on the left .	0.333333333333
+999	5	ground	the left	there is a flower bed on the left .	0.166666666667
+705	11	wall	very modern building	a very modern building .	0.25
+59	1	stairs	stairs	stairs are leading up to the entrance .	1.0
+728	8	road	the entrance	stairs are leading up to the entrance .	0.25
+709	3	ancent building	walls	the walls are entirely made of glass .	0.25
+702	16	food	glass	the walls are entirely made of glass .	0.2
+59	6	column	red huge column	one red huge column is supporting the big roof .	1.0
+687	6	roof	the big roof	one red huge column is supporting the big roof .	1.0
+844	1	humans	the foreground	rails in the foreground .	0.0909090909091
+714	3	tree	a green tree	a green tree on the left .	1.0
+999	5	ground	the left	a green tree on the left .	0.166666666667
+61	1	street	lane street	two lane street with large shops on the right and smaller shops on the left .	1.0
+709	3	ancent building	shops	two lane street with large shops on the right and smaller shops on the left .	0.166666666667
+844	1	humans	the right	two lane street with large shops on the right and smaller shops on the left .	0.1
+709	3	ancent building	shops	two lane street with large shops on the right and smaller shops on the left .	0.166666666667
+999	5	ground	the left	two lane street with large shops on the right and smaller shops on the left .	0.166666666667
+717	2	group of persons	people	people are walking on the sidewalk , some are crossing the street .	0.321428571429
+754	4	sidewalk	the sidewalk	people are walking on the sidewalk , some are crossing the street .	1.0
+61	1	street	the street	people are walking on the sidewalk , some are crossing the street .	1.0
+999	5	ground	the left side	cars are parked along the left side of the street as well .	0.2
+61	1	street	the street	cars are parked along the left side of the street as well .	1.0
+965	3	construction	an avenue	an avenue with seven yellow taxis lined up on the right side .	0.142857142857
+999	5	ground	taxis	an avenue with seven yellow taxis lined up on the right side .	0.125
+999	5	ground	the right side	an avenue with seven yellow taxis lined up on the right side .	0.2
+873	4	person	drivers	some drivers are waiting for customers outside of their taxis .	0.25
+873	4	person	customers	some drivers are waiting for customers outside of their taxis .	0.25
+999	5	ground	taxis	some drivers are waiting for customers outside of their taxis .	0.125
+714	3	tree	trees	green trees behind them .	1.0
+999	6	cloth	them	green trees behind them .	0.0
+62	3	swimming pool	pool	a swimming pool with sun chairs on a terrace in the foreground .	0.55
+942	6	rock	sun	a swimming pool with sun chairs on a terrace in the foreground .	0.2
+726	2	wall	a terrace	a swimming pool with sun chairs on a terrace in the foreground .	0.2
+844	1	humans	the foreground	a swimming pool with sun chairs on a terrace in the foreground .	0.0909090909091
+62	3	swimming pool	a flat landscape	a flat landscape with green trees and houses in the background .	0.166666666667
+714	3	tree	trees	a flat landscape with green trees and houses in the background .	1.0
+728	2	house	houses	a flat landscape with green trees and houses in the background .	1.0
+844	1	humans	the background	a flat landscape with green trees and houses in the background .	0.166666666667
+742	9	clock	flagpoles	several flagpoles with waving flags on a green lawn in the foreground .	0.166666666667
+63	8	flag	flags	several flagpoles with waving flags on a green lawn in the foreground .	1.0
+62	3	swimming pool	a green lawn	several flagpoles with waving flags on a green lawn in the foreground .	0.170454545455
+844	1	humans	the foreground	several flagpoles with waving flags on a green lawn in the foreground .	0.0909090909091
+732	6	wall	black building	a large grey and black building behind it .	0.25
+999	6	cloth	it	a large grey and black building behind it .	0.0
+59	6	column	a huge column	a huge column with a football on top on the left .	1.0
+965	3	construction	a football	a huge column with a football on top on the left .	0.125
+999	5	ground	top	a huge column with a football on top on the left .	0.2
+999	5	ground	the left	a huge column with a football on top on the left .	0.166666666667
+737	2	sky	a blue sky	a blue sky with white clouds in the background .	1.0
+966	1	cloud	clouds	a blue sky with white clouds in the background .	1.0
+844	1	humans	the background	a blue sky with white clouds in the background .	0.166666666667
+62	3	swimming pool	front view	front view of a huge dam .	0.163461538462
+736	13	door	a huge dam	front view of a huge dam .	0.25
+739	3	ground	tiny spot	water is flowing through one tiny spot .	0.2
+38	2	waterfall	backwater	backwater is flowing off on the left .	0.333333333333
+999	5	ground	the left	backwater is flowing off on the left .	0.166666666667
+844	1	humans	the foreground	green reed in the foreground .	0.0909090909091
+873	4	person	singer	rock singer wearing yellow pants and a red t-shirt on a stage .	0.2
+996	2	hat	pants	rock singer wearing yellow pants and a red t-shirt on a stage .	0.142857142857
+996	2	hat	t-shirt	rock singer wearing yellow pants and a red t-shirt on a stage .	0.166666666667
+646	5	sky night	a stage	rock singer wearing yellow pants and a red t-shirt on a stage .	0.208333333333
+844	1	humans	view	view from behind .	0.125
+999	6	cloth	behind	view from behind .	0.0
+844	1	humans	the background	crowd is cheering in the background .	0.166666666667
+779	5	group of persons	group	group of tourists is standing in front of a buildilng .	0.583333333333
+779	5	group of persons	tourists	group of tourists is standing in front of a buildilng .	0.229166666667
+999	5	ground	front	group of tourists is standing in front of a buildilng .	0.111111111111
+999	6	cloth	a buildilng	group of tourists is standing in front of a buildilng .	0.0
+999	6	cloth	them	each of them is holding a leaflet und some pens .	0.0
+51	6	palm	a leaflet und	each of them is holding a leaflet und some pens .	0.142857142857
+999	6	cloth	pens	each of them is holding a leaflet und some pens .	0.166666666667
+54	1	train	three locals	three locals are standing in the middle of all the people , one of them is holding a box .	0.333333333333
+999	5	ground	the middle	three locals are standing in the middle of all the people , one of them is holding a box .	0.166666666667
+844	1	humans	people	three locals are standing in the middle of all the people , one of them is holding a box .	0.333333333333
+999	6	cloth	them	three locals are standing in the middle of all the people , one of them is holding a box .	0.0
+717	8	cup	a box	three locals are standing in the middle of all the people , one of them is holding a box .	0.333333333333
+942	5	house	traditional country house	traditional country house on the left .	1.0
+999	5	ground	the left	traditional country house on the left .	0.166666666667
+942	6	rock	rocks	some rocks in the background .	1.0
+844	1	humans	the background	some rocks in the background .	0.166666666667
+728	8	road	a gravel road	a gravel road in the foreground .	1.0
+844	1	humans	the foreground	a gravel road in the foreground .	0.0909090909091
+788	2	face of person	two adults	two adults and four local boys are standing in front of a white house with two trellised windows .	0.305555555556
+788	2	face of person	boys	two adults and four local boys are standing in front of a white house with two trellised windows .	0.216666666667
+999	5	ground	front	two adults and four local boys are standing in front of a white house with two trellised windows .	0.111111111111
+942	5	house	a white house	two adults and four local boys are standing in front of a white house with two trellised windows .	1.0
+844	1	humans	windows	two adults and four local boys are standing in front of a white house with two trellised windows .	0.0909090909091
+789	1	child boy	three boys	three boys are standing , one is kneeing down .	0.6
+999	6	cloth	one	three boys are standing , one is kneeing down .	0.0
+790	2	face of person	adults	adults are holding shoulders of boys .	0.305555555556
+51	6	palm	shoulders	adults are holding shoulders of boys .	0.25
+790	1	child boy	boys	adults are holding shoulders of boys .	0.6
+791	2	face of person	boy	one boy is holding a sweeper .	0.216666666667
+873	4	person	a sweeper	one boy is holding a sweeper .	0.25
+792	1	child boy	nine children	nine children , some of them waving at the camera , others are a bit shy and are looking away .	0.6
+999	6	cloth	them	nine children , some of them waving at the camera , others are a bit shy and are looking away .	0.0
+696	7	camera	the camera	nine children , some of them waving at the camera , others are a bit shy and are looking away .	1.0
+999	6	cloth	others	nine children , some of them waving at the camera , others are a bit shy and are looking away .	0.0
+844	1	humans	a bit	nine children , some of them waving at the camera , others are a bit shy and are looking away .	0.142857142857
+793	1	child	person	one person is pointing to the camera .	0.333333333333
+696	7	camera	the camera	one person is pointing to the camera .	1.0
+965	3	construction	construction site	construction site , bare brickwork .	1.0
+709	3	ancent building	bare brickwork	construction site , bare brickwork .	0.25
+795	2	face of person	worker	one worker is standing on rails , the other one is leaning against an unfinished brick wall .	0.305555555556
+999	6	cloth	rails	one worker is standing on rails , the other one is leaning against an unfinished brick wall .	0.166666666667
+871	6	floor other	the other one	one worker is standing on rails , the other one is leaning against an unfinished brick wall .	0.533333333333
+998	3	wall	an unfinished brick wall	one worker is standing on rails , the other one is leaning against an unfinished brick wall .	1.0
+999	6	cloth	picture	close up picture of the itaipu dam .	0.2
+736	13	door	the itaipu dam	close up picture of the itaipu dam .	0.25
+38	2	waterfall	backwater	backwater is flowing off in the foreground .	0.333333333333
+844	1	humans	the foreground	backwater is flowing off in the foreground .	0.0909090909091
+844	1	humans	two men	two men are standing on a lawn in front of a light brown house with blue corners .	0.166666666667
+58	1	flowerbed	a lawn	two men are standing on a lawn in front of a light brown house with blue corners .	0.166666666667
+999	5	ground	front	two men are standing on a lawn in front of a light brown house with blue corners .	0.111111111111
+942	5	house	a light brown house	two men are standing on a lawn in front of a light brown house with blue corners .	1.0
+999	5	ground	corners	two men are standing on a lawn in front of a light brown house with blue corners .	0.166666666667
+739	1	church	school	school kids on a grey square , some are dressed in dark blue , others in orange .	0.2
+799	1	child girl	kids	school kids on a grey square , some are dressed in dark blue , others in orange .	0.583333333333
+28	2	statue	square	school kids on a grey square , some are dressed in dark blue , others in orange .	0.111111111111
+999	6	cloth	others	school kids on a grey square , some are dressed in dark blue , others in orange .	0.0
+905	4	orange	orange	school kids on a grey square , some are dressed in dark blue , others in orange .	1.0
+800	2	face of person	person	one person dressed in orange is standing opposite the line up , leading the group .	0.5625
+905	4	orange	orange	one person dressed in orange is standing opposite the line up , leading the group .	1.0
+844	1	humans	the line	one person dressed in orange is standing opposite the line up , leading the group .	0.2
+921	2	group of persons	the group	one person dressed in orange is standing opposite the line up , leading the group .	0.583333333333
+801	3	cloth	houses	two light blue houses behind them with a steep hill in the background .	0.2
+999	6	cloth	them	two light blue houses behind them with a steep hill in the background .	0.0
+966	5	hill	a steep hill	two light blue houses behind them with a steep hill in the background .	1.0
+844	1	humans	the background	two light blue houses behind them with a steep hill in the background .	0.166666666667
+802	1	child girl	a woman	a woman is sitting at table in the middle of a schoolyard .	0.35
+834	1	table	table	a woman is sitting at table in the middle of a schoolyard .	1.0
+999	5	ground	the middle	a woman is sitting at table in the middle of a schoolyard .	0.166666666667
+58	1	flowerbed	a schoolyard	a woman is sitting at table in the middle of a schoolyard .	0.166666666667
+738	7	book	books	there are many books on the table .	1.0
+834	1	table	the table	there are many books on the table .	1.0
+844	1	humans	two people	two people are sitting next to her , six others are standing about ten metres away from the table .	0.333333333333
+999	6	cloth	her	two people are sitting next to her , six others are standing about ten metres away from the table .	0.0
+999	6	cloth	six others	two people are sitting next to her , six others are standing about ten metres away from the table .	0.0
+62	3	swimming pool	about ten metres	two people are sitting next to her , six others are standing about ten metres away from the table .	0.160714285714
+834	1	table	the table	two people are sitting next to her , six others are standing about ten metres away from the table .	1.0
+805	2	face of person	four boys	four boys , one drinking from a cup , one wearing an army cap and waving , the one in the focus wearing a beanie , a jumper and smiling into the camera , and the fourth wearing a cap and carrying a wooden crate .	0.216666666667
+717	8	cup	a cup	four boys , one drinking from a cup , one wearing an army cap and waving , the one in the focus wearing a beanie , a jumper and smiling into the camera , and the fourth wearing a cap and carrying a wooden crate .	1.0
+996	2	hat	an army cap	four boys , one drinking from a cup , one wearing an army cap and waving , the one in the focus wearing a beanie , a jumper and smiling into the camera , and the fourth wearing a cap and carrying a wooden crate .	0.333333333333
+844	1	humans	the focus	four boys , one drinking from a cup , one wearing an army cap and waving , the one in the focus wearing a beanie , a jumper and smiling into the camera , and the fourth wearing a cap and carrying a wooden crate .	0.1
+996	2	hat	a beanie	four boys , one drinking from a cup , one wearing an army cap and waving , the one in the focus wearing a beanie , a jumper and smiling into the camera , and the fourth wearing a cap and carrying a wooden crate .	0.2
+805	2	face of person	a jumper	four boys , one drinking from a cup , one wearing an army cap and waving , the one in the focus wearing a beanie , a jumper and smiling into the camera , and the fourth wearing a cap and carrying a wooden crate .	0.305555555556
+696	7	camera	the camera	four boys , one drinking from a cup , one wearing an army cap and waving , the one in the focus wearing a beanie , a jumper and smiling into the camera , and the fourth wearing a cap and carrying a wooden crate .	1.0
+996	2	hat	a cap	four boys , one drinking from a cup , one wearing an army cap and waving , the one in the focus wearing a beanie , a jumper and smiling into the camera , and the fourth wearing a cap and carrying a wooden crate .	0.333333333333
+893	4	wooden furniture	a wooden crate	four boys , one drinking from a cup , one wearing an army cap and waving , the one in the focus wearing a beanie , a jumper and smiling into the camera , and the fourth wearing a cap and carrying a wooden crate .	0.583333333333
+739	1	church	school	four school kids are smiling into the camera in the foreground .	0.2
+806	1	child girl	kids	four school kids are smiling into the camera in the foreground .	0.583333333333
+696	7	camera	the camera	four school kids are smiling into the camera in the foreground .	1.0
+844	1	humans	the foreground	four school kids are smiling into the camera in the foreground .	0.0909090909091
+807	1	child girl	kids	more kids in the background , some are leaning on the school wall , others are running around .	0.583333333333
+844	1	humans	the background	more kids in the background , some are leaning on the school wall , others are running around .	0.166666666667
+998	3	wall	the school wall	more kids in the background , some are leaning on the school wall , others are running around .	1.0
+999	6	cloth	others	more kids in the background , some are leaning on the school wall , others are running around .	0.0
+996	1	child girl	young girl	young girl wearing a red trainer with blue and white sleeves is bending down to two old ladies .	0.583333333333
+808	2	face of person	a red trainer	young girl wearing a red trainer with blue and white sleeves is bending down to two old ladies .	0.216666666667
+999	6	cloth	sleeves	young girl wearing a red trainer with blue and white sleeves is bending down to two old ladies .	0.2
+942	1	woman	ladies	young girl wearing a red trainer with blue and white sleeves is bending down to two old ladies .	0.5
+999	6	cloth	them	one of them is stroking the girl's face with her right hand .	0.0
+809	2	child girl	the girl	one of them is stroking the girl's face with her right hand .	0.583333333333
+999	4	face of person	face	one of them is stroking the girl's face with her right hand .	0.5625
+917	3	hand of person	right hand	one of them is stroking the girl's face with her right hand .	0.555555555556
+810	2	face of person	five women	five women in a kitchen , two of them are preparing some food using four bowls , two are standing behind them ( and one next to them ) and are watching .	0.216666666667
+709	3	ancent building	a kitchen	five women in a kitchen , two of them are preparing some food using four bowls , two are standing behind them ( and one next to them ) and are watching .	0.2
+999	6	cloth	them	five women in a kitchen , two of them are preparing some food using four bowls , two are standing behind them ( and one next to them ) and are watching .	0.0
+702	16	food	some food	five women in a kitchen , two of them are preparing some food using four bowls , two are standing behind them ( and one next to them ) and are watching .	1.0
+999	6	cloth	them	five women in a kitchen , two of them are preparing some food using four bowls , two are standing behind them ( and one next to them ) and are watching .	0.0
+999	6	cloth	one	five women in a kitchen , two of them are preparing some food using four bowls , two are standing behind them ( and one next to them ) and are watching .	0.0
+999	6	cloth	them	five women in a kitchen , two of them are preparing some food using four bowls , two are standing behind them ( and one next to them ) and are watching .	0.0
+999	5	ground	middle	santa claus in middle of excited kids .	0.166666666667
+811	1	child girl	kids	santa claus in middle of excited kids .	0.583333333333
+812	1	child girl	a woman	a woman with a present in the background .	0.35
+62	3	swimming pool	a present	a woman with a present in the background .	0.125
+844	1	humans	the background	a woman with a present in the background .	0.166666666667
+813	5	face of person	workers	three social workers and about ten local kids in a room with dark and light blue walls .	0.305555555556
+813	1	child boy	kids	three social workers and about ten local kids in a room with dark and light blue walls .	0.6
+709	3	ancent building	a room	three social workers and about ten local kids in a room with dark and light blue walls .	0.25
+998	3	wall	walls	three social workers and about ten local kids in a room with dark and light blue walls .	1.0
+815	2	face of person	workers	one of the workers is sitting and talking to the kids .	0.305555555556
+815	1	child girl	kids	one of the workers is sitting and talking to the kids .	0.583333333333
+818	1	child girl	kid	one kid is a bit left out , sitting alone on a desk and looking the other way .	0.583333333333
+844	1	humans	a bit	one kid is a bit left out , sitting alone on a desk and looking the other way .	0.142857142857
+652	5	furniture	a desk	one kid is a bit left out , sitting alone on a desk and looking the other way .	0.333333333333
+871	6	floor other	the other way	one kid is a bit left out , sitting alone on a desk and looking the other way .	0.541666666667
+873	4	person	two tourists	two tourists , both of them wearing backpacks , are visiting a school with ten pupils .	0.333333333333
+999	6	cloth	them	two tourists , both of them wearing backpacks , are visiting a school with ten pupils .	0.0
+717	8	cup	backpacks	two tourists , both of them wearing backpacks , are visiting a school with ten pupils .	0.25
+739	1	church	a school	two tourists , both of them wearing backpacks , are visiting a school with ten pupils .	0.2
+873	4	person	ten pupils	two tourists , both of them wearing backpacks , are visiting a school with ten pupils .	0.333333333333
+821	1	child girl	the woman	the woman is wearing brown shorts and a yellow sleveless top .	0.35
+996	2	hat	shorts	the woman is wearing brown shorts and a yellow sleveless top .	0.166666666667
+999	5	ground	a yellow sleveless top	the woman is wearing brown shorts and a yellow sleveless top .	0.2
+822	1	child boy	the man	the man is wearing long black pants and a blue shirt .	0.266666666667
+996	2	hat	pants	the man is wearing long black pants and a blue shirt .	0.142857142857
+996	2	hat	a blue shirt	the man is wearing long black pants and a blue shirt .	0.2
+823	1	child girl	a school kid	a school kid is sitting at a desk , smiling into the camera and being offered a red apple .	0.583333333333
+652	5	furniture	a desk	a school kid is sitting at a desk , smiling into the camera and being offered a red apple .	0.333333333333
+696	7	camera	the camera	a school kid is sitting at a desk , smiling into the camera and being offered a red apple .	1.0
+678	4	apple	a red apple	a school kid is sitting at a desk , smiling into the camera and being offered a red apple .	1.0
+824	1	child boy	kids	three other kids in the background .	0.6
+844	1	humans	the background	three other kids in the background .	0.166666666667
+825	6	face of person	four tourists	four tourists are sitting on a bus .	0.216666666667
+54	1	train	a bus	four tourists are sitting on a bus .	0.333333333333
+826	1	child girl	two women	two women in the front row with their heads turned around .	0.35
+844	1	humans	the front row	two women in the front row with their heads turned around .	0.166666666667
+919	3	head of person	heads	two women in the front row with their heads turned around .	0.5625
+844	1	humans	another one	another one in the second row looking out the window .	0.111111111111
+844	1	humans	the second row	another one in the second row looking out the window .	0.166666666667
+879	7	window	the window	another one in the second row looking out the window .	1.0
+828	1	child boy	man	and one man with sunglasses in the very last row , looking out the window too .	0.266666666667
+742	9	clock	sunglasses	and one man with sunglasses in the very last row , looking out the window too .	0.142857142857
+844	1	humans	very last row	and one man with sunglasses in the very last row , looking out the window too .	0.166666666667
+828	6	window	the window	and one man with sunglasses in the very last row , looking out the window too .	1.0
+829	5	face of person	a tourist group	a tourist group is visiting a school .	0.222222222222
+739	1	church	a school	a tourist group is visiting a school .	0.2
+739	1	church	the school	the school kids are sitting at their desks , singing a song and clapping their hands , with their teacher clapping as well .	0.2
+830	1	child girl	kids	the school kids are sitting at their desks , singing a song and clapping their hands , with their teacher clapping as well .	0.583333333333
+652	5	furniture	desks	the school kids are sitting at their desks , singing a song and clapping their hands , with their teacher clapping as well .	0.333333333333
+844	1	humans	a song	the school kids are sitting at their desks , singing a song and clapping their hands , with their teacher clapping as well .	0.125
+965	3	construction	hands	the school kids are sitting at their desks , singing a song and clapping their hands , with their teacher clapping as well .	0.1
+942	1	woman	teacher	the school kids are sitting at their desks , singing a song and clapping their hands , with their teacher clapping as well .	0.2
+873	4	person	tourists	six of the tourists are standing behind them and are watching them , one tourist is taking a photo .	0.333333333333
+999	6	cloth	them	six of the tourists are standing behind them and are watching them , one tourist is taking a photo .	0.0
+999	6	cloth	them	six of the tourists are standing behind them and are watching them , one tourist is taking a photo .	0.0
+873	4	person	tourist	six of the tourists are standing behind them and are watching them , one tourist is taking a photo .	0.333333333333
+999	6	cloth	a photo	six of the tourists are standing behind them and are watching them , one tourist is taking a photo .	0.2
+832	1	child girl	three women	three women are sitting on a wooden bench in front of an about one metre high , red brick wall .	0.35
+832	3	wooden furniture	a wooden bench	three women are sitting on a wooden bench in front of an about one metre high , red brick wall .	0.666666666667
+999	5	ground	front	three women are sitting on a wooden bench in front of an about one metre high , red brick wall .	0.111111111111
+998	3	wall	red brick wall	three women are sitting on a wooden bench in front of an about one metre high , red brick wall .	1.0
+999	6	cloth	they	they are all wearing skirts and jumpers with gilets .	0.0
+833	7	face of person	jumpers	they are all wearing skirts and jumpers with gilets .	0.305555555556
+999	6	cloth	gilets	they are all wearing skirts and jumpers with gilets .	0.0
+999	6	cloth	them	two of them are wearing a hat too .	0.0
+996	2	hat	a hat	two of them are wearing a hat too .	1.0
+835	1	child girl	man	one man is standing behind the wall .	0.225
+835	3	cloth	the wall	one man is standing behind the wall .	0.2
+736	13	door	a wooden door	a wooden door on the left is being held open by a red brick .	1.0
+999	5	ground	the left	a wooden door on the left is being held open by a red brick .	0.166666666667
+49	1	sky red sunset dusk	a red brick	a wooden door on the left is being held open by a red brick .	0.303977272727
+837	4	cloth	photo	photo of a classroom with some kids sitting at their desks , others standing at their desks , waving into the camera , laughing .	0.2
+709	3	ancent building	a classroom	photo of a classroom with some kids sitting at their desks , others standing at their desks , waving into the camera , laughing .	0.2
+837	1	child boy	kids	photo of a classroom with some kids sitting at their desks , others standing at their desks , waving into the camera , laughing .	0.6
+652	5	furniture	desks	photo of a classroom with some kids sitting at their desks , others standing at their desks , waving into the camera , laughing .	0.333333333333
+999	6	cloth	others	photo of a classroom with some kids sitting at their desks , others standing at their desks , waving into the camera , laughing .	0.0
+652	5	furniture	desks	photo of a classroom with some kids sitting at their desks , others standing at their desks , waving into the camera , laughing .	0.333333333333
+696	7	camera	the camera	photo of a classroom with some kids sitting at their desks , others standing at their desks , waving into the camera , laughing .	1.0
+838	1	child boy	two kids	two kids are eating their lunch in the foreground .	0.6
+702	16	food	lunch	two kids are eating their lunch in the foreground .	0.25
+844	1	humans	the foreground	two kids are eating their lunch in the foreground .	0.0909090909091
+841	6	wall	a wooden wall	there is a wooden wall with pictures of two comic figures in the background .	1.0
+999	6	cloth	pictures	there is a wooden wall with pictures of two comic figures in the background .	0.2
+844	1	humans	figures	there is a wooden wall with pictures of two comic figures in the background .	0.125
+844	1	humans	the background	there is a wooden wall with pictures of two comic figures in the background .	0.166666666667
+717	8	cup	black plastic bag	a large , black plastic bag with four packs of pasta , a folder , a leaflet , a small book and cacao powder on a table .	0.333333333333
+844	1	humans	four packs	a large , black plastic bag with four packs of pasta , a folder , a leaflet , a small book and cacao powder on a table .	0.142857142857
+702	16	food	pasta	a large , black plastic bag with four packs of pasta , a folder , a leaflet , a small book and cacao powder on a table .	0.25
+738	7	book	a folder	a large , black plastic bag with four packs of pasta , a folder , a leaflet , a small book and cacao powder on a table .	0.5
+51	6	palm	a leaflet	a large , black plastic bag with four packs of pasta , a folder , a leaflet , a small book and cacao powder on a table .	0.142857142857
+738	7	book	a small book	a large , black plastic bag with four packs of pasta , a folder , a leaflet , a small book and cacao powder on a table .	1.0
+834	1	table	a table	a large , black plastic bag with four packs of pasta , a folder , a leaflet , a small book and cacao powder on a table .	1.0
+834	1	table	empty table	there is a second , empty table in the background .	1.0
+844	1	humans	the background	there is a second , empty table in the background .	0.166666666667
+844	2	child boy	six kids	six kids are sitting around a table and playing with toy cars .	0.6
+844	1	humans	a table	six kids are sitting around a table and playing with toy cars .	0.2
+715	5	toy	toy	six kids are sitting around a table and playing with toy cars .	1.0
+694	5	car	cars	six kids are sitting around a table and playing with toy cars .	1.0
+845	6	child boy	kid	one kid is standing next to the table .	0.6
+834	1	table	the table	one kid is standing next to the table .	1.0
+846	1	child girl	a woman	a woman is holding a black plastic bag on the left .	0.35
+717	8	cup	a black plastic bag	a woman is holding a black plastic bag on the left .	0.333333333333
+999	5	ground	the left	a woman is holding a black plastic bag on the left .	0.166666666667
+847	3	group of persons	three tourists	three tourists in the background are talking to each other .	0.229166666667
+844	1	humans	the background	three tourists in the background are talking to each other .	0.166666666667
+844	1	humans	view	panorama view of houses in la paz .	0.125
+848	3	wall	houses	panorama view of houses in la paz .	0.2
+849	3	wall	houses	red roofed houses in the foreground , with a hill and rugged rocks in the background .	0.2
+844	1	humans	the foreground	red roofed houses in the foreground , with a hill and rugged rocks in the background .	0.0909090909091
+966	5	hill	a hill	red roofed houses in the foreground , with a hill and rugged rocks in the background .	1.0
+942	6	rock	rocks	red roofed houses in the foreground , with a hill and rugged rocks in the background .	1.0
+844	1	humans	the background	red roofed houses in the foreground , with a hill and rugged rocks in the background .	0.166666666667
+850	4	cloth	photo	photo of eleven school kids and three tourists behind them .	0.2
+739	1	church	school	photo of eleven school kids and three tourists behind them .	0.2
+850	1	child girl	kids	photo of eleven school kids and three tourists behind them .	0.583333333333
+850	2	face of person	three tourists	photo of eleven school kids and three tourists behind them .	0.216666666667
+999	6	cloth	them	photo of eleven school kids and three tourists behind them .	0.0
+844	1	humans	a basketball court	a basketball court in the background , with one kid standing below the basket .	0.166666666667
+844	1	humans	the background	a basketball court in the background , with one kid standing below the basket .	0.166666666667
+851	1	child boy	kid	a basketball court in the background , with one kid standing below the basket .	0.6
+717	8	cup	the basket	a basketball court in the background , with one kid standing below the basket .	0.333333333333
+731	2	mountain	a large mountain	a large mountain in the distant background .	1.0
+62	3	swimming pool	the distant background	a large mountain in the distant background .	0.170454545455
+844	1	humans	lots	lots of locals ( both kids and adults ) in front of a blue building .	0.142857142857
+54	1	train	locals	lots of locals ( both kids and adults ) in front of a blue building .	0.333333333333
+853	1	child boy	kids	lots of locals ( both kids and adults ) in front of a blue building .	0.6
+853	5	face of person	adults	lots of locals ( both kids and adults ) in front of a blue building .	0.305555555556
+999	5	ground	front	lots of locals ( both kids and adults ) in front of a blue building .	0.111111111111
+853	3	wall	a blue building	lots of locals ( both kids and adults ) in front of a blue building .	0.25
+854	1	child boy	kid	one kid is about to slide down the slide , with one grown up waiting to catch it .	0.6
+999	6	cloth	the slide	one kid is about to slide down the slide , with one grown up waiting to catch it .	0.2
+999	6	cloth	one	one kid is about to slide down the slide , with one grown up waiting to catch it .	0.0
+999	6	cloth	it	one kid is about to slide down the slide , with one grown up waiting to catch it .	0.0
+855	3	face of person	another woman	another woman is carrying a basket in her left hand , with a kid holding her other hand .	0.216666666667
+717	8	cup	a basket	another woman is carrying a basket in her left hand , with a kid holding her other hand .	0.333333333333
+917	3	hand of person	left hand	another woman is carrying a basket in her left hand , with a kid holding her other hand .	0.555555555556
+855	1	child boy	a kid	another woman is carrying a basket in her left hand , with a kid holding her other hand .	0.6
+917	3	hand of person	other hand	another woman is carrying a basket in her left hand , with a kid holding her other hand .	0.555555555556
+999	6	cloth	others	others are just sitting around or are standing in the background .	0.0
+844	1	humans	the background	others are just sitting around or are standing in the background .	0.166666666667
+966	1	cloud	snow	there are snow covered mountains in the distant background .	0.166666666667
+731	2	mountain	mountains	there are snow covered mountains in the distant background .	1.0
+62	3	swimming pool	the distant background	there are snow covered mountains in the distant background .	0.170454545455
+858	4	head of person	workers	there are two social workers in the foreground .	0.305555555556
+844	1	humans	the foreground	there are two social workers in the foreground .	0.0909090909091
+49	1	sky red sunset dusk	a red pullover	one wearing a red pullover and brown pants is bending over to access the blue paint .	0.294172932331
+996	2	hat	pants	one wearing a red pullover and brown pants is bending over to access the blue paint .	0.142857142857
+962	2	sky blue	the blue paint	one wearing a red pullover and brown pants is bending over to access the blue paint .	0.555555555556
+871	6	floor other	the other one	the other one in a red tee-shirt and black jeans is watching her .	0.533333333333
+49	1	sky red sunset dusk	a red tee-shirt	the other one in a red tee-shirt and black jeans is watching her .	0.25
+996	2	hat	jeans	the other one in a red tee-shirt and black jeans is watching her .	0.166666666667
+999	6	cloth	her	the other one in a red tee-shirt and black jeans is watching her .	0.0
+51	6	palm	the back	at the back of the room there is another worker wearing a white tee-shirt and blue jeans , acutally painting .	0.25
+862	4	wall	the room	at the back of the room there is another worker wearing a white tee-shirt and blue jeans , acutally painting .	0.2
+862	5	face of person	another worker	at the back of the room there is another worker wearing a white tee-shirt and blue jeans , acutally painting .	0.305555555556
+62	3	swimming pool	a white tee-shirt	at the back of the room there is another worker wearing a white tee-shirt and blue jeans , acutally painting .	0.125
+996	2	hat	jeans	at the back of the room there is another worker wearing a white tee-shirt and blue jeans , acutally painting .	0.166666666667
+62	3	swimming pool	acutally painting	at the back of the room there is another worker wearing a white tee-shirt and blue jeans , acutally painting .	0.0833333333333
+999	6	cloth	newspapers	there are many newspapers on the ground to protect the kindergarten floor .	0.142857142857
+999	5	ground	the ground	there are many newspapers on the ground to protect the kindergarten floor .	1.0
+700	11	floor	the kindergarten floor	there are many newspapers on the ground to protect the kindergarten floor .	1.0
+864	3	face of person	three workers	all three workers are wearing a mask .	0.305555555556
+999	6	cloth	a mask	all three workers are wearing a mask .	0.25
+844	1	humans	portrait	portrait of two dark-haired girls with a mountain in the background .	0.111111111111
+865	1	child girl	girls	portrait of two dark-haired girls with a mountain in the background .	0.583333333333
+731	2	mountain	a mountain	portrait of two dark-haired girls with a mountain in the background .	1.0
+844	1	humans	the background	portrait of two dark-haired girls with a mountain in the background .	0.166666666667
+868	1	child boy	a man	a man is carrying a heavy rice bag .	0.266666666667
+717	8	cup	a heavy rice bag	a man is carrying a heavy rice bag .	0.333333333333
+694	5	car	a car	a car on the left , another man on the right .	1.0
+999	5	ground	the left	a car on the left , another man on the right .	0.166666666667
+869	1	child girl	another man	a car on the left , another man on the right .	0.225
+844	1	humans	the right	a car on the left , another man on the right .	0.1
+61	1	street	a street	a street behind them , with some houses on a hill in the background .	1.0
+999	6	cloth	them	a street behind them , with some houses on a hill in the background .	0.0
+871	7	wall	houses	a street behind them , with some houses on a hill in the background .	0.2
+966	5	hill	a hill	a street behind them , with some houses on a hill in the background .	1.0
+844	1	humans	the background	a street behind them , with some houses on a hill in the background .	0.166666666667
+872	1	group of persons	six tourists	six tourists are standing in front of blackboard of a primary school .	0.229166666667
+999	5	ground	front	six tourists are standing in front of blackboard of a primary school .	0.111111111111
+999	6	cloth	blackboard	six tourists are standing in front of blackboard of a primary school .	0.25
+739	1	church	a primary school	six tourists are standing in front of blackboard of a primary school .	0.2
+873	4	person	tourist	one tourist is taking a photo .	0.333333333333
+999	6	cloth	a photo	one tourist is taking a photo .	0.2
+875	3	child	kids	local kids are sitting at their desks , singing and clapping .	1.0
+652	5	furniture	desks	local kids are sitting at their desks , singing and clapping .	0.333333333333
+879	4	child	kid	one kid has just opened one book .	1.0
+738	7	book	book	one kid has just opened one book .	1.0
+844	1	humans	posters	there are posters and pictures on the wall in the background .	0.166666666667
+999	6	cloth	pictures	there are posters and pictures on the wall in the background .	0.2
+885	3	wall	the wall	there are posters and pictures on the wall in the background .	1.0
+844	1	humans	the background	there are posters and pictures on the wall in the background .	0.166666666667
+652	5	furniture	a little red wooden desk	a little red wooden desk and two red and two blue chairs in front of a green wall full with children's paintings .	0.333333333333
+712	11	chair	chairs	a little red wooden desk and two red and two blue chairs in front of a green wall full with children's paintings .	1.0
+999	5	ground	front	a little red wooden desk and two red and two blue chairs in front of a green wall full with children's paintings .	0.111111111111
+892	4	wall	a green wall	a little red wooden desk and two red and two blue chairs in front of a green wall full with children's paintings .	1.0
+892	3	child boy	children	a little red wooden desk and two red and two blue chairs in front of a green wall full with children's paintings .	0.6
+992	3	painting	paintings	a little red wooden desk and two red and two blue chairs in front of a green wall full with children's paintings .	1.0
+709	3	ancent building	cupboard	an improvised cupboard with lots of drawers in a corner at the back of the room .	0.2
+844	1	humans	lots	an improvised cupboard with lots of drawers in a corner at the back of the room .	0.142857142857
+996	2	hat	drawers	an improvised cupboard with lots of drawers in a corner at the back of the room .	0.142857142857
+999	5	ground	a corner	an improvised cupboard with lots of drawers in a corner at the back of the room .	0.166666666667
+51	6	palm	the back	an improvised cupboard with lots of drawers in a corner at the back of the room .	0.25
+893	5	wall	the room	an improvised cupboard with lots of drawers in a corner at the back of the room .	0.2
+873	4	person	volunteer	volunteer workers help with the construction in a kindergarten .	0.2
+894	2	group of persons	workers	volunteer workers help with the construction in a kindergarten .	0.321428571429
+965	3	construction	the construction	volunteer workers help with the construction in a kindergarten .	1.0
+739	1	church	a kindergarten	volunteer workers help with the construction in a kindergarten .	0.166666666667
+873	4	person	four volunteers	four volunteers are squatting down and are trying to prise the ground with hammer and chisel .	0.2
+999	5	ground	the ground	four volunteers are squatting down and are trying to prise the ground with hammer and chisel .	1.0
+998	3	wall	walls	movable wooden walls are leaning on the wall in the background .	1.0
+998	3	wall	the wall	movable wooden walls are leaning on the wall in the background .	1.0
+844	1	humans	the background	movable wooden walls are leaning on the wall in the background .	0.166666666667
+897	4	head of person	tourists	tourists are posing in a room , ten of them are standing , one is squatting .	0.216666666667
+709	3	ancent building	a room	tourists are posing in a room , ten of them are standing , one is squatting .	0.25
+999	6	cloth	them	tourists are posing in a room , ten of them are standing , one is squatting .	0.0
+899	1	child girl	kid	one kid is posing with them , five other kids are sitting at a table and eating out of three bowls .	0.583333333333
+999	6	cloth	them	one kid is posing with them , five other kids are sitting at a table and eating out of three bowls .	0.0
+899	1	child girl	kids	one kid is posing with them , five other kids are sitting at a table and eating out of three bowls .	0.583333333333
+834	1	table	a table	one kid is posing with them , five other kids are sitting at a table and eating out of three bowls .	1.0
+844	1	humans	posters	there are posters and pictures at the wall behind the tourists .	0.166666666667
+999	6	cloth	pictures	there are posters and pictures at the wall behind the tourists .	0.2
+998	3	wall	the wall	there are posters and pictures at the wall behind the tourists .	1.0
+900	3	group of persons	tourists	there are posters and pictures at the wall behind the tourists .	0.229166666667
+901	2	face of person	pupils	pupils are sitting at their wooden desks in an open air classroom .	0.216666666667
+652	5	furniture	desks	pupils are sitting at their wooden desks in an open air classroom .	0.333333333333
+924	2	sky	an open air classroom	pupils are sitting at their wooden desks in an open air classroom .	0.25
+999	6	cloth	them	two of them raising their hands , others smiling .	0.0
+965	3	construction	hands	two of them raising their hands , others smiling .	0.1
+999	6	cloth	others	two of them raising their hands , others smiling .	0.0
+996	2	hat	a green hat	three are wearing a green hat .	1.0
+998	3	wall	red brick wall	red brick wall and windows in the background .	1.0
+844	1	humans	windows	red brick wall and windows in the background .	0.0909090909091
+844	1	humans	the background	red brick wall and windows in the background .	0.166666666667
+907	5	face of person	seven tourists	seven tourists are visiting a classroom .	0.216666666667
+709	3	ancent building	a classroom	seven tourists are visiting a classroom .	0.2
+908	1	child girl	children	children are sitting at round tables , nearly all of them wearing a green hat ( except for two kids ) .	0.583333333333
+834	1	table	tables	children are sitting at round tables , nearly all of them wearing a green hat ( except for two kids ) .	1.0
+999	6	cloth	them	children are sitting at round tables , nearly all of them wearing a green hat ( except for two kids ) .	0.0
+996	2	hat	a green hat	children are sitting at round tables , nearly all of them wearing a green hat ( except for two kids ) .	1.0
+908	1	child girl	two kids	children are sitting at round tables , nearly all of them wearing a green hat ( except for two kids ) .	0.583333333333
+909	2	face of person	tourists	tourists are smiling at the kids .	0.216666666667
+909	1	child boy	kids	tourists are smiling at the kids .	0.6
+844	1	humans	posters	there are posters and maps on the wall in the background .	0.166666666667
+999	6	cloth	maps	there are posters and maps on the wall in the background .	0.2
+998	3	wall	the wall	there are posters and maps on the wall in the background .	1.0
+844	1	humans	the background	there are posters and maps on the wall in the background .	0.166666666667
+912	1	child boy	tourists	tourists are visiting an old people's home .	0.2
+844	1	humans	people	tourists are visiting an old people's home .	0.333333333333
+999	5	ground	home	tourists are visiting an old people's home .	0.125
+914	2	face of person	each tourist	each tourist is leading one old lady , arm in arm .	0.216666666667
+914	1	child girl	old lady	each tourist is leading one old lady , arm in arm .	0.25
+999	4	face of person	arm	each tourist is leading one old lady , arm in arm .	0.15
+999	4	face of person	arm	each tourist is leading one old lady , arm in arm .	0.15
+915	1	child girl	ladies	the old ladies are wearing traditional dresses and a hat .	0.25
+996	2	hat	dresses	the old ladies are wearing traditional dresses and a hat .	0.2
+996	2	hat	a hat	the old ladies are wearing traditional dresses and a hat .	1.0
+709	3	ancent building	the room	the room is decorated with balloons .	0.25
+768	6	balloon	balloons	the room is decorated with balloons .	1.0
+999	6	cloth	a picture	there is a picture on the wall in the background , and also an old lady carrying a green balloon .	0.2
+998	3	wall	the wall	there is a picture on the wall in the background , and also an old lady carrying a green balloon .	1.0
+844	1	humans	the background	there is a picture on the wall in the background , and also an old lady carrying a green balloon .	0.166666666667
+917	1	child girl	also an old lady	there is a picture on the wall in the background , and also an old lady carrying a green balloon .	0.25
+768	6	balloon	a green balloon	there is a picture on the wall in the background , and also an old lady carrying a green balloon .	1.0
+942	5	house	house	a destroyed house with the wreckage lying around in front it .	1.0
+999	5	ground	the wreckage	a destroyed house with the wreckage lying around in front it .	0.25
+999	5	ground	front	a destroyed house with the wreckage lying around in front it .	0.111111111111
+999	6	cloth	it	a destroyed house with the wreckage lying around in front it .	0.0
+844	1	humans	a bit	three ordinary a bit elevated houses in the background .	0.142857142857
+942	5	house	houses	three ordinary a bit elevated houses in the background .	1.0
+844	1	humans	the background	three ordinary a bit elevated houses in the background .	0.166666666667
+921	2	group of persons	six pupils	six pupils are sitting around a round table on wooden chairs , each of them is holding a fruit ( tangerine ? ) and is wearing a hat ( except for one kid ) .	0.229166666667
+834	1	table	a round table	six pupils are sitting around a round table on wooden chairs , each of them is holding a fruit ( tangerine ? ) and is wearing a hat ( except for one kid ) .	1.0
+712	11	chair	chairs	six pupils are sitting around a round table on wooden chairs , each of them is holding a fruit ( tangerine ? ) and is wearing a hat ( except for one kid ) .	1.0
+999	6	cloth	them	six pupils are sitting around a round table on wooden chairs , each of them is holding a fruit ( tangerine ? ) and is wearing a hat ( except for one kid ) .	0.0
+678	4	apple	a fruit	six pupils are sitting around a round table on wooden chairs , each of them is holding a fruit ( tangerine ? ) and is wearing a hat ( except for one kid ) .	0.333333333333
+996	2	hat	a hat	six pupils are sitting around a round table on wooden chairs , each of them is holding a fruit ( tangerine ? ) and is wearing a hat ( except for one kid ) .	1.0
+921	3	child boy	kid	six pupils are sitting around a round table on wooden chairs , each of them is holding a fruit ( tangerine ? ) and is wearing a hat ( except for one kid ) .	0.6
+999	6	cloth	pictures	pictures and comics on the wall behind them .	0.2
+844	1	humans	comics	pictures and comics on the wall behind them .	0.125
+998	3	wall	the wall	pictures and comics on the wall behind them .	1.0
+999	6	cloth	them	pictures and comics on the wall behind them .	0.0
+694	5	car	car	car tyres in the background on the right .	1.0
+731	3	city	tyres	car tyres in the background on the right .	0.5
+844	1	humans	the background	car tyres in the background on the right .	0.166666666667
+844	1	humans	the right	car tyres in the background on the right .	0.1
+942	1	woman	a teacher	a teacher and around 50 pupils on the slope of a hill .	0.2
+924	1	child boy	around 50 pupils	a teacher and around 50 pupils on the slope of a hill .	0.2
+924	3	ground	the slope	a teacher and around 50 pupils on the slope of a hill .	0.25
+924	3	ground	a hill	a teacher and around 50 pupils on the slope of a hill .	0.2
+844	1	humans	half	half of the kids are dressed in orange , many of them wearing a hat , a beanie or a cap .	0.0833333333333
+925	1	child girl	kids	half of the kids are dressed in orange , many of them wearing a hat , a beanie or a cap .	0.583333333333
+905	4	orange	orange	half of the kids are dressed in orange , many of them wearing a hat , a beanie or a cap .	1.0
+999	6	cloth	them	half of the kids are dressed in orange , many of them wearing a hat , a beanie or a cap .	0.0
+996	2	hat	a hat	half of the kids are dressed in orange , many of them wearing a hat , a beanie or a cap .	1.0
+996	2	hat	a beanie	half of the kids are dressed in orange , many of them wearing a hat , a beanie or a cap .	0.2
+996	2	hat	a cap	half of the kids are dressed in orange , many of them wearing a hat , a beanie or a cap .	0.333333333333
+731	4	bush	bushes	small bushes and two trees at the top of the hill .	1.0
+714	3	tree	two trees	small bushes and two trees at the top of the hill .	1.0
+62	3	swimming pool	the top	small bushes and two trees at the top of the hill .	0.125
+926	3	ground	the hill	small bushes and two trees at the top of the hill .	0.2
+38	2	waterfall	a lake	a lake in the background .	0.333333333333
+844	1	humans	the background	a lake in the background .	0.166666666667
+739	1	church	school	school kids are posing for the camera in a football-like setup - nine are standing at the back , ten are squatting at the front .	0.2
+928	1	child girl	kids	school kids are posing for the camera in a football-like setup - nine are standing at the back , ten are squatting at the front .	0.583333333333
+696	7	camera	the camera	school kids are posing for the camera in a football-like setup - nine are standing at the back , ten are squatting at the front .	1.0
+696	7	camera	a football-like setup	school kids are posing for the camera in a football-like setup - nine are standing at the back , ten are squatting at the front .	0.25
+51	6	palm	the back	school kids are posing for the camera in a football-like setup - nine are standing at the back , ten are squatting at the front .	0.25
+999	5	ground	the front	school kids are posing for the camera in a football-like setup - nine are standing at the back , ten are squatting at the front .	0.111111111111
+999	6	cloth	them	each of them are having a fruit in their hands , most of them are smiling , one is even waving at the camera .	0.0
+678	4	apple	a fruit	each of them are having a fruit in their hands , most of them are smiling , one is even waving at the camera .	0.333333333333
+965	3	construction	hands	each of them are having a fruit in their hands , most of them are smiling , one is even waving at the camera .	0.1
+999	6	cloth	them	each of them are having a fruit in their hands , most of them are smiling , one is even waving at the camera .	0.0
+696	7	camera	the camera	each of them are having a fruit in their hands , most of them are smiling , one is even waving at the camera .	1.0
+999	6	cloth	a blackboard	a blackboard in the background .	0.25
+844	1	humans	the background	a blackboard in the background .	0.166666666667
+931	1	child boy	kid	one kid in the centre of the front row is holding a teddy .	0.6
+844	1	humans	the front row	one kid in the centre of the front row is holding a teddy .	0.166666666667
+709	3	ancent building	classroom	classroom with most of the pupil sitting at theirs desk and wearing green hats .	0.2
+932	3	face of person	the pupil	classroom with most of the pupil sitting at theirs desk and wearing green hats .	0.216666666667
+652	5	furniture	theirs desk	classroom with most of the pupil sitting at theirs desk and wearing green hats .	0.333333333333
+996	2	hat	hats	classroom with most of the pupil sitting at theirs desk and wearing green hats .	1.0
+996	1	child girl	girl	one girl is standing at her desk , another one is walking to her desk , three other boys are standing and looking at a picture of minnie mouse on the wall .	0.583333333333
+652	5	furniture	desk	one girl is standing at her desk , another one is walking to her desk , three other boys are standing and looking at a picture of minnie mouse on the wall .	0.333333333333
+844	1	humans	another one	one girl is standing at her desk , another one is walking to her desk , three other boys are standing and looking at a picture of minnie mouse on the wall .	0.111111111111
+652	5	furniture	desk	one girl is standing at her desk , another one is walking to her desk , three other boys are standing and looking at a picture of minnie mouse on the wall .	0.333333333333
+933	1	child boy	boys	one girl is standing at her desk , another one is walking to her desk , three other boys are standing and looking at a picture of minnie mouse on the wall .	0.6
+999	6	cloth	a picture	one girl is standing at her desk , another one is walking to her desk , three other boys are standing and looking at a picture of minnie mouse on the wall .	0.2
+844	1	humans	mouse	one girl is standing at her desk , another one is walking to her desk , three other boys are standing and looking at a picture of minnie mouse on the wall .	0.142857142857
+998	3	wall	the wall	one girl is standing at her desk , another one is walking to her desk , three other boys are standing and looking at a picture of minnie mouse on the wall .	1.0
+999	6	cloth	shelves	shelves and posters in the background .	0.166666666667
+844	1	humans	posters	shelves and posters in the background .	0.166666666667
+844	1	humans	the background	shelves and posters in the background .	0.166666666667
+935	1	child boy	children	children are sitting at their desks , together with a tourist sitting in the last row .	0.6
+652	5	furniture	desks	children are sitting at their desks , together with a tourist sitting in the last row .	0.333333333333
+935	2	face of person	a tourist	children are sitting at their desks , together with a tourist sitting in the last row .	0.216666666667
+844	1	humans	the last row	children are sitting at their desks , together with a tourist sitting in the last row .	0.166666666667
+936	1	child boy	three children	three children are standing on the left , looking at a map of peru .	0.6
+999	5	ground	the left	three children are standing on the left , looking at a map of peru .	0.166666666667
+936	3	cloth	a map	three children are standing on the left , looking at a map of peru .	0.2
+844	1	humans	two posters	there are two posters on the wall at the back , and there is a bookshelf with a lot of boxes and folders on the left .	0.166666666667
+998	3	wall	the wall	there are two posters on the wall at the back , and there is a bookshelf with a lot of boxes and folders on the left .	1.0
+51	6	palm	the back	there are two posters on the wall at the back , and there is a bookshelf with a lot of boxes and folders on the left .	0.25
+999	6	cloth	a bookshelf	there are two posters on the wall at the back , and there is a bookshelf with a lot of boxes and folders on the left .	0.142857142857
+844	1	humans	a lot	there are two posters on the wall at the back , and there is a bookshelf with a lot of boxes and folders on the left .	0.142857142857
+717	8	cup	boxes	there are two posters on the wall at the back , and there is a bookshelf with a lot of boxes and folders on the left .	0.333333333333
+738	7	book	folders	there are two posters on the wall at the back , and there is a bookshelf with a lot of boxes and folders on the left .	0.5
+999	5	ground	the left	there are two posters on the wall at the back , and there is a bookshelf with a lot of boxes and folders on the left .	0.166666666667
+938	1	child boy	boy	one boy holding a white box , most likely a present from the volunteer kneeing in front of him .	0.6
+938	3	cloth	a white box	one boy holding a white box , most likely a present from the volunteer kneeing in front of him .	0.2
+62	3	swimming pool	a present	one boy holding a white box , most likely a present from the volunteer kneeing in front of him .	0.125
+873	4	person	the volunteer kneeing	one boy holding a white box , most likely a present from the volunteer kneeing in front of him .	0.2
+999	5	ground	front	one boy holding a white box , most likely a present from the volunteer kneeing in front of him .	0.111111111111
+999	6	cloth	him	one boy holding a white box , most likely a present from the volunteer kneeing in front of him .	0.0
+939	1	child boy	kids	several kids are around him , looking at the box while the boy himself is looking somewhere else .	0.6
+999	6	cloth	him	several kids are around him , looking at the box while the boy himself is looking somewhere else .	0.0
+717	8	cup	the box	several kids are around him , looking at the box while the boy himself is looking somewhere else .	0.333333333333
+939	1	child boy	the boy	several kids are around him , looking at the box while the boy himself is looking somewhere else .	0.6
+999	6	cloth	himself	several kids are around him , looking at the box while the boy himself is looking somewhere else .	0.0
+941	1	child boy	kid	one kid in the foreground is wearing a green hat .	0.6
+844	1	humans	the foreground	one kid in the foreground is wearing a green hat .	0.0909090909091
+996	2	hat	a green hat	one kid in the foreground is wearing a green hat .	1.0
+999	6	cloth	round	there are both round tables and wooden desks in the background .	0.166666666667
+834	1	table	tables	there are both round tables and wooden desks in the background .	1.0
+652	5	furniture	desks	there are both round tables and wooden desks in the background .	0.333333333333
+844	1	humans	the background	there are both round tables and wooden desks in the background .	0.166666666667
+873	4	person	a volunteer	a volunteer , squatting down and browsing through a school book .	0.2
+738	7	book	a school book	a volunteer , squatting down and browsing through a school book .	1.0
+739	1	church	school	school children around her , looking at the book too .	0.2
+944	1	child girl	children	school children around her , looking at the book too .	0.583333333333
+999	6	cloth	her	school children around her , looking at the book too .	0.0
+738	7	book	the book	school children around her , looking at the book too .	1.0
+844	1	humans	the background	in the background there is a table with school equipment on it .	0.166666666667
+834	1	table	a table	in the background there is a table with school equipment on it .	1.0
+696	7	camera	school equipment	in the background there is a table with school equipment on it .	0.333333333333
+999	6	cloth	it	in the background there is a table with school equipment on it .	0.0
+948	1	child boy	the kid	the kid in the foreground is holding a pencil .	0.6
+844	1	humans	the foreground	the kid in the foreground is holding a pencil .	0.0909090909091
+999	6	cloth	a pencil	the kid in the foreground is holding a pencil .	0.166666666667
+949	3	face of person	tourists	tourists are standing in front of the blackboard in a classroom , all the kids are sitting at their desks .	0.216666666667
+999	5	ground	front	tourists are standing in front of the blackboard in a classroom , all the kids are sitting at their desks .	0.111111111111
+999	6	cloth	the blackboard	tourists are standing in front of the blackboard in a classroom , all the kids are sitting at their desks .	0.25
+709	3	ancent building	a classroom	tourists are standing in front of the blackboard in a classroom , all the kids are sitting at their desks .	0.2
+949	1	child girl	kids	tourists are standing in front of the blackboard in a classroom , all the kids are sitting at their desks .	0.583333333333
+652	5	furniture	desks	tourists are standing in front of the blackboard in a classroom , all the kids are sitting at their desks .	0.333333333333
+742	9	clock	a clock	there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows .	1.0
+999	6	cloth	the blackboard	there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows .	0.25
+844	1	humans	letters dios	there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows .	0.0909090909091
+844	1	humans	amor	there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows .	0.0909090909091
+742	9	clock	the clock	there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows .	1.0
+999	6	cloth	the blackboard	there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows .	0.25
+999	6	cloth	higiene	there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows .	0.0
+895	7	paper	es	there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows .	0.166666666667
+998	3	wall	the side wall	there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows .	1.0
+844	1	humans	windows	there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows .	0.0909090909091
+999	1	child boy	a boy	a boy wearing a green jacket and a red cap is carrying a little girl on his back .	0.6
+62	3	swimming pool	a green jacket	a boy wearing a green jacket and a red cap is carrying a little girl on his back .	0.180555555556
+951	2	hat	a red cap	a boy wearing a green jacket and a red cap is carrying a little girl on his back .	0.333333333333
+951	1	child girl	a little girl	a boy wearing a green jacket and a red cap is carrying a little girl on his back .	0.583333333333
+62	3	swimming pool	back	a boy wearing a green jacket and a red cap is carrying a little girl on his back .	0.125
+952	1	child girl	children	children are sitting at their desks and are singing a song with their teacher .	0.583333333333
+652	5	furniture	desks	children are sitting at their desks and are singing a song with their teacher .	0.333333333333
+844	1	humans	a song	children are sitting at their desks and are singing a song with their teacher .	0.125
+942	1	woman	teacher	children are sitting at their desks and are singing a song with their teacher .	0.2
+879	7	window	a large window	there is a large window , a blackboard and a shelf at the back of the classroom .	1.0
+999	6	cloth	a blackboard	there is a large window , a blackboard and a shelf at the back of the classroom .	0.25
+999	6	cloth	a shelf	there is a large window , a blackboard and a shelf at the back of the classroom .	0.166666666667
+51	6	palm	the back	there is a large window , a blackboard and a shelf at the back of the classroom .	0.25
+709	3	ancent building	the classroom	there is a large window , a blackboard and a shelf at the back of the classroom .	0.2
+998	3	wall	a wall	there is a wall on the left with a map of peru , a poster and minnie mouse on it .	1.0
+999	5	ground	the left	there is a wall on the left with a map of peru , a poster and minnie mouse on it .	0.166666666667
+999	6	cloth	a map	there is a wall on the left with a map of peru , a poster and minnie mouse on it .	0.2
+844	1	humans	a poster	there is a wall on the left with a map of peru , a poster and minnie mouse on it .	0.166666666667
+844	1	humans	mouse	there is a wall on the left with a map of peru , a poster and minnie mouse on it .	0.142857142857
+999	6	cloth	it	there is a wall on the left with a map of peru , a poster and minnie mouse on it .	0.0
+999	6	cloth	close-up photo	close-up photo of a building with a blue front , red doors , brown bricks below the windows and the wires that stick out from the roof .	0.2
+709	3	ancent building	a building	close-up photo of a building with a blue front , red doors , brown bricks below the windows and the wires that stick out from the roof .	1.0
+62	3	swimming pool	a blue front	close-up photo of a building with a blue front , red doors , brown bricks below the windows and the wires that stick out from the roof .	0.166666666667
+736	13	door	doors	close-up photo of a building with a blue front , red doors , brown bricks below the windows and the wires that stick out from the roof .	1.0
+999	6	cloth	bricks	close-up photo of a building with a blue front , red doors , brown bricks below the windows and the wires that stick out from the roof .	0.25
+844	1	humans	windows	close-up photo of a building with a blue front , red doors , brown bricks below the windows and the wires that stick out from the roof .	0.0909090909091
+999	6	cloth	wires	close-up photo of a building with a blue front , red doors , brown bricks below the windows and the wires that stick out from the roof .	0.142857142857
+687	6	roof	the roof	close-up photo of a building with a blue front , red doors , brown bricks below the windows and the wires that stick out from the roof .	1.0
+873	4	person	pupils	a few pupils are in front of the building .	0.333333333333
+999	5	ground	front	a few pupils are in front of the building .	0.111111111111
+709	3	ancent building	the building	a few pupils are in front of the building .	1.0
+844	1	humans	view	view of a city in a valley .	0.125
+731	3	city	a city	view of a city in a valley .	1.0
+999	5	ground	a valley	view of a city in a valley .	0.2
+731	4	bush	bushes	bushes , houses and roofs in the foreground .	1.0
+960	3	cloth	houses	bushes , houses and roofs in the foreground .	0.2
+960	3	cloth	roofs	bushes , houses and roofs in the foreground .	0.2
+844	1	humans	the foreground	bushes , houses and roofs in the foreground .	0.0909090909091
+924	2	sky	sky	an overcast sky in the background .	1.0
+844	1	humans	the background	an overcast sky in the background .	0.166666666667
+962	3	face of person	tourists	tourists are standing at the entrance of classroom .	0.216666666667
+728	8	road	the entrance	tourists are standing at the entrance of classroom .	0.25
+709	3	ancent building	classroom	tourists are standing at the entrance of classroom .	0.2
+999	6	cloth	them	all of them are carrying backpacks .	0.0
+717	8	cup	backpacks	all of them are carrying backpacks .	0.25
+965	2	face of person	female tourist	one female tourist is carrying a huge bunch of balloons .	0.216666666667
+967	3	vegetation	a huge bunch	one female tourist is carrying a huge bunch of balloons .	0.25
+768	6	balloon	balloons	one female tourist is carrying a huge bunch of balloons .	1.0
+966	3	face of person	tourists	tourists are standing in front of the blackboard in a classroom .	0.216666666667
+999	5	ground	front	tourists are standing in front of the blackboard in a classroom .	0.111111111111
+999	6	cloth	the blackboard	tourists are standing in front of the blackboard in a classroom .	0.25
+709	3	ancent building	a classroom	tourists are standing in front of the blackboard in a classroom .	0.2
+967	1	child boy	kids	all the kids are sitting at their desks , some of them turned around to look at the camera .	0.6
+652	5	furniture	desks	all the kids are sitting at their desks , some of them turned around to look at the camera .	0.333333333333
+999	6	cloth	them	all the kids are sitting at their desks , some of them turned around to look at the camera .	0.0
+696	7	camera	the camera	all the kids are sitting at their desks , some of them turned around to look at the camera .	1.0
+742	9	clock	a clock	there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows .	1.0
+999	6	cloth	the blackboard	there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows .	0.25
+844	1	humans	letters dios	there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows .	0.0909090909091
+844	1	humans	amor	there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows .	0.0909090909091
+742	9	clock	the clock	there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows .	1.0
+999	6	cloth	the blackboard	there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows .	0.25
+999	6	cloth	higiene	there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows .	0.0
+895	7	paper	es	there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows .	0.166666666667
+969	3	ground	the side wall	there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows .	0.2
+844	1	humans	windows	there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows .	0.0909090909091
+844	1	humans	people	many people are working on the bare brickwork of a house or are watching the workers from below .	0.333333333333
+709	3	ancent building	the bare brickwork	many people are working on the bare brickwork of a house or are watching the workers from below .	0.25
+942	5	house	a house	many people are working on the bare brickwork of a house or are watching the workers from below .	1.0
+970	2	face of person	workers	many people are working on the bare brickwork of a house or are watching the workers from below .	0.305555555556
+999	6	cloth	wires	many wires are sticking out of the bare brickwork .	0.142857142857
+709	3	ancent building	the bare brickwork	many wires are sticking out of the bare brickwork .	0.25
+991	2	face of person	person	one person is climbing up a ladder .	0.5625
+59	1	stairs	a ladder	one person is climbing up a ladder .	0.5
+844	1	humans	pallets	many pallets are lying piled up in front of the house .	0.111111111111
+999	5	ground	front	many pallets are lying piled up in front of the house .	0.111111111111
+942	5	house	the house	many pallets are lying piled up in front of the house .	1.0
+993	1	child boy	kids	excited kids are standing at their desks in a classroom .	0.6
+652	5	furniture	desks	excited kids are standing at their desks in a classroom .	0.333333333333
+709	3	ancent building	a classroom	excited kids are standing at their desks in a classroom .	0.2
+999	6	cloth	them	some of them seem to be very happy and are laughing .	0.0
+999	6	cloth	pictures	there are pictures of trees on the wall at the back .	0.2
+714	3	tree	trees	there are pictures of trees on the wall at the back .	1.0
+998	3	wall	the wall	there are pictures of trees on the wall at the back .	1.0
+51	6	palm	the back	there are pictures of trees on the wall at the back .	0.25
+996	1	child girl	two girls	two girls have an open book on their desk .	0.583333333333
+738	7	book	an open book	two girls have an open book on their desk .	1.0
+652	5	furniture	desk	two girls have an open book on their desk .	0.333333333333
+942	5	house	a house	a house with a pink roof and a green and white tower with three levels , each of them having a window on each side .	1.0
+687	6	roof	a pink roof	a house with a pink roof and a green and white tower with three levels , each of them having a window on each side .	1.0
+56	6	tower	white tower	a house with a pink roof and a green and white tower with three levels , each of them having a window on each side .	1.0
+844	1	humans	three levels	a house with a pink roof and a green and white tower with three levels , each of them having a window on each side .	0.166666666667
+999	6	cloth	them	a house with a pink roof and a green and white tower with three levels , each of them having a window on each side .	0.0
+879	7	window	a window	a house with a pink roof and a green and white tower with three levels , each of them having a window on each side .	1.0
+999	5	ground	each side	a house with a pink roof and a green and white tower with three levels , each of them having a window on each side .	0.2
+998	3	wall	block	one block in the front with three windows and the writing casa parroquial - amor de dios .	0.2
+999	5	ground	the front	one block in the front with three windows and the writing casa parroquial - amor de dios .	0.111111111111
+844	1	humans	three windows	one block in the front with three windows and the writing casa parroquial - amor de dios .	0.0909090909091
+965	3	construction	the writing	one block in the front with three windows and the writing casa parroquial - amor de dios .	0.166666666667
+999	6	cloth	dios	one block in the front with three windows and the writing casa parroquial - amor de dios .	0.0
+999	6	cloth	another house	another house with a green and yellow and red roof in the background .	0.2
+999	6	cloth	red roof	another house with a green and yellow and red roof in the background .	0.2
+844	1	humans	the background	another house with a green and yellow and red roof in the background .	0.166666666667
+873	4	person	tourists	tourists are standing in the classroom of a school in front of the blackboard .	0.333333333333
+709	3	ancent building	the classroom	tourists are standing in the classroom of a school in front of the blackboard .	0.2
+739	1	church	a school	tourists are standing in the classroom of a school in front of the blackboard .	0.2
+999	5	ground	front	tourists are standing in the classroom of a school in front of the blackboard .	0.111111111111
+999	6	cloth	the blackboard	tourists are standing in the classroom of a school in front of the blackboard .	0.25
+742	9	clock	a clock	there is a clock and the writing dios es amor above the blackboard .	1.0
+965	3	construction	the writing	there is a clock and the writing dios es amor above the blackboard .	0.166666666667
+999	6	cloth	dios	there is a clock and the writing dios es amor above the blackboard .	0.0
+844	1	humans	amor	there is a clock and the writing dios es amor above the blackboard .	0.0909090909091
+999	6	cloth	the blackboard	there is a clock and the writing dios es amor above the blackboard .	0.25
+873	4	person	tourists	tourists are standing on a wet sidewalk and are carrying bags of food .	0.333333333333
+754	4	sidewalk	a wet sidewalk	tourists are standing on a wet sidewalk and are carrying bags of food .	1.0
+717	8	cup	bags	tourists are standing on a wet sidewalk and are carrying bags of food .	0.333333333333
+702	16	food	food	tourists are standing on a wet sidewalk and are carrying bags of food .	1.0
+844	1	humans	people	people are wearing rain coats and jackets .	0.333333333333
+966	1	cloud	rain	people are wearing rain coats and jackets .	0.166666666667
+996	2	hat	coats	people are wearing rain coats and jackets .	0.166666666667
+996	2	hat	jackets	people are wearing rain coats and jackets .	0.142857142857
+942	5	house	a house	a house with brick walls and two garage doors behind them .	1.0
+999	6	cloth	brick	a house with brick walls and two garage doors behind them .	0.25
+998	3	wall	walls	a house with brick walls and two garage doors behind them .	1.0
+709	3	ancent building	garage	a house with brick walls and two garage doors behind them .	0.333333333333
+736	13	door	doors	a house with brick walls and two garage doors behind them .	1.0
+999	6	cloth	them	a house with brick walls and two garage doors behind them .	0.0
+921	2	group of persons	a group picture	a group picture of happy people wearing orange hats and white and orange sleeveless shirts .	0.583333333333
+844	1	humans	people	a group picture of happy people wearing orange hats and white and orange sleeveless shirts .	0.333333333333
+905	4	orange	orange	a group picture of happy people wearing orange hats and white and orange sleeveless shirts .	1.0
+996	2	hat	hats	a group picture of happy people wearing orange hats and white and orange sleeveless shirts .	1.0
+905	4	orange	orange sleeveless	a group picture of happy people wearing orange hats and white and orange sleeveless shirts .	1.0
+996	2	hat	shirts	a group picture of happy people wearing orange hats and white and orange sleeveless shirts .	0.2
+739	1	church	school	school kids are posing for a picture on a grey square .	0.2
+992	1	child	kids	school kids are posing for a picture on a grey square .	1.0
+999	6	cloth	a picture	school kids are posing for a picture on a grey square .	0.2
+28	2	statue	square	school kids are posing for a picture on a grey square .	0.111111111111
+873	4	person	tourist	one tourist is holding one kid in the background .	0.333333333333
+992	1	child	kid	one tourist is holding one kid in the background .	1.0
+844	1	humans	the background	one tourist is holding one kid in the background .	0.166666666667
+992	1	child	kids	some kids standing in front of the kids posing .	1.0
+999	5	ground	front	some kids standing in front of the kids posing .	0.111111111111
+992	1	child	kids	some kids standing in front of the kids posing .	1.0
+844	1	humans	portrait	portrait of a dark-skinned , dark-haired boy wearing a white and blue jumper with a red collar .	0.111111111111
+999	1	child boy	dark-haired boy	portrait of a dark-skinned , dark-haired boy wearing a white and blue jumper with a red collar .	0.6
+873	4	person	blue jumper	portrait of a dark-skinned , dark-haired boy wearing a white and blue jumper with a red collar .	0.5
+49	1	sky red sunset dusk	a red collar	portrait of a dark-skinned , dark-haired boy wearing a white and blue jumper with a red collar .	0.300245098039
+999	1	child boy	dark-haired boy	a dark-skinned , dark-haired boy wearing a blue tee-shirt ( one sleeve green , the other one pink ) is standing in a classroom .	0.6
+62	3	swimming pool	a blue tee-shirt	a dark-skinned , dark-haired boy wearing a blue tee-shirt ( one sleeve green , the other one pink ) is standing in a classroom .	0.125
+62	3	swimming pool	sleeve green	a dark-skinned , dark-haired boy wearing a blue tee-shirt ( one sleeve green , the other one pink ) is standing in a classroom .	0.208333333333
+709	3	ancent building	a classroom	a dark-skinned , dark-haired boy wearing a blue tee-shirt ( one sleeve green , the other one pink ) is standing in a classroom .	0.2
+942	1	woman	a teacher	a teacher and other kids in the background , and also a large window ( thus the picture is not very well exposed ) .	0.2
+992	1	child	kids	a teacher and other kids in the background , and also a large window ( thus the picture is not very well exposed ) .	1.0
+844	1	humans	the background	a teacher and other kids in the background , and also a large window ( thus the picture is not very well exposed ) .	0.166666666667
+879	7	window	also a large window	a teacher and other kids in the background , and also a large window ( thus the picture is not very well exposed ) .	1.0
+62	3	swimming pool	thus the picture	a teacher and other kids in the background , and also a large window ( thus the picture is not very well exposed ) .	0.208333333333
+844	1	humans	portrait	portrait of a dark-skinned , dark-haired girl wearing a light blue tee-shirt with three pictures of people and a usa flag in the shape of a heart on it .	0.111111111111
+996	1	child girl	dark-haired girl	portrait of a dark-skinned , dark-haired girl wearing a light blue tee-shirt with three pictures of people and a usa flag in the shape of a heart on it .	0.583333333333
+62	3	swimming pool	a light blue tee-shirt	portrait of a dark-skinned , dark-haired girl wearing a light blue tee-shirt with three pictures of people and a usa flag in the shape of a heart on it .	0.125
+999	6	cloth	three pictures	portrait of a dark-skinned , dark-haired girl wearing a light blue tee-shirt with three pictures of people and a usa flag in the shape of a heart on it .	0.2
+844	1	humans	people	portrait of a dark-skinned , dark-haired girl wearing a light blue tee-shirt with three pictures of people and a usa flag in the shape of a heart on it .	0.333333333333
+63	8	flag	flag	portrait of a dark-skinned , dark-haired girl wearing a light blue tee-shirt with three pictures of people and a usa flag in the shape of a heart on it .	1.0
+844	1	humans	the shape	portrait of a dark-skinned , dark-haired girl wearing a light blue tee-shirt with three pictures of people and a usa flag in the shape of a heart on it .	0.142857142857
+844	1	humans	a heart	portrait of a dark-skinned , dark-haired girl wearing a light blue tee-shirt with three pictures of people and a usa flag in the shape of a heart on it .	0.1
+999	6	cloth	it	portrait of a dark-skinned , dark-haired girl wearing a light blue tee-shirt with three pictures of people and a usa flag in the shape of a heart on it .	0.0
+844	1	humans	portrait	portrait of a dark-skinned , dark-haired girl in a yellow blouse with a blue collar .	0.111111111111
+996	1	child girl	dark-haired girl	portrait of a dark-skinned , dark-haired girl in a yellow blouse with a blue collar .	0.583333333333
+62	3	swimming pool	a yellow blouse	portrait of a dark-skinned , dark-haired girl in a yellow blouse with a blue collar .	0.1875
+54	5	tire	a blue collar	portrait of a dark-skinned , dark-haired girl in a yellow blouse with a blue collar .	0.25
+996	1	child girl	dark-haired girl	a dark-skinned , dark-haired girl in a blue jumper and red pants is sitting on the floor .	0.583333333333
+873	4	person	a blue jumper	a dark-skinned , dark-haired girl in a blue jumper and red pants is sitting on the floor .	0.5
+996	2	hat	pants	a dark-skinned , dark-haired girl in a blue jumper and red pants is sitting on the floor .	0.142857142857
+700	11	floor	the floor	a dark-skinned , dark-haired girl in a blue jumper and red pants is sitting on the floor .	1.0
+996	1	child girl	dark-haired girl	a dark-skinned , dark-haired girl in a white tee-shirt .	0.583333333333
+62	3	swimming pool	a white tee-shirt	a dark-skinned , dark-haired girl in a white tee-shirt .	0.125
+996	1	child girl	dark-haired girl	a dark-skinned , dark-haired girl wearing a white tee-shirt with pink edges and blue pants is kneeing on the ground .	0.583333333333
+62	3	swimming pool	a white tee-shirt	a dark-skinned , dark-haired girl wearing a white tee-shirt with pink edges and blue pants is kneeing on the ground .	0.125
+999	5	ground	edges	a dark-skinned , dark-haired girl wearing a white tee-shirt with pink edges and blue pants is kneeing on the ground .	0.142857142857
+996	2	hat	pants	a dark-skinned , dark-haired girl wearing a white tee-shirt with pink edges and blue pants is kneeing on the ground .	0.142857142857
+999	5	ground	the ground	a dark-skinned , dark-haired girl wearing a white tee-shirt with pink edges and blue pants is kneeing on the ground .	1.0
+996	1	child girl	dark-haired girl	a dark-skinned , dark-haired girl in a white jumper with paintings of dogs , bones and dogprints and pink-and-white chequered shorts .	0.583333333333
+873	4	person	a white jumper	a dark-skinned , dark-haired girl in a white jumper with paintings of dogs , bones and dogprints and pink-and-white chequered shorts .	0.5
+992	3	painting	paintings	a dark-skinned , dark-haired girl in a white jumper with paintings of dogs , bones and dogprints and pink-and-white chequered shorts .	1.0
+873	4	person	dogs	a dark-skinned , dark-haired girl in a white jumper with paintings of dogs , bones and dogprints and pink-and-white chequered shorts .	0.2
+999	6	cloth	bones	a dark-skinned , dark-haired girl in a white jumper with paintings of dogs , bones and dogprints and pink-and-white chequered shorts .	0.142857142857
+999	6	cloth	dogprints	a dark-skinned , dark-haired girl in a white jumper with paintings of dogs , bones and dogprints and pink-and-white chequered shorts .	0.0
+996	2	hat	shorts	a dark-skinned , dark-haired girl in a white jumper with paintings of dogs , bones and dogprints and pink-and-white chequered shorts .	0.166666666667
+999	1	child boy	dark-haired boy	a dark-skinned , dark-haired boy in a red tee-shirt with blue sleeves is standing next to a school desk .	0.6
+49	1	sky red sunset dusk	a red tee-shirt	a dark-skinned , dark-haired boy in a red tee-shirt with blue sleeves is standing next to a school desk .	0.25
+999	6	cloth	sleeves	a dark-skinned , dark-haired boy in a red tee-shirt with blue sleeves is standing next to a school desk .	0.2
+652	5	furniture	a school desk	a dark-skinned , dark-haired boy in a red tee-shirt with blue sleeves is standing next to a school desk .	0.333333333333
+999	1	child boy	dark-haired boy	a dark-skinned , dark-haired boy wearing a blue pullover is standing in front of a brown door .	0.6
+962	2	sky blue	a blue pullover	a dark-skinned , dark-haired boy wearing a blue pullover is standing in front of a brown door .	0.535714285714
+999	5	ground	front	a dark-skinned , dark-haired boy wearing a blue pullover is standing in front of a brown door .	0.111111111111
+736	13	door	a brown door	a dark-skinned , dark-haired boy wearing a blue pullover is standing in front of a brown door .	1.0
+996	1	child girl	dark-skinned girl	a dark-haired , dark-skinned girl is sitting on a red couch , wearing a pink pullover with a little bear .	0.583333333333
+712	11	chair	a red couch	a dark-haired , dark-skinned girl is sitting on a red couch , wearing a pink pullover with a little bear .	0.333333333333
+962	2	sky blue	a pink pullover	a dark-haired , dark-skinned girl is sitting on a red couch , wearing a pink pullover with a little bear .	0.202380952381
+62	3	swimming pool	a little bear	a dark-haired , dark-skinned girl is sitting on a red couch , wearing a pink pullover with a little bear .	0.163461538462
+999	1	child boy	dark-haired boy	a dark-skinned , dark-haired boy sitting at his school desk wearing a light blue shirt below a dark blue pullover .	0.6
+652	5	furniture	school desk	a dark-skinned , dark-haired boy sitting at his school desk wearing a light blue shirt below a dark blue pullover .	0.333333333333
+962	2	sky blue	a light blue shirt	a dark-skinned , dark-haired boy sitting at his school desk wearing a light blue shirt below a dark blue pullover .	0.538461538462
+962	2	sky blue	a dark blue pullover	a dark-skinned , dark-haired boy sitting at his school desk wearing a light blue shirt below a dark blue pullover .	0.535714285714
+996	1	child girl	a dark-skinned girl	a dark-skinned girl wearing a brown hat , a light shirt below a pink shirt and a dark green vest .	0.583333333333
+996	2	hat	a brown hat	a dark-skinned girl wearing a brown hat , a light shirt below a pink shirt and a dark green vest .	1.0
+996	2	hat	a light shirt	a dark-skinned girl wearing a brown hat , a light shirt below a pink shirt and a dark green vest .	0.2
+962	2	sky blue	a pink shirt	a dark-skinned girl wearing a brown hat , a light shirt below a pink shirt and a dark green vest .	0.205128205128
+996	2	hat	a dark green vest	a dark-skinned girl wearing a brown hat , a light shirt below a pink shirt and a dark green vest .	0.2
+996	1	child girl	dark-haired girl	a dark-skinned , dark-haired girl wearing a yellow blouse with a blue collar .	0.583333333333
+62	3	swimming pool	a yellow blouse	a dark-skinned , dark-haired girl wearing a yellow blouse with a blue collar .	0.1875
+54	5	tire	a blue collar	a dark-skinned , dark-haired girl wearing a yellow blouse with a blue collar .	0.25

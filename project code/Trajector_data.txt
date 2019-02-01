@@ -1,0 +1,716 @@
+112	About 20 kids 	About 20 kids in traditional clothing and hats waiting on stairs .
+112	a house	a house and a green wall with gate in the background .
+112	a green wall	a house and a green wall with gate in the background .
+112	a sign	a sign saying that plants can't be picked up on the right .
+116	a rock hole	a rock hole in the ground surrounded by sand .
+116	the other one	one man in a white tee-shirt , grey pants and a white cap is holding a shovel , the other one is wearing black pants , a white jumper and a traditional hat , is walking towards him .
+25	a yellow building	a yellow building with white columns in the background .
+25	two palm trees	two palm trees in front of the house .
+25	cars	cars parked in front of the house .
+25	a woman	a woman and a child are walking over the square .
+25	a child	a woman and a child are walking over the square .
+26	a large building	a large building on the left , a palm tree in centre of picture , ( mostly ) white cars in the street at a junction , some of them turning left , others going straight .
+26	a palm tree	a large building on the left , a palm tree in centre of picture , ( mostly ) white cars in the street at a junction , some of them turning left , others going straight .
+26	white cars	a large building on the left , a palm tree in centre of picture , ( mostly ) white cars in the street at a junction , some of them turning left , others going straight .
+26	red umbrellas	there are red umbrellas in a park on the right .
+26	people	people are walking through the park , others are crossing the road in the foreground .
+26	others	people are walking through the park , others are crossing the road in the foreground .
+26	road	people are walking through the park , others are crossing the road in the foreground .
+28	a white , large statue	a white , large statue with spread arms on a hill .
+28	bushes	bushes and small trees on the hill .
+28	small trees	bushes and small trees on the hill .
+28	street	street leading up the hill .
+28	white clouds	there are white clouds in the blue sky .
+32	high-rise buildings	there are a few high-rise buildings and a stadium in the centre .
+32	a stadium	there are a few high-rise buildings and a stadium in the centre .
+33	a cascading waterfall	a cascading waterfall in the middle of the jungle .
+33	pool	front view with pool of dirty water in the foreground .
+35	a man	a man in a red tee-shirt and a woman carrying a red bag are watching some waterfalls on a lookout in the foreground .
+35	a woman	a man in a red tee-shirt and a woman carrying a red bag are watching some waterfalls on a lookout in the foreground .
+35	a lookout	a man in a red tee-shirt and a woman carrying a red bag are watching some waterfalls on a lookout in the foreground .
+35	green trees	green trees , black rocks and a grey sky in the background .
+35	black rocks	green trees , black rocks and a grey sky in the background .
+35	a grey sky	green trees , black rocks and a grey sky in the background .
+38	giant , thunderous waterfalls	View of giant , thunderous waterfalls over a u-shaped cliff .
+38	white clouds	white clouds in a blue sky in the background .
+38	sky	white clouds in a blue sky in the background .
+40	a blue sky	a blue sky with white fleecy clouds in the background .
+42	A narrow , rising street	A narrow , rising street with colourful houses on both sides , among them a green house with balconies and a white car parked in front of it , and a blue-and-white church on the right .
+42	a green house	A narrow , rising street with colourful houses on both sides , among them a green house with balconies and a white car parked in front of it , and a blue-and-white church on the right .
+42	a white car	A narrow , rising street with colourful houses on both sides , among them a green house with balconies and a white car parked in front of it , and a blue-and-white church on the right .
+42	a blue-and-white church	A narrow , rising street with colourful houses on both sides , among them a green house with balconies and a white car parked in front of it , and a blue-and-white church on the right .
+42	one car	one car is going up the street .
+42	a few people	there are a few people in the street and a large thundercloud in the background .
+42	a large thundercloud	there are a few people in the street and a large thundercloud in the background .
+45	church towers with pinnacles	two light brown church towers with pinnacles on all four sides .
+45	a cross	the artful central nave is a bit darker and has a cross on top .
+47	alleys	View of an old town of a city with its colourful buidings and two churches from one of its alleys in the shade .
+47	the towers	the towers of the churches are still in the sun , the rest in already in the shade .
+47	rest	the towers of the churches are still in the sun , the rest in already in the shade .
+48	the two towers	a white and blue church , with only the two towers in the sun , the rest in the shade .
+48	the rest	a white and blue church , with only the two towers in the sun , the rest in the shade .
+48	the old town	view from the side , with the old town of a city in the background .
+49	some clouds	some clouds in the sky .
+49	people	there are people at the beach and palm trees in the background .
+49	palm trees	there are people at the beach and palm trees in the background .
+51	the Paraguayan flag	the Paraguayan flag is waving on top of the building .
+51	dark palms	there are dark palms in the foreground and a blue sky in the background .
+51	blue sky	there are dark palms in the foreground and a blue sky in the background .
+52	steam ship	steam ship in a lake , docked .
+52	the flag	the flag of Paraguay at the bow of the ship .
+52	a blue sky	a blue sky in the background .
+53	a blue sky	a grey building with many columns and arches and the modern high-rise buildings of a city with a blue sky in the background .
+54	trees	trees in the background .
+546	Four locals	Four locals are sitting on a bench in a canteen kitchen , leaning on a red brick wall .
+546	a bench	Four locals are sitting on a bench in a canteen kitchen , leaning on a red brick wall .
+55	a gate	Against-the-light photograph of a gate in the shade , with towers to its left and right .
+55	towers	Against-the-light photograph of a gate in the shade , with towers to its left and right .
+55	dark trees	there are dark trees in the foreground and a blue sky in the background .
+55	a blue sky	there are dark trees in the foreground and a blue sky in the background .
+56	the cathedral	well exposed front view of the cathedral in Asuncion .
+56	a cross	two towers with flags , three arched entry gates , large central ave with several pinnacles and a cross on top .
+56	a clock	there is a clock on the right tower .
+56	streetlamps	streetlamps at the middle gate and at the corners .
+56	bells	bells visible in both towers .
+57	a fountain	a fountain and cobbled walkway in the foreground , a pink and white buidling with many arches in the background .
+57	cobbled walkway	a fountain and cobbled walkway in the foreground , a pink and white buidling with many arches in the background .
+57	buidling	a fountain and cobbled walkway in the foreground , a pink and white buidling with many arches in the background .
+57	trees	trees on the right .
+58	a white building	a white building with lots of columns and arches , a neat lawn and neatly cut trees and bushes in the foreground .
+58	a neat lawn	a white building with lots of columns and arches , a neat lawn and neatly cut trees and bushes in the foreground .
+58	trees	a white building with lots of columns and arches , a neat lawn and neatly cut trees and bushes in the foreground .
+58	bushes	a white building with lots of columns and arches , a neat lawn and neatly cut trees and bushes in the foreground .
+58	the flag	the flag of Paraguay is waving at the top of the building .
+58	a flower bed	there is a flower bed on the left .
+59	stairs	stairs are leading up to the entrance .
+59	huge column	one red huge column is supporting the big roof .
+59	rails	rails in the foreground .
+59	a green tree	a green tree on the left .
+60	large shops	two lane street with large shops on the right and smaller shops on the left .
+60	smaller shops	two lane street with large shops on the right and smaller shops on the left .
+60	people	people are walking on the sidewalk , some are crossing the street .
+60	cars	cars are parked along the left side of the street as well .
+61	yellow taxis	an avenue with seven yellow taxis lined up on the right side .
+61	some drivers	some drivers are waiting for customers outside of their taxis .
+61	green trees	green trees behind them .
+62	a swimming pool	a swimming pool with sun chairs on a terrace in the foreground .
+62	sun chairs	a swimming pool with sun chairs on a terrace in the foreground .
+62	a terrace	a swimming pool with sun chairs on a terrace in the foreground .
+62	a flat landscape	a flat landscape with green trees and houses in the background .
+62	houses	a flat landscape with green trees and houses in the background .
+63	Several flagpoles	Several flagpoles with waving flags on a green lawn in the foreground .
+63	a green lawn	Several flagpoles with waving flags on a green lawn in the foreground .
+63	a large grey and black building	a large grey and black building behind it .
+63	a football	a huge column with a football on top on the left .
+63	column	a huge column with a football on top on the left .
+63	a blue sky	a blue sky with white clouds in the background .
+64	water	water is flowing through one tiny spot .
+64	backwater	backwater is flowing off on the left .
+64	green reed	green reed in the foreground .
+646	Rock singer	Rock singer wearing yellow pants and a red T-shirt on a stage .
+646	crowd	crowd is cheering in the background .
+651	Group of tourists	Group of tourists is standing in front of a buildilng .
+651	three locals	three locals are standing in the middle of all the people , one of them is holding a box .
+651	country house	traditional country house on the left .
+651	some rocks	some rocks in the background .
+651	a gravel road	a gravel road in the foreground .
+652	Two adults	Two adults and four local boys are standing in front of a white house with two trellised windows .
+652	four local boys	Two adults and four local boys are standing in front of a white house with two trellised windows .
+656	one worker	one worker is standing on rails , the other one is leaning against an unfinished brick wall .
+656	the other one	one worker is standing on rails , the other one is leaning against an unfinished brick wall .
+66	backwater	backwater is flowing off in the foreground .
+661	two men	two men are standing on a lawn in front of a light brown house with blue corners .
+661	a lawn	two men are standing on a lawn in front of a light brown house with blue corners .
+662	School kids	School kids on a grey square , some are dressed in dark blue , others in orange .
+662	one person	one person dressed in orange is standing opposite the line up , leading the group .
+662	two light blue houses	two light blue houses behind them with a steep hill in the background .
+662	steep hill	two light blue houses behind them with a steep hill in the background .
+663	a woman	a woman is sitting at table in the middle of a schoolyard .
+663	table	a woman is sitting at table in the middle of a schoolyard .
+663	many books	there are many books on the table .
+663	two people	two people are sitting next to her , six others are standing about ten metres away from the table .
+663	six others	two people are sitting next to her , six others are standing about ten metres away from the table .
+664	the one	four boys , one drinking from a cup , one wearing an army cap and waving , the one in the focus wearing a beanie , a jumper and smiling into the camera , and the fourth wearing a cap and carrying a wooden crate .
+668	four school kids	four school kids are smiling into the camera in the foreground .
+668	more kids	more kids in the background , some are leaning on the school wall , others are running around .
+668	some	more kids in the background , some are leaning on the school wall , others are running around .
+668	others	more kids in the background , some are leaning on the school wall , others are running around .
+671	five women	five women in a kitchen , two of them are preparing some food using four bowls , two are standing behind them ( and one next to them ) and are watching .
+671	two	five women in a kitchen , two of them are preparing some food using four bowls , two are standing behind them ( and one next to them ) and are watching .
+671	one	five women in a kitchen , two of them are preparing some food using four bowls , two are standing behind them ( and one next to them ) and are watching .
+672	Santa Claus	Santa Claus in middle of excited kids .
+672	a woman	a woman with a present in the background .
+674	Three social workers	Three social workers and about ten local kids in a room with dark and light blue walls .
+674	ten local kids	Three social workers and about ten local kids in a room with dark and light blue walls .
+674	one kid	one kid is a bit left out , sitting alone on a desk and looking the other way .
+678	A school kid	A school kid is sitting at a desk , smiling into the camera and being offered a red apple .
+678	three other kids	three other kids in the background .
+679	Four tourists	Four tourists are sitting on a bus .
+679	two women	two women in the front row with their heads turned around .
+679	another one	another one in the second row looking out the window .
+679	one man	and one man with sunglasses in the very last row , looking out the window too .
+682	the school kids	the school kids are sitting at their desks , singing a song and clapping their hands , with their teacher clapping as well .
+682	the tourists	six of the tourists are standing behind them and are watching them , one tourist is taking a photo .
+683	Three women	Three women are sitting on a wooden bench in front of an about one metre high , red brick wall .
+683	a wooden bench	Three women are sitting on a wooden bench in front of an about one metre high , red brick wall .
+683	one man	one man is standing behind the wall .
+683	a wooden door	a wooden door on the left is being held open by a red brick .
+684	some kids	photo of a classroom with some kids sitting at their desks , others standing at their desks , waving into the camera , laughing .
+684	others	photo of a classroom with some kids sitting at their desks , others standing at their desks , waving into the camera , laughing .
+684	two kids	two kids are eating their lunch in the foreground .
+684	wooden wall	there is a wooden wall with pictures of two comic figures in the background .
+685	plastic bag	a large , black plastic bag with four packs of pasta , a folder , a leaflet , a small book and cacao powder on a table .
+685	four packs of pasta	a large , black plastic bag with four packs of pasta , a folder , a leaflet , a small book and cacao powder on a table .
+685	a folder	a large , black plastic bag with four packs of pasta , a folder , a leaflet , a small book and cacao powder on a table .
+685	a small book	a large , black plastic bag with four packs of pasta , a folder , a leaflet , a small book and cacao powder on a table .
+685	cacao powder	a large , black plastic bag with four packs of pasta , a folder , a leaflet , a small book and cacao powder on a table .
+685	empty table	there is a second , empty table in the background .
+686	six kids	six kids are sitting around a table and playing with toy cars .
+686	one kid	one kid is standing next to the table .
+686	plastic bag	a woman is holding a black plastic bag on the left .
+686	three tourists	three tourists in the background are talking to each other .
+687	houses	panorama view of houses in La Paz .
+687	red roofed houses	red roofed houses in the foreground , with a hill and rugged rocks in the background .
+687	a hill	red roofed houses in the foreground , with a hill and rugged rocks in the background .
+687	rugged rocks	red roofed houses in the foreground , with a hill and rugged rocks in the background .
+689	three tourists	photo of eleven school kids and three tourists behind them .
+689	a basketball court	a basketball court in the background , with one kid standing below the basket .
+689	one kid	a basketball court in the background , with one kid standing below the basket .
+689	a large mountain	a large mountain in the distant background .
+689	background	a large mountain in the distant background .
+690	Lots of locals	Lots of locals ( both kids and adults ) in front of a blue building .
+690	one kid	one kid is about to slide down the slide , with one grown up waiting to catch it .
+690	a basket	another woman is carrying a basket in her left hand , with a kid holding her other hand .
+690	others	others are just sitting around or are standing in the background .
+690	snow covered mountains	there are snow covered mountains in the distant background .
+690	background	there are snow covered mountains in the distant background .
+692	two social workers	there are two social workers in the foreground .
+692	another worker	at the back of the room there is another worker wearing a white tee-shirt and blue jeans , acutally painting .
+692	many newspapers	there are many newspapers on the ground to protect the kindergarten floor .
+693	a mountain	portrait of two dark-haired girls with a mountain in the background .
+694	a car	a car on the left , another man on the right .
+694	another man	a car on the left , another man on the right .
+694	a street	a street behind them , with some houses on a hill in the background .
+694	some houses	a street behind them , with some houses on a hill in the background .
+694	a hill	a street behind them , with some houses on a hill in the background .
+696	Six tourists	Six tourists are standing in front of blackboard of a primary school .
+696	blackboard	Six tourists are standing in front of blackboard of a primary school .
+696	local kids	local kids are sitting at their desks , singing and clapping .
+696	posters	there are posters and pictures on the wall in the background .
+696	pictures	there are posters and pictures on the wall in the background .
+696	the wall	there are posters and pictures on the wall in the background .
+698	wooden desk	a little red wooden desk and two red and two blue chairs in front of a green wall full with children's paintings .
+698	two red and two blue chairs	a little red wooden desk and two red and two blue chairs in front of a green wall full with children's paintings .
+698	a green wall	a little red wooden desk and two red and two blue chairs in front of a green wall full with children's paintings .
+698	drawers	an improvised cupboard with lots of drawers in a corner at the back of the room .
+700	the construction	volunteer workers help with the construction in a kindergarten .
+700	wooden walls	movable wooden walls are leaning on the wall in the background .
+700	the wall	movable wooden walls are leaning on the wall in the background .
+702	tourists	tourists are posing in a room , ten of them are standing , one is squatting .
+702	other kids	one kid is posing with them , five other kids are sitting at a table and eating out of three bowls .
+702	posters	there are posters and pictures at the wall behind the tourists .
+702	pictures	there are posters and pictures at the wall behind the tourists .
+702	the wall	there are posters and pictures at the wall behind the tourists .
+704	Pupils	Pupils are sitting at their wooden desks in an open air classroom .
+704	wooden desks	Pupils are sitting at their wooden desks in an open air classroom .
+704	red brick wall	red brick wall and windows in the background .
+704	windows	red brick wall and windows in the background .
+705	children	children are sitting at round tables , nearly all of them wearing a green hat ( except for two kids ) .
+705	posters	there are posters and maps on the wall in the background .
+705	maps	there are posters and maps on the wall in the background .
+705	the wall	there are posters and maps on the wall in the background .
+708	a picture	there is a picture on the wall in the background , and also an old lady carrying a green balloon .
+708	the wall	there is a picture on the wall in the background , and also an old lady carrying a green balloon .
+708	an old lady	there is a picture on the wall in the background , and also an old lady carrying a green balloon .
+709	the wreckage	a destroyed house with the wreckage lying around in front it .
+709	elevated houses	three ordinary a bit elevated houses in the background .
+712	Six pupils	Six pupils are sitting around a round table on wooden chairs , each of them is holding a fruit ( tangerine ? ) and is wearing a hat ( except for one kid ) .
+712	pictures	pictures and comics on the wall behind them .
+712	comics	pictures and comics on the wall behind them .
+712	the wall	pictures and comics on the wall behind them .
+712	car tyres	car tyres in the background on the right .
+714	a teacher	a teacher and around 50 pupils on the slope of a hill .
+714	50 pupils	a teacher and around 50 pupils on the slope of a hill .
+714	small bushes	small bushes and two trees at the top of the hill .
+714	two trees	small bushes and two trees at the top of the hill .
+714	a lake	a lake in the background .
+715	nine	School kids are posing for the camera in a football-like setup - nine are standing at the back , ten are squatting at the front .
+715	ten	School kids are posing for the camera in a football-like setup - nine are standing at the back , ten are squatting at the front .
+715	a fruit	each of them are having a fruit in their hands , most of them are smiling , one is even waving at the camera .
+715	a blackboard	a blackboard in the background .
+715	one kid	one kid in the centre of the front row is holding a teddy .
+716	the pupil	classroom with most of the pupil sitting at theirs desk and wearing green hats .
+716	one girl	one girl is standing at her desk , another one is walking to her desk , three other boys are standing and looking at a picture of Minnie Mouse on the wall .
+716	another one	one girl is standing at her desk , another one is walking to her desk , three other boys are standing and looking at a picture of Minnie Mouse on the wall .
+716	a picture	one girl is standing at her desk , another one is walking to her desk , three other boys are standing and looking at a picture of Minnie Mouse on the wall .
+716	shelves	shelves and posters in the background .
+716	posters	shelves and posters in the background .
+717	children	children are sitting at their desks , together with a tourist sitting in the last row .
+717	a tourist	children are sitting at their desks , together with a tourist sitting in the last row .
+717	three children	three children are standing on the left , looking at a map of Peru .
+717	two posters	there are two posters on the wall at the back , and there is a bookshelf with a lot of boxes and folders on the left .
+717	the wall	there are two posters on the wall at the back , and there is a bookshelf with a lot of boxes and folders on the left .
+717	a bookshelf	there are two posters on the wall at the back , and there is a bookshelf with a lot of boxes and folders on the left .
+718	the volunteer	One boy holding a white box , most likely a present from the volunteer kneeing in front of him .
+718	several kids	several kids are around him , looking at the box while the boy himself is looking somewhere else .
+718	one kid	one kid in the foreground is wearing a green hat .
+718	round tables	there are both round tables and wooden desks in the background .
+718	wooden desks	there are both round tables and wooden desks in the background .
+719	school children	school children around her , looking at the book too .
+719	a table	in the background there is a table with school equipment on it .
+719	school equipment	in the background there is a table with school equipment on it .
+719	the kid	the kid in the foreground is holding a pencil .
+723	tourists	tourists are standing in front of the blackboard in a classroom , all the kids are sitting at their desks .
+723	the blackboard	tourists are standing in front of the blackboard in a classroom , all the kids are sitting at their desks .
+723	the kids	tourists are standing in front of the blackboard in a classroom , all the kids are sitting at their desks .
+723	a clock	there is a clock above the blackboard , and also the letters Dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows .
+723	the letters	there is a clock above the blackboard , and also the letters Dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows .
+723	the side wall	there is a clock above the blackboard , and also the letters Dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows .
+725	a little girl	a boy wearing a green jacket and a red cap is carrying a little girl on his back .
+726	Children	Children are sitting at their desks and are singing a song with their teacher .
+726	a large window	there is a large window , a blackboard and a shelf at the back of the classroom .
+726	a blackboard	there is a large window , a blackboard and a shelf at the back of the classroom .
+726	a shelf	there is a large window , a blackboard and a shelf at the back of the classroom .
+726	a wall	there is a wall on the left with a map of Peru , a poster and Minnie Mouse on it .
+726	a poster	there is a wall on the left with a map of Peru , a poster and Minnie Mouse on it .
+726	Minnie Mouse	there is a wall on the left with a map of Peru , a poster and Minnie Mouse on it .
+728	brown bricks	Close-up photo of a building with a blue front , red doors , brown bricks below the windows and the wires that stick out from the roof .
+728	the wires	Close-up photo of a building with a blue front , red doors , brown bricks below the windows and the wires that stick out from the roof .
+728	a few pupils	a few pupils are in front of the building .
+731	a city	View of a city in a valley .
+731	bushes	bushes , houses and roofs in the foreground .
+731	houses	bushes , houses and roofs in the foreground .
+731	roofs	bushes , houses and roofs in the foreground .
+731	an overcast sky	an overcast sky in the background .
+732	tourists	tourists are standing at the entrance of classroom .
+736	tourists	tourists are standing in front of the blackboard in a classroom .
+736	the blackboard	tourists are standing in front of the blackboard in a classroom .
+736	the kids	all the kids are sitting at their desks , some of them turned around to look at the camera .
+736	a clock	there is a clock above the blackboard , and also the letters Dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows .
+736	the letters	there is a clock above the blackboard , and also the letters Dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows .
+736	the side wall	there is a clock above the blackboard , and also the letters Dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows .
+737	the workers	many people are working on the bare brickwork of a house or are watching the workers from below .
+737	many wires	many wires are sticking out of the bare brickwork .
+737	one person	one person is climbing up a ladder .
+737	many pallets	many pallets are lying piled up in front of the house .
+738	Excited kids	Excited kids are standing at their desks in a classroom .
+738	their desks	Excited kids are standing at their desks in a classroom .
+738	pictures	there are pictures of trees on the wall at the back .
+738	the wall	there are pictures of trees on the wall at the back .
+738	an open book	two girls have an open book on their desk .
+739	a window	a house with a pink roof and a green and white tower with three levels , each of them having a window on each side .
+739	one block	one block in the front with three windows and the writing Casa Parroquial - Amor de Dios .
+739	another house	another house with a green and yellow and red roof in the background .
+742	tourists	tourists are standing in the classroom of a school in front of the blackboard .
+742	a clock	there is a clock and the writing Dios es Amor above the blackboard .
+742	the writing	there is a clock and the writing Dios es Amor above the blackboard .
+754	Tourists	Tourists are standing on a wet sidewalk and are carrying bags of food .
+754	doors	a house with brick walls and two garage doors behind them .
+768	school kids	school kids are posing for a picture on a grey square .
+768	one tourist	one tourist is holding one kid in the background .
+768	some kids	some kids standing in front of the kids posing .
+779	dark-haired boy	a dark-skinned , dark-haired boy wearing a blue tee-shirt ( one sleeve green , the other one pink ) is standing in a classroom .
+779	a teacher	a teacher and other kids in the background , and also a large window ( thus the picture is not very well exposed ) .
+779	other kids	a teacher and other kids in the background , and also a large window ( thus the picture is not very well exposed ) .
+779	a large window	a teacher and other kids in the background , and also a large window ( thus the picture is not very well exposed ) .
+780	three pictures	portrait of a dark-skinned , dark-haired girl wearing a light blue tee-shirt with three pictures of people and a USA flag in the shape of a heart on it .
+780	a USA flag	portrait of a dark-skinned , dark-haired girl wearing a light blue tee-shirt with three pictures of people and a USA flag in the shape of a heart on it .
+783	dark-haired girl	a dark-skinned , dark-haired girl in a blue jumper and red pants is sitting on the floor .
+786	dark-haired girl	a dark-skinned , dark-haired girl wearing a white tee-shirt with pink edges and blue pants is kneeing on the ground .
+789	dark-haired boy	a dark-skinned , dark-haired boy in a red tee-shirt with blue sleeves is standing next to a school desk .
+790	dark-haired boy	a dark-skinned , dark-haired boy wearing a blue pullover is standing in front of a brown door .
+791	dark-skinned girl	a dark-haired , dark-skinned girl is sitting on a red couch , wearing a pink pullover with a little bear .
+792	dark-haired boy	a dark-skinned , dark-haired boy sitting at his school desk wearing a light blue shirt below a dark blue pullover .
+794	handprints	handprints on the wall behind her .
+794	the wall	handprints on the wall behind her .
+796	a dark-haired baby	a dark-haired baby in the arms of a woman .
+796	handprints	handprints on the wall in the background .
+796	the wall	handprints on the wall in the background .
+797	dark-haired boy	a dark-skinned , dark-haired boy in a white shirt is standing in front of red brick wall .
+799	dark-haired girl	a dark-skinned , dark-haired girl , wearing a skirt and a dark vest , is standing in front of a house .
+799	a white bucket	there is a white bucket in the background .
+800	dark-haired girl	a dark-skinned , dark-haired girl in a light brown jumper with orange edges is standing in front of a desk .
+800	pictures	pictures on a wooden wall in the background .
+800	wall	pictures on a wooden wall in the background .
+802	handprints	handprints on the wall behind her .
+802	the wall	handprints on the wall behind her .
+803	index finger	a dark-skinned , dark-haired boy in a white shirt and a green tee-shirt , putting his index finger of his left hand in his mouth .
+803	school kids	other school kids are sitting on their tables in front of a blackboard in the background .
+803	their tables	other school kids are sitting on their tables in front of a blackboard in the background .
+803	a blackboard	other school kids are sitting on their tables in front of a blackboard in the background .
+804	dark-haired girl	a dark-skinned , dark-haired girl in a coloured shirt is standing in front of a blue wall .
+806	dark-haired girl	a dark-skinned , dark-haired girl wearing a dark blue jumper and a light blue skirt is sitting at a desk in front of a building .
+806	a desk	a dark-skinned , dark-haired girl wearing a dark blue jumper and a light blue skirt is sitting at a desk in front of a building .
+808	dark-haired boy	a dark-skinned , dark-haired boy wearing a blue jumper with a yellow collar is standing in front of a brown door .
+809	dark-haired girl	a dark-skinned , dark-haired girl in a pink pullover is sitting on green bench .
+809	colourful handprints	colourful handprints on the wall behind her .
+809	the wall	colourful handprints on the wall behind her .
+810	dark-haired boy	a dark-skinned , dark-haired boy in a blue pullover is sitting on a green bench .
+810	colourful handprints	colourful handprints on the wall behind him .
+810	the wall	colourful handprints on the wall behind him .
+811	dark-haired girl	a dark-skinned , dark-haired girl is sitting at a desk and wearing a white pullover with an emblem .
+812	dark-haired girl	a dark-skinned , dark-haired girl in a grey T-Shirt is standing in a classroom .
+812	a wall	a wall made of red bricks in the background .
+813	dark-haired boy	a dark-skinned , dark-haired boy in dark vest is standing in front of a wall made of rocks .
+815	dark-haired girl	a dark-skinned , dark-haired girl in a grey tee-shirt and red pants is standing in front of grey brick wall .
+817	dark-haired girl	a dark-skinned , dark-haired girl in a blue-and-yellow jumper is sitting outside .
+817	boulders	boulders in the background .
+818	dark-haired girl	a dark-skinned , dark-haired girl in red vest is sitting outside .
+818	boulders	boulders in background .
+819	dark-haired girl	a dark-skinned , dark-haired girl wearing a USA pullover and red pants is standing outside .
+819	a wall	a wall made of boulders in the near background .
+819	USA jumper	USA jumper says Future USA at the front , with the Olympic rings below the letters , one sleeve shows the stars , the other one the stripes .
+819	Olympic rings	USA jumper says Future USA at the front , with the Olympic rings below the letters , one sleeve shows the stars , the other one the stripes .
+821	dark-haired boy	a dark-skinned , dark-haired boy wearing dark blue dungarees and a light blue and pink pullover is standing in front of a brick-wall .
+822	dark-haired boy	a dark-skinned , dark-haired boy in a blue and white chequered shirt is sitting at a desk outside .
+822	a desk	a dark-skinned , dark-haired boy in a blue and white chequered shirt is sitting at a desk outside .
+824	dark-haired boy	a dark-skinned , dark-haired boy wearing a colourful shirt and a sleeveless pullover is standing in front of a blue wall .
+825	dark-haired boy	a dark-skinned , dark-haired boy with a grey shirt is standing in a room in front of a wall made of red bricks .
+826	dark-haired girl	a dark-skinned , dark-haired girl wearing a red coat is sitting at a desk in front of a building .
+826	a desk	a dark-skinned , dark-haired girl wearing a red coat is sitting at a desk in front of a building .
+827	dark-haired girl	a dark-skinned , dark-haired girl in a black blouse is standing in a classroom in front of a wooden wall .
+828	dark-haired boy	a dark-skinned , dark-haired boy wearing a grey pullover is sitting at his desk in his classroom .
+828	his classmates	there are some of his classmates in the background .
+829	dark-haired girl	a dark-skinned , dark-haired girl wearing a grey tee-shirt is standing next to her desk in a classroom .
+829	comic figures	there are two more kids and comic figures on the wall in the background .
+829	more kids	there are two more kids and comic figures on the wall in the background .
+829	the wall	there are two more kids and comic figures on the wall in the background .
+831	dark-haired girl	a dark-skinned , dark-haired girl wearing a green vest is standing at her desk in a classroom in front of a wall made of red bricks .
+832	dark-haired girl	a dark-skinned , dark-haired girl wearing a pinkish greyish pullover is sitting at a desk in front of a building .
+833	dark-haired boy	a dark-skinned , dark-haired boy in black pullover and blue pants is standing next to a desk .
+833	brick walls	grey brick walls and blue sky in the background .
+833	blue sky	grey brick walls and blue sky in the background .
+834	dark-haired girl	a dark-skinned , dark-haired girl in black vest is sitting at a desk outside the classroom .
+834	a desk	a dark-skinned , dark-haired girl in black vest is sitting at a desk outside the classroom .
+834	walls	grey brick walls at the back .
+834	a cardboard box	a cardboard box is standing on the sandy floor on the left .
+834	the sandy floor	a cardboard box is standing on the sandy floor on the left .
+835	dark-haired girl	a dark-skinned , dark-haired girl in a grey tee-shirt is standing in front of a blue wall .
+836	dark-haired boy	a dark-skinned , dark-haired boy in a black pullover is standing in front of a blue wall .
+837	dark-haired boy	a dark-skinned , dark-haired boy in a blue-and-white striped jumper with a sleeveless pullover is standing in front of a red brick wall and a blue wall .
+838	dark-haired boy	a dark-skinned , dark-haired boy in grey tee-shirt is standing in classroom .
+838	a man	a man in the background .
+841	dark-haired boy	a dark-skinned , dark-haired boy in a white tee-shirt is sitting at his desk in a classroom .
+841	his desk	a dark-skinned , dark-haired boy in a white tee-shirt is sitting at his desk in a classroom .
+841	more kids	more kids in the background are looking at the camera too .
+842	dark-haired boy	a dark-skinned , dark-haired boy in a dark blue tee-shirt is sitting at a desk in a classroom .
+842	a desk	a dark-skinned , dark-haired boy in a dark blue tee-shirt is sitting at a desk in a classroom .
+842	a girl	a girl is eating in the background , another one wearing an orange pullover is walking along the corridor between the desks .
+842	another one	a girl is eating in the background , another one wearing an orange pullover is walking along the corridor between the desks .
+843	dark-haired girl	a dark-skinned , dark-haired girl in pink pullover ( with a surfing Bart Simpson on it ) is standing in front of a red brick-wall in a classroom .
+843	a red brick-wall	a dark-skinned , dark-haired girl in pink pullover ( with a surfing Bart Simpson on it ) is standing in front of a red brick-wall in a classroom .
+844	dark-haired boy	a dark-skinned , dark-haired boy in a black pullover and light brown shirt in a classroom .
+844	boys	two more boys in the background .
+845	dark-haired girl	a dark-skinned , dark-haired girl in a white shirt and black pants with black suspenders is sitting at her desk in a classroom .
+845	her desk	a dark-skinned , dark-haired girl in a white shirt and black pants with black suspenders is sitting at her desk in a classroom .
+845	some kids	some kids in the background are sitting at their desks .
+846	dark-haired girl	a dark-skinned , dark-haired girl in a white tee-shirt is sitting at a desk in a classroom .
+846	a desk	a dark-skinned , dark-haired girl in a white tee-shirt is sitting at a desk in a classroom .
+846	some sheets	some sheets of paper are lying on the desk in front of her .
+846	the desk	some sheets of paper are lying on the desk in front of her .
+847	dark-haired boy	a dark-skinned , dark-haired boy in a chequered shirt standing in a classroom .
+847	kids	kids sitting at their desk in the background .
+847	their desk	kids sitting at their desk in the background .
+848	dark-haired boy	a dark-skinned , dark-haired boy in a blue , white and orange striped jumper is standing in a classroom .
+848	a girl	a girl is sitting at a desk behind him .
+848	a desk	a girl is sitting at a desk behind him .
+848	comic figures	two comic figures on the wall in the background .
+848	the wall	two comic figures on the wall in the background .
+849	dark-haired girl	a dark-skinned , dark-haired girl in a white vest and black pants is standing next to a desk .
+849	a bottle	the lower half of a bottle of Kola Real is standing on a desk next to her .
+849	a desk	the lower half of a bottle of Kola Real is standing on a desk next to her .
+849	a red brick wall	a red brick wall in the background .
+850	dark-haired girl	a dark-skinned , dark-haired girl in white a shirt and black pants with black suspenders is standing between a desk and a red brick wall in a classroom .
+850	a desk	a dark-skinned , dark-haired girl in white a shirt and black pants with black suspenders is standing between a desk and a red brick wall in a classroom .
+850	a red brick wall	a dark-skinned , dark-haired girl in white a shirt and black pants with black suspenders is standing between a desk and a red brick wall in a classroom .
+851	dark-haired boy	a dark-skinned , dark-haired boy wearing a white shirt underneath a black pullover is standing in a classroom .
+851	shirt	a dark-skinned , dark-haired boy wearing a white shirt underneath a black pullover is standing in a classroom .
+851	other kids	other kids are working in the background .
+852	dark-haired girl	a dark-skinned , dark-haired girl in a black pullover is sitting at her desk in the classroom .
+852	her desk	a dark-skinned , dark-haired girl in a black pullover is sitting at her desk in the classroom .
+853	dark-haired boy	a dark-skinned , dark-haired boy in a very colourful pullover is standing in between two desks in a classroom .
+853	two desks	a dark-skinned , dark-haired boy in a very colourful pullover is standing in between two desks in a classroom .
+853	a poster	there is a poster on the red brick wall in the background .
+853	the red brick wall	there is a poster on the red brick wall in the background .
+854	a yellow hat	a dark-skinned , dark-haired boy is wearing a blue pullover with a white elephant having a yellow hat on its head at the front .
+854	a white elephant	a dark-skinned , dark-haired boy is wearing a blue pullover with a white elephant having a yellow hat on its head at the front .
+854	the boy	the boy is sitting at his desk in a classroom .
+854	his desk	the boy is sitting at his desk in a classroom .
+854	two kids	two kids are sitting behind him .
+854	writing bienvenidos	writing bienvenidos on the wall .
+855	dark-haired boy	a dark-skinned , dark-haired boy in a grey and blue jumper is standing next to a desk in a classroom .
+855	a desk	a dark-skinned , dark-haired boy in a grey and blue jumper is standing next to a desk in a classroom .
+855	a poster	a poster on a red brick wall behind him .
+855	a red brick wall	a poster on a red brick wall behind him .
+855	a picture	a picture of a sunflower on the wall next to him .
+856	an A	a dark-skinned boy is wearing a black cap with an A on it , a grey and purple pullover and a black jacket which is red on the inside .
+856	grass	grass , stones and some garbage in the background .
+856	stones	grass , stones and some garbage in the background .
+856	garbage	grass , stones and some garbage in the background .
+857	dark-haired girl	a dark-skinned , dark-haired girl wearing a white shirt underneath a dark grey pullover is standing in a classroom .
+857	a white shirt	a dark-skinned , dark-haired girl wearing a white shirt underneath a dark grey pullover is standing in a classroom .
+857	other kids	there are other kids in the background too , either standing or sitting at their desk .
+858	dark-haired girl	a dark-skinned , dark-haired girl wearing a white shirt underneath a dark grey pullover with a pink nametag is standing in a classroom .
+858	a white shirt	a dark-skinned , dark-haired girl wearing a white shirt underneath a dark grey pullover with a pink nametag is standing in a classroom .
+858	more kids	more kids in the background .
+859	dark-haired boy	a dark-skinned , dark-haired boy wearing a grey jacket is standing in a classroom .
+859	a girl	a girl is sitting at her desk in the background .
+859	her desk	a girl is sitting at her desk in the background .
+859	comic characters	comic characters on the wall at the back .
+859	the wall	comic characters on the wall at the back .
+861	dark-haired girl	a dark-skinned , dark-haired girl in a blue sweater with a pink nametag is standing in a classroom .
+862	dark-haired boy	a dark-skinned , dark-haired boy in a grey tee-shirt is standing at his desk in a classroom .
+862	his desk	a dark-skinned , dark-haired boy in a grey tee-shirt is standing at his desk in a classroom .
+862	another kid	another kid in a grey jacket is standing right behind him .
+863	dark-haired girl	a dark-skinned , dark-haired girl in a grey tee-shirt is sitting at her desk in a classroom .
+863	her desk	a dark-skinned , dark-haired girl in a grey tee-shirt is sitting at her desk in a classroom .
+864	dark-haired girl	a dark-skinned , dark-haired girl wearing a green and white pullover and carrying a backpack with pink straps is standing in a classroom .
+864	one more girl	one more girl in the background .
+865	dark-haired girl	a dark-skinned , dark-haired girl in a grey tee-shirt is standing at her desk in a classroom .
+865	her desk	a dark-skinned , dark-haired girl in a grey tee-shirt is standing at her desk in a classroom .
+868	dark-haired boy	a dark-skinned , dark-haired boy wearing a black adidas cap , a white tee-shirt with long sleeves and a sleeveless dark grey pullover is sitting at his desk in a classroom .
+868	his desk	a dark-skinned , dark-haired boy wearing a black adidas cap , a white tee-shirt with long sleeves and a sleeveless dark grey pullover is sitting at his desk in a classroom .
+869	dark-haired girl	a dark-skinned , dark-haired girl in grey tee-shirt is sitting at a desk in a classroom .
+869	a desk	a dark-skinned , dark-haired girl in grey tee-shirt is sitting at a desk in a classroom .
+871	dark-haired girl	a dark-skinned , dark-haired girl wearing a purple pullover and black pants standing in her classroom in front of all the desks where the other pupils are sitting ( in the background ) .
+871	other pupils	a dark-skinned , dark-haired girl wearing a purple pullover and black pants standing in her classroom in front of all the desks where the other pupils are sitting ( in the background ) .
+871	a blackboard	there is a blackboard in the background too .
+872	dark-haired boy	a dark-skinned , dark-haired boy in a blue jumper with a yellow zip and a light blue nametag is standing in a classroom .
+872	some kids	some kids are standing behind him .
+873	dark-haired boy	a dark-skinned , dark-haired boy wearing a purple tee-shirt and an open white and blue jacket is standing in a classroom .
+875	a dark-skinned girl	a dark-skinned girl with black , ear-long hair in a green pullover and sleeveless brownish jumper is standing in a classroom .
+875	a boy	behind her a boy with a blue cap , white tee-shirt and red pants .
+875	a blackboard	a blackboard and more kids sitting at their desk in the background .
+875	more kids	a blackboard and more kids sitting at their desk in the background .
+875	their desk	a blackboard and more kids sitting at their desk in the background .
+879	a dark-haired , dark-skinned boy	a dark-haired , dark-skinned boy in a brown pullover sitting at his desk in a classroom .
+879	his desk	a dark-haired , dark-skinned boy in a brown pullover sitting at his desk in a classroom .
+879	some sheets	some sheets of paper on the desk .
+879	more kids	more kids are standing in the background .
+885	dark-haired girl	a dark-skinned , dark-haired girl with two short pigtails wearing a red tee-shirt , a white shirt and a greyish-blue pullover standing in a classroom .
+885	one girl	one girl wearing the same outfit plus a pink nametag standing right behind her .
+885	other kids	other kids are sitting at their desk in the background .
+885	their desk	other kids are sitting at their desk in the background .
+885	red brick wall	red brick wall on the right .
+892	dark-haired boy	a dark-skinned , dark-haired boy wearing a coloured polo shirt sitting in a classroom .
+892	more kids	more kids and comic figures on a wall in the background .
+892	comic figures	more kids and comic figures on a wall in the background .
+892	a wall	more kids and comic figures on a wall in the background .
+893	dark-haired boy	a dark-skinned , dark-haired boy wearing a yellow Umbro sweater with black sleeves , black collar and a black zip is standing in a classroom .
+893	more kids	more kids at their desks in the classroom .
+893	their desks	more kids at their desks in the classroom .
+893	a blackboard	also a blackboard in the background .
+894	a dark-skinned girl	a dark-skinned girl with long black hair wearing a red blouse and blue dungarees is standing in a classroom .
+894	four kids	four kids are sitting at their desks and are watching her in the background .
+894	her	four kids are sitting at their desks and are watching her in the background .
+895	dark-haired boy	a dark-skinned , dark-haired boy wearing a light brown cap , a white shirt and a blue pullover with a light blue nametag is standing in a classroom .
+895	some kids	some kids in the background are watching him , others are at their desk .
+895	others	some kids in the background are watching him , others are at their desk .
+895	a blackboard	there is also a blackboard in the background .
+896	dark-haired boy	a dark-skinned dark-haired boy in grey tee-shirt with blue collar , SA print and a wet spot at the front standing in a classroom .
+896	several desks	several desks , two more kids and a blackboard in the background .
+896	two more kids	several desks , two more kids and a blackboard in the background .
+896	a blackboard	several desks , two more kids and a blackboard in the background .
+897	a dark-skinned girl	a dark-skinned girl with long black hair wearing a purple dress with green edges standing in a classroom .
+897	boy	boy dressed in green behind her eating something .
+897	more kids	more kids at their desks in the background .
+897	their desks	more kids at their desks in the background .
+899	a dark-skinned girl	a dark-skinned girl with dark long hair wearing a white vest is standing in a classroom in front of all the desks .
+899	a blackboard	a blackboard and more kids sitting at their desks in the background .
+899	more kids	a blackboard and more kids sitting at their desks in the background .
+899	their desks	a blackboard and more kids sitting at their desks in the background .
+900	a dark-haired , dark-skinned girl	a dark-haired , dark-skinned girl in grey tee-shirt with Pokemon print and pink edge standing in a classroom in front of the desks .
+900	more kids	more kids and a blackboard in the background .
+900	a blackboard	more kids and a blackboard in the background .
+901	sand	sand , stones and rocks in the background .
+901	stones	sand , stones and rocks in the background .
+901	rocks	sand , stones and rocks in the background .
+904	sand	sand , stones and rocks in the background .
+904	stones	sand , stones and rocks in the background .
+904	rocks	sand , stones and rocks in the background .
+905	a boy	a boy wearing a turquoise shirt and white hat is sitting on the ground and eating an orange .
+905	sand	sand and rocks in the background .
+905	rocks	sand and rocks in the background .
+906	stones	stones and rocks in the background .
+906	rocks	stones and rocks in the background .
+906	hills	hills in the distant background .
+906	background	hills in the distant background .
+907	boulders	boulders in the background .
+908	a dark-skinned girl	a dark-skinned girl with two long and dark pigtails wearing a beige hat and a black and white jumper sitting outside .
+909	rocks	rocks in the background .
+910	dark-skinned boy	a dark-haired , dark-skinned boy wearing white shirt and yellow and grey sweater is standing in a classroom .
+910	other kids	other kids sitting at their desk and a blackboard in the background .
+910	a blackboard	other kids sitting at their desk and a blackboard in the background .
+910	their desk	other kids sitting at their desk and a blackboard in the background .
+912	a boy	a boy with a green cap with the script CA wearing a turquoise and green pullover with white and yellow stripes is sitting in the sand outside .
+912	sand	sand , stones and boulders in the background .
+912	stones	sand , stones and boulders in the background .
+912	boulders	sand , stones and boulders in the background .
+914	dark-haired girl	a dark-skinned dark-haired girl with two pigtails wearing a pink and white striped pullover is standing in a classroom .
+914	blackboard	blackboard and teacher ( ? ) in the background .
+914	teacher	blackboard and teacher ( ? ) in the background .
+915	dark-haired girl	a dark-skinned and dark-haired girl with two pigtails wearing a grey pullover with a pink nametag is standing in front of all the desks in a classroom .
+915	a grown-up's hand	a grown-up's hand is holding the girl at her waist .
+915	more kids	more kids at their desk and a blackboard in the background .
+915	a blackboard	more kids at their desk and a blackboard in the background .
+916	dark-skinned boy	a dark-haired dark-skinned boy wearing a chequered shirt with a light blue nametag standing in a classroom .
+916	more kids	more kids and a blackboard in the background .
+916	a blackboard	more kids and a blackboard in the background .
+917	dark-haired girl	a dark-skinned dark-haired girl wearing a red jumper with red and white striped sleeves , a sleeveless blue vest and a large hat is standing outside and waving to the camera .
+917	sand	sand , stones and rocks in the background .
+917	stones	sand , stones and rocks in the background .
+917	rocks	sand , stones and rocks in the background .
+918	dark-skinned boy	a dark-haired , dark-skinned boy wearing a light blue cap , a grey tee-shirt and a red jumper ( that is blue on the inside ) is standing in a classroom .
+918	blackboard	blackboard and kids in the background .
+918	kids	blackboard and kids in the background .
+919	a dark-skinned , dark-haired boy	a dark-skinned , dark-haired boy wearing a light blue tee-shirt is standing in a classroom .
+919	more kids	more kids sitting at their desks and a blackboard in the background .
+919	a blackboard	more kids sitting at their desks and a blackboard in the background .
+921	dark-skinned boy	a dark-haired , dark-skinned boy in a black tee-shirt and a light blue name tag is standing in front of all the desks in a classroom .
+921	the desks	a dark-haired , dark-skinned boy in a black tee-shirt and a light blue name tag is standing in front of all the desks in a classroom .
+921	one girl	one girl sitting at her desk and eating bread .
+921	another kid	another kid in a red jumper standing right behind him .
+921	more kids	more kids in the background .
+922	yellow plane	there is a smiling green and yellow plane on the pullover .
+922	sandy landscape	sandy landscape with stones and rocks in the background .
+923	sand	sand and rocks in the background .
+923	rocks	sand and rocks in the background .
+924	sandy landscape	sandy landscape with stones and rocks in the background .
+925	rocky desert	rocky desert in the background .
+926	a girl	a girl with medium-long , brunette hair and a white and light brown pullover standing in a rocky desert .
+926	rocks	rocks in the background .
+927	sand	sand and some stones in the background .
+927	some stones	sand and some stones in the background .
+929	a couple of bushes	a couple of bushes and houses in the background , one with a yellow roof , one with a red roof , the rest with grey roofs .
+929	houses	a couple of bushes and houses in the background , one with a yellow roof , one with a red roof , the rest with grey roofs .
+933	a green woodpecker	a dark-skinned dark-haired boy wearing a white cap ( with a green woodpecker on it ) and a white and pink jumper .
+934	a dark-haired , dark-skinned boy	a dark-haired , dark-skinned boy wearing a grey Nike cap and a grey pullover is standing in front of a grey wall .
+935	grey wall	grey wall of a house on the right , reddish house with some wood on the left in the background .
+935	some wood	grey wall of a house on the right , reddish house with some wood on the left in the background .
+935	reddish house	grey wall of a house on the right , reddish house with some wood on the left in the background .
+936	a dark-haired boy	a dark-haired boy wearing a black cap , a yellow tee-shirt , a white polo shirt and an open red jacket , is standing in front of a white wall .
+938	houses	houses and trees in distance .
+938	trees	houses and trees in distance .
+939	a dark-haired boy	a dark-haired boy wearing a dark brown traditional hat and a dark red jacket standing in front of a thatched roof .
+941	a dark-skinned , dark-haired boy	a dark-skinned , dark-haired boy wearing a red cap and a blue jumper with a grey zip standing in the backyard .
+941	a grey house	there is a grey house with a light blue roof in the background .
+941	some garbage	some garbage is lying around too .
+942	three houses	three houses in the background , one with a yellow roof .
+942	a couple of rocks	a couple of rocks are lying around in the meadow just behind the girl .
+942	the meadow	a couple of rocks are lying around in the meadow just behind the girl .
+943	a dark-skinned boy	a dark-skinned boy wearing a black Nike cap , a chequered shirt and a red jacket ( that is black inside ) is standing in the meadow behind a house .
+943	the meadow	a dark-skinned boy wearing a black Nike cap , a chequered shirt and a red jacket ( that is black inside ) is standing in the meadow behind a house .
+943	some rocks	some rocks and stones in the background .
+943	stones	some rocks and stones in the background .
+944	a dark-skinned , dark-haired girl	a dark-skinned , dark-haired girl wearing a traditional green hat and a white cardigan in a meadow behind a grey house .
+944	a meadow	a dark-skinned , dark-haired girl wearing a traditional green hat and a white cardigan in a meadow behind a grey house .
+947	dark-skinned girl	a dark-haired , dark-skinned girl wearing a red vest and a long necklace standing in the backyard of two grey houses .
+947	some dowels	some dowels are lying around in the background .
+948	dark-skinned boy	a dark-haired , dark-skinned boy in a dark green pullover ( with a white bear on it ) in a backyard .
+948	a white bear	a dark-haired , dark-skinned boy in a dark green pullover ( with a white bear on it ) in a backyard .
+948	some garbage	some garbage lying around in the background .
+949	short grass	short grass and some garbage in the background .
+949	some garbage	short grass and some garbage in the background .
+950	a white vest	a dark-haired girl wearing a black hat , a yellow tee-shirt and a white vest underneath a green vest , and a necklace with white and green glass beads .
+951	a dark-skinned , dark-haired girl	a dark-skinned , dark-haired girl wearing a black hat , a red vest and a brown necklace , in the backyard of a house .
+952	dark-haired girl	a dark-skinned , dark-haired girl with a black hat and a white pullover and a pink vest underneath a large purple cloth , in the backyard of a house .
+952	the backyard	a dark-skinned , dark-haired girl with a black hat and a white pullover and a pink vest underneath a large purple cloth , in the backyard of a house .
+952	pink vest	a dark-skinned , dark-haired girl with a black hat and a white pullover and a pink vest underneath a large purple cloth , in the backyard of a house .
+953	a white pullover	a dark-skinned , dark-haired girl wearing a black hat , a white pullover underneath a large , red poncho and a brown necklace .
+953	a grey brick wall	a grey brick wall and short grass in background .
+953	short grass	a grey brick wall and short grass in background .
+955	a grey brick wall	a grey brick wall and short grass in the background .
+955	short grass	a grey brick wall and short grass in the background .
+957	a grey house	a grey house and short grass in the background .
+957	short grass	a grey house and short grass in the background .
+958	two houses	two houses in the background , one with a grey roof , the other one with a light brown roof .
+958	short grass	short grass and some large stones in the background .
+958	large stones	short grass and some large stones in the background .
+959	short grass	exterior shot , with some short grass in the background .
+960	dark-haired boy	a dark-skinned , dark-haired boy wearing a grey cap and a dark and light grey jumper with a black zip , in front of a white wall .
+962	blue sky	blue sky in background .
+963	a dark-skinned , dark-haired girl	a dark-skinned , dark-haired girl wearing a black hat , a grey tee-shirt , a dark green vest and a light green poncho , is standing in the backyard of a house .
+963	the backyard	a dark-skinned , dark-haired girl wearing a black hat , a grey tee-shirt , a dark green vest and a light green poncho , is standing in the backyard of a house .
+963	a white painted house	a white painted house with a thatched roof and a wooden fence in the background .
+963	a plastic bag	there is also a plastic bag in front of the fence .
+966	a few trees	a hilly landscape with a few trees in near background , distant background almost treeless .
+966	background	a hilly landscape with a few trees in near background , distant background almost treeless .
+966	background	a hilly landscape with a few trees in near background , distant background almost treeless .
+967	dark-haired boy	portrait of a coloured , dark-haired boy with a bit washed-out green hat , white tee-shirt and a claret vest pullover , in front of a branch of a conifer .
+969	short grass	short grass and some garbage in the background .
+969	some garbage	short grass and some garbage in the background .
+970	short grass	short grass in background .
+971	short grass	short grass in the background .
+991	a dark-haired boy	a dark-haired boy wearing a black pullover and a light blue jeans jacket is standing in front of a painted wall .
+991	a sunset	the painting shows a sunset behind hills and a tree .
+992	dark-haired girl	a dark-skinned , dark-haired girl in a white shirt in front of a painted wall .
+992	a sunset	the painting shows a sunset behind a hill and a tree .
+993	a dark-skinned boy	a dark-skinned boy with a sceptic look , white cap and purple pullover standing in front of a red door with a glasswindow and children's paintings attached .
+993	children's paintings	a dark-skinned boy with a sceptic look , white cap and purple pullover standing in front of a red door with a glasswindow and children's paintings attached .
+994	dark-skinned boy	a dark-haired , dark-skinned boy in a red , white and brown anorak and a blue cap is standing in front of a pile of wood .
+995	dark-haired girl	a dark-skinned , dark-haired girl wearing a black hat , a grey pullover and a dark turquoise vest is standing in front of a pile of wood .
+996	dark-haired girl	a dark-skinned , dark-haired girl with a traditional green hat , black chequered pants and a pink violet poncho is standing in front of a white wall with a light blue fillet .
+997	a dark-skinned boy	a dark-skinned boy wearing a black and yellow beanie , a white shirt beneath a light blue anorak and black pants leaning against a grey wall .
+998	a dark-skinned boy	a dark-skinned boy wearing an orange cap , a light and dark blue anorak and grey trousers , is standing in front of a grey wall .
+999	a dark-skinned boy	a dark-skinned boy wearing a grey cap , a red and white striped shirt under a sleeveless grey vest with a black zip , black pants and runners is standing at a lookout and carrying a black bag in his right hand .
+999	a black bag	a dark-skinned boy wearing a grey cap , a red and white striped shirt under a sleeveless grey vest with a black zip , black pants and runners is standing at a lookout and carrying a black bag in his right hand .
+999	white striped shirt	a dark-skinned boy wearing a grey cap , a red and white striped shirt under a sleeveless grey vest with a black zip , black pants and runners is standing at a lookout and carrying a black bag in his right hand .
+1000	a dark-skinned boy	a dark-skinned boy wearing a knitted woolly hat and a light and dark grey striped jumper with a grey zip , leaning on a grey wall .
+1001	a dark-skinned boy	a dark-skinned boy wearing a black cap and a dark blue and yellow anorak with a black zip in front of a light grey wall .
+1003	very rocky landscape	very rocky landscape with little grass in the background .
+1003	a mountain range	there is also one roof of a house and a mountain range in the distance .
+1003	one roof	there is also one roof of a house and a mountain range in the distance .
+1004	a dark-skinned boy	a dark-skinned boy wearing a blue cap and a yellow jumper is standing outside a house , having his hands in his pockets .
+1004	his hands	a dark-skinned boy wearing a blue cap and a yellow jumper is standing outside a house , having his hands in his pockets .
+1005	a boy	a boy with a light blue cap , a red pullover , blue jeans and black shoes is standing in front of a pile of red bricks , with his hands in his pockets .
+1005	his hands	a boy with a light blue cap , a red pullover , blue jeans and black shoes is standing in front of a pile of red bricks , with his hands in his pockets .
+1005	thatched roofs	thatched roofs in the background .
+1006	a dark-skinned girl	a dark-skinned girl wearing a traditional green hat and a purple cloak ( cloth ) standing in front of a very colourful wall .
+1007	a dark-skinned girl	a dark-skinned girl wearing a black hat and a black jacket with red sleeves and a red zip is standing in front of a very colourful wall .
+1008	dark-haired girl	a dark-skinned , dark-haired girl wearing a black hat and a blue poncho is standing in front of a colourful wall .
+1009	a dark-skinned , dark-haired boy	a dark-skinned , dark-haired boy wearing a dark blue anorak and grey pants is standing in front of a grey wall .
+1010	a dark-skinned boy	a dark-skinned boy wearing a black cap with a red shield , a purple jacket with dark green sleeves and red pants is standing in front of a grey wall .
+1015	black and red saurian	a large black and red saurian next to a small black saurian on some sandy rocks .
+1015	black saurian	a large black and red saurian next to a small black saurian on some sandy rocks .
+1026	wooden bed	interior view of a room with a large wooden bed in the centre .
+1026	a wooden commode	there is a wooden commode and a mirror on the left , a wooden bedside table with a table lamp next to the bed and a huge fan on the wall above the bed .
+1026	a mirror	there is a wooden commode and a mirror on the left , a wooden bedside table with a table lamp next to the bed and a huge fan on the wall above the bed .
+1026	bedside table	there is a wooden commode and a mirror on the left , a wooden bedside table with a table lamp next to the bed and a huge fan on the wall above the bed .
+1026	a huge fan	there is a wooden commode and a mirror on the left , a wooden bedside table with a table lamp next to the bed and a huge fan on the wall above the bed .
+1029	a man	a man in white shirt , black jacket , grey pants and black shoes is sitting on a wooden chair and talking on the phone .
+1029	a wooden bed	on the right a wooden bed with white bedcovers .
+1029	a wooden desk	on the left ( before the man ) a wooden desk and a vase with flowers .
+1029	a vase	on the left ( before the man ) a wooden desk and a vase with flowers .
+1029	a black brief-case	there is a black brief-case in front of the chair , and there is also a picture hanging on the wall above the bed .
+1029	a picture	there is a black brief-case in front of the chair , and there is also a picture hanging on the wall above the bed .
+1030	a blue bus	a blue bus is parking in front of the entrance of the Hotel Galeria .
+1030	stairs	there are stairs at the entrance .
+1030	flags	there are flags and a lamp at each side of the entrance .
+1030	a lamp	there are flags and a lamp at each side of the entrance .
+1033	a fountain	an inner courtyard with a fountain and flower pots in the centre .
+1033	flower pots	an inner courtyard with a fountain and flower pots in the centre .
+1033	the courtyard	several arches surround the courtyard on two levels in front of the red building with a blue entrance .
+1033	flower pots	more flower pots below the arches .
+1037	a night table	interior view of a room with two single beds with a yellow and red chequered bedcover and a night table in between the two beds .
+1037	a wooden commode	on the right a wooden commode and a red chair .
+1037	a red chair	on the right a wooden commode and a red chair .
+1037	a window	a window at the back , with the curtains closed .
+1039	a wooden table	there is a wooden table and a wooden commode to the left .
+1039	a wooden commode	there is a wooden table and a wooden commode to the left .
+1039	a bed	a bed to the right .
+1039	two red armchairs	two red armchairs with a round table on the left at the back .
+1039	a round table	two red armchairs with a round table on the left at the back .
+1040	flower pot	arched entrance to a hotel with a revolving glass door and a well exposed flower pot on each side of the entrance .
+1041	two palm trees	a large , brown , 18 story building with two palm trees , lamps and flags in front .
+1041	lamps	a large , brown , 18 story building with two palm trees , lamps and flags in front .
+1041	flags	a large , brown , 18 story building with two palm trees , lamps and flags in front .
+1041	blue sky	blue sky in the background .
+1049	the entrance	exterior view of a light brown house , with stairs rising to the entrance of the second floor on the left , a tower with two small windows in the centre .
+1049	two small windows	exterior view of a light brown house , with stairs rising to the entrance of the second floor on the left , a tower with two small windows in the centre .
+1049	an arch	there is an arch below the stairs leading to the entrance of the first floor .
+1049	attached houses	attached houses on the right .
+1049	blue sky	blue sky in the background .
+1053	a bedside lamp	interior view of a room with white walls , a wooden double bed , white pillows , a brown , green and red striped blanked and a night table with a bedside lamp on it .
+1056	Five flags	Five flags and a cobbled street in front of the entrance .
+1056	a cobbled street	Five flags and a cobbled street in front of the entrance .
+1060	a swimming pool	a swimming pool in the foreground .

@@ -1,0 +1,661 @@
+1 stairs
+2 the background
+3 
+4 the ground
+4 sand
+5 him
+6 the background
+7 the house
+8 house
+9 the square
+10 
+10 picture
+10 the street
+10 a junction
+11 a park
+11 
+12 the park
+12 the road
+12 the foreground
+13 a hill
+15 the hill
+16 the hill
+17 the blue sky
+19 the centre
+20 the jungle
+21 the foreground
+22 a lookout
+22 the foreground
+23 the background
+24 a u-shaped cliff
+25 a blue sky
+25 the background
+27 the background
+28 both sides
+28 them
+28 it
+28 
+29 the street
+30 the street
+30 the background
+31 four sides
+33 top
+34 the shade
+35 the sun
+35 the shade
+36 the sun
+36 the shade
+37 the background
+39 the sky
+40 the beach
+40 the background
+42 the building
+43 the foreground
+43 the background
+44 a lake
+45 the bow
+46 the background
+47 the background
+49 the background
+50 a bench
+50 a canteen kitchen
+50 brick wall
+53 the shade
+53 its left and right
+54 the foreground
+54 the background
+55 Asuncion
+56 top
+57 the right tower
+58 the middle gate
+58 the corners
+59 towers
+60 the foreground
+60 the background
+61 
+62 the foreground
+63 the building
+64 
+66 entrance
+68 the big roof
+69 the foreground
+70 
+71 street
+72 the sidewalk
+72 the street
+73 the street
+74 an avenue
+75 their taxis
+76 them
+77 a terrace
+77 the foreground
+78 the background
+79 a green lawn
+79 the foreground
+80 it
+81 a huge column
+81 
+82 the background
+84 one tiny spot
+85 
+86 the foreground
+87 a stage
+89 the background
+90 a buildilng
+92 the people
+93 
+94 the background
+95 the foreground
+96 a white house
+103 rails
+103 brick wall
+105 the foreground
+106 a lawn
+106 light brown house
+107 a grey square
+108 the line up
+109 the background
+109 them
+110 table
+110 a schoolyard
+111 the table
+112 her
+112 the table
+113 the focus
+114 the foreground
+115 the background
+115 the school wall
+115 
+118 a kitchen
+118 them
+118 them
+119 excited kids
+120 the background
+121 a room
+124 a desk
+128 a desk
+129 the background
+130 a bus
+131 the front row
+132 the second row
+133 last row
+135 their desks
+136 them
+137 a wooden bench
+137 red brick wall
+140 the wall
+141 
+142 their desks
+142 their desks
+143 the foreground
+144 pictures
+144 the background
+145 a table
+145 plastic bag
+146 the background
+147 a table
+148 the table
+149 a woman
+150 the background
+151 La Paz
+152 the foreground
+152 the background
+153 them
+154 the background
+154 the basket
+155 background
+155 
+156 a blue building
+157 the slide
+158 her left hand
+159 the background
+160 background
+160 
+161 the foreground
+164 the room
+165 the ground
+167 the background
+169 
+170 them
+170 a hill
+170 the background
+171 blackboard
+171 a primary school
+173 their desks
+175 the wall
+175 the background
+176 a green wall
+176 children's paintings
+177 an improvised cupboard
+177 a corner
+177 the room
+178 a kindergarten
+180 the wall
+180 the background
+181 a room
+182 a table
+183 the wall
+183 the tourists
+184 wooden desks
+184 open air classroom
+187 the background
+189 round tables
+191 the wall
+191 the background
+196 the wall
+196 the background
+197 it
+198 the background
+199 round table
+199 wooden chairs
+200 the wall
+200 them
+201 the background
+201 
+202 the slope
+204 the hill
+205 the background
+206 the back
+206 the front
+207 their hands
+208 the background
+209 the front row
+210 theirs desk
+211 her desk
+211 her desk
+211 the wall
+212 the background
+213 their desks
+213 the last row
+214 
+215 the wall
+215 
+216 him
+217 him
+218 the foreground
+219 the background
+221 her
+222 the background
+222 it
+223 the foreground
+224 the blackboard
+224 a classroom
+224 their desks
+225 the blackboard
+225 the clock
+225 the blackboard
+225 the side wall
+225 the windows
+226 his back
+227 their desks
+228 the classroom
+229 
+229 it
+230 the windows
+230 the roof
+231 the building
+232 a valley
+233 the foreground
+234 the background
+235 the entrance
+238 the blackboard
+238 a classroom
+239 their desks
+240 the blackboard
+240 the clock
+240 the blackboard
+240 the side wall
+240 the windows
+241 
+242 the bare brickwork
+243 a ladder
+244 the house
+245 their desks
+245 a classroom
+247 the wall
+247 
+248 their desk
+249 each side
+250 
+251 the background
+252 the classroom
+252 the blackboard
+253 the blackboard
+254 a wet sidewalk
+256 them
+258 a grey square
+259 the background
+260 the kids
+262 a classroom
+263 the background
+264 it
+266 the floor
+268 the ground
+270 a school desk
+271 a brown door
+272 a red couch
+273 school desk
+276 the wall
+276 her
+278 the arms
+280 the wall
+280 the background
+281 red brick wall
+283 a house
+284 the background
+285 a desk
+286 wall
+286 background
+289 the wall
+289 her
+290 his mouth
+291 their tables
+291 a blackboard
+291 the background
+292 a blue wall
+294 a desk
+294 a building
+296 a brown door
+297 green bench
+298 the wall
+298 her
+299 a green bench
+300 the wall
+300 him
+301 a desk
+302 a classroom
+303 the background
+304 a wall
+305 grey brick wall
+306 
+307 the background
+308 
+309 background
+310 
+311 the near background
+312 the front
+312 the letters
+313 a brick-wall
+314 a desk
+314 
+316 a blue wall
+317 a room
+317 a wall
+318 desk
+318 building
+319 a classroom
+319 a wooden wall
+320 desk
+320 classroom
+321 the background
+322 her desk
+322 a classroom
+323 the wall
+323 the background
+325 her desk
+325 a classroom
+325 a wall
+326 a desk
+327 a desk
+328 the background
+329 a desk
+329 the classroom
+330 back
+331 the sandy floor
+331 
+332 a blue wall
+333 a blue wall
+334 a red brick wall
+334 a blue wall
+335 classroom
+336 the background
+337 his desk
+337 a classroom
+338 the background
+339 a desk
+339 a classroom
+340 the background
+340 the corridor
+340 the desks
+341 brick-wall
+341 classroom
+342 a classroom
+343 the background
+344 her desk
+344 a classroom
+345 the background
+345 their desks
+346 a desk
+346 a classroom
+347 the desk
+347 her
+348 classroom
+349 their desk
+349 the background
+350 a classroom
+351 a desk
+351 him
+352 the wall
+352 the background
+353 a desk
+354 a desk
+354 her
+355 the background
+356 a desk
+356 a red brick wall
+356 a classroom
+357 a classroom
+357 pullover
+358 the background
+359 her desk
+359 the classroom
+360 two desks
+360 a classroom
+361 the red brick wall
+361 the background
+363 its head
+363 
+364 his desk
+364 a classroom
+365 him
+366 the wall
+367 a desk
+367 a classroom
+368 a red brick wall
+368 him
+369 the wall
+369 him
+370 it
+372 the background
+373 a classroom
+373 a dark grey pullover
+374 the background
+374 their desk
+375 a classroom
+375 a dark grey pullover
+376 the background
+377 a classroom
+378 her desk
+378 the background
+379 the wall
+379 the back
+380 a classroom
+381 his desk
+381 a classroom
+382 him
+383 her desk
+383 a classroom
+384 a classroom
+385 the background
+386 her desk
+386 a classroom
+387 his desk
+387 a classroom
+388 a desk
+388 a classroom
+389 her classroom
+389 the desks
+389 the background
+390 the background
+391 a classroom
+392 him
+393 a classroom
+394 classroom
+395 her
+396 the background
+396 their desk
+397 his desk
+397 a classroom
+398 the desk
+399 the background
+400 classroom
+401 her
+402 their desk
+402 the background
+403 
+404 a classroom
+405 the background
+405 a wall
+406 classroom
+407 their desks
+407 the classroom
+408 the background
+409 a classroom
+410 their desks
+410 the background
+411 a classroom
+412 the background
+412 their desk
+413 the background
+414 a classroom
+415 the background
+416 a classroom
+417 her
+418 their desks
+418 the background
+419 a classroom
+419 the desks
+420 the background
+420 their desks
+421 a classroom
+421 the desks
+422 the background
+425 the background
+428 the background
+429 the ground
+430 the background
+432 the background
+433 background
+433 
+436 the background
+437 
+441 the background
+442 a classroom
+443 their desk
+443 the background
+444 the sand
+444 
+445 the background
+446 a classroom
+447 the background
+448 the desks
+448 a classroom
+449 her waist
+450 their desk
+450 the background
+451 a classroom
+452 the background
+453 
+454 the background
+455 a classroom
+456 the background
+457 a classroom
+458 their desks
+458 the background
+459 the desks
+459 a classroom
+460 her desk
+461 him
+462 the background
+464 the pullover
+465 the background
+467 the background
+469 the background
+471 the background
+472 a rocky desert
+473 the background
+475 the background
+479 the background
+485 it
+486 a grey wall
+488 
+488 the background
+489 a white wall
+493 
+494 a thatched roof
+495 the backyard
+496 the background
+497 
+499 the background
+500 the meadow
+500 the girl
+501 the meadow
+501 a house
+502 the background
+503 a meadow
+503 a grey house
+504 the backyard
+505 the background
+506 a backyard
+506 it
+507 the background
+510 the background
+511 a green vest
+512 the backyard
+513 the backyard
+513 a house
+513 a large purple cloth
+514 a large , red poncho
+515 background
+517 the background
+519 the background
+521 the background
+522 the background
+524 the background
+525 a white wall
+528 background
+529 the backyard
+529 a house
+530 the background
+531 the fence
+534 background
+534 
+536 a branch
+538 the background
+540 background
+542 the background
+543 a painted wall
+544 hills
+545 a painted wall
+546 a hill
+546 a tree
+547 a red door
+548 a pile of wood
+549 a pile of wood
+550 a white wall
+551 a grey wall
+552 a grey wall
+553 a lookout
+553 his right hand
+553 sleeveless grey vest
+554 a grey wall
+555 a light grey wall
+557 the background
+558 
+559 a house
+559 his pockets
+560 red bricks
+560 his pockets
+561 the background
+562 a very colourful wall
+563 a very colourful wall
+564 a colourful wall
+565 a grey wall
+566 a grey wall
+568 small black saurian
+568 sandy rocks
+569 a room
+570 
+570 the bed
+570 the wall
+570 the bed
+571 a wooden chair
+572 
+573 
+573 the man
+574 the chair
+574 the wall
+574 the bed
+575 the entrance
+576 the entrance
+577 the entrance
+578 an inner courtyard
+579 the red building
+580 the arches
+581 the two beds
+582 
+583 
+585 
+586 
+587 
+589 the entrance
+590 18 story building
+591 the background
+592 second floor
+592 a tower
+593 the stairs
+594 
+595 the background
+596 it
+598 the entrance
+600 the foreground

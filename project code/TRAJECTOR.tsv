@@ -1,0 +1,717 @@
+FK_SENTENCE	end_	id	start_	text
+1	14	T1	0	About 20 kids
+2	7	T2	0	a house
+2	24	T3	12	a green wall
+3	6	T4	0	a sign
+4	11	T5	0	a rock hole
+5	93	T6	80	the other one
+6	17	T7	0	a yellow building
+7	14	T8	0	two palm trees
+8	4	T9	0	cars
+9	7	T10	0	a woman
+9	19	T11	12	a child
+10	16	T12	0	a large building
+10	42	T13	31	a palm tree
+10	87	T14	77	white cars
+11	23	T15	10	red umbrellas
+12	6	T16	0	people
+12	44	T17	38	others
+12	66	T18	62	road
+13	22	T19	0	a white , large statue
+15	6	T20	0	bushes
+15	22	T21	11	small trees
+16	6	T22	0	street
+17	22	T23	10	white clouds
+19	35	T24	16	high-rise buildings
+19	49	T25	40	a stadium
+20	21	T26	0	a cascading waterfall
+21	20	T27	16	pool
+22	5	T28	0	a man
+22	36	T29	29	a woman
+22	97	T30	88	a lookout
+23	11	T31	0	green trees
+23	25	T32	14	black rocks
+23	40	T33	30	a grey sky
+24	37	T34	8	giant , thunderous waterfalls
+25	12	T35	0	white clouds
+25	26	T36	23	sky
+27	10	T37	0	a blue sky
+28	24	T38	0	A narrow , rising street
+28	87	T39	74	a green house
+28	118	T40	107	a white car
+28	170	T41	147	a blue-and-white church
+29	7	T42	0	one car
+30	22	T43	10	a few people
+30	61	T44	41	a large thundercloud
+31	44	T45	16	church towers with pinnacles
+33	55	T46	48	a cross
+34	97	T47	91	alleys
+35	10	T48	0	the towers
+35	58	T49	54	rest
+36	50	T50	36	the two towers
+36	72	T51	64	the rest
+37	38	T52	26	the old town
+39	11	T53	0	some clouds
+40	16	T54	10	people
+40	44	T55	34	palm trees
+42	19	T56	0	the Paraguayan flag
+43	20	T57	10	dark palms
+43	53	T58	45	blue sky
+44	10	T59	0	steam ship
+45	8	T60	0	the flag
+46	10	T61	0	a blue sky
+47	105	T62	95	a blue sky
+49	5	T63	0	trees
+50	11	T64	0	Four locals
+50	34	T65	27	a bench
+53	38	T66	32	a gate
+53	65	T67	59	towers
+54	20	T68	10	dark trees
+54	53	T69	43	a blue sky
+55	40	T70	27	the cathedral
+56	103	T71	96	a cross
+57	16	T72	9	a clock
+58	11	T73	0	streetlamps
+59	5	T74	0	bells
+60	10	T75	0	a fountain
+60	30	T76	15	cobbled walkway
+60	76	T77	68	buidling
+61	5	T78	0	trees
+62	16	T79	0	a white building
+62	62	T80	51	a neat lawn
+62	83	T81	78	trees
+62	94	T82	88	bushes
+63	8	T83	0	the flag
+64	21	T84	9	a flower bed
+66	6	T85	0	stairs
+68	19	T86	8	huge column
+69	5	T87	0	rails
+70	12	T88	0	a green tree
+71	32	T89	21	large shops
+71	63	T90	50	smaller shops
+72	6	T91	0	people
+73	4	T92	0	cars
+74	33	T93	21	yellow taxis
+75	12	T94	0	some drivers
+76	11	T95	0	green trees
+77	15	T96	0	a swimming pool
+77	31	T97	21	sun chairs
+77	44	T98	35	a terrace
+78	16	T99	0	a flat landscape
+78	44	T100	38	houses
+79	17	T101	0	Several flagpoles
+79	51	T102	39	a green lawn
+80	31	T103	0	a large grey and black building
+81	29	T104	19	a football
+81	13	T105	7	column
+82	10	T106	0	a blue sky
+84	5	T107	0	water
+85	9	T108	0	backwater
+86	10	T109	0	green reed
+87	11	T110	0	Rock singer
+89	5	T111	0	crowd
+90	17	T112	0	Group of tourists
+92	12	T113	0	three locals
+93	25	T114	12	country house
+94	10	T115	0	some rocks
+95	13	T116	0	a gravel road
+96	10	T117	0	Two adults
+96	30	T118	15	four local boys
+103	10	T119	0	one worker
+103	47	T120	34	the other one
+105	9	T121	0	backwater
+106	7	T122	0	two men
+106	30	T123	24	a lawn
+107	11	T124	0	School kids
+108	10	T125	0	one person
+109	21	T126	0	two light blue houses
+109	51	T127	41	steep hill
+110	7	T128	0	a woman
+110	27	T129	22	table
+111	20	T130	10	many books
+112	10	T131	0	two people
+112	47	T132	37	six others
+113	82	T133	75	the one
+114	16	T134	0	four school kids
+115	9	T135	0	more kids
+115	34	T136	30	some
+115	74	T137	68	others
+118	10	T138	0	five women
+118	84	T139	81	two
+118	119	T140	116	one
+119	11	T141	0	Santa Claus
+120	7	T142	0	a woman
+121	20	T143	0	Three social workers
+121	45	T144	31	ten local kids
+124	7	T145	0	one kid
+128	12	T146	0	A school kid
+129	16	T147	0	three other kids
+130	13	T148	0	Four tourists
+131	9	T149	0	two women
+132	11	T150	0	another one
+133	11	T151	4	one man
+135	15	T152	0	the school kids
+136	19	T153	7	the tourists
+137	11	T154	0	Three women
+137	41	T155	27	a wooden bench
+140	7	T156	0	one man
+141	13	T157	0	a wooden door
+142	35	T158	26	some kids
+142	67	T159	61	others
+143	8	T160	0	two kids
+144	22	T161	11	wooden wall
+145	27	T162	16	plastic bag
+145	52	T163	33	four packs of pasta
+145	63	T164	55	a folder
+145	90	T165	78	a small book
+145	107	T166	95	cacao powder
+146	31	T167	20	empty table
+147	8	T168	0	six kids
+148	7	T169	0	one kid
+149	38	T170	27	plastic bag
+150	14	T171	0	three tourists
+151	23	T172	17	houses
+152	17	T173	0	red roofed houses
+152	49	T174	43	a hill
+152	66	T175	54	rugged rocks
+153	46	T176	32	three tourists
+154	18	T177	0	a basketball court
+154	51	T178	44	one kid
+155	16	T179	0	a large mountain
+155	42	T180	32	background
+156	14	T181	0	Lots of locals
+157	7	T182	0	one kid
+158	34	T183	26	a basket
+159	6	T184	0	others
+160	32	T185	10	snow covered mountains
+160	58	T186	48	background
+161	28	T187	10	two social workers
+164	47	T188	33	another worker
+165	25	T189	10	many newspapers
+167	49	T190	39	a mountain
+169	5	T191	0	a car
+169	31	T192	20	another man
+170	8	T193	0	a street
+170	39	T194	28	some houses
+170	49	T195	43	a hill
+171	12	T196	0	Six tourists
+171	48	T197	38	blackboard
+173	10	T198	0	local kids
+175	17	T199	10	posters
+175	30	T200	22	pictures
+175	42	T201	34	the wall
+176	24	T202	13	wooden desk
+176	56	T203	29	two red and two blue chairs
+176	81	T204	69	a green wall
+177	43	T205	36	drawers
+178	44	T206	28	the construction
+180	20	T207	8	wooden walls
+180	44	T208	36	the wall
+181	8	T209	0	tourists
+182	45	T210	35	other kids
+183	17	T211	10	posters
+183	30	T212	22	pictures
+183	42	T213	34	the wall
+184	6	T214	0	Pupils
+184	40	T215	28	wooden desks
+187	14	T216	0	red brick wall
+187	26	T217	19	windows
+189	8	T218	0	children
+191	17	T219	10	posters
+191	26	T220	22	maps
+191	38	T221	30	the wall
+196	18	T222	9	a picture
+196	30	T223	22	the wall
+196	71	T224	60	an old lady
+197	35	T225	23	the wreckage
+198	36	T226	21	elevated houses
+199	10	T227	0	Six pupils
+200	8	T228	0	pictures
+200	19	T229	13	comics
+200	31	T230	23	the wall
+201	9	T231	0	car tyres
+202	9	T232	0	a teacher
+202	30	T233	21	50 pupils
+204	12	T234	0	small bushes
+204	26	T235	17	two trees
+205	6	T236	0	a lake
+206	69	T237	65	nine
+206	100	T238	97	ten
+207	31	T239	24	a fruit
+208	12	T240	0	a blackboard
+209	7	T241	0	one kid
+210	32	T242	23	the pupil
+211	8	T243	0	one girl
+211	46	T244	35	another one
+211	126	T245	117	a picture
+212	7	T246	0	shelves
+212	19	T247	12	posters
+213	8	T248	0	children
+213	61	T249	52	a tourist
+214	14	T250	0	three children
+215	21	T251	10	two posters
+215	33	T252	25	the wall
+215	72	T253	61	a bookshelf
+216	70	T254	57	the volunteer
+217	12	T255	0	several kids
+218	7	T256	0	one kid
+219	27	T257	15	round tables
+219	44	T258	32	wooden desks
+221	15	T259	0	school children
+222	34	T260	27	a table
+222	56	T261	40	school equipment
+223	7	T262	0	the kid
+224	8	T263	0	tourists
+224	48	T264	34	the blackboard
+224	78	T265	70	the kids
+225	16	T266	9	a clock
+225	60	T267	49	the letters
+225	150	T268	137	the side wall
+226	68	T269	55	a little girl
+227	8	T270	0	Children
+228	23	T271	9	a large window
+228	38	T272	26	a blackboard
+228	50	T273	43	a shelf
+229	15	T274	9	a wall
+229	57	T275	49	a poster
+229	74	T276	62	Minnie Mouse
+230	73	T277	61	brown bricks
+230	105	T278	96	the wires
+231	12	T279	0	a few pupils
+232	14	T280	8	a city
+233	6	T281	0	bushes
+233	15	T282	9	houses
+233	25	T283	20	roofs
+234	15	T284	0	an overcast sky
+235	8	T285	0	tourists
+238	8	T286	0	tourists
+238	48	T287	34	the blackboard
+239	12	T288	4	the kids
+240	16	T289	9	a clock
+240	60	T290	49	the letters
+240	150	T291	137	the side wall
+241	84	T292	73	the workers
+242	10	T293	0	many wires
+243	10	T294	0	one person
+244	12	T295	0	many pallets
+245	12	T296	0	Excited kids
+245	40	T297	29	their desks
+247	18	T298	10	pictures
+247	39	T299	31	the wall
+248	27	T300	15	an open book
+249	101	T301	93	a window
+250	9	T302	0	one block
+251	13	T303	0	another house
+252	8	T304	0	tourists
+253	16	T305	9	a clock
+253	32	T306	21	the writing
+254	8	T307	0	Tourists
+256	45	T308	40	doors
+258	11	T309	0	school kids
+259	11	T310	0	one tourist
+260	9	T311	0	some kids
+262	32	T312	17	dark-haired boy
+263	9	T313	0	a teacher
+263	24	T314	14	other kids
+263	68	T315	54	a large window
+264	96	T316	82	three pictures
+264	121	T317	111	a USA flag
+266	33	T318	17	dark-haired girl
+268	33	T319	17	dark-haired girl
+270	32	T320	17	dark-haired boy
+271	32	T321	17	dark-haired boy
+272	33	T322	16	dark-skinned girl
+273	32	T323	17	dark-haired boy
+276	10	T324	0	handprints
+276	22	T325	14	the wall
+278	18	T326	0	a dark-haired baby
+280	10	T327	0	handprints
+280	22	T328	14	the wall
+281	32	T329	17	dark-haired boy
+283	33	T330	17	dark-haired girl
+284	23	T331	9	a white bucket
+285	33	T332	17	dark-haired girl
+286	8	T333	0	pictures
+286	25	T334	21	wall
+289	10	T335	0	handprints
+289	22	T336	14	the wall
+290	98	T337	86	index finger
+291	17	T338	6	school kids
+291	45	T339	33	their tables
+291	70	T340	58	a blackboard
+292	33	T341	17	dark-haired girl
+294	33	T342	17	dark-haired girl
+294	104	T343	98	a desk
+296	32	T344	17	dark-haired boy
+297	33	T345	17	dark-haired girl
+298	20	T346	0	colourful handprints
+298	32	T347	24	the wall
+299	32	T348	17	dark-haired boy
+300	20	T349	0	colourful handprints
+300	32	T350	24	the wall
+301	33	T351	17	dark-haired girl
+302	33	T352	17	dark-haired girl
+303	6	T353	0	a wall
+304	32	T354	17	dark-haired boy
+305	33	T355	17	dark-haired girl
+306	33	T356	17	dark-haired girl
+307	8	T357	0	boulders
+308	33	T358	17	dark-haired girl
+309	8	T359	0	boulders
+310	33	T360	17	dark-haired girl
+311	6	T361	0	a wall
+312	10	T362	0	USA jumper
+312	64	T363	51	Olympic rings
+313	32	T364	17	dark-haired boy
+314	32	T365	17	dark-haired boy
+314	89	T366	83	a desk
+316	32	T367	17	dark-haired boy
+317	32	T368	17	dark-haired boy
+318	33	T369	17	dark-haired girl
+318	73	T370	67	a desk
+319	33	T371	17	dark-haired girl
+320	32	T372	17	dark-haired boy
+321	32	T373	18	his classmates
+322	33	T374	17	dark-haired girl
+323	41	T375	28	comic figures
+323	23	T376	14	more kids
+323	53	T377	45	the wall
+325	33	T378	17	dark-haired girl
+326	33	T379	17	dark-haired girl
+327	32	T380	17	dark-haired boy
+328	16	T381	5	brick walls
+328	29	T382	21	blue sky
+329	33	T383	17	dark-haired girl
+329	68	T384	62	a desk
+330	16	T385	11	walls
+331	15	T386	0	a cardboard box
+331	46	T387	31	the sandy floor
+332	33	T388	17	dark-haired girl
+333	32	T389	17	dark-haired boy
+334	32	T390	17	dark-haired boy
+335	32	T391	17	dark-haired boy
+336	5	T392	0	a man
+337	32	T393	17	dark-haired boy
+337	76	T394	68	his desk
+338	9	T395	0	more kids
+339	32	T396	17	dark-haired boy
+339	78	T397	72	a desk
+340	6	T398	0	a girl
+340	48	T399	37	another one
+341	33	T400	17	dark-haired girl
+341	129	T401	113	a red brick-wall
+342	32	T402	17	dark-haired boy
+343	13	T403	9	boys
+344	33	T404	17	dark-haired girl
+344	111	T405	103	her desk
+345	9	T406	0	some kids
+346	33	T407	17	dark-haired girl
+346	75	T408	69	a desk
+347	11	T409	0	some sheets
+347	42	T410	34	the desk
+348	32	T411	17	dark-haired boy
+349	4	T412	0	kids
+349	26	T413	16	their desk
+350	32	T414	17	dark-haired boy
+351	6	T415	0	a girl
+351	27	T416	21	a desk
+352	17	T417	4	comic figures
+352	29	T418	21	the wall
+353	33	T419	17	dark-haired girl
+354	26	T420	18	a bottle
+354	61	T421	55	a desk
+355	16	T422	0	a red brick wall
+356	33	T423	17	dark-haired girl
+356	115	T424	109	a desk
+356	136	T425	120	a red brick wall
+357	32	T426	17	dark-haired boy
+357	54	T427	49	shirt
+358	10	T428	0	other kids
+359	33	T429	17	dark-haired girl
+359	76	T430	68	her desk
+360	32	T431	17	dark-haired boy
+360	94	T432	85	two desks
+361	17	T433	9	a poster
+361	39	T434	21	the red brick wall
+363	101	T435	89	a yellow hat
+363	81	T436	65	a white elephant
+364	7	T437	0	the boy
+364	30	T438	22	his desk
+365	8	T439	0	two kids
+366	19	T440	0	writing bienvenidos
+367	32	T441	17	dark-haired boy
+367	85	T442	79	a desk
+368	8	T443	0	a poster
+368	28	T444	12	a red brick wall
+369	9	T445	0	a picture
+370	51	T446	47	an A
+372	5	T447	0	grass
+372	14	T448	8	stones
+372	31	T449	24	garbage
+373	33	T450	17	dark-haired girl
+373	55	T451	42	a white shirt
+374	20	T452	10	other kids
+375	33	T453	17	dark-haired girl
+375	55	T454	42	a white shirt
+376	9	T455	0	more kids
+377	32	T456	17	dark-haired boy
+378	6	T457	0	a girl
+378	29	T458	21	her desk
+379	16	T459	0	comic characters
+379	28	T460	20	the wall
+380	33	T461	17	dark-haired girl
+381	32	T462	17	dark-haired boy
+381	76	T463	68	his desk
+382	11	T464	0	another kid
+383	33	T465	17	dark-haired girl
+383	76	T466	68	her desk
+384	33	T467	17	dark-haired girl
+385	13	T468	0	one more girl
+386	33	T469	17	dark-haired girl
+386	77	T470	69	her desk
+387	32	T471	17	dark-haired boy
+387	156	T472	148	his desk
+388	33	T473	17	dark-haired girl
+388	72	T474	66	a desk
+389	33	T475	17	dark-haired girl
+389	150	T476	138	other pupils
+390	21	T477	9	a blackboard
+391	32	T478	17	dark-haired boy
+392	9	T479	0	some kids
+393	32	T480	17	dark-haired boy
+394	19	T481	0	a dark-skinned girl
+395	16	T482	11	a boy
+396	12	T483	0	a blackboard
+396	26	T484	17	more kids
+396	48	T485	38	their desk
+397	32	T486	0	a dark-haired , dark-skinned boy
+397	72	T487	64	his desk
+398	11	T488	0	some sheets
+399	9	T489	0	more kids
+400	33	T490	17	dark-haired girl
+401	8	T491	0	one girl
+402	10	T492	0	other kids
+402	36	T493	26	their desk
+403	14	T494	0	red brick wall
+404	32	T495	17	dark-haired boy
+405	9	T496	0	more kids
+405	27	T497	14	comic figures
+405	37	T498	31	a wall
+406	32	T499	17	dark-haired boy
+407	9	T500	0	more kids
+407	24	T501	13	their desks
+408	17	T502	5	a blackboard
+409	19	T503	0	a dark-skinned girl
+410	9	T504	0	four kids
+410	57	T505	54	her
+411	32	T506	17	dark-haired boy
+412	9	T507	0	some kids
+412	53	T508	47	others
+413	26	T509	14	a blackboard
+414	30	T510	15	dark-haired boy
+415	13	T511	0	several desks
+415	29	T512	16	two more kids
+415	46	T513	34	a blackboard
+416	19	T514	0	a dark-skinned girl
+417	3	T515	0	boy
+418	9	T516	0	more kids
+418	24	T517	13	their desks
+419	19	T518	0	a dark-skinned girl
+420	12	T519	0	a blackboard
+420	26	T520	17	more kids
+420	49	T521	38	their desks
+421	33	T522	0	a dark-haired , dark-skinned girl
+422	9	T523	0	more kids
+422	26	T524	14	a blackboard
+425	4	T525	0	sand
+425	13	T526	7	stones
+425	23	T527	18	rocks
+428	4	T528	0	sand
+428	13	T529	7	stones
+428	23	T530	18	rocks
+429	5	T531	0	a boy
+430	4	T532	0	sand
+430	14	T533	9	rocks
+432	6	T534	0	stones
+432	16	T535	11	rocks
+433	5	T536	0	hills
+433	31	T537	21	background
+436	8	T538	0	boulders
+437	19	T539	0	a dark-skinned girl
+441	5	T540	0	rocks
+442	32	T541	16	dark-skinned boy
+443	10	T542	0	other kids
+443	49	T543	37	a blackboard
+443	32	T544	22	their desk
+444	5	T545	0	a boy
+445	4	T546	0	sand
+445	13	T547	7	stones
+445	26	T548	18	boulders
+446	31	T549	15	dark-haired girl
+447	10	T550	0	blackboard
+447	22	T551	15	teacher
+448	35	T552	19	dark-haired girl
+449	17	T553	0	a grown-up's hand
+450	9	T554	0	more kids
+450	40	T555	28	a blackboard
+451	30	T556	14	dark-skinned boy
+452	9	T557	0	more kids
+452	26	T558	14	a blackboard
+453	31	T559	15	dark-haired girl
+454	4	T560	0	sand
+454	13	T561	7	stones
+454	23	T562	18	rocks
+455	32	T563	16	dark-skinned boy
+456	10	T564	0	blackboard
+456	19	T565	15	kids
+457	32	T566	0	a dark-skinned , dark-haired boy
+458	9	T567	0	more kids
+458	49	T568	37	a blackboard
+459	32	T569	16	dark-skinned boy
+459	117	T570	108	the desks
+460	8	T571	0	one girl
+461	11	T572	0	another kid
+462	9	T573	0	more kids
+464	41	T574	29	yellow plane
+465	15	T575	0	sandy landscape
+467	4	T576	0	sand
+467	14	T577	9	rocks
+469	15	T578	0	sandy landscape
+471	12	T579	0	rocky desert
+472	6	T580	0	a girl
+473	5	T581	0	rocks
+475	4	T582	0	sand
+475	20	T583	9	some stones
+479	18	T584	0	a couple of bushes
+479	29	T585	23	houses
+485	76	T586	58	a green woodpecker
+486	32	T587	0	a dark-haired , dark-skinned boy
+488	9	T588	0	grey wall
+488	64	T589	55	some wood
+488	49	T590	36	reddish house
+489	17	T591	0	a dark-haired boy
+493	6	T592	0	houses
+493	16	T593	11	trees
+494	17	T594	0	a dark-haired boy
+495	32	T595	0	a dark-skinned , dark-haired boy
+496	21	T596	9	a grey house
+497	12	T597	0	some garbage
+499	12	T598	0	three houses
+500	17	T599	0	a couple of rocks
+500	48	T600	38	the meadow
+501	18	T601	0	a dark-skinned boy
+501	131	T602	121	the meadow
+502	10	T603	0	some rocks
+502	21	T604	15	stones
+503	33	T605	0	a dark-skinned , dark-haired girl
+503	98	T606	90	a meadow
+504	33	T607	16	dark-skinned girl
+505	11	T608	0	some dowels
+506	32	T609	16	dark-skinned boy
+506	77	T610	65	a white bear
+507	12	T611	0	some garbage
+510	11	T612	0	short grass
+510	28	T613	16	some garbage
+511	76	T614	64	a white vest
+512	33	T615	0	a dark-skinned , dark-haired girl
+513	33	T616	17	dark-haired girl
+513	137	T617	125	the backyard
+513	87	T618	78	pink vest
+514	72	T619	56	a white pullover
+515	17	T620	0	a grey brick wall
+515	33	T621	22	short grass
+517	17	T622	0	a grey brick wall
+517	33	T623	22	short grass
+519	12	T624	0	a grey house
+519	28	T625	17	short grass
+521	10	T626	0	two houses
+522	11	T627	0	short grass
+522	33	T628	21	large stones
+524	37	T629	26	short grass
+525	32	T630	17	dark-haired boy
+528	8	T631	0	blue sky
+529	33	T632	0	a dark-skinned , dark-haired girl
+529	147	T633	135	the backyard
+530	21	T634	0	a white painted house
+531	27	T635	14	a plastic bag
+534	34	T636	23	a few trees
+534	53	T637	43	background
+534	74	T638	64	background
+536	40	T639	25	dark-haired boy
+538	11	T640	0	short grass
+538	28	T641	16	some garbage
+540	11	T642	0	short grass
+542	11	T643	0	short grass
+543	17	T644	0	a dark-haired boy
+544	27	T645	19	a sunset
+545	33	T646	17	dark-haired girl
+546	27	T647	19	a sunset
+547	18	T648	0	a dark-skinned boy
+547	146	T649	126	children's paintings
+548	32	T650	16	dark-skinned boy
+549	33	T651	17	dark-haired girl
+550	33	T652	17	dark-haired girl
+551	18	T653	0	a dark-skinned boy
+552	18	T654	0	a dark-skinned boy
+553	18	T655	0	a dark-skinned boy
+553	191	T656	180	a black bag
+553	69	T657	50	white striped shirt
+554	18	T658	0	a dark-skinned boy
+555	18	T659	0	a dark-skinned boy
+557	20	T660	0	very rocky landscape
+558	54	T661	38	a mountain range
+558	22	T662	14	one roof
+559	18	T663	0	a dark-skinned boy
+559	104	T664	95	his hands
+560	5	T665	0	a boy
+560	135	T666	126	his hands
+561	14	T667	0	thatched roofs
+562	19	T668	0	a dark-skinned girl
+563	19	T669	0	a dark-skinned girl
+564	33	T670	17	dark-haired girl
+565	32	T671	0	a dark-skinned , dark-haired boy
+566	18	T672	0	a dark-skinned boy
+568	29	T673	8	black and red saurian
+568	59	T674	46	black saurian
+569	47	T675	37	wooden bed
+570	25	T676	9	a wooden commode
+570	38	T677	30	a mirror
+570	75	T678	62	bedside table
+570	124	T679	114	a huge fan
+571	5	T680	0	a man
+572	25	T681	13	a wooden bed
+573	44	T682	31	a wooden desk
+573	55	T683	49	a vase
+574	27	T684	9	a black brief-case
+574	79	T685	70	a picture
+575	10	T686	0	a blue bus
+576	16	T687	10	stairs
+577	15	T688	10	flags
+577	26	T689	20	a lamp
+578	34	T690	24	a fountain
+578	50	T691	39	flower pots
+579	37	T692	24	the courtyard
+580	16	T693	5	flower pots
+581	103	T694	90	a night table
+582	29	T695	13	a wooden commode
+582	45	T696	34	a red chair
+583	8	T697	0	a window
+585	23	T698	9	a wooden table
+585	44	T699	28	a wooden commode
+586	5	T700	0	a bed
+587	17	T701	0	two red armchairs
+587	36	T702	23	a round table
+589	84	T703	74	flower pot
+590	55	T704	41	two palm trees
+590	63	T705	58	lamps
+590	73	T706	68	flags
+591	8	T707	0	blue sky
+592	73	T708	61	the entrance
+592	138	T709	121	two small windows
+593	16	T710	9	an arch
+594	15	T711	0	attached houses
+595	8	T712	0	blue sky
+596	158	T713	144	a bedside lamp
+598	10	T714	0	Five flags
+598	31	T715	15	a cobbled street
+600	15	T716	0	a swimming pool

@@ -1,0 +1,717 @@
+1 About 20 kids
+2 a house
+2 a green wall
+3 a sign
+4 a rock hole
+5 the other one
+6 a yellow building
+7 two palm trees
+8 cars
+9 a woman
+9 a child
+10 a large building
+10 a palm tree
+10 white cars
+11 red umbrellas
+12 people
+12 others
+12 road
+13 a white , large statue
+15 bushes
+15 small trees
+16 street
+17 white clouds
+19 high-rise buildings
+19 a stadium
+20 a cascading waterfall
+21 pool
+22 a man
+22 a woman
+22 a lookout
+23 green trees
+23 black rocks
+23 a grey sky
+24 giant , thunderous waterfalls
+25 white clouds
+25 sky
+27 a blue sky
+28 A narrow , rising street
+28 a green house
+28 a white car
+28 a blue-and-white church
+29 one car
+30 a few people
+30 a large thundercloud
+31 church towers with pinnacles
+33 a cross
+34 alleys
+35 the towers
+35 rest
+36 the two towers
+36 the rest
+37 the old town
+39 some clouds
+40 people
+40 palm trees
+42 the Paraguayan flag
+43 dark palms
+43 blue sky
+44 steam ship
+45 the flag
+46 a blue sky
+47 a blue sky
+49 trees
+50 Four locals
+50 a bench
+53 a gate
+53 towers
+54 dark trees
+54 a blue sky
+55 the cathedral
+56 a cross
+57 a clock
+58 streetlamps
+59 bells
+60 a fountain
+60 cobbled walkway
+60 buidling
+61 trees
+62 a white building
+62 a neat lawn
+62 trees
+62 bushes
+63 the flag
+64 a flower bed
+66 stairs
+68 huge column
+69 rails
+70 a green tree
+71 large shops
+71 smaller shops
+72 people
+73 cars
+74 yellow taxis
+75 some drivers
+76 green trees
+77 a swimming pool
+77 sun chairs
+77 a terrace
+78 a flat landscape
+78 houses
+79 Several flagpoles
+79 a green lawn
+80 a large grey and black building
+81 a football
+81 column
+82 a blue sky
+84 water
+85 backwater
+86 green reed
+87 Rock singer
+89 crowd
+90 Group of tourists
+92 three locals
+93 country house
+94 some rocks
+95 a gravel road
+96 Two adults
+96 four local boys
+103 one worker
+103 the other one
+105 backwater
+106 two men
+106 a lawn
+107 School kids
+108 one person
+109 two light blue houses
+109 steep hill
+110 a woman
+110 table
+111 many books
+112 two people
+112 six others
+113 the one
+114 four school kids
+115 more kids
+115 some
+115 others
+118 five women
+118 two
+118 one
+119 Santa Claus
+120 a woman
+121 Three social workers
+121 ten local kids
+124 one kid
+128 A school kid
+129 three other kids
+130 Four tourists
+131 two women
+132 another one
+133 one man
+135 the school kids
+136 the tourists
+137 Three women
+137 a wooden bench
+140 one man
+141 a wooden door
+142 some kids
+142 others
+143 two kids
+144 wooden wall
+145 plastic bag
+145 four packs of pasta
+145 a folder
+145 a small book
+145 cacao powder
+146 empty table
+147 six kids
+148 one kid
+149 plastic bag
+150 three tourists
+151 houses
+152 red roofed houses
+152 a hill
+152 rugged rocks
+153 three tourists
+154 a basketball court
+154 one kid
+155 a large mountain
+155 background
+156 Lots of locals
+157 one kid
+158 a basket
+159 others
+160 snow covered mountains
+160 background
+161 two social workers
+164 another worker
+165 many newspapers
+167 a mountain
+169 a car
+169 another man
+170 a street
+170 some houses
+170 a hill
+171 Six tourists
+171 blackboard
+173 local kids
+175 posters
+175 pictures
+175 the wall
+176 wooden desk
+176 two red and two blue chairs
+176 a green wall
+177 drawers
+178 the construction
+180 wooden walls
+180 the wall
+181 tourists
+182 other kids
+183 posters
+183 pictures
+183 the wall
+184 Pupils
+184 wooden desks
+187 red brick wall
+187 windows
+189 children
+191 posters
+191 maps
+191 the wall
+196 a picture
+196 the wall
+196 an old lady
+197 the wreckage
+198 elevated houses
+199 Six pupils
+200 pictures
+200 comics
+200 the wall
+201 car tyres
+202 a teacher
+202 50 pupils
+204 small bushes
+204 two trees
+205 a lake
+206 nine
+206 ten
+207 a fruit
+208 a blackboard
+209 one kid
+210 the pupil
+211 one girl
+211 another one
+211 a picture
+212 shelves
+212 posters
+213 children
+213 a tourist
+214 three children
+215 two posters
+215 the wall
+215 a bookshelf
+216 the volunteer
+217 several kids
+218 one kid
+219 round tables
+219 wooden desks
+221 school children
+222 a table
+222 school equipment
+223 the kid
+224 tourists
+224 the blackboard
+224 the kids
+225 a clock
+225 the letters
+225 the side wall
+226 a little girl
+227 Children
+228 a large window
+228 a blackboard
+228 a shelf
+229 a wall
+229 a poster
+229 Minnie Mouse
+230 brown bricks
+230 the wires
+231 a few pupils
+232 a city
+233 bushes
+233 houses
+233 roofs
+234 an overcast sky
+235 tourists
+238 tourists
+238 the blackboard
+239 the kids
+240 a clock
+240 the letters
+240 the side wall
+241 the workers
+242 many wires
+243 one person
+244 many pallets
+245 Excited kids
+245 their desks
+247 pictures
+247 the wall
+248 an open book
+249 a window
+250 one block
+251 another house
+252 tourists
+253 a clock
+253 the writing
+254 Tourists
+256 doors
+258 school kids
+259 one tourist
+260 some kids
+262 dark-haired boy
+263 a teacher
+263 other kids
+263 a large window
+264 three pictures
+264 a USA flag
+266 dark-haired girl
+268 dark-haired girl
+270 dark-haired boy
+271 dark-haired boy
+272 dark-skinned girl
+273 dark-haired boy
+276 handprints
+276 the wall
+278 a dark-haired baby
+280 handprints
+280 the wall
+281 dark-haired boy
+283 dark-haired girl
+284 a white bucket
+285 dark-haired girl
+286 pictures
+286 wall
+289 handprints
+289 the wall
+290 index finger
+291 school kids
+291 their tables
+291 a blackboard
+292 dark-haired girl
+294 dark-haired girl
+294 a desk
+296 dark-haired boy
+297 dark-haired girl
+298 colourful handprints
+298 the wall
+299 dark-haired boy
+300 colourful handprints
+300 the wall
+301 dark-haired girl
+302 dark-haired girl
+303 a wall
+304 dark-haired boy
+305 dark-haired girl
+306 dark-haired girl
+307 boulders
+308 dark-haired girl
+309 boulders
+310 dark-haired girl
+311 a wall
+312 USA jumper
+312 Olympic rings
+313 dark-haired boy
+314 dark-haired boy
+314 a desk
+316 dark-haired boy
+317 dark-haired boy
+318 dark-haired girl
+318 a desk
+319 dark-haired girl
+320 dark-haired boy
+321 his classmates
+322 dark-haired girl
+323 comic figures
+323 more kids
+323 the wall
+325 dark-haired girl
+326 dark-haired girl
+327 dark-haired boy
+328 brick walls
+328 blue sky
+329 dark-haired girl
+329 a desk
+330 walls
+331 a cardboard box
+331 the sandy floor
+332 dark-haired girl
+333 dark-haired boy
+334 dark-haired boy
+335 dark-haired boy
+336 a man
+337 dark-haired boy
+337 his desk
+338 more kids
+339 dark-haired boy
+339 a desk
+340 a girl
+340 another one
+341 dark-haired girl
+341 a red brick-wall
+342 dark-haired boy
+343 boys
+344 dark-haired girl
+344 her desk
+345 some kids
+346 dark-haired girl
+346 a desk
+347 some sheets
+347 the desk
+348 dark-haired boy
+349 kids
+349 their desk
+350 dark-haired boy
+351 a girl
+351 a desk
+352 comic figures
+352 the wall
+353 dark-haired girl
+354 a bottle
+354 a desk
+355 a red brick wall
+356 dark-haired girl
+356 a desk
+356 a red brick wall
+357 dark-haired boy
+357 shirt
+358 other kids
+359 dark-haired girl
+359 her desk
+360 dark-haired boy
+360 two desks
+361 a poster
+361 the red brick wall
+363 a yellow hat
+363 a white elephant
+364 the boy
+364 his desk
+365 two kids
+366 writing bienvenidos
+367 dark-haired boy
+367 a desk
+368 a poster
+368 a red brick wall
+369 a picture
+370 an A
+372 grass
+372 stones
+372 garbage
+373 dark-haired girl
+373 a white shirt
+374 other kids
+375 dark-haired girl
+375 a white shirt
+376 more kids
+377 dark-haired boy
+378 a girl
+378 her desk
+379 comic characters
+379 the wall
+380 dark-haired girl
+381 dark-haired boy
+381 his desk
+382 another kid
+383 dark-haired girl
+383 her desk
+384 dark-haired girl
+385 one more girl
+386 dark-haired girl
+386 her desk
+387 dark-haired boy
+387 his desk
+388 dark-haired girl
+388 a desk
+389 dark-haired girl
+389 other pupils
+390 a blackboard
+391 dark-haired boy
+392 some kids
+393 dark-haired boy
+394 a dark-skinned girl
+395 a boy
+396 a blackboard
+396 more kids
+396 their desk
+397 a dark-haired , dark-skinned boy
+397 his desk
+398 some sheets
+399 more kids
+400 dark-haired girl
+401 one girl
+402 other kids
+402 their desk
+403 red brick wall
+404 dark-haired boy
+405 more kids
+405 comic figures
+405 a wall
+406 dark-haired boy
+407 more kids
+407 their desks
+408 a blackboard
+409 a dark-skinned girl
+410 four kids
+410 her
+411 dark-haired boy
+412 some kids
+412 others
+413 a blackboard
+414 dark-haired boy
+415 several desks
+415 two more kids
+415 a blackboard
+416 a dark-skinned girl
+417 boy
+418 more kids
+418 their desks
+419 a dark-skinned girl
+420 a blackboard
+420 more kids
+420 their desks
+421 a dark-haired , dark-skinned girl
+422 more kids
+422 a blackboard
+425 sand
+425 stones
+425 rocks
+428 sand
+428 stones
+428 rocks
+429 a boy
+430 sand
+430 rocks
+432 stones
+432 rocks
+433 hills
+433 background
+436 boulders
+437 a dark-skinned girl
+441 rocks
+442 dark-skinned boy
+443 other kids
+443 a blackboard
+443 their desk
+444 a boy
+445 sand
+445 stones
+445 boulders
+446 dark-haired girl
+447 blackboard
+447 teacher
+448 dark-haired girl
+449 a grown-up's hand
+450 more kids
+450 a blackboard
+451 dark-skinned boy
+452 more kids
+452 a blackboard
+453 dark-haired girl
+454 sand
+454 stones
+454 rocks
+455 dark-skinned boy
+456 blackboard
+456 kids
+457 a dark-skinned , dark-haired boy
+458 more kids
+458 a blackboard
+459 dark-skinned boy
+459 the desks
+460 one girl
+461 another kid
+462 more kids
+464 yellow plane
+465 sandy landscape
+467 sand
+467 rocks
+469 sandy landscape
+471 rocky desert
+472 a girl
+473 rocks
+475 sand
+475 some stones
+479 a couple of bushes
+479 houses
+485 a green woodpecker
+486 a dark-haired , dark-skinned boy
+488 grey wall
+488 some wood
+488 reddish house
+489 a dark-haired boy
+493 houses
+493 trees
+494 a dark-haired boy
+495 a dark-skinned , dark-haired boy
+496 a grey house
+497 some garbage
+499 three houses
+500 a couple of rocks
+500 the meadow
+501 a dark-skinned boy
+501 the meadow
+502 some rocks
+502 stones
+503 a dark-skinned , dark-haired girl
+503 a meadow
+504 dark-skinned girl
+505 some dowels
+506 dark-skinned boy
+506 a white bear
+507 some garbage
+510 short grass
+510 some garbage
+511 a white vest
+512 a dark-skinned , dark-haired girl
+513 dark-haired girl
+513 the backyard
+513 pink vest
+514 a white pullover
+515 a grey brick wall
+515 short grass
+517 a grey brick wall
+517 short grass
+519 a grey house
+519 short grass
+521 two houses
+522 short grass
+522 large stones
+524 short grass
+525 dark-haired boy
+528 blue sky
+529 a dark-skinned , dark-haired girl
+529 the backyard
+530 a white painted house
+531 a plastic bag
+534 a few trees
+534 background
+534 background
+536 dark-haired boy
+538 short grass
+538 some garbage
+540 short grass
+542 short grass
+543 a dark-haired boy
+544 a sunset
+545 dark-haired girl
+546 a sunset
+547 a dark-skinned boy
+547 children's paintings
+548 dark-skinned boy
+549 dark-haired girl
+550 dark-haired girl
+551 a dark-skinned boy
+552 a dark-skinned boy
+553 a dark-skinned boy
+553 a black bag
+553 white striped shirt
+554 a dark-skinned boy
+555 a dark-skinned boy
+557 very rocky landscape
+558 a mountain range
+558 one roof
+559 a dark-skinned boy
+559 his hands
+560 a boy
+560 his hands
+561 thatched roofs
+562 a dark-skinned girl
+563 a dark-skinned girl
+564 dark-haired girl
+565 a dark-skinned , dark-haired boy
+566 a dark-skinned boy
+568 black and red saurian
+568 black saurian
+569 wooden bed
+570 a wooden commode
+570 a mirror
+570 bedside table
+570 a huge fan
+571 a man
+572 a wooden bed
+573 a wooden desk
+573 a vase
+574 a black brief-case
+574 a picture
+575 a blue bus
+576 stairs
+577 flags
+577 a lamp
+578 a fountain
+578 flower pots
+579 the courtyard
+580 flower pots
+581 a night table
+582 a wooden commode
+582 a red chair
+583 a window
+585 a wooden table
+585 a wooden commode
+586 a bed
+587 two red armchairs
+587 a round table
+589 flower pot
+590 two palm trees
+590 lamps
+590 flags
+591 blue sky
+592 the entrance
+592 two small windows
+593 an arch
+594 attached houses
+595 blue sky
+596 a bedside lamp
+598 Five flags
+598 a cobbled street
+600 a swimming pool
+

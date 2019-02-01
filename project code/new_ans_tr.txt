@@ -1,0 +1,2924 @@
+<TRAJECTOR id="T1" start="32" end="42" text="two people"/>
+
+behind it a bar with chairs and two people , and a bench with one person lying on it . 
+
+<TRAJECTOR id="T2" start="17" end="22" text="doors"/>
+
+upper level with doors and a blue rail . 
+
+<TRAJECTOR id="T3" start="144" end="156" text="a glass door"/>
+
+Interior view of a room with a large bed with red bedcovers , a white wooden desk and chair below a TV fixed in the corner , a white fridge and a glass door with a wooden frame leading onto a veranda and garden . 
+
+<TRAJECTOR id="T4" start="121" end="126" text="trees"/>
+
+a white bungalow with big windows , stairs to the left and the right , a neat lawn and flowers in front of the house and trees at the back . 
+
+<TRAJECTOR id="T5" start="20" end="32" text="a large tree"/>
+
+a white hostel with a large tree to its left and a gravel road in front of the wooden entrance . 
+
+<TRAJECTOR id="T6" start="49" end="62" text="a gravel road"/>
+
+a white hostel with a large tree to its left and a gravel road in front of the wooden entrance . 
+
+<TRAJECTOR id="T7" start="49" end="62" text="a gravel road"/>
+
+a white hostel with a large tree to its left and a gravel road in front of the wooden entrance . 
+
+<TRAJECTOR id="T8" start="34" end="52" text="a transparent roof"/>
+
+photo of an inner courtyard under a transparent roof , with a lawn and a large flower pot in the centre . 
+
+<TRAJECTOR id="T9" start="71" end="89" text="a large flower pot"/>
+
+photo of an inner courtyard under a transparent roof , with a lawn and a large flower pot in the centre . 
+
+<TRAJECTOR id="T10" start="34" end="52" text="a transparent roof"/>
+
+photo of an inner courtyard under a transparent roof , with a lawn and a large flower pot in the centre . 
+
+<TRAJECTOR id="T11" start="34" end="52" text="a transparent roof"/>
+
+photo of an inner courtyard under a transparent roof , with a lawn and a large flower pot in the centre . 
+
+<TRAJECTOR id="T12" start="34" end="52" text="a transparent roof"/>
+
+photo of an inner courtyard under a transparent roof , with a lawn and a large flower pot in the centre . 
+
+<TRAJECTOR id="T13" start="34" end="52" text="a transparent roof"/>
+
+photo of an inner courtyard under a transparent roof , with a lawn and a large flower pot in the centre . 
+
+<TRAJECTOR id="T14" start="34" end="52" text="a transparent roof"/>
+
+photo of an inner courtyard under a transparent roof , with a lawn and a large flower pot in the centre . 
+
+<TRAJECTOR id="T15" start="34" end="52" text="a transparent roof"/>
+
+photo of an inner courtyard under a transparent roof , with a lawn and a large flower pot in the centre . 
+
+<TRAJECTOR id="T16" start="93" end="105" text="a single bed"/>
+
+interior view of a room containing a double bed with a blue and white chequered bedcover and a single bed with a brownish green bedcover , with a wooden night table and a bedside lamp in between . 
+
+<TRAJECTOR id="T17" start="93" end="105" text="a single bed"/>
+
+interior view of a room containing a double bed with a blue and white chequered bedcover and a single bed with a brownish green bedcover , with a wooden night table and a bedside lamp in between . 
+
+<TRAJECTOR id="T18" start="16" end="30" text="story building"/>
+
+a green , three story building ( the upper two levels are fully visible ) with a cross on the flat roof and small windows with a white , wooden frame . 
+
+<TRAJECTOR id="T19" start="33" end="39" text="houses"/>
+
+Aerial view of seven light brown houses with black roofs on a grassy slope , connected by paved pathways . 
+
+<TRAJECTOR id="T20" start="33" end="39" text="houses"/>
+
+Aerial view of seven light brown houses with black roofs on a grassy slope , connected by paved pathways . 
+
+<TRAJECTOR id="T21" start="33" end="39" text="houses"/>
+
+Aerial view of seven light brown houses with black roofs on a grassy slope , connected by paved pathways . 
+
+<TRAJECTOR id="T22" start="24" end="37" text="a night table"/>
+
+there is a double bed , a night table and a bed lamp in the foreground . 
+
+<TRAJECTOR id="T23" start="40" end="46" text="chairs"/>
+
+there is a coffee table with a sofa and chairs around and pictures are hanging on the wall in the background . 
+
+<TRAJECTOR id="T24" start="82" end="90" text="the wall"/>
+
+there is a coffee table with a sofa and chairs around and pictures are hanging on the wall in the background . 
+
+<TRAJECTOR id="T25" start="44" end="56" text="a glass door"/>
+
+a room with white walls , two single beds , a glass door with a wooden frame and red curtains . 
+
+<TRAJECTOR id="T26" start="13" end="23" text="two chairs"/>
+
+a table with two chairs at the back ( next to a window ) . 
+
+<TRAJECTOR id="T27" start="13" end="23" text="two chairs"/>
+
+a table with two chairs at the back ( next to a window ) . 
+
+<TRAJECTOR id="T28" start="100" end="108" text="the wall"/>
+
+a photo of a room with white walls , two single beds with a night table in between and a picture on the wall above the beds . 
+
+<TRAJECTOR id="T29" start="48" end="53" text="trees"/>
+
+a neat lawn in front of the house , and lots of trees , bushes and flowers around it . 
+
+<TRAJECTOR id="T30" start="48" end="53" text="trees"/>
+
+a neat lawn in front of the house , and lots of trees , bushes and flowers around it . 
+
+<TRAJECTOR id="T31" start="23" end="29" text="bricks"/>
+
+a bungalow made of red bricks with a red roof . 
+
+<TRAJECTOR id="T32" start="25" end="39" text="story building"/>
+
+exterior view of a three story building . 
+
+<TRAJECTOR id="T33" start="77" end="87" text="each level"/>
+
+Exterior view of a four story building , with large windows and a balcony at each level . 
+
+<TRAJECTOR id="T34" start="30" end="44" text="story building"/>
+
+front view of a brown , three story building with arches on ground level , large windows on the second level and three little towers with a window each on the third level . 
+
+<TRAJECTOR id="T35" start="59" end="74" text="a huge painting"/>
+
+Front view of a light khaki house with two small windows , a huge painting on the left and an entrance on the right ( in the shade ) . 
+
+<TRAJECTOR id="T36" start="39" end="49" text="large palm"/>
+
+white hostal with three levels and two large palm trees in front of the house . 
+
+<TRAJECTOR id="T37" start="39" end="49" text="large palm"/>
+
+white hostal with three levels and two large palm trees in front of the house . 
+
+<TRAJECTOR id="T38" start="18" end="30" text="three levels"/>
+
+white hostal with three levels and two large palm trees in front of the house . 
+
+<TRAJECTOR id="T39" start="18" end="30" text="three levels"/>
+
+white hostal with three levels and two large palm trees in front of the house . 
+
+<TRAJECTOR id="T40" start="0" end="10" text="white wall"/>
+
+white wall in front of the house with an iron gate . 
+
+<TRAJECTOR id="T41" start="23" end="32" text="the house"/>
+
+white wall in front of the house with an iron gate . 
+
+<TRAJECTOR id="T42" start="50" end="55" text="trees"/>
+
+white hostal with three levels and two large palm trees in front of the house . 
+
+<TRAJECTOR id="T43" start="61" end="73" text="the entrance"/>
+
+a man in a black jacket and brown pants shovelling snow from the entrance ( with a red shovel ) . 
+
+<TRAJECTOR id="T44" start="11" end="23" text="a white door"/>
+
+behind him a white door , a large window . 
+
+<TRAJECTOR id="T45" start="26" end="40" text="a large window"/>
+
+behind him a white door , a large window . 
+
+<TRAJECTOR id="T46" start="61" end="73" text="the entrance"/>
+
+a man in a black jacket and brown pants shovelling snow from the entrance ( with a red shovel ) . 
+
+<TRAJECTOR id="T47" start="0" end="5" text="a man"/>
+
+a man in a black jacket and brown pants shovelling snow from the entrance ( with a red shovel ) . 
+
+<TRAJECTOR id="T48" start="61" end="73" text="the entrance"/>
+
+a man in a black jacket and brown pants shovelling snow from the entrance ( with a red shovel ) . 
+
+<TRAJECTOR id="T49" start="18" end="23" text="doors"/>
+
+large windows and doors on the second floor too , with a wooden rail on the balcony . 
+
+<TRAJECTOR id="T50" start="6" end="18" text="large window"/>
+
+three large window ( with hammocks in front of each the windows ) and large wooden doors next to them on the first floor . 
+
+<TRAJECTOR id="T51" start="6" end="18" text="large window"/>
+
+three large window ( with hammocks in front of each the windows ) and large wooden doors next to them on the first floor . 
+
+<TRAJECTOR id="T52" start="72" end="83" text="the balcony"/>
+
+large windows and doors on the second floor too , with a wooden rail on the balcony . 
+
+<TRAJECTOR id="T53" start="42" end="50" text="the wall"/>
+
+wooden door at the back , and a poster on the wall . 
+
+<TRAJECTOR id="T54" start="40" end="47" text="the bed"/>
+
+picture and two lamps on the wall above the bed . 
+
+<TRAJECTOR id="T55" start="0" end="28" text="a large wooden king-size bed"/>
+
+a large wooden king-size bed with a white bedcover and a wooden night table with a phone on it . 
+
+<TRAJECTOR id="T56" start="27" end="41" text="brownish hotel"/>
+
+Exterior shot of a large , brownish hotel . 
+
+<TRAJECTOR id="T57" start="27" end="41" text="brownish hotel"/>
+
+Exterior shot of a large , brownish hotel . 
+
+<TRAJECTOR id="T58" start="15" end="31" text="a large building"/>
+
+Corner view of a large building . 
+
+<TRAJECTOR id="T59" start="13" end="25" text="a flower pot"/>
+
+a table with a flower pot in the foreground . 
+
+<TRAJECTOR id="T60" start="9" end="29" text="multi-story building"/>
+
+narrow , multi-story building made of red bricks . 
+
+<TRAJECTOR id="T61" start="23" end="31" text="curtains"/>
+
+there is a window with curtains in the background . 
+
+<TRAJECTOR id="T62" start="23" end="31" text="curtains"/>
+
+there is a window with curtains in the background . 
+
+<TRAJECTOR id="T63" start="67" end="75" text="two cars"/>
+
+a grey and brown terraced house with a large , ornate entrance and two cars that are parked in front of it . 
+
+<TRAJECTOR id="T64" start="67" end="75" text="two cars"/>
+
+a grey and brown terraced house with a large , ornate entrance and two cars that are parked in front of it . 
+
+<TRAJECTOR id="T65" start="44" end="48" text="beds"/>
+
+there is a mirrow on the left , between the beds and on the left there is a of a night table . 
+
+<TRAJECTOR id="T66" start="64" end="72" text="curtains"/>
+
+and in the background on the right there is a window with white curtains . 
+
+<TRAJECTOR id="T67" start="64" end="72" text="curtains"/>
+
+and in the background on the right there is a window with white curtains . 
+
+<TRAJECTOR id="T68" start="80" end="87" text="flowers"/>
+
+a grey , multistorey building with arced windows and an entrance decorated with flowers . 
+
+<TRAJECTOR id="T69" start="9" end="29" text="multistorey building"/>
+
+a grey , multistorey building with arced windows and an entrance decorated with flowers . 
+
+<TRAJECTOR id="T70" start="9" end="13" text="beds"/>
+
+two bunk beds made of wood with multicoloured bedcover . 
+
+<TRAJECTOR id="T71" start="9" end="13" text="beds"/>
+
+two bunk beds made of wood with multicoloured bedcover . 
+
+<TRAJECTOR id="T72" start="9" end="13" text="beds"/>
+
+two bunk beds made of wood with multicoloured bedcover . 
+
+<TRAJECTOR id="T73" start="59" end="67" text="curtains"/>
+
+in the background on the right there is a window with blue curtains . 
+
+<TRAJECTOR id="T74" start="59" end="67" text="curtains"/>
+
+in the background on the right there is a window with blue curtains . 
+
+<TRAJECTOR id="T75" start="31" end="42" text="the balcony"/>
+
+a man is sitting at a table on the balcony . 
+
+<TRAJECTOR id="T76" start="31" end="42" text="the balcony"/>
+
+a man is sitting at a table on the balcony . 
+
+<TRAJECTOR id="T77" start="31" end="42" text="the balcony"/>
+
+a man is sitting at a table on the balcony . 
+
+<TRAJECTOR id="T78" start="31" end="42" text="the balcony"/>
+
+a man is sitting at a table on the balcony . 
+
+<TRAJECTOR id="T79" start="31" end="42" text="the balcony"/>
+
+a man is sitting at a table on the balcony . 
+
+<TRAJECTOR id="T80" start="31" end="42" text="the balcony"/>
+
+a man is sitting at a table on the balcony . 
+
+<TRAJECTOR id="T81" start="31" end="42" text="the balcony"/>
+
+a man is sitting at a table on the balcony . 
+
+<TRAJECTOR id="T82" start="9" end="21" text="a double bed"/>
+
+there is a double bed made of iron , light brown pillows , white bedcover and towels . 
+
+<TRAJECTOR id="T83" start="0" end="7" text="a house"/>
+
+a house made of grey bricks with wooden pillars and red rooftiles . 
+
+<TRAJECTOR id="T84" start="10" end="15" text="trees"/>
+
+there are trees on the left and right side in both the fore- and the background . 
+
+<TRAJECTOR id="T85" start="10" end="15" text="trees"/>
+
+there are trees on the left and right side in both the fore- and the background . 
+
+<TRAJECTOR id="T86" start="21" end="27" text="bricks"/>
+
+a house made of grey bricks with wooden pillars and red rooftiles . 
+
+<TRAJECTOR id="T87" start="90" end="98" text="curtains"/>
+
+there is a night table with a bedside lamp on the right , and a window with multicoloured curtains on the very right . 
+
+<TRAJECTOR id="T88" start="20" end="32" text="green window"/>
+
+a wooden house with green window frames , a small balcony on the left and a green Unmittelbare Treffer corrugated sheet roof above it . 
+
+<TRAJECTOR id="T89" start="9" end="21" text="a double bed"/>
+
+there is a double bed with a red bedcover in the centre , with an orange mosquito net above it . 
+
+<TRAJECTOR id="T90" start="36" end="46" text="a bunk bed"/>
+
+in the corner on the right there is a bunk bed made of wood , another single bed made of wood on the left , and a night table in between . 
+
+<TRAJECTOR id="T91" start="0" end="16" text="a roofed terrace"/>
+
+a roofed terrace with hammocks , wooden pillars , a wooden rail and a view onto the jungle in the background . 
+
+<TRAJECTOR id="T92" start="26" end="38" text="a single bed"/>
+
+a room with white walls , a single bed made of wood with white and violet bedcover . 
+
+<TRAJECTOR id="T93" start="69" end="77" text="curtains"/>
+
+on the left and on the right there is a window with white and violet curtains . 
+
+<TRAJECTOR id="T94" start="38" end="46" text="a window"/>
+
+on the left and on the right there is a window with white and violet curtains . 
+
+<TRAJECTOR id="T95" start="48" end="54" text="a tree"/>
+
+there is an iron fence in front of the hous and a tree on the right . 
+
+<TRAJECTOR id="T96" start="57" end="64" text="writing"/>
+
+a white , two-storey house with a big , blue Hotel Plaza writing . 
+
+<TRAJECTOR id="T97" start="10" end="26" text="two-storey house"/>
+
+a white , two-storey house with a big , blue Hotel Plaza writing . 
+
+<TRAJECTOR id="T98" start="57" end="64" text="writing"/>
+
+a white , two-storey house with a big , blue Hotel Plaza writing . 
+
+<TRAJECTOR id="T99" start="39" end="43" text="beds"/>
+
+a room made of wood with two king-size beds and a wooden night table in between with a burning lamp above it . 
+
+<TRAJECTOR id="T100" start="10" end="18" text="cactuses"/>
+
+there are cactuses on the left . 
+
+<TRAJECTOR id="T101" start="0" end="13" text="a white house"/>
+
+a white house with brown rooftiles , a lot of glass on the right and on the second floor . 
+
+<TRAJECTOR id="T102" start="130" end="134" text="beds"/>
+
+there is a couch chair and another night table with a lamp and a phone on the left , and a window with closed curtains behind the beds . 
+
+<TRAJECTOR id="T103" start="168" end="174" text="plants"/>
+
+the courtyard of a two-storey building made of red bricks , brown wooden doors and red rooftiles , a swimming pool in the centre with canvas chairs , chairs and potted plants . 
+
+<TRAJECTOR id="T104" start="17" end="38" text="a two-storey building"/>
+
+the courtyard of a two-storey building made of red bricks , brown wooden doors and red rooftiles , a swimming pool in the centre with canvas chairs , chairs and potted plants . 
+
+<TRAJECTOR id="T105" start="73" end="78" text="doors"/>
+
+the courtyard of a two-storey building made of red bricks , brown wooden doors and red rooftiles , a swimming pool in the centre with canvas chairs , chairs and potted plants . 
+
+<TRAJECTOR id="T106" start="37" end="41" text="beds"/>
+
+a room with white walls , two single beds made of wood and with golden bedcover , a night table in between and two lamps above it . 
+
+<TRAJECTOR id="T107" start="37" end="41" text="beds"/>
+
+a room with white walls , two single beds made of wood and with golden bedcover , a night table in between and two lamps above it . 
+
+<TRAJECTOR id="T108" start="35" end="42" text="a chair"/>
+
+there are a commode , a mirror and a chair in the front on the left , and behind it a window with brown curtains . 
+
+<TRAJECTOR id="T109" start="65" end="71" text="plants"/>
+
+a courtyard of a white building with a stone fountain and potted plants . 
+
+<TRAJECTOR id="T110" start="15" end="31" text="a white building"/>
+
+a courtyard of a white building with a stone fountain and potted plants . 
+
+<TRAJECTOR id="T111" start="65" end="71" text="plants"/>
+
+a courtyard of a white building with a stone fountain and potted plants . 
+
+<TRAJECTOR id="T112" start="23" end="27" text="beds"/>
+
+a room with two single beds made of wood , a colourfully chequered bedcover , in between a night table with a phone and an alarm clock and a painting on the wall above it . 
+
+<TRAJECTOR id="T113" start="23" end="27" text="beds"/>
+
+a room with two single beds made of wood , a colourfully chequered bedcover , in between a night table with a phone and an alarm clock and a painting on the wall above it . 
+
+<TRAJECTOR id="T114" start="23" end="27" text="beds"/>
+
+a room with two single beds made of wood , a colourfully chequered bedcover , in between a night table with a phone and an alarm clock and a painting on the wall above it . 
+
+<TRAJECTOR id="T115" start="26" end="31" text="trees"/>
+
+and there are a couple of trees in front of it . 
+
+<TRAJECTOR id="T116" start="31" end="43" text="the building"/>
+
+there is a penthouse on top of the building . 
+
+<TRAJECTOR id="T117" start="26" end="38" text="a double bed"/>
+
+a room with white walls , a double bed made of wood with a blue and yellow chequered bedcover and pillows . 
+
+<TRAJECTOR id="T118" start="38" end="53" text="a big palm tree"/>
+
+a courtyard with stairs on the left , a big palm tree in the centre , a few tables and chairs and a light brown house with red rooftiles in the background . 
+
+<TRAJECTOR id="T119" start="38" end="53" text="a big palm tree"/>
+
+a courtyard with stairs on the left , a big palm tree in the centre , a few tables and chairs and a light brown house with red rooftiles in the background . 
+
+<TRAJECTOR id="T120" start="38" end="53" text="a big palm tree"/>
+
+a courtyard with stairs on the left , a big palm tree in the centre , a few tables and chairs and a light brown house with red rooftiles in the background . 
+
+<TRAJECTOR id="T121" start="0" end="11" text="a courtyard"/>
+
+a courtyard with stairs on the left , a big palm tree in the centre , a few tables and chairs and a light brown house with red rooftiles in the background . 
+
+<TRAJECTOR id="T122" start="124" end="132" text="each bed"/>
+
+a room with two single beds made of wood and green , white and red bedcover , with a night table with a lamp on the left of each bed . 
+
+<TRAJECTOR id="T123" start="124" end="132" text="each bed"/>
+
+a room with two single beds made of wood and green , white and red bedcover , with a night table with a lamp on the left of each bed . 
+
+<TRAJECTOR id="T124" start="48" end="54" text="chairs"/>
+
+A waiting hall with a green couch , black couch chairs , red columns , light and dark brown walls and red door frames . 
+
+<TRAJECTOR id="T125" start="9" end="28" text="another arched gate"/>
+
+there is another arched gate in red colour behind it , and an iron rail on the balcony of the second floor . 
+
+<TRAJECTOR id="T126" start="75" end="86" text="the balcony"/>
+
+there is another arched gate in red colour behind it , and an iron rail on the balcony of the second floor . 
+
+<TRAJECTOR id="T127" start="26" end="38" text="a double bed"/>
+
+a room with white walls , a double bed made of wood with a green bedcover with black and white decoration and night tables with a bedside lamp on both sides . 
+
+<TRAJECTOR id="T128" start="26" end="38" text="a double bed"/>
+
+a room with white walls , a double bed made of iron and with a red bedcover and a striped blanket above it . 
+
+<TRAJECTOR id="T129" start="0" end="13" text="a white house"/>
+
+a white house with black window frames , stairs with iron rails and a few creeping plants . 
+
+<TRAJECTOR id="T130" start="23" end="35" text="a double bed"/>
+
+a very large room with a double bed made of wood with a night table and lamps on both sides . 
+
+<TRAJECTOR id="T131" start="111" end="121" text="two chairs"/>
+
+there is a brown couch in the foreground , behind it a TV , a commode and in the far corner a round table with two chairs . 
+
+<TRAJECTOR id="T132" start="111" end="121" text="two chairs"/>
+
+there is a brown couch in the foreground , behind it a TV , a commode and in the far corner a round table with two chairs . 
+
+<TRAJECTOR id="T133" start="20" end="50" text="a yellow three-storey building"/>
+
+the waiting hall of a yellow three-storey building with a lot of potted plants . 
+
+<TRAJECTOR id="T134" start="69" end="75" text="chairs"/>
+
+the single rooms are on the left , there is a table with lots of arm chairs around it , and behind it a fountain with even more plants , and glass wall in the background . 
+
+<TRAJECTOR id="T135" start="69" end="75" text="chairs"/>
+
+the single rooms are on the left , there is a table with lots of arm chairs around it , and behind it a fountain with even more plants , and glass wall in the background . 
+
+<TRAJECTOR id="T136" start="69" end="75" text="chairs"/>
+
+the single rooms are on the left , there is a table with lots of arm chairs around it , and behind it a fountain with even more plants , and glass wall in the background . 
+
+<TRAJECTOR id="T137" start="9" end="22" text="also a window"/>
+
+there is also a window with a wooden frame and a light brown curtain on the very left . 
+
+<TRAJECTOR id="T138" start="23" end="43" text="a brownish red fence"/>
+
+there is a tree behind a brownish red fence on the right . 
+
+<TRAJECTOR id="T139" start="9" end="15" text="a tree"/>
+
+there is a tree behind a brownish red fence on the right . 
+
+<TRAJECTOR id="T140" start="92" end="98" text="bricks"/>
+
+a table with four chairs around it on a couryard of a light yellow house plastered with red bricks and with a lot of plants . 
+
+<TRAJECTOR id="T141" start="13" end="24" text="four chairs"/>
+
+a table with four chairs around it on a couryard of a light yellow house plastered with red bricks and with a lot of plants . 
+
+<TRAJECTOR id="T142" start="13" end="24" text="four chairs"/>
+
+a table with four chairs around it on a couryard of a light yellow house plastered with red bricks and with a lot of plants . 
+
+<TRAJECTOR id="T143" start="13" end="24" text="four chairs"/>
+
+a table with four chairs around it on a couryard of a light yellow house plastered with red bricks and with a lot of plants . 
+
+<TRAJECTOR id="T144" start="0" end="7" text="a table"/>
+
+a table with four chairs around it on a couryard of a light yellow house plastered with red bricks and with a lot of plants . 
+
+<TRAJECTOR id="T145" start="10" end="14" text="cars"/>
+
+there are cars parking in front of the house , and behind it there is another two-storey building with red rooftiles . 
+
+<TRAJECTOR id="T146" start="70" end="97" text="another two-storey building"/>
+
+there are cars parking in front of the house , and behind it there is another two-storey building with red rooftiles . 
+
+<TRAJECTOR id="T147" start="70" end="97" text="another two-storey building"/>
+
+there are cars parking in front of the house , and behind it there is another two-storey building with red rooftiles . 
+
+<TRAJECTOR id="T148" start="18" end="23" text="walls"/>
+
+a room with white walls ( that are supported by wooden pillars ) and a multicoloured curtain in front of the window . 
+
+<TRAJECTOR id="T149" start="18" end="23" text="walls"/>
+
+a room with white walls ( that are supported by wooden pillars ) and a multicoloured curtain in front of the window . 
+
+<TRAJECTOR id="T150" start="66" end="72" text="plants"/>
+
+there is a little table with chairs , an canvas chair and lots of plants around it in the foreground on the left . 
+
+<TRAJECTOR id="T151" start="82" end="88" text="levels"/>
+
+a two-storey house made of wood and with a thatched roof , with balconies on both levels , wooden rails and stairs . 
+
+<TRAJECTOR id="T152" start="64" end="73" text="balconies"/>
+
+a two-storey house made of wood and with a thatched roof , with balconies on both levels , wooden rails and stairs . 
+
+<TRAJECTOR id="T153" start="64" end="73" text="balconies"/>
+
+a two-storey house made of wood and with a thatched roof , with balconies on both levels , wooden rails and stairs . 
+
+<TRAJECTOR id="T154" start="29" end="35" text="chairs"/>
+
+there is a little table with chairs , an canvas chair and lots of plants around it in the foreground on the left . 
+
+<TRAJECTOR id="T155" start="31" end="43" text="a double bed"/>
+
+a room with light pink walls , a double bed made of wood with a white bedcover with orange and pink squares , and a black and red carpet over the bead . 
+
+<TRAJECTOR id="T156" start="23" end="28" text="walls"/>
+
+a room with light pink walls , a double bed made of wood with a white bedcover with orange and pink squares , and a black and red carpet over the bead . 
+
+<TRAJECTOR id="T157" start="126" end="136" text="red carpet"/>
+
+a room with light pink walls , a double bed made of wood with a white bedcover with orange and pink squares , and a black and red carpet over the bead . 
+
+<TRAJECTOR id="T158" start="10" end="14" text="cars"/>
+
+there are cars at the roofed entrance of a grey hotel with the writing Hilton Colon Quito 
+
+<TRAJECTOR id="T159" start="10" end="14" text="cars"/>
+
+there are cars at the roofed entrance of a grey hotel with the writing Hilton Colon Quito 
+
+<TRAJECTOR id="T160" start="59" end="65" text="chairs"/>
+
+there are also two windows in the background , and two arm chairs , a coffee table and a mirrow in the foreground . 
+
+<TRAJECTOR id="T161" start="59" end="65" text="chairs"/>
+
+there are also two windows in the background , and two arm chairs , a coffee table and a mirrow in the foreground . 
+
+<TRAJECTOR id="T162" start="26" end="38" text="a double bed"/>
+
+a room with white walls , a double bed made of wood with a multicoloured bedcover and a night table on both sides , each having a lamp above them . 
+
+<TRAJECTOR id="T163" start="128" end="134" text="a lamp"/>
+
+a room with white walls , a double bed made of wood with a multicoloured bedcover and a night table on both sides , each having a lamp above them . 
+
+<TRAJECTOR id="T164" start="82" end="88" text="plants"/>
+
+a dark red house with lots of arches and columns , and red rails and a few potted plants in front of it . 
+
+<TRAJECTOR id="T165" start="50" end="55" text="trees"/>
+
+a swimming pool with white canvas chairs and palm trees in the background on the left . 
+
+<TRAJECTOR id="T166" start="50" end="55" text="trees"/>
+
+a swimming pool with white canvas chairs and palm trees in the background on the left . 
+
+<TRAJECTOR id="T167" start="50" end="55" text="trees"/>
+
+a swimming pool with white canvas chairs and palm trees in the background on the left . 
+
+<TRAJECTOR id="T168" start="26" end="38" text="a double bed"/>
+
+a room with white walls , a double bed with a yellow and red chequered bedcover , a night table of both sides and a burning lamp on the left . 
+
+<TRAJECTOR id="T169" start="68" end="73" text="trees"/>
+
+there is a garden on the left with a lawn , flowers and little palm trees . 
+
+<TRAJECTOR id="T170" start="59" end="71" text="the entrance"/>
+
+a white house with stairs , arches and columns in front of the entrance . 
+
+<TRAJECTOR id="T171" start="39" end="46" text="columns"/>
+
+a white house with stairs , arches and columns in front of the entrance . 
+
+<TRAJECTOR id="T172" start="39" end="46" text="columns"/>
+
+a white house with stairs , arches and columns in front of the entrance . 
+
+<TRAJECTOR id="T173" start="0" end="13" text="a white house"/>
+
+a white house with stairs , arches and columns in front of the entrance . 
+
+<TRAJECTOR id="T174" start="28" end="34" text="arches"/>
+
+a white house with stairs , arches and columns in front of the entrance . 
+
+<TRAJECTOR id="T175" start="12" end="24" text="a single bed"/>
+
+a room with a single bed , a white bedcover and multicoloured blankets . 
+
+<TRAJECTOR id="T176" start="9" end="22" text="a green bench"/>
+
+there is a green bench on the left , a wooden table with a TV in front of a window with light brown curtains on the right , and a wooden door with glass and blinds in the background . 
+
+<TRAJECTOR id="T177" start="100" end="108" text="curtains"/>
+
+there is a green bench on the left , a wooden table with a TV in front of a window with light brown curtains on the right , and a wooden door with glass and blinds in the background . 
+
+<TRAJECTOR id="T178" start="128" end="141" text="a wooden door"/>
+
+there is a green bench on the left , a wooden table with a TV in front of a window with light brown curtains on the right , and a wooden door with glass and blinds in the background . 
+
+<TRAJECTOR id="T179" start="100" end="108" text="curtains"/>
+
+there is a green bench on the left , a wooden table with a TV in front of a window with light brown curtains on the right , and a wooden door with glass and blinds in the background . 
+
+<TRAJECTOR id="T180" start="126" end="132" text="people"/>
+
+a light orange three-storey building with blue windows , a garden that is surrounded by an iron fence and white columns , and people walking on a pavement before it . 
+
+<TRAJECTOR id="T181" start="88" end="101" text="an iron fence"/>
+
+a light orange three-storey building with blue windows , a garden that is surrounded by an iron fence and white columns , and people walking on a pavement before it . 
+
+<TRAJECTOR id="T182" start="88" end="101" text="an iron fence"/>
+
+a light orange three-storey building with blue windows , a garden that is surrounded by an iron fence and white columns , and people walking on a pavement before it . 
+
+<TRAJECTOR id="T183" start="48" end="52" text="beds"/>
+
+a room with green and yellow walls , two single beds with multicoloured bedcovers and a night table with a lamp in between . 
+
+<TRAJECTOR id="T184" start="48" end="52" text="beds"/>
+
+a room with green and yellow walls , two single beds with multicoloured bedcovers and a night table with a lamp in between . 
+
+<TRAJECTOR id="T185" start="101" end="109" text="curtains"/>
+
+there is a wooden door that has been painted white on the left , and a big window with open , orange curtains on the right . 
+
+<TRAJECTOR id="T186" start="39" end="60" text="three-storey building"/>
+
+a car is parking in front of a white , three-storey building with big windows and brown curtains . 
+
+<TRAJECTOR id="T187" start="33" end="45" text="a single bed"/>
+
+a room with light orange walls , a single bed with a violet bedcover and white towels . 
+
+<TRAJECTOR id="T188" start="28" end="34" text="a lamp"/>
+
+there is a night table with a lamp on the right and a white and yellow curtain on the left . 
+
+<TRAJECTOR id="T189" start="128" end="133" text="trees"/>
+
+a swimming pool with a blue edge , blue canvas chairs and a blue sunshade on the left , behind it a pink house surround by palm trees , and a big sand dune in the background . 
+
+<TRAJECTOR id="T190" start="128" end="133" text="trees"/>
+
+a swimming pool with a blue edge , blue canvas chairs and a blue sunshade on the left , behind it a pink house surround by palm trees , and a big sand dune in the background . 
+
+<TRAJECTOR id="T191" start="128" end="133" text="trees"/>
+
+a swimming pool with a blue edge , blue canvas chairs and a blue sunshade on the left , behind it a pink house surround by palm trees , and a big sand dune in the background . 
+
+<TRAJECTOR id="T192" start="98" end="110" text="a pink house"/>
+
+a swimming pool with a blue edge , blue canvas chairs and a blue sunshade on the left , behind it a pink house surround by palm trees , and a big sand dune in the background . 
+
+<TRAJECTOR id="T193" start="31" end="37" text="bricks"/>
+
+a room with a wall made of red bricks ( on the left ) and a white wall with two pictures ( on the right ) . 
+
+<TRAJECTOR id="T194" start="28" end="37" text="the house"/>
+
+there is a jeep in front of the house on the left . 
+
+<TRAJECTOR id="T195" start="0" end="12" text="a white ship"/>
+
+a white ship in full speed on the sea . 
+
+<TRAJECTOR id="T196" start="17" end="25" text="building"/>
+
+a grey and brown building with a bright blue entrance and a blue writing Alameda del Peregrino on a bright blue background . 
+
+<TRAJECTOR id="T197" start="126" end="133" text="the bed"/>
+
+there is a night table to the left and a chair in front of a mirror on the right , and a painting of a half-naked woman above the bed . 
+
+<TRAJECTOR id="T198" start="87" end="97" text="a painting"/>
+
+there is a night table to the left and a chair in front of a mirror on the right , and a painting of a half-naked woman above the bed . 
+
+<TRAJECTOR id="T199" start="87" end="97" text="a painting"/>
+
+there is a night table to the left and a chair in front of a mirror on the right , and a painting of a half-naked woman above the bed . 
+
+<TRAJECTOR id="T200" start="89" end="96" text="the way"/>
+
+there is a lamp on the left and on the right , an ornament above the entrance , a man on the way to the stairs next to a flower pot behind the entrance , 
+
+<TRAJECTOR id="T201" start="31" end="43" text="a double bed"/>
+
+a room with light blue walls , a double bed made of wood with a purple bedcover , a night table with a phone , remote controls and a lamp on the right , and a fridge on the left . 
+
+<TRAJECTOR id="T202" start="49" end="61" text="the entrance"/>
+
+a brown house with large windows and flags above the entrance , and the white writing Hotel Peregrino . 
+
+<TRAJECTOR id="T203" start="37" end="42" text="flags"/>
+
+a brown house with large windows and flags above the entrance , and the white writing Hotel Peregrino . 
+
+<TRAJECTOR id="T204" start="37" end="42" text="flags"/>
+
+a brown house with large windows and flags above the entrance , and the white writing Hotel Peregrino . 
+
+<TRAJECTOR id="T205" start="37" end="42" text="flags"/>
+
+a brown house with large windows and flags above the entrance , and the white writing Hotel Peregrino . 
+
+<TRAJECTOR id="T206" start="37" end="42" text="flags"/>
+
+a brown house with large windows and flags above the entrance , and the white writing Hotel Peregrino . 
+
+<TRAJECTOR id="T207" start="37" end="42" text="flags"/>
+
+a brown house with large windows and flags above the entrance , and the white writing Hotel Peregrino . 
+
+<TRAJECTOR id="T208" start="25" end="32" text="windows"/>
+
+a brown house with large windows and flags above the entrance , and the white writing Hotel Peregrino . 
+
+<TRAJECTOR id="T209" start="41" end="53" text="a double bed"/>
+
+a room with light and dark brown walls , a double bed made of wood with a multicolour-striped bedcover , an arm chair and a plant at a window with orange curtains in the background on the left . 
+
+<TRAJECTOR id="T210" start="106" end="112" text="towels"/>
+
+a room with white walls , a double bed made of wood , a light blue and white chequered bedcover and white towels and a black chimney in the back corner . 
+
+<TRAJECTOR id="T211" start="117" end="132" text="a black chimney"/>
+
+a room with white walls , a double bed made of wood , a light blue and white chequered bedcover and white towels and a black chimney in the back corner . 
+
+<TRAJECTOR id="T212" start="45" end="51" text="stones"/>
+
+an orange house with three small windows and stones set in concrete . 
+
+<TRAJECTOR id="T213" start="78" end="87" text="the house"/>
+
+there is a dense vegetation with bushes , trees and potted plants in front of the house of the neighbour . 
+
+<TRAJECTOR id="T214" start="9" end="27" text="a dense vegetation"/>
+
+there is a dense vegetation with bushes , trees and potted plants in front of the house of the neighbour . 
+
+<TRAJECTOR id="T215" start="42" end="47" text="trees"/>
+
+there is a dense vegetation with bushes , trees and potted plants in front of the house of the neighbour . 
+
+<TRAJECTOR id="T216" start="94" end="101" text="a hedge"/>
+
+a ranch with yellow sunshades , red walls , white columns , flags , palm trees , a fountain , a hedge . 
+
+<TRAJECTOR id="T217" start="73" end="78" text="trees"/>
+
+a ranch with yellow sunshades , red walls , white columns , flags , palm trees , a fountain , a hedge . 
+
+<TRAJECTOR id="T218" start="25" end="44" text="two-storey building"/>
+
+a courtyard of a white , two-storey building with a lot of brownish red wood ( doors , timber and balcony ) and red rooftiles . 
+
+<TRAJECTOR id="T219" start="56" end="66" text="a pavilion"/>
+
+a gravel road with an reddish-brown house on the left , a pavilion on the right and a wooded slope in the background . 
+
+<TRAJECTOR id="T220" start="58" end="67" text="two trees"/>
+
+a bungalow with two hammocks in front of the entrance and two trees next to it . 
+
+<TRAJECTOR id="T221" start="42" end="46" text="beds"/>
+
+a room with light blue walls , two single beds ( one of it is fully visible ) made of wood and a night table with a lamp , a phone and a phone book in between , above it a painting , and a curtain in front of a window on the right . 
+
+<TRAJECTOR id="T222" start="42" end="46" text="beds"/>
+
+a room with light blue walls , two single beds ( one of it is fully visible ) made of wood and a night table with a lamp , a phone and a phone book in between , above it a painting , and a curtain in front of a window on the right . 
+
+<TRAJECTOR id="T223" start="48" end="53" text="trees"/>
+
+there are two street lamps and three small palm trees in the foreground . 
+
+<TRAJECTOR id="T224" start="48" end="53" text="trees"/>
+
+there are two street lamps and three small palm trees in the foreground . 
+
+<TRAJECTOR id="T225" start="20" end="46" text="green four-storey building"/>
+
+a white , brown and green four-storey building with a Peruvian flag and the writing Hotel San Miguel on the roof . 
+
+<TRAJECTOR id="T226" start="61" end="73" text="a double bed"/>
+
+a room with walls that are wallpapered in grey and brown and a double bed with a multicoloured bedcover , night tables on both sides , an iron ornament behind it and two lamps above it . 
+
+<TRAJECTOR id="T227" start="28" end="36" text="curtains"/>
+
+there is also a window with curtains on the very left . 
+
+<TRAJECTOR id="T228" start="4" end="19" text="dark yellow car"/>
+
+two dark yellow car in front of a light yellow , two-storey house with white columns , window frames and ornaments , and the Peruvian flag with two other flags above the entrance . 
+
+<TRAJECTOR id="T229" start="49" end="65" text="two-storey house"/>
+
+two dark yellow car in front of a light yellow , two-storey house with white columns , window frames and ornaments , and the Peruvian flag with two other flags above the entrance . 
+
+<TRAJECTOR id="T230" start="94" end="101" text="a trunk"/>
+
+the view into a the courtyard of a dark yellow building with white doors and grey gates , and a trunk of a palm tree on the left . 
+
+<TRAJECTOR id="T231" start="67" end="72" text="doors"/>
+
+the view into a the courtyard of a dark yellow building with white doors and grey gates , and a trunk of a palm tree on the left . 
+
+<TRAJECTOR id="T232" start="33" end="55" text="a dark yellow building"/>
+
+the view into a the courtyard of a dark yellow building with white doors and grey gates , and a trunk of a palm tree on the left . 
+
+<TRAJECTOR id="T233" start="25" end="39" text="white building"/>
+
+front view of a grey and white building , with a few men in front of the entrance . 
+
+<TRAJECTOR id="T234" start="69" end="81" text="the entrance"/>
+
+front view of a grey and white building , with a few men in front of the entrance . 
+
+<TRAJECTOR id="T235" start="69" end="81" text="the entrance"/>
+
+front view of a grey and white building , with a few men in front of the entrance . 
+
+<TRAJECTOR id="T236" start="69" end="81" text="the entrance"/>
+
+front view of a grey and white building , with a few men in front of the entrance . 
+
+<TRAJECTOR id="T237" start="5" end="10" text="trees"/>
+
+palm trees and bushed in the background . 
+
+<TRAJECTOR id="T238" start="109" end="123" text="a wooden chair"/>
+
+there is a king-sized bed made of wood with light-pinkish bedcover and two white towels , a bedside lamp and a wooden chair . 
+
+<TRAJECTOR id="T239" start="17" end="23" text="plants"/>
+
+there are potted plants and green rails on the balcony of the second floor . 
+
+<TRAJECTOR id="T240" start="17" end="23" text="plants"/>
+
+there are potted plants and green rails on the balcony of the second floor . 
+
+<TRAJECTOR id="T241" start="17" end="23" text="tables"/>
+
+a courtyard with tables , wooden chairs , a fountain on the right , several arches and columns and a bar . 
+
+<TRAJECTOR id="T242" start="17" end="23" text="tables"/>
+
+a courtyard with tables , wooden chairs , a fountain on the right , several arches and columns and a bar . 
+
+<TRAJECTOR id="T243" start="43" end="54" text="the balcony"/>
+
+there are potted plants and green rails on the balcony of the second floor . 
+
+<TRAJECTOR id="T244" start="17" end="23" text="plants"/>
+
+there are potted plants and green rails on the balcony of the second floor . 
+
+<TRAJECTOR id="T245" start="0" end="19" text="a light brown house"/>
+
+a light brown house with a garden with a thatched roof and white chairs and tables . 
+
+<TRAJECTOR id="T246" start="98" end="111" text="a white house"/>
+
+there are white canvas chairs , a table with four normal chairs , a thatched roof over a walk and a white house with a lot of timber on the left . 
+
+<TRAJECTOR id="T247" start="20" end="25" text="trees"/>
+
+there are more palm trees and houses behind a hedge in the background . 
+
+<TRAJECTOR id="T248" start="20" end="25" text="trees"/>
+
+there are more palm trees and houses behind a hedge in the background . 
+
+<TRAJECTOR id="T249" start="12" end="35" text="a wooden king-sized bed"/>
+
+a room with a wooden king-sized bed , somewhat pale bedcovers and a large door with curtains on the left . 
+
+<TRAJECTOR id="T250" start="10" end="17" text="the sea"/>
+
+palms and the sea are visible outside . 
+
+<TRAJECTOR id="T251" start="144" end="149" text="trees"/>
+
+a palm tree in the foreground on the right , behind it a grey wall with a hedge and an entrance gate made of pillars to a garden with more palm trees and a pink house . 
+
+<TRAJECTOR id="T252" start="144" end="149" text="trees"/>
+
+a palm tree in the foreground on the right , behind it a grey wall with a hedge and an entrance gate made of pillars to a garden with more palm trees and a pink house . 
+
+<TRAJECTOR id="T253" start="154" end="166" text="a pink house"/>
+
+a palm tree in the foreground on the right , behind it a grey wall with a hedge and an entrance gate made of pillars to a garden with more palm trees and a pink house . 
+
+<TRAJECTOR id="T254" start="144" end="149" text="trees"/>
+
+a palm tree in the foreground on the right , behind it a grey wall with a hedge and an entrance gate made of pillars to a garden with more palm trees and a pink house . 
+
+<TRAJECTOR id="T255" start="27" end="39" text="a single bed"/>
+
+a room with grey walls and a single bed made of wood , a night table with a bedside lamp and a window with closed curtains on the left . 
+
+<TRAJECTOR id="T256" start="114" end="122" text="curtains"/>
+
+a room with grey walls and a single bed made of wood , a night table with a bedside lamp and a window with closed curtains on the left . 
+
+<TRAJECTOR id="T257" start="77" end="91" text="a large window"/>
+
+a room with white walls , a king-sized bed with red bedcover and pillows and a large window with open blinds in the background . 
+
+<TRAJECTOR id="T258" start="11" end="16" text="trees"/>
+
+small palm trees along a footpath next to a gravel area . 
+
+<TRAJECTOR id="T259" start="37" end="41" text="beds"/>
+
+a room with beige walls , two single beds made of wood with orange-brownish bedcovers and in between a night table with a lamp and a phone on it . 
+
+<TRAJECTOR id="T260" start="124" end="129" text="trees"/>
+
+the courtyard of an orange , two-storey building with a footpath to a swimming pool in the shape of an eight and small palm trees to the left and right . 
+
+<TRAJECTOR id="T261" start="29" end="48" text="two-storey building"/>
+
+the courtyard of an orange , two-storey building with a footpath to a swimming pool in the shape of an eight and small palm trees to the left and right . 
+
+<TRAJECTOR id="T262" start="124" end="129" text="trees"/>
+
+the courtyard of an orange , two-storey building with a footpath to a swimming pool in the shape of an eight and small palm trees to the left and right . 
+
+<TRAJECTOR id="T263" start="35" end="47" text="a single bed"/>
+
+a simple room with white walls and a single bed with a light blue bedcover , a white and blue striped pillow and a curtain on the left . 
+
+<TRAJECTOR id="T264" start="25" end="30" text="walls"/>
+
+a simple room with white walls and a single bed with a light blue bedcover , a white and blue striped pillow and a curtain on the left . 
+
+<TRAJECTOR id="T265" start="38" end="52" text="a red building"/>
+
+an open square with a swimming pool , a red building with arched doors and a steep hill wit a lighthouse in the background . 
+
+<TRAJECTOR id="T266" start="38" end="52" text="a red building"/>
+
+an open square with a swimming pool , a red building with arched doors and a steep hill wit a lighthouse in the background . 
+
+<TRAJECTOR id="T267" start="21" end="27" text="houses"/>
+
+palm trees and a few houses in the background . 
+
+<TRAJECTOR id="T268" start="21" end="27" text="houses"/>
+
+palm trees and a few houses in the background . 
+
+<TRAJECTOR id="T269" start="21" end="27" text="houses"/>
+
+palm trees and a few houses in the background . 
+
+<TRAJECTOR id="T270" start="21" end="27" text="houses"/>
+
+palm trees and a few houses in the background . 
+
+<TRAJECTOR id="T271" start="5" end="10" text="trees"/>
+
+palm trees with hammocks in between , a slope , sunshades with a thatched roof and white sand in the foreground , and a few houses in the background . 
+
+<TRAJECTOR id="T272" start="12" end="28" text="a king-sized bed"/>
+
+a room with a king-sized bed made of wood , blue and red chequered bedcover and white pillows . 
+
+<TRAJECTOR id="T273" start="27" end="31" text="palm"/>
+
+a swimming pool with three palm trees , three burning lamps and a few canvas chairs around it . 
+
+<TRAJECTOR id="T274" start="32" end="37" text="trees"/>
+
+a swimming pool with three palm trees , three burning lamps and a few canvas chairs around it . 
+
+<TRAJECTOR id="T275" start="66" end="73" text="the sea"/>
+
+there is a balcony with flowers and wooden rails on the right and the sea in the background . 
+
+<TRAJECTOR id="T276" start="9" end="18" text="a balcony"/>
+
+there is a balcony with flowers and wooden rails on the right and the sea in the background . 
+
+<TRAJECTOR id="T277" start="17" end="31" text="a wooden table"/>
+
+wooden rails and a wooden table with an ash tray on a balcony in the foreground . 
+
+<TRAJECTOR id="T278" start="17" end="31" text="a wooden table"/>
+
+wooden rails and a wooden table with an ash tray on a balcony in the foreground . 
+
+<TRAJECTOR id="T279" start="89" end="102" text="a sandy beach"/>
+
+view from a wooden balcony with round , wooden rails and a palm tree in front of it onto a sandy beach and the sea . 
+
+<TRAJECTOR id="T280" start="9" end="22" text="another house"/>
+
+there is another house in the background on the right with a thatched roof and a woman in the garden . 
+
+<TRAJECTOR id="T281" start="162" end="171" text="balconies"/>
+
+a swimming pool in the foreground , with a sunshade , tables and chairs on the left and above it a light brown house with several storeys and wooden rails on the balconies . 
+
+<TRAJECTOR id="T282" start="54" end="60" text="tables"/>
+
+a swimming pool in the foreground , with a sunshade , tables and chairs on the left and above it a light brown house with several storeys and wooden rails on the balconies . 
+
+<TRAJECTOR id="T283" start="0" end="26" text="a white high-rise building"/>
+
+a white high-rise building ( the middle rows are red ) with large windows ( especialy at the corners ) and flags above the entrance . 
+
+<TRAJECTOR id="T284" start="93" end="100" text="corners"/>
+
+a white high-rise building ( the middle rows are red ) with large windows ( especialy at the corners ) and flags above the entrance . 
+
+<TRAJECTOR id="T285" start="119" end="131" text="the entrance"/>
+
+a white high-rise building ( the middle rows are red ) with large windows ( especialy at the corners ) and flags above the entrance . 
+
+<TRAJECTOR id="T286" start="119" end="131" text="the entrance"/>
+
+a white high-rise building ( the middle rows are red ) with large windows ( especialy at the corners ) and flags above the entrance . 
+
+<TRAJECTOR id="T287" start="119" end="131" text="the entrance"/>
+
+a white high-rise building ( the middle rows are red ) with large windows ( especialy at the corners ) and flags above the entrance . 
+
+<TRAJECTOR id="T288" start="119" end="131" text="the entrance"/>
+
+a white high-rise building ( the middle rows are red ) with large windows ( especialy at the corners ) and flags above the entrance . 
+
+<TRAJECTOR id="T289" start="11" end="15" text="beds"/>
+
+two single beds with a gold and blue bedcover , burning lamps on each side and a painting above the beds . 
+
+<TRAJECTOR id="T290" start="11" end="15" text="beds"/>
+
+two single beds with a gold and blue bedcover , burning lamps on each side and a painting above the beds . 
+
+<TRAJECTOR id="T291" start="74" end="81" text="carpets"/>
+
+a large room with yellow-brownish walls , a king-sized bed made of wood , carpets , a TV , and a window with curtains in the background . 
+
+<TRAJECTOR id="T292" start="109" end="117" text="curtains"/>
+
+a large room with yellow-brownish walls , a king-sized bed made of wood , carpets , a TV , and a window with curtains in the background . 
+
+<TRAJECTOR id="T293" start="42" end="58" text="a king-sized bed"/>
+
+a large room with yellow-brownish walls , a king-sized bed made of wood , carpets , a TV , and a window with curtains in the background . 
+
+<TRAJECTOR id="T294" start="109" end="117" text="curtains"/>
+
+a large room with yellow-brownish walls , a king-sized bed made of wood , carpets , a TV , and a window with curtains in the background . 
+
+<TRAJECTOR id="T295" start="40" end="44" text="beds"/>
+
+a room with yellow walls , green wooden beds , chequered bedcovers and a green wooden night table in between with a phone . 
+
+<TRAJECTOR id="T296" start="37" end="47" text="two chairs"/>
+
+a window with curtains , a table and two chairs in the background . 
+
+<TRAJECTOR id="T297" start="37" end="47" text="two chairs"/>
+
+a window with curtains , a table and two chairs in the background . 
+
+<TRAJECTOR id="T298" start="37" end="47" text="two chairs"/>
+
+a window with curtains , a table and two chairs in the background . 
+
+<TRAJECTOR id="T299" start="58" end="64" text="towels"/>
+
+a room with light-pink walls , a bed made of wood , white towels , a night table with a lamp on both sides , and a painting above the bed . 
+
+<TRAJECTOR id="T300" start="95" end="101" text="plants"/>
+
+a grey car , a large green tree and a smaller tree blooming in purple and also a lot of potted plants in front of a one-storey , white house . 
+
+<TRAJECTOR id="T301" start="95" end="101" text="plants"/>
+
+a grey car , a large green tree and a smaller tree blooming in purple and also a lot of potted plants in front of a one-storey , white house . 
+
+<TRAJECTOR id="T302" start="95" end="101" text="plants"/>
+
+a grey car , a large green tree and a smaller tree blooming in purple and also a lot of potted plants in front of a one-storey , white house . 
+
+<TRAJECTOR id="T303" start="129" end="140" text="white house"/>
+
+a grey car , a large green tree and a smaller tree blooming in purple and also a lot of potted plants in front of a one-storey , white house . 
+
+<TRAJECTOR id="T304" start="84" end="90" text="houses"/>
+
+there is an earth wall in the foreground and a brown , bald hill with further small houses in the background . 
+
+<TRAJECTOR id="T305" start="84" end="90" text="houses"/>
+
+there is an earth wall in the foreground and a brown , bald hill with further small houses in the background . 
+
+<TRAJECTOR id="T306" start="84" end="90" text="houses"/>
+
+there is an earth wall in the foreground and a brown , bald hill with further small houses in the background . 
+
+<TRAJECTOR id="T307" start="84" end="90" text="houses"/>
+
+there is an earth wall in the foreground and a brown , bald hill with further small houses in the background . 
+
+<TRAJECTOR id="T308" start="84" end="90" text="houses"/>
+
+there is an earth wall in the foreground and a brown , bald hill with further small houses in the background . 
+
+<TRAJECTOR id="T309" start="0" end="17" text="a wooden bulk bed"/>
+
+a wooden bulk bed with grey mattresses and red curtains . 
+
+<TRAJECTOR id="T310" start="0" end="17" text="a wooden bulk bed"/>
+
+a wooden bulk bed with grey mattresses and red curtains . 
+
+<TRAJECTOR id="T311" start="31" end="37" text="houses"/>
+
+an access gravel road to green houses with dark grey roofs . 
+
+<TRAJECTOR id="T312" start="52" end="56" text="cars"/>
+
+there is a wooden fence on the left , and there are cars parked on the right . 
+
+<TRAJECTOR id="T313" start="10" end="15" text="trees"/>
+
+there are trees , a Welcome Nancy Hospedaje sign and an iron fence on the right , and white houses with dark grey roofs or reddish roofs on the left . 
+
+<TRAJECTOR id="T314" start="53" end="66" text="an iron fence"/>
+
+there are trees , a Welcome Nancy Hospedaje sign and an iron fence on the right , and white houses with dark grey roofs or reddish roofs on the left . 
+
+<TRAJECTOR id="T315" start="10" end="15" text="trees"/>
+
+there are trees , a Welcome Nancy Hospedaje sign and an iron fence on the right , and white houses with dark grey roofs or reddish roofs on the left . 
+
+<TRAJECTOR id="T316" start="10" end="15" text="trees"/>
+
+there are trees , a Welcome Nancy Hospedaje sign and an iron fence on the right , and white houses with dark grey roofs or reddish roofs on the left . 
+
+<TRAJECTOR id="T317" start="90" end="99" text="white car"/>
+
+there are eight flags above the entrance , a pavement with a few pedestrians and a parked white car in front of it . 
+
+<TRAJECTOR id="T318" start="28" end="40" text="the entrance"/>
+
+there are eight flags above the entrance , a pavement with a few pedestrians and a parked white car in front of it . 
+
+<TRAJECTOR id="T319" start="28" end="40" text="the entrance"/>
+
+there are eight flags above the entrance , a pavement with a few pedestrians and a parked white car in front of it . 
+
+<TRAJECTOR id="T320" start="65" end="76" text="pedestrians"/>
+
+there are eight flags above the entrance , a pavement with a few pedestrians and a parked white car in front of it . 
+
+<TRAJECTOR id="T321" start="28" end="40" text="the entrance"/>
+
+there are eight flags above the entrance , a pavement with a few pedestrians and a parked white car in front of it . 
+
+<TRAJECTOR id="T322" start="0" end="23" text="a greenish yellow house"/>
+
+a greenish yellow house with white ornamental strips , a yellow entrance and a writing Hostal Bonbini on blue background . 
+
+<TRAJECTOR id="T323" start="10" end="21" text="eight flags"/>
+
+there are eight flags above the entrance , a pavement with a few pedestrians and a parked white car in front of it . 
+
+<TRAJECTOR id="T324" start="25" end="32" text="pillows"/>
+
+white bedcover and white pillows . 
+
+<TRAJECTOR id="T325" start="19" end="30" text="a palm tree"/>
+
+dense vegetation , a palm tree , flowers and bushes in front of and below them . 
+
+<TRAJECTOR id="T326" start="0" end="16" text="dense vegetation"/>
+
+dense vegetation , a palm tree , flowers and bushes in front of and below them . 
+
+<TRAJECTOR id="T327" start="11" end="15" text="huts"/>
+
+two wooden huts on pillars , with a thatched roof and a green corrugated sheet roof . 
+
+<TRAJECTOR id="T328" start="0" end="16" text="a king-sized bed"/>
+
+a king-sized bed with purple bedcover . 
+
+<TRAJECTOR id="T329" start="0" end="16" text="grey-blue carpet"/>
+
+grey-blue carpet . 
+
+<TRAJECTOR id="T330" start="27" end="40" text="two paintings"/>
+
+room with yellow walls and two paintings . 
+
+<TRAJECTOR id="T331" start="27" end="40" text="two paintings"/>
+
+room with yellow walls and two paintings . 
+
+<TRAJECTOR id="T332" start="86" end="94" text="curtains"/>
+
+there is a night table on the left and a chair on the right , and a window with white curtains in the background on the right . 
+
+<TRAJECTOR id="T333" start="64" end="76" text="the entrance"/>
+
+there are ten international flags and the writing Central above the entrance . 
+
+<TRAJECTOR id="T334" start="64" end="76" text="the entrance"/>
+
+there are ten international flags and the writing Central above the entrance . 
+
+<TRAJECTOR id="T335" start="9" end="21" text="red building"/>
+
+grey and red building with big windows ( on the right ) and closed garage doors ( on the left ) on the ground level . 
+
+<TRAJECTOR id="T336" start="9" end="21" text="red building"/>
+
+grey and red building with big windows ( on the right ) and closed garage doors ( on the left ) on the ground level . 
+
+<TRAJECTOR id="T337" start="28" end="33" text="flags"/>
+
+there are ten international flags and the writing Central above the entrance . 
+
+<TRAJECTOR id="T338" start="11" end="15" text="beds"/>
+
+two single beds made of wood with red blankets and light-blue pillows . 
+
+<TRAJECTOR id="T339" start="11" end="15" text="beds"/>
+
+two single beds made of wood with red blankets and light-blue pillows . 
+
+<TRAJECTOR id="T340" start="22" end="35" text="an iron fence"/>
+
+arched windows behind an iron fence and an green , arched entrance . 
+
+<TRAJECTOR id="T341" start="10" end="29" text="two-storey building"/>
+
+a white , two-storey building with the green writing Hostal El Ancla . 
+
+<TRAJECTOR id="T342" start="10" end="29" text="two-storey building"/>
+
+a white , two-storey building with the green writing Hostal El Ancla . 
+
+<TRAJECTOR id="T343" start="10" end="29" text="two-storey building"/>
+
+a white , two-storey building with the green writing Hostal El Ancla . 
+
+<TRAJECTOR id="T344" start="34" end="40" text="chairs"/>
+
+there are yellow and white canvas chairs , a sunshade and a grey cobblestone around the pool . 
+
+<TRAJECTOR id="T345" start="33" end="49" text="a king-sized bed"/>
+
+a modern room with white walls , a king-sized bed made of wood and gold and blue bed cover . 
+
+<TRAJECTOR id="T346" start="27" end="35" text="a window"/>
+
+there is a night table and a window with white curtains on the left . 
+
+<TRAJECTOR id="T347" start="27" end="35" text="a window"/>
+
+there is a night table and a window with white curtains on the left . 
+
+<TRAJECTOR id="T348" start="27" end="35" text="a window"/>
+
+there is a night table and a window with white curtains on the left . 
+
+<TRAJECTOR id="T349" start="65" end="74" text="sunshades"/>
+
+a terrace of a white house with white tables and chairs and blue sunshades . 
+
+<TRAJECTOR id="T350" start="65" end="74" text="sunshades"/>
+
+a terrace of a white house with white tables and chairs and blue sunshades . 
+
+<TRAJECTOR id="T351" start="65" end="74" text="sunshades"/>
+
+a terrace of a white house with white tables and chairs and blue sunshades . 
+
+<TRAJECTOR id="T352" start="13" end="26" text="a white house"/>
+
+a terrace of a white house with white tables and chairs and blue sunshades . 
+
+<TRAJECTOR id="T353" start="56" end="61" text="trees"/>
+
+a white bungalow with a huge , brown hill behind it and trees , a sunshade , plastic chairs , a plastic table and canvas chairs in front of it . 
+
+<TRAJECTOR id="T354" start="56" end="61" text="trees"/>
+
+a white bungalow with a huge , brown hill behind it and trees , a sunshade , plastic chairs , a plastic table and canvas chairs in front of it . 
+
+<TRAJECTOR id="T355" start="56" end="61" text="trees"/>
+
+a white bungalow with a huge , brown hill behind it and trees , a sunshade , plastic chairs , a plastic table and canvas chairs in front of it . 
+
+<TRAJECTOR id="T356" start="9" end="17" text="a window"/>
+
+there is a window with white curtains on the left . 
+
+<TRAJECTOR id="T357" start="90" end="96" text="chairs"/>
+
+a blue building with a thatched roof and a wooden balcony and a hedge , wooden tables and chairs and sunshades in front of it . 
+
+<TRAJECTOR id="T358" start="90" end="96" text="chairs"/>
+
+a blue building with a thatched roof and a wooden balcony and a hedge , wooden tables and chairs and sunshades in front of it . 
+
+<TRAJECTOR id="T359" start="0" end="15" text="a blue building"/>
+
+a blue building with a thatched roof and a wooden balcony and a hedge , wooden tables and chairs and sunshades in front of it . 
+
+<TRAJECTOR id="T360" start="79" end="85" text="tables"/>
+
+a blue building with a thatched roof and a wooden balcony and a hedge , wooden tables and chairs and sunshades in front of it . 
+
+<TRAJECTOR id="T361" start="79" end="85" text="tables"/>
+
+a blue building with a thatched roof and a wooden balcony and a hedge , wooden tables and chairs and sunshades in front of it . 
+
+<TRAJECTOR id="T362" start="0" end="15" text="a blue building"/>
+
+a blue building with a thatched roof and a wooden balcony and a hedge , wooden tables and chairs and sunshades in front of it . 
+
+<TRAJECTOR id="T363" start="79" end="85" text="tables"/>
+
+a blue building with a thatched roof and a wooden balcony and a hedge , wooden tables and chairs and sunshades in front of it . 
+
+<TRAJECTOR id="T364" start="0" end="15" text="a blue building"/>
+
+a blue building with a thatched roof and a wooden balcony and a hedge , wooden tables and chairs and sunshades in front of it . 
+
+<TRAJECTOR id="T365" start="30" end="34" text="beds"/>
+
+there is a night table with a bedside lamp in between the beds , and a door to the bathroom in the background on the left . 
+
+<TRAJECTOR id="T366" start="30" end="34" text="beds"/>
+
+there is a night table with a bedside lamp in between the beds , and a door to the bathroom in the background on the left . 
+
+<TRAJECTOR id="T367" start="20" end="25" text="doors"/>
+
+a red building with doors and windows behind bars on the ground level , a white balcony with two balcony doors made of wood and glas and two more windows on the left with the white writing Hostal Colonial . 
+
+<TRAJECTOR id="T368" start="20" end="25" text="doors"/>
+
+a red building with doors and windows behind bars on the ground level , a white balcony with two balcony doors made of wood and glas and two more windows on the left with the white writing Hostal Colonial . 
+
+<TRAJECTOR id="T369" start="20" end="25" text="doors"/>
+
+a red building with doors and windows behind bars on the ground level , a white balcony with two balcony doors made of wood and glas and two more windows on the left with the white writing Hostal Colonial . 
+
+<TRAJECTOR id="T370" start="0" end="14" text="a red building"/>
+
+a red building with doors and windows behind bars on the ground level , a white balcony with two balcony doors made of wood and glas and two more windows on the left with the white writing Hostal Colonial . 
+
+<TRAJECTOR id="T371" start="26" end="44" text="a large glass door"/>
+
+a dark blue building with a large glass door as entrance with the reflection of the opposite street side . 
+
+<TRAJECTOR id="T372" start="75" end="93" text="another big window"/>
+
+there are little cactuses in a small flower pot on the left , and there is another big window on the second floor . 
+
+<TRAJECTOR id="T373" start="75" end="93" text="another big window"/>
+
+there are little cactuses in a small flower pot on the left , and there is another big window on the second floor . 
+
+<TRAJECTOR id="T374" start="0" end="20" text="a dark blue building"/>
+
+a dark blue building with a large glass door as entrance with the reflection of the opposite street side . 
+
+<TRAJECTOR id="T375" start="52" end="67" text="a wooden window"/>
+
+there is a night table and a lamp on the left , and a wooden window with brownish curtains on the right . 
+
+<TRAJECTOR id="T376" start="28" end="40" text="a single bed"/>
+
+a room with white walls and a single bed made of wood . 
+
+<TRAJECTOR id="T377" start="82" end="90" text="curtains"/>
+
+there is a night table and a lamp on the left , and a wooden window with brownish curtains on the right . 
+
+<TRAJECTOR id="T378" start="117" end="125" text="a street"/>
+
+there are lamps and windows with white bars on the ground level , with a man with a ladder , a car , pedestrians and a street in front of it . 
+
+<TRAJECTOR id="T379" start="27" end="39" text="a single bed"/>
+
+a room with grey walls and a single bed made of iron with orange and white bedcover . 
+
+<TRAJECTOR id="T380" start="17" end="22" text="walls"/>
+
+a room with grey walls and a single bed made of iron with orange and white bedcover . 
+
+<TRAJECTOR id="T381" start="44" end="52" text="two beds"/>
+
+night table with a bedside lamp between the two beds . 
+
+<TRAJECTOR id="T382" start="44" end="52" text="two beds"/>
+
+night table with a bedside lamp between the two beds . 
+
+<TRAJECTOR id="T383" start="17" end="25" text="curtains"/>
+
+window with grey curtains in the background . 
+
+<TRAJECTOR id="T384" start="52" end="58" text="tables"/>
+
+a terrace with white plastic chairs and white round tables , red flowers on the right , a street behind the terrace and waves of the sea breaking on the beach during sunset . 
+
+<TRAJECTOR id="T385" start="149" end="158" text="the beach"/>
+
+a terrace with white plastic chairs and white round tables , red flowers on the right , a street behind the terrace and waves of the sea breaking on the beach during sunset . 
+
+<TRAJECTOR id="T386" start="104" end="115" text="the terrace"/>
+
+a terrace with white plastic chairs and white round tables , red flowers on the right , a street behind the terrace and waves of the sea breaking on the beach during sunset . 
+
+<TRAJECTOR id="T387" start="35" end="40" text="doors"/>
+
+a white bungalow with brown wooden doors and a little porch above it . 
+
+<TRAJECTOR id="T388" start="35" end="40" text="doors"/>
+
+a white bungalow with brown wooden doors and a little porch above it . 
+
+<TRAJECTOR id="T389" start="35" end="40" text="doors"/>
+
+a white bungalow with brown wooden doors and a little porch above it . 
+
+<TRAJECTOR id="T390" start="0" end="16" text="a white bungalow"/>
+
+a white bungalow with brown wooden doors and a little porch above it . 
+
+<TRAJECTOR id="T391" start="44" end="52" text="two beds"/>
+
+night table with a bedside lamp between the two beds . 
+
+<TRAJECTOR id="T392" start="44" end="52" text="two beds"/>
+
+night table with a bedside lamp between the two beds . 
+
+<TRAJECTOR id="T393" start="54" end="62" text="two beds"/>
+
+night table with bedside lamp and a phone between the two beds . 
+
+<TRAJECTOR id="T394" start="54" end="62" text="two beds"/>
+
+night table with bedside lamp and a phone between the two beds . 
+
+<TRAJECTOR id="T395" start="54" end="62" text="two beds"/>
+
+night table with bedside lamp and a phone between the two beds . 
+
+<TRAJECTOR id="T396" start="6" end="12" text="people"/>
+
+a few people are sitting at the wall , one man is walking next to the rails . 
+
+<TRAJECTOR id="T397" start="39" end="44" text="doors"/>
+
+a red , two-storey building with large doors and windows and rails in front of it . 
+
+<TRAJECTOR id="T398" start="8" end="27" text="two-storey building"/>
+
+a red , two-storey building with large doors and windows and rails in front of it . 
+
+<TRAJECTOR id="T399" start="8" end="27" text="two-storey building"/>
+
+a red , two-storey building with large doors and windows and rails in front of it . 
+
+<TRAJECTOR id="T400" start="8" end="27" text="two-storey building"/>
+
+a red , two-storey building with large doors and windows and rails in front of it . 
+
+<TRAJECTOR id="T401" start="10" end="18" text="two beds"/>
+
+Room with two beds on the right , a table with two chairs on the left and a large window in the back . 
+
+<TRAJECTOR id="T402" start="10" end="18" text="two beds"/>
+
+Room with two beds on the right , a table with two chairs on the left and a large window in the back . 
+
+<TRAJECTOR id="T403" start="47" end="57" text="two chairs"/>
+
+Room with two beds on the right , a table with two chairs on the left and a large window in the back . 
+
+<TRAJECTOR id="T404" start="47" end="57" text="two chairs"/>
+
+Room with two beds on the right , a table with two chairs on the left and a large window in the back . 
+
+<TRAJECTOR id="T405" start="47" end="57" text="two chairs"/>
+
+Room with two beds on the right , a table with two chairs on the left and a large window in the back . 
+
+<TRAJECTOR id="T406" start="47" end="57" text="two chairs"/>
+
+Room with two beds on the right , a table with two chairs on the left and a large window in the back . 
+
+<TRAJECTOR id="T407" start="47" end="57" text="two chairs"/>
+
+Room with two beds on the right , a table with two chairs on the left and a large window in the back . 
+
+<TRAJECTOR id="T408" start="14" end="21" text="a house"/>
+
+Front view of a house made of red bricks , with large wooden windows and white curtains . 
+
+<TRAJECTOR id="T409" start="14" end="21" text="a house"/>
+
+Front view of a house made of red bricks , with large wooden windows and white curtains . 
+
+<TRAJECTOR id="T410" start="34" end="40" text="bricks"/>
+
+Front view of a house made of red bricks , with large wooden windows and white curtains . 
+
+<TRAJECTOR id="T411" start="14" end="21" text="a house"/>
+
+Front view of a house made of red bricks , with large wooden windows and white curtains . 
+
+<TRAJECTOR id="T412" start="83" end="90" text="the bed"/>
+
+a room with a king-sized bed and a night table and a bedside lamp on both sides of the bed . 
+
+<TRAJECTOR id="T413" start="33" end="47" text="story building"/>
+
+The courtyard of a white , three story building . 
+
+<TRAJECTOR id="T414" start="50" end="63" text="a wooden door"/>
+
+A room with an unmade bed ( just the mattress ) , a wooden door on the right , a separate bathroom on the left . 
+
+<TRAJECTOR id="T415" start="20" end="26" text="bricks"/>
+
+a house made of red bricks , a little veranda with a small garden in front of it . 
+
+<TRAJECTOR id="T416" start="20" end="26" text="bricks"/>
+
+a house made of red bricks , a little veranda with a small garden in front of it . 
+
+<TRAJECTOR id="T417" start="20" end="26" text="bricks"/>
+
+a house made of red bricks , a little veranda with a small garden in front of it . 
+
+<TRAJECTOR id="T418" start="22" end="28" text="bricks"/>
+
+walls are made of red bricks . 
+
+<TRAJECTOR id="T419" start="22" end="28" text="bricks"/>
+
+walls are made of red bricks . 
+
+<TRAJECTOR id="T420" start="22" end="28" text="bricks"/>
+
+walls are made of red bricks . 
+
+<TRAJECTOR id="T421" start="55" end="60" text="doors"/>
+
+a narrow , long courtyard of a brown house with wooden doors , white door frames and many pictures on the walls . 
+
+<TRAJECTOR id="T422" start="31" end="37" text="chairs"/>
+
+there are many plants , wooden chairs and flower pots . 
+
+<TRAJECTOR id="T423" start="15" end="21" text="plants"/>
+
+there are many plants , wooden chairs and flower pots . 
+
+<TRAJECTOR id="T424" start="15" end="21" text="plants"/>
+
+there are many plants , wooden chairs and flower pots . 
+
+<TRAJECTOR id="T425" start="29" end="42" text="a brown house"/>
+
+a narrow , long courtyard of a brown house with wooden doors , white door frames and many pictures on the walls . 
+
+<TRAJECTOR id="T426" start="15" end="21" text="plants"/>
+
+there are many plants , wooden chairs and flower pots . 
+
+<TRAJECTOR id="T427" start="14" end="21" text="the bed"/>
+
+some stuff on the bed . 
+
+<TRAJECTOR id="T428" start="27" end="46" text="two-storey building"/>
+
+the courtyard of a white , two-storey building with red and brown rooftiles , a wooden balcony , rails and pillars and with many creeping and ornamental plants . 
+
+<TRAJECTOR id="T429" start="35" end="47" text="a wooden bed"/>
+
+a room with green and blue walls , a wooden bed with a wooden night table , a burning bedside lamp . 
+
+<TRAJECTOR id="T430" start="57" end="64" text="a river"/>
+
+Orange house surrounded by palm trees and bushes next to a river . 
+
+<TRAJECTOR id="T431" start="29" end="39" text="wooden bed"/>
+
+Room with wooden walls , one wooden bed with two pillows and white and green bedcovers with red and blue flowers on it . 
+
+<TRAJECTOR id="T432" start="0" end="9" text="buildings"/>
+
+buildings with wooden poles and wooden windows are to the left and right . 
+
+<TRAJECTOR id="T433" start="0" end="9" text="buildings"/>
+
+buildings with wooden poles and wooden windows are to the left and right . 
+
+<TRAJECTOR id="T434" start="16" end="30" text="king-sized bed"/>
+
+a room with one king-sized bed and one single bed , both made of wood . 
+
+<TRAJECTOR id="T435" start="16" end="30" text="king-sized bed"/>
+
+a room with one king-sized bed and one single bed , both made of wood . 
+
+<TRAJECTOR id="T436" start="11" end="15" text="beds"/>
+
+Two single beds , made of wood , painted white , with red and orange bedcovers . 
+
+<TRAJECTOR id="T437" start="16" end="24" text="curtains"/>
+
+window with red curtains on the left . 
+
+<TRAJECTOR id="T438" start="14" end="28" text="story building"/>
+
+White , three story building . 
+
+<TRAJECTOR id="T439" start="52" end="58" text="tables"/>
+
+Courtyard with a swimming pool , plastic charis and tables and one umbrella . 
+
+<TRAJECTOR id="T440" start="23" end="46" text="a three-storey building"/>
+
+a grey car in front of a three-storey building with white walls and wide windows . 
+
+<TRAJECTOR id="T441" start="23" end="46" text="a three-storey building"/>
+
+a grey car in front of a three-storey building with white walls and wide windows . 
+
+<TRAJECTOR id="T442" start="64" end="69" text="trees"/>
+
+front view of a house with blue window frames , broad windows , trees and benches in front of the house . 
+
+<TRAJECTOR id="T443" start="64" end="69" text="trees"/>
+
+front view of a house with blue window frames , broad windows , trees and benches in front of the house . 
+
+<TRAJECTOR id="T444" start="27" end="38" text="blue window"/>
+
+front view of a house with blue window frames , broad windows , trees and benches in front of the house . 
+
+<TRAJECTOR id="T445" start="94" end="103" text="the house"/>
+
+front view of a house with blue window frames , broad windows , trees and benches in front of the house . 
+
+<TRAJECTOR id="T446" start="12" end="17" text="walls"/>
+
+a room with walls painted in green and red , a double bed with a light and dark brown striped blanket , a night table with a lamp on the left and a door and two windows in the background . 
+
+<TRAJECTOR id="T447" start="114" end="119" text="trees"/>
+
+a multi-storey frame house on the left , a snowcovered mountain in the background on the right behind a couple of trees , and in the foreground a wall decorated with flowers , a garden and a lawn . 
+
+<TRAJECTOR id="T448" start="0" end="26" text="a multi-storey frame house"/>
+
+a multi-storey frame house on the left , a snowcovered mountain in the background on the right behind a couple of trees , and in the foreground a wall decorated with flowers , a garden and a lawn . 
+
+<TRAJECTOR id="T449" start="127" end="144" text="a hot spring pool"/>
+
+a yellow house with a thatched roof on the left , a hut with a thatched roof on the right , and in front of them a footpath to a hot spring pool which is surrounded by stones and flowers . 
+
+<TRAJECTOR id="T450" start="168" end="174" text="stones"/>
+
+a yellow house with a thatched roof on the left , a hut with a thatched roof on the right , and in front of them a footpath to a hot spring pool which is surrounded by stones and flowers . 
+
+<TRAJECTOR id="T451" start="179" end="186" text="flowers"/>
+
+a yellow house with a thatched roof on the left , a hut with a thatched roof on the right , and in front of them a footpath to a hot spring pool which is surrounded by stones and flowers . 
+
+<TRAJECTOR id="T452" start="168" end="174" text="stones"/>
+
+a yellow house with a thatched roof on the left , a hut with a thatched roof on the right , and in front of them a footpath to a hot spring pool which is surrounded by stones and flowers . 
+
+<TRAJECTOR id="T453" start="168" end="174" text="stones"/>
+
+a yellow house with a thatched roof on the left , a hut with a thatched roof on the right , and in front of them a footpath to a hot spring pool which is surrounded by stones and flowers . 
+
+<TRAJECTOR id="T454" start="10" end="19" text="mountains"/>
+
+there are mountains in the background on the right . 
+
+<TRAJECTOR id="T455" start="0" end="13" text="a white house"/>
+
+a white house with two large windows with wooden frames , two wooden pillars at the terrace with wooden benches and a wooden table . 
+
+<TRAJECTOR id="T456" start="111" end="125" text="a broad window"/>
+
+a woman in a room with white walls , a bunk bed made of wood on the left , another single bed on the right and a broad window with a wooden frame behind the woman . 
+
+<TRAJECTOR id="T457" start="37" end="47" text="a bunk bed"/>
+
+a woman in a room with white walls , a bunk bed made of wood on the left , another single bed on the right and a broad window with a wooden frame behind the woman . 
+
+<TRAJECTOR id="T458" start="153" end="162" text="the woman"/>
+
+a woman in a room with white walls , a bunk bed made of wood on the left , another single bed on the right and a broad window with a wooden frame behind the woman . 
+
+<TRAJECTOR id="T459" start="10" end="16" text="stairs"/>
+
+there are stairs on the left . 
+
+<TRAJECTOR id="T460" start="8" end="16" text="a jungle"/>
+
+view of a jungle lodge with a thatched roof and a very dense jungle vegetation around it . 
+
+<TRAJECTOR id="T461" start="50" end="78" text="very dense jungle vegetation"/>
+
+view of a jungle lodge with a thatched roof and a very dense jungle vegetation around it . 
+
+<TRAJECTOR id="T462" start="50" end="78" text="very dense jungle vegetation"/>
+
+view of a jungle lodge with a thatched roof and a very dense jungle vegetation around it . 
+
+<TRAJECTOR id="T463" start="8" end="16" text="a jungle"/>
+
+view of a jungle lodge with a thatched roof and a very dense jungle vegetation around it . 
+
+<TRAJECTOR id="T464" start="10" end="16" text="stairs"/>
+
+there are stairs on the left . 
+
+<TRAJECTOR id="T465" start="0" end="20" text="wooden parquet floor"/>
+
+wooden parquet floor . 
+
+<TRAJECTOR id="T466" start="79" end="85" text="houses"/>
+
+there are stairs on the left and a very dense vegetation on the right and more houses in the distant background . 
+
+<TRAJECTOR id="T467" start="79" end="85" text="houses"/>
+
+there are stairs on the left and a very dense vegetation on the right and more houses in the distant background . 
+
+<TRAJECTOR id="T468" start="79" end="85" text="houses"/>
+
+there are stairs on the left and a very dense vegetation on the right and more houses in the distant background . 
+
+<TRAJECTOR id="T469" start="12" end="24" text="a double bed"/>
+
+a room with a double bed made of dark wood , a blue and white chequered bedcover , white pillows , a door on the left , a fancy lamp and a fridge on the right . 
+
+<TRAJECTOR id="T470" start="115" end="122" text="windows"/>
+
+front view of a white building with a street on the left , a wooden fence at the entrance at the front , three big windows and a big door and a little canopy above it . 
+
+<TRAJECTOR id="T471" start="36" end="44" text="a street"/>
+
+front view of a white building with a street on the left , a wooden fence at the entrance at the front , three big windows and a big door and a little canopy above it . 
+
+<TRAJECTOR id="T472" start="0" end="12" text="a double bed"/>
+
+a double bed made of wood with pink and white striped pillows and bedcovers . 
+
+<TRAJECTOR id="T473" start="47" end="53" text="houses"/>
+
+behind it there is a higher white house , more houses in the background on the left , and the writing Hotel Real on the very left . 
+
+<TRAJECTOR id="T474" start="57" end="71" text="the background"/>
+
+behind it there is a higher white house , more houses in the background on the left , and the writing Hotel Real on the very left . 
+
+<TRAJECTOR id="T475" start="0" end="16" text="the ground level"/>
+
+the ground level has several arches with white columns . 
+
+<TRAJECTOR id="T476" start="47" end="53" text="houses"/>
+
+behind it there is a higher white house , more houses in the background on the left , and the writing Hotel Real on the very left . 
+
+<TRAJECTOR id="T477" start="47" end="53" text="houses"/>
+
+behind it there is a higher white house , more houses in the background on the left , and the writing Hotel Real on the very left . 
+
+<TRAJECTOR id="T478" start="47" end="53" text="houses"/>
+
+behind it there is a higher white house , more houses in the background on the left , and the writing Hotel Real on the very left . 
+
+<TRAJECTOR id="T479" start="27" end="35" text="a carpet"/>
+
+a room with a double bed , a carpet and a night table on the left , a painting above it and two burning lamps . 
+
+<TRAJECTOR id="T480" start="12" end="24" text="a double bed"/>
+
+a room with a double bed , a carpet and a night table on the left , a painting above it and two burning lamps . 
+
+<TRAJECTOR id="T481" start="0" end="6" text="a room"/>
+
+a room with a double bed , a carpet and a night table on the left , a painting above it and two burning lamps . 
+
+<TRAJECTOR id="T482" start="68" end="78" text="a painting"/>
+
+a room with a double bed , a carpet and a night table on the left , a painting above it and two burning lamps . 
+
+<TRAJECTOR id="T483" start="68" end="79" text="a white car"/>
+
+front view of a light green house with a grey garage on the right , a white car in front of it and a round front with orange ornamental strips . 
+
+<TRAJECTOR id="T484" start="26" end="37" text="the red car"/>
+
+there are three people at the red car on the left . 
+
+<TRAJECTOR id="T485" start="26" end="37" text="the red car"/>
+
+there are three people at the red car on the left . 
+
+<TRAJECTOR id="T486" start="26" end="37" text="the red car"/>
+
+there are three people at the red car on the left . 
+
+<TRAJECTOR id="T487" start="29" end="48" text="a dark orange house"/>
+
+cars are parking in front of a dark orange house with small white columns . 
+
+<TRAJECTOR id="T488" start="10" end="22" text="three people"/>
+
+there are three people at the red car on the left . 
+
+<TRAJECTOR id="T489" start="10" end="22" text="three people"/>
+
+there are three people at the red car on the left . 
+
+<TRAJECTOR id="T490" start="77" end="86" text="buildings"/>
+
+a white high-rise building with 21 storeys , another three , brown high-rise buildings on the left , a tree and further houses behind it on the right , and a beach and a supporting wall in the foreground . 
+
+<TRAJECTOR id="T491" start="101" end="107" text="a tree"/>
+
+a white high-rise building with 21 storeys , another three , brown high-rise buildings on the left , a tree and further houses behind it on the right , and a beach and a supporting wall in the foreground . 
+
+<TRAJECTOR id="T492" start="116" end="129" text="two paintings"/>
+
+a room with blue and white walls , two single beds with blue and light brown bedcovers , a night table in between , two paintings above it , a wooden bar in the foreground and a white door in the background on the left . 
+
+<TRAJECTOR id="T493" start="116" end="129" text="two paintings"/>
+
+a room with blue and white walls , two single beds with blue and light brown bedcovers , a night table in between , two paintings above it , a wooden bar in the foreground and a white door in the background on the left . 
+
+<TRAJECTOR id="T494" start="87" end="92" text="trees"/>
+
+a slightly underexposed , white bungalow with a high palm tree in front of it and with trees to the left and right . 
+
+<TRAJECTOR id="T495" start="26" end="40" text="white bungalow"/>
+
+a slightly underexposed , white bungalow with a high palm tree in front of it and with trees to the left and right . 
+
+<TRAJECTOR id="T496" start="46" end="62" text="a high palm tree"/>
+
+a slightly underexposed , white bungalow with a high palm tree in front of it and with trees to the left and right . 
+
+<TRAJECTOR id="T497" start="87" end="92" text="trees"/>
+
+a slightly underexposed , white bungalow with a high palm tree in front of it and with trees to the left and right . 
+
+<TRAJECTOR id="T498" start="13" end="25" text="a single bed"/>
+
+a double and a single bed with mainly blue and yellow bedcovers in a room with white walls and dark brown ornamental strips made of wood . 
+
+<TRAJECTOR id="T499" start="37" end="53" text="the ground level"/>
+
+there is a travel agency ( VASP ) on the ground level , and there are power lines on the right . 
+
+<TRAJECTOR id="T500" start="40" end="44" text="beds"/>
+
+a bald room with white walls , two bunk beds made of wood with white bedcovers , towels and pillows ( white and orange ) . 
+
+<TRAJECTOR id="T501" start="40" end="44" text="beds"/>
+
+a bald room with white walls , two bunk beds made of wood with white bedcovers , towels and pillows ( white and orange ) . 
+
+<TRAJECTOR id="T502" start="100" end="104" text="iron"/>
+
+corner view of a dark yellow , two-storey house with white window and door frams and balconies with iron rails . 
+
+<TRAJECTOR id="T503" start="85" end="94" text="balconies"/>
+
+corner view of a dark yellow , two-storey house with white window and door frams and balconies with iron rails . 
+
+<TRAJECTOR id="T504" start="85" end="94" text="balconies"/>
+
+corner view of a dark yellow , two-storey house with white window and door frams and balconies with iron rails . 
+
+<TRAJECTOR id="T505" start="53" end="65" text="white window"/>
+
+corner view of a dark yellow , two-storey house with white window and door frams and balconies with iron rails . 
+
+<TRAJECTOR id="T506" start="85" end="94" text="balconies"/>
+
+corner view of a dark yellow , two-storey house with white window and door frams and balconies with iron rails . 
+
+<TRAJECTOR id="T507" start="53" end="65" text="white window"/>
+
+corner view of a dark yellow , two-storey house with white window and door frams and balconies with iron rails . 
+
+<TRAJECTOR id="T508" start="14" end="23" text="ornaments"/>
+
+there are red ornaments around the entrance on the right . 
+
+<TRAJECTOR id="T509" start="0" end="12" text="a double bed"/>
+
+a double bed made of wood with white bedcover and two white pillows in a room with a crate and white walls above it . 
+
+<TRAJECTOR id="T510" start="14" end="23" text="ornaments"/>
+
+there are red ornaments around the entrance on the right . 
+
+<TRAJECTOR id="T511" start="14" end="23" text="ornaments"/>
+
+there are red ornaments around the entrance on the right . 
+
+<TRAJECTOR id="T512" start="14" end="23" text="ornaments"/>
+
+there are red ornaments around the entrance on the right . 
+
+<TRAJECTOR id="T513" start="14" end="33" text="a dark yellow house"/>
+
+front view of a dark yellow house with wooden windows , white window frames and an iron entrance gate . 
+
+<TRAJECTOR id="T514" start="80" end="101" text="an iron entrance gate"/>
+
+front view of a dark yellow house with wooden windows , white window frames and an iron entrance gate . 
+
+<TRAJECTOR id="T515" start="56" end="68" text="white window"/>
+
+front view of a dark yellow house with wooden windows , white window frames and an iron entrance gate . 
+
+<TRAJECTOR id="T516" start="56" end="68" text="white window"/>
+
+front view of a dark yellow house with wooden windows , white window frames and an iron entrance gate . 
+
+<TRAJECTOR id="T517" start="184" end="192" text="curtains"/>
+
+a room with white walls and an inclined picture , two single beds made of wood on the right , a commode with a TV on the left , and in the background on the right a window with orange curtains . 
+
+<TRAJECTOR id="T518" start="184" end="192" text="curtains"/>
+
+a room with white walls and an inclined picture , two single beds made of wood on the right , a commode with a TV on the left , and in the background on the right a window with orange curtains . 
+
+<TRAJECTOR id="T519" start="0" end="25" text="a tall high-rise building"/>
+
+a tall high-rise building with a facade made of glass . 
+
+<TRAJECTOR id="T520" start="0" end="9" text="a red car"/>
+
+a red car in front of the entrance of a big hotel . 
+
+<TRAJECTOR id="T521" start="22" end="34" text="the entrance"/>
+
+a red car in front of the entrance of a big hotel . 
+
+<TRAJECTOR id="T522" start="0" end="25" text="a tall high-rise building"/>
+
+a tall high-rise building with a facade made of glass . 
+
+<TRAJECTOR id="T523" start="35" end="53" text="a large double bed"/>
+
+a room with white and grey walls , a large double bed made of wood in the foreground , an armchair , a small table and three more chairs and two lamps behind it , and a window with grey and white curtains in the background . 
+
+<TRAJECTOR id="T524" start="130" end="136" text="chairs"/>
+
+a room with white and grey walls , a large double bed made of wood in the foreground , an armchair , a small table and three more chairs and two lamps behind it , and a window with grey and white curtains in the background . 
+
+<TRAJECTOR id="T525" start="141" end="150" text="two lamps"/>
+
+a room with white and grey walls , a large double bed made of wood in the foreground , an armchair , a small table and three more chairs and two lamps behind it , and a window with grey and white curtains in the background . 
+
+<TRAJECTOR id="T526" start="101" end="114" text="a small table"/>
+
+a room with white and grey walls , a large double bed made of wood in the foreground , an armchair , a small table and three more chairs and two lamps behind it , and a window with grey and white curtains in the background . 
+
+<TRAJECTOR id="T527" start="130" end="136" text="chairs"/>
+
+a room with white and grey walls , a large double bed made of wood in the foreground , an armchair , a small table and three more chairs and two lamps behind it , and a window with grey and white curtains in the background . 
+
+<TRAJECTOR id="T528" start="130" end="136" text="chairs"/>
+
+a room with white and grey walls , a large double bed made of wood in the foreground , an armchair , a small table and three more chairs and two lamps behind it , and a window with grey and white curtains in the background . 
+
+<TRAJECTOR id="T529" start="7" end="10" text="car"/>
+
+a grey car is parking in front of a grey house with brown window frames and plants on the balcony . 
+
+<TRAJECTOR id="T530" start="76" end="82" text="plants"/>
+
+a grey car is parking in front of a grey house with brown window frames and plants on the balcony . 
+
+<TRAJECTOR id="T531" start="76" end="82" text="plants"/>
+
+a grey car is parking in front of a grey house with brown window frames and plants on the balcony . 
+
+<TRAJECTOR id="T532" start="52" end="64" text="brown window"/>
+
+a grey car is parking in front of a grey house with brown window frames and plants on the balcony . 
+
+<TRAJECTOR id="T533" start="64" end="69" text="trees"/>
+
+there is also the corner of a green house on the left there are trees in the background . 
+
+<TRAJECTOR id="T534" start="28" end="41" text="a green house"/>
+
+there is also the corner of a green house on the left there are trees in the background . 
+
+<TRAJECTOR id="T535" start="62" end="74" text="a green wall"/>
+
+children in a swimming pool in a garden that is surrounded by a green wall . 
+
+<TRAJECTOR id="T536" start="0" end="8" text="children"/>
+
+children in a swimming pool in a garden that is surrounded by a green wall . 
+
+<TRAJECTOR id="T537" start="9" end="21" text="a small boat"/>
+
+there is a small boat on the left , and a very flat , sparse landscape in the background . 
+
+<TRAJECTOR id="T538" start="213" end="225" text="the entrance"/>
+
+front view of a house in style of the Alpes: white walls , dark brown window frames made of wood , flower boxes below the windows , a little tower with red rooftiles and two palm trees and three flags in front of the entrance . 
+
+<TRAJECTOR id="T539" start="174" end="178" text="palm"/>
+
+front view of a house in style of the Alpes: white walls , dark brown window frames made of wood , flower boxes below the windows , a little tower with red rooftiles and two palm trees and three flags in front of the entrance . 
+
+<TRAJECTOR id="T540" start="179" end="184" text="trees"/>
+
+front view of a house in style of the Alpes: white walls , dark brown window frames made of wood , flower boxes below the windows , a little tower with red rooftiles and two palm trees and three flags in front of the entrance . 
+
+<TRAJECTOR id="T541" start="59" end="76" text="dark brown window"/>
+
+front view of a house in style of the Alpes: white walls , dark brown window frames made of wood , flower boxes below the windows , a little tower with red rooftiles and two palm trees and three flags in front of the entrance . 
+
+<TRAJECTOR id="T542" start="51" end="56" text="walls"/>
+
+front view of a house in style of the Alpes: white walls , dark brown window frames made of wood , flower boxes below the windows , a little tower with red rooftiles and two palm trees and three flags in front of the entrance . 
+
+<TRAJECTOR id="T543" start="82" end="86" text="beds"/>
+
+there are night tables on both sides , a phone on the right , two lamps above the beds , a painting on the left and a window with a curtain on the very left . 
+
+<TRAJECTOR id="T544" start="82" end="86" text="beds"/>
+
+there are night tables on both sides , a phone on the right , two lamps above the beds , a painting on the left and a window with a curtain on the very left . 
+
+<TRAJECTOR id="T545" start="0" end="23" text="a three-storey building"/>
+
+a three-storey building made of red bricks , with red doors and a blue jalousie on the ground level . 
+
+<TRAJECTOR id="T546" start="64" end="79" text="a blue jalousie"/>
+
+a three-storey building made of red bricks , with red doors and a blue jalousie on the ground level . 
+
+<TRAJECTOR id="T547" start="0" end="12" text="a double bed"/>
+
+a double bed made of wood with white bedcovers , two pillows and a night table on the left in a room with white walls . 
+
+<TRAJECTOR id="T548" start="0" end="12" text="a double bed"/>
+
+a double bed made of wood with white bedcovers , two pillows and a night table on the left in a room with white walls . 
+
+<TRAJECTOR id="T549" start="0" end="23" text="a three-storey building"/>
+
+a three-storey building with white and brown walls and lowered grey blinds . 
+
+<TRAJECTOR id="T550" start="0" end="23" text="a three-storey building"/>
+
+a three-storey building with white and brown walls and lowered grey blinds . 
+
+<TRAJECTOR id="T551" start="68" end="74" text="blinds"/>
+
+a three-storey building with white and brown walls and lowered grey blinds . 
+
+<TRAJECTOR id="T552" start="68" end="74" text="blinds"/>
+
+a three-storey building with white and brown walls and lowered grey blinds . 
+
+<TRAJECTOR id="T553" start="217" end="225" text="curtains"/>
+
+a room with orange walls , a double bed with a light orange bedcover , a night table on both sides of the bed , a phone and a lamp on the left side , two paintings on the wall above the bed , and a window with orange curtains on the right . 
+
+<TRAJECTOR id="T554" start="150" end="163" text="two paintings"/>
+
+a room with orange walls , a double bed with a light orange bedcover , a night table on both sides of the bed , a phone and a lamp on the left side , two paintings on the wall above the bed , and a window with orange curtains on the right . 
+
+<TRAJECTOR id="T555" start="150" end="163" text="two paintings"/>
+
+a room with orange walls , a double bed with a light orange bedcover , a night table on both sides of the bed , a phone and a lamp on the left side , two paintings on the wall above the bed , and a window with orange curtains on the right . 
+
+<TRAJECTOR id="T556" start="0" end="27" text="an illuminated multi-storey"/>
+
+an illuminated multi-storey building with a large entrance at one corner . 
+
+<TRAJECTOR id="T557" start="0" end="27" text="an illuminated multi-storey"/>
+
+an illuminated multi-storey building with a large entrance at one corner . 
+
+<TRAJECTOR id="T558" start="0" end="27" text="an illuminated multi-storey"/>
+
+an illuminated multi-storey building with a large entrance at one corner . 
+
+<TRAJECTOR id="T559" start="0" end="27" text="an illuminated multi-storey"/>
+
+an illuminated multi-storey building with a large entrance at one corner . 
+
+<TRAJECTOR id="T560" start="37" end="41" text="beds"/>
+
+a room with green walls , two single beds made of wood , a night table with a lamp in between and a painting above it . 
+
+<TRAJECTOR id="T561" start="37" end="41" text="beds"/>
+
+a room with green walls , two single beds made of wood , a night table with a lamp in between and a painting above it . 
+
+<TRAJECTOR id="T562" start="156" end="163" text="the bed"/>
+
+a room with a dark green wall , a double bed made of wood with two yellow pillows and a brown and yellow chequered blanket , two lamps and a painting above the bed , a phone on the right and a window with an orange curtain on the left . 
+
+<TRAJECTOR id="T563" start="12" end="29" text="a dark green wall"/>
+
+a room with a dark green wall , a double bed made of wood with two yellow pillows and a brown and yellow chequered blanket , two lamps and a painting above the bed , a phone on the right and a window with an orange curtain on the left . 
+
+<TRAJECTOR id="T564" start="125" end="134" text="two lamps"/>
+
+a room with a dark green wall , a double bed made of wood with two yellow pillows and a brown and yellow chequered blanket , two lamps and a painting above the bed , a phone on the right and a window with an orange curtain on the left . 
+
+<TRAJECTOR id="T565" start="26" end="31" text="walls"/>
+
+the ground level has grey walls , large windows and two flower pots at the entrance . 
+
+<TRAJECTOR id="T566" start="26" end="31" text="walls"/>
+
+the ground level has grey walls , large windows and two flower pots at the entrance . 
+
+<TRAJECTOR id="T567" start="63" end="67" text="pots"/>
+
+the ground level has grey walls , large windows and two flower pots at the entrance . 
+
+<TRAJECTOR id="T568" start="63" end="67" text="pots"/>
+
+the ground level has grey walls , large windows and two flower pots at the entrance . 
+
+<TRAJECTOR id="T569" start="0" end="16" text="the ground level"/>
+
+the ground level has grey walls , large windows and two flower pots at the entrance . 
+
+<TRAJECTOR id="T570" start="26" end="31" text="walls"/>
+
+the ground level has grey walls , large windows and two flower pots at the entrance . 
+
+<TRAJECTOR id="T571" start="48" end="57" text="balconies"/>
+
+front view of a house with white walls , wooden balconies , blue rails , grey columns and a brown supporting wall . 
+
+<TRAJECTOR id="T572" start="48" end="57" text="balconies"/>
+
+front view of a house with white walls , wooden balconies , blue rails , grey columns and a brown supporting wall . 
+
+<TRAJECTOR id="T573" start="61" end="66" text="trees"/>
+
+there are also an entrance with lots of flowers and two palm trees in front of the house . 
+
+<TRAJECTOR id="T574" start="69" end="87" text="another single bed"/>
+
+a room with white walls , a blue and white bunk bed on the right and another single bed in front of a broad window with brown curtains . 
+
+<TRAJECTOR id="T575" start="69" end="87" text="another single bed"/>
+
+a room with white walls , a blue and white bunk bed on the right and another single bed in front of a broad window with brown curtains . 
+
+<TRAJECTOR id="T576" start="100" end="114" text="a broad window"/>
+
+a room with white walls , a blue and white bunk bed on the right and another single bed in front of a broad window with brown curtains . 
+
+<TRAJECTOR id="T577" start="11" end="15" text="beds"/>
+
+two single beds made of wood with white bedcovers and white pillows . 
+
+<TRAJECTOR id="T578" start="11" end="15" text="beds"/>
+
+two single beds made of wood with white bedcovers and white pillows . 
+
+<TRAJECTOR id="T579" start="11" end="15" text="beds"/>
+
+two single beds made of wood with white bedcovers and white pillows . 
+
+<TRAJECTOR id="T580" start="111" end="120" text="the house"/>
+
+a light green three-storey house with white window frames and trees , sunshades and plastic chairs in front of the house . 
+
+<TRAJECTOR id="T581" start="70" end="79" text="sunshades"/>
+
+a light green three-storey house with white window frames and trees , sunshades and plastic chairs in front of the house . 
+
+<TRAJECTOR id="T582" start="70" end="79" text="sunshades"/>
+
+a light green three-storey house with white window frames and trees , sunshades and plastic chairs in front of the house . 
+
+<TRAJECTOR id="T583" start="92" end="98" text="chairs"/>
+
+a light green three-storey house with white window frames and trees , sunshades and plastic chairs in front of the house . 
+
+<TRAJECTOR id="T584" start="0" end="12" text="a double bed"/>
+
+a double bed made of wood with a light blue bedcover and light blue and white chequered pillows in a room with white walls . 
+
+<TRAJECTOR id="T585" start="56" end="61" text="sides"/>
+
+a dark orange and grey wall with a potted plant on both sides of the white entrance . 
+
+<TRAJECTOR id="T586" start="49" end="57" text="the wall"/>
+
+there is a large Pousada Girasol sign painted on the wall . 
+
+<TRAJECTOR id="T587" start="33" end="47" text="a potted plant"/>
+
+a dark orange and grey wall with a potted plant on both sides of the white entrance . 
+
+<TRAJECTOR id="T588" start="33" end="47" text="a potted plant"/>
+
+a dark orange and grey wall with a potted plant on both sides of the white entrance . 
+
+<TRAJECTOR id="T589" start="11" end="15" text="beds"/>
+
+two single beds made of wood with white bedcovers in a room with white walls and a window with brownish green curtains . 
+
+<TRAJECTOR id="T590" start="81" end="89" text="a window"/>
+
+two single beds made of wood with white bedcovers in a room with white walls and a window with brownish green curtains . 
+
+<TRAJECTOR id="T591" start="92" end="101" text="sunshades"/>
+
+front view of a light brown , two-storey building with white window frames , a terrace with sunshades and tables in front of it . 
+
+<TRAJECTOR id="T592" start="92" end="101" text="sunshades"/>
+
+front view of a light brown , two-storey building with white window frames , a terrace with sunshades and tables in front of it . 
+
+<TRAJECTOR id="T593" start="83" end="91" text="a window"/>
+
+a room with white and orange walls , an orange double bed with white bedcovers and a window with dark brown window frames on the left . 
+
+<TRAJECTOR id="T594" start="4" end="12" text="children"/>
+
+six children in the forground , more children and also grown-ups in a canteen kind of place in the background . 
+
+<TRAJECTOR id="T595" start="4" end="12" text="children"/>
+
+six children in the forground , more children and also grown-ups in a canteen kind of place in the background . 
+
+<TRAJECTOR id="T596" start="4" end="12" text="children"/>
+
+six children in the forground , more children and also grown-ups in a canteen kind of place in the background . 
+
+<TRAJECTOR id="T597" start="4" end="12" text="children"/>
+
+six children in the forground , more children and also grown-ups in a canteen kind of place in the background . 
+
+<TRAJECTOR id="T598" start="4" end="12" text="children"/>
+
+six children in the forground , more children and also grown-ups in a canteen kind of place in the background . 
+
+<TRAJECTOR id="T599" start="4" end="12" text="children"/>
+
+six children in the forground , more children and also grown-ups in a canteen kind of place in the background . 
+
+<TRAJECTOR id="T600" start="4" end="12" text="children"/>
+
+six children in the forground , more children and also grown-ups in a canteen kind of place in the background . 
+
+<TRAJECTOR id="T601" start="4" end="12" text="children"/>
+
+six children in the forground , more children and also grown-ups in a canteen kind of place in the background . 
+
+<TRAJECTOR id="T602" start="4" end="12" text="children"/>
+
+six children in the forground , more children and also grown-ups in a canteen kind of place in the background . 
+
+<TRAJECTOR id="T603" start="0" end="12" text="a white ship"/>
+
+a white ship at the sea . 
+
+<TRAJECTOR id="T604" start="17" end="24" text="the sky"/>
+
+eight condors in the sky above a brown mountain landscape ( canyon ) . 
+
+<TRAJECTOR id="T605" start="0" end="13" text="eight condors"/>
+
+eight condors in the sky above a brown mountain landscape ( canyon ) . 
+
+<TRAJECTOR id="T606" start="0" end="13" text="eight condors"/>
+
+eight condors in the sky above a brown mountain landscape ( canyon ) . 
+
+<TRAJECTOR id="T607" start="20" end="29" text="mountains"/>
+
+high , bald , brown mountains in the background . 
+
+<TRAJECTOR id="T608" start="20" end="29" text="mountains"/>
+
+high , bald , brown mountains in the background . 
+
+<TRAJECTOR id="T609" start="20" end="29" text="mountains"/>
+
+high , bald , brown mountains in the background . 
+
+<TRAJECTOR id="T610" start="37" end="43" text="chairs"/>
+
+a large room with a wooden table and chairs on the left , four more chairs and a large painting in the background on the right , and a window with flower pots below it in the background on the left . 
+
+<TRAJECTOR id="T611" start="37" end="43" text="chairs"/>
+
+a large room with a wooden table and chairs on the left , four more chairs and a large painting in the background on the right , and a window with flower pots below it in the background on the left . 
+
+<TRAJECTOR id="T612" start="133" end="141" text="a window"/>
+
+a large room with a wooden table and chairs on the left , four more chairs and a large painting in the background on the right , and a window with flower pots below it in the background on the left . 
+
+<TRAJECTOR id="T613" start="37" end="43" text="chairs"/>
+
+a large room with a wooden table and chairs on the left , four more chairs and a large painting in the background on the right , and a window with flower pots below it in the background on the left . 
+
+<TRAJECTOR id="T614" start="37" end="43" text="chairs"/>
+
+a large room with a wooden table and chairs on the left , four more chairs and a large painting in the background on the right , and a window with flower pots below it in the background on the left . 
+
+<TRAJECTOR id="T615" start="79" end="95" text="a large painting"/>
+
+a large room with a wooden table and chairs on the left , four more chairs and a large painting in the background on the right , and a window with flower pots below it in the background on the left . 
+
+<TRAJECTOR id="T616" start="37" end="43" text="chairs"/>
+
+a large room with a wooden table and chairs on the left , four more chairs and a large painting in the background on the right , and a window with flower pots below it in the background on the left . 
+
+<TRAJECTOR id="T617" start="40" end="50" text="containers"/>
+
+a white and yellow freighter with a few containers on board , docked in a harbour . 
+
+<TRAJECTOR id="T618" start="40" end="50" text="containers"/>
+
+a white and yellow freighter with a few containers on board , docked in a harbour . 
+
+<TRAJECTOR id="T619" start="32" end="41" text="the water"/>
+
+a white and orange freighter on the water in front of a naked , brown hill 
+
+<TRAJECTOR id="T620" start="64" end="74" text="brown hill"/>
+
+a white and orange freighter on the water in front of a naked , brown hill 
+
+<TRAJECTOR id="T621" start="18" end="30" text="a double bed"/>
+
+a ship cabin with a double bed with blue pillows and towels on it and two windows behind it . 
+
+<TRAJECTOR id="T622" start="53" end="59" text="towels"/>
+
+a ship cabin with a double bed with blue pillows and towels on it and two windows behind it . 
+
+<TRAJECTOR id="T623" start="0" end="13" text="water outside"/>
+
+water outside . 
+
+<TRAJECTOR id="T624" start="0" end="13" text="water outside"/>
+
+water outside . 
+
+<TRAJECTOR id="T625" start="0" end="8" text="tourists"/>
+
+tourists are standing with their luggages in front of a brown , wooden house with many little towers , niches , windows and vegetation around . 
+
+<TRAJECTOR id="T626" start="64" end="86" text="a snowcovered mountain"/>
+
+a glacier tongue , bare stone on the right and left of it , and a snowcovered mountain . 
+
+<TRAJECTOR id="T627" start="46" end="55" text="mountains"/>
+
+there are high , cloud-imposed , snow covered mountains in the background . 
+
+<TRAJECTOR id="T628" start="46" end="55" text="mountains"/>
+
+there are high , cloud-imposed , snow covered mountains in the background . 
+
+<TRAJECTOR id="T629" start="46" end="55" text="mountains"/>
+
+there are high , cloud-imposed , snow covered mountains in the background . 
+
+<TRAJECTOR id="T630" start="28" end="37" text="signposts"/>
+
+Two poles with a good dozen signposts to different cities of the world . 
+
+<TRAJECTOR id="T631" start="28" end="37" text="signposts"/>
+
+Two poles with a good dozen signposts to different cities of the world . 
+
+<TRAJECTOR id="T632" start="16" end="22" text="houses"/>
+
+a small , white houses with two columns at the entrance and an angel statue on the roof . 
+
+<TRAJECTOR id="T633" start="43" end="55" text="the entrance"/>
+
+a small , white houses with two columns at the entrance and an angel statue on the roof . 
+
+<TRAJECTOR id="T634" start="9" end="14" text="a man"/>
+
+there is a man on the right . 
+
+<TRAJECTOR id="T635" start="18" end="27" text="the right"/>
+
+there is a man on the right . 
+
+<TRAJECTOR id="T636" start="9" end="14" text="a man"/>
+
+there is a man on the right . 
+
+<TRAJECTOR id="T637" start="0" end="12" text="two penguins"/>
+
+two penguins are sitting in their nest . 
+
+<TRAJECTOR id="T638" start="0" end="12" text="two penguins"/>
+
+two penguins are sitting in their nest . 
+
+<TRAJECTOR id="T639" start="0" end="12" text="two penguins"/>
+
+two penguins are sitting in their nest . 
+
+<TRAJECTOR id="T640" start="0" end="12" text="two penguins"/>
+
+two penguins are sitting in their nest . 
+
+<TRAJECTOR id="T641" start="28" end="40" text="a muddy road"/>
+
+two all-terrain vehicles on a muddy road , with the forest on both sides . 
+
+<TRAJECTOR id="T642" start="28" end="40" text="a muddy road"/>
+
+two all-terrain vehicles on a muddy road , with the forest on both sides . 
+
+<TRAJECTOR id="T643" start="0" end="8" text="children"/>
+
+children sitting around two white , round desks . 
+
+<TRAJECTOR id="T644" start="0" end="8" text="children"/>
+
+children sitting around two white , round desks . 
+
+<TRAJECTOR id="T645" start="42" end="47" text="desks"/>
+
+children sitting around two white , round desks . 
+
+<TRAJECTOR id="T646" start="42" end="47" text="desks"/>
+
+children sitting around two white , round desks . 
+
+<TRAJECTOR id="T647" start="0" end="8" text="children"/>
+
+children sitting around two white , round desks . 
+
+<TRAJECTOR id="T648" start="53" end="58" text="sails"/>
+
+a white sailing ship with two masts and four hoisted sails and a few people on board . 
+
+<TRAJECTOR id="T649" start="17" end="25" text="coca tea"/>
+
+a dozen mangos , coca tea and a bottle of Pisco Sour on a wooden table . 
+
+<TRAJECTOR id="T650" start="17" end="25" text="coca tea"/>
+
+a dozen mangos , coca tea and a bottle of Pisco Sour on a wooden table . 
+
+<TRAJECTOR id="T651" start="17" end="25" text="coca tea"/>
+
+a dozen mangos , coca tea and a bottle of Pisco Sour on a wooden table . 
+
+<TRAJECTOR id="T652" start="17" end="25" text="coca tea"/>
+
+a dozen mangos , coca tea and a bottle of Pisco Sour on a wooden table . 
+
+<TRAJECTOR id="T653" start="17" end="25" text="coca tea"/>
+
+a dozen mangos , coca tea and a bottle of Pisco Sour on a wooden table . 
+
+<TRAJECTOR id="T654" start="17" end="25" text="coca tea"/>
+
+a dozen mangos , coca tea and a bottle of Pisco Sour on a wooden table . 
+
+<TRAJECTOR id="T655" start="17" end="25" text="coca tea"/>
+
+a dozen mangos , coca tea and a bottle of Pisco Sour on a wooden table . 
+
+<TRAJECTOR id="T656" start="17" end="25" text="coca tea"/>
+
+a dozen mangos , coca tea and a bottle of Pisco Sour on a wooden table . 
+
+<TRAJECTOR id="T657" start="17" end="25" text="coca tea"/>
+
+a dozen mangos , coca tea and a bottle of Pisco Sour on a wooden table . 
+
+<TRAJECTOR id="T658" start="17" end="25" text="coca tea"/>
+
+a dozen mangos , coca tea and a bottle of Pisco Sour on a wooden table . 
+
+<TRAJECTOR id="T659" start="17" end="25" text="coca tea"/>
+
+a dozen mangos , coca tea and a bottle of Pisco Sour on a wooden table . 
+
+<TRAJECTOR id="T660" start="17" end="25" text="coca tea"/>
+
+a dozen mangos , coca tea and a bottle of Pisco Sour on a wooden table . 
+
+<TRAJECTOR id="T661" start="56" end="70" text="a wooden table"/>
+
+a dozen mangos , coca tea and a bottle of Pisco Sour on a wooden table . 
+
+<TRAJECTOR id="T662" start="0" end="22" text="an all-terrain vehicle"/>
+
+an all-terrain vehicle with a blue luggage bag on the roof during a trip on a gravel road . 
+
+<TRAJECTOR id="T663" start="76" end="89" text="a gravel road"/>
+
+an all-terrain vehicle with a blue luggage bag on the roof during a trip on a gravel road . 
+
+<TRAJECTOR id="T664" start="63" end="68" text="trees"/>
+
+a square with a statue in the centre and lots people , birds , trees and a fence around it . 
+
+<TRAJECTOR id="T665" start="0" end="12" text="four persons"/>
+
+four persons with a jeep on a salt lake . 
+
+<TRAJECTOR id="T666" start="0" end="12" text="four persons"/>
+
+four persons with a jeep on a salt lake . 
+
+<TRAJECTOR id="T667" start="0" end="12" text="four persons"/>
+
+four persons with a jeep on a salt lake . 
+
+<TRAJECTOR id="T668" start="0" end="12" text="four persons"/>
+
+four persons with a jeep on a salt lake . 
+
+<TRAJECTOR id="T669" start="76" end="86" text="a few palm"/>
+
+a statue of a rider on a base of bricks , surrounded by a blooming bush and a few palm trees . 
+
+<TRAJECTOR id="T670" start="33" end="39" text="bricks"/>
+
+a statue of a rider on a base of bricks , surrounded by a blooming bush and a few palm trees . 
+
+<TRAJECTOR id="T671" start="0" end="8" text="a statue"/>
+
+a statue of a rider on a base of bricks , surrounded by a blooming bush and a few palm trees . 
+
+<TRAJECTOR id="T672" start="87" end="92" text="trees"/>
+
+a statue of a rider on a base of bricks , surrounded by a blooming bush and a few palm trees . 
+
+<TRAJECTOR id="T673" start="87" end="92" text="trees"/>
+
+a statue of a rider on a base of bricks , surrounded by a blooming bush and a few palm trees . 
+
+<TRAJECTOR id="T674" start="12" end="19" text="a rider"/>
+
+a statue of a rider on a base of bricks , surrounded by a blooming bush and a few palm trees . 
+
+<TRAJECTOR id="T675" start="58" end="66" text="cactuses"/>
+
+the bizare landscape of the Isla del Pescado with all the cactuses . 
+
+<TRAJECTOR id="T676" start="58" end="66" text="cactuses"/>
+
+the bizare landscape of the Isla del Pescado with all the cactuses . 
+
+<TRAJECTOR id="T677" start="58" end="66" text="cactuses"/>
+
+the bizare landscape of the Isla del Pescado with all the cactuses . 
+
+<TRAJECTOR id="T678" start="58" end="66" text="cactuses"/>
+
+the bizare landscape of the Isla del Pescado with all the cactuses . 
+
+<TRAJECTOR id="T679" start="58" end="66" text="cactuses"/>
+
+the bizare landscape of the Isla del Pescado with all the cactuses . 
+
+<TRAJECTOR id="T680" start="58" end="66" text="cactuses"/>
+
+the bizare landscape of the Isla del Pescado with all the cactuses . 
+
+<TRAJECTOR id="T681" start="58" end="66" text="cactuses"/>
+
+the bizare landscape of the Isla del Pescado with all the cactuses . 
+
+<TRAJECTOR id="T682" start="58" end="66" text="cactuses"/>
+
+the bizare landscape of the Isla del Pescado with all the cactuses . 
+
+<TRAJECTOR id="T683" start="58" end="66" text="cactuses"/>
+
+the bizare landscape of the Isla del Pescado with all the cactuses . 
+
+<TRAJECTOR id="T684" start="58" end="66" text="cactuses"/>
+
+the bizare landscape of the Isla del Pescado with all the cactuses . 
+
+<TRAJECTOR id="T685" start="58" end="66" text="cactuses"/>
+
+the bizare landscape of the Isla del Pescado with all the cactuses . 
+
+<TRAJECTOR id="T686" start="58" end="66" text="cactuses"/>
+
+the bizare landscape of the Isla del Pescado with all the cactuses . 
+
+<TRAJECTOR id="T687" start="58" end="66" text="cactuses"/>
+
+the bizare landscape of the Isla del Pescado with all the cactuses . 
+
+<TRAJECTOR id="T688" start="58" end="66" text="cactuses"/>
+
+the bizare landscape of the Isla del Pescado with all the cactuses . 
+
+<TRAJECTOR id="T689" start="10" end="22" text="three people"/>
+
+there are three people close to the geysers . 
+
+<TRAJECTOR id="T690" start="10" end="22" text="three people"/>
+
+there are three people close to the geysers . 
+
+<TRAJECTOR id="T691" start="12" end="24" text="a large city"/>
+
+the view of a large city in a basin with mountains in the background , one of them with snow at the summit . 
+
+<TRAJECTOR id="T692" start="0" end="6" text="a hill"/>
+
+a hill in the background on the right . 
+
+<TRAJECTOR id="T693" start="0" end="11" text="five people"/>
+
+five people on a boat . 
+
+<TRAJECTOR id="T694" start="51" end="63" text="white church"/>
+
+eight grown-ups are posing in front of a green and white church . 
+
+<TRAJECTOR id="T695" start="0" end="8" text="Cactuses"/>
+
+Cactuses on a rocky slope in the foreground and a flat salt desert in the background . 
+
+<TRAJECTOR id="T696" start="0" end="12" text="Five persons"/>
+
+Five persons are posing in front of an all-terrain vehicle . 
+
+<TRAJECTOR id="T697" start="36" end="58" text="an all-terrain vehicle"/>
+
+Five persons are posing in front of an all-terrain vehicle . 
+
+<TRAJECTOR id="T698" start="0" end="12" text="Five persons"/>
+
+Five persons are posing in front of an all-terrain vehicle . 
+
+<TRAJECTOR id="T699" start="17" end="25" text="cactuses"/>
+
+two underexposed cactuses , behind them a salt lake and the setting sun . 
+
+<TRAJECTOR id="T700" start="68" end="71" text="sun"/>
+
+two underexposed cactuses , behind them a salt lake and the setting sun . 
+
+<TRAJECTOR id="T701" start="0" end="8" text="Cactuses"/>
+
+Cactuses on a rocky slope in the foreground and a flat salt desert in the background . 
+
+<TRAJECTOR id="T702" start="0" end="8" text="Cactuses"/>
+
+Cactuses on a rocky slope in the foreground and a flat salt desert in the background . 
+
+<TRAJECTOR id="T703" start="0" end="8" text="Cactuses"/>
+
+Cactuses on a rocky slope in the foreground and a flat salt desert in the background . 
+
+<TRAJECTOR id="T704" start="0" end="13" text="four tourists"/>
+
+four tourists are standing in hot springs . 
+
+<TRAJECTOR id="T705" start="0" end="13" text="four tourists"/>
+
+four tourists are standing in hot springs . 
+
+<TRAJECTOR id="T706" start="0" end="13" text="four tourists"/>
+
+four tourists are standing in hot springs . 
+
+<TRAJECTOR id="T707" start="0" end="13" text="four tourists"/>
+
+four tourists are standing in hot springs . 
+
+<TRAJECTOR id="T708" start="0" end="8" text="Cactuses"/>
+
+Cactuses on a very rocky hill . 
+
+<TRAJECTOR id="T709" start="0" end="8" text="Cactuses"/>
+
+Cactuses on a very rocky hill . 
+
+<TRAJECTOR id="T710" start="0" end="8" text="Cactuses"/>
+
+Cactuses on a very rocky hill . 
+
+<TRAJECTOR id="T711" start="0" end="8" text="Cactuses"/>
+
+Cactuses on a very rocky hill . 
+
+<TRAJECTOR id="T712" start="0" end="8" text="Cactuses"/>
+
+Cactuses on a very rocky hill . 
+
+<TRAJECTOR id="T713" start="0" end="8" text="Cactuses"/>
+
+Cactuses on a very rocky hill . 
+
+<TRAJECTOR id="T714" start="0" end="8" text="Cactuses"/>
+
+Cactuses on a very rocky hill . 
+
+<TRAJECTOR id="T715" start="0" end="8" text="Cactuses"/>
+
+Cactuses on a very rocky hill . 
+
+<TRAJECTOR id="T716" start="0" end="8" text="Cactuses"/>
+
+Cactuses on a very rocky hill . 
+
+<TRAJECTOR id="T717" start="0" end="8" text="Cactuses"/>
+
+Cactuses on a very rocky hill . 
+
+<TRAJECTOR id="T718" start="0" end="8" text="Cactuses"/>
+
+Cactuses on a very rocky hill . 
+
+<TRAJECTOR id="T719" start="26" end="32" text="stones"/>
+
+there is a slope of black stones on the right and a dust cloud behind the car . 
+
+<TRAJECTOR id="T720" start="0" end="10" text="two llamas"/>
+
+two llamas in front of a salt lagoon , with snow covered mountains in the background . 
+
+<TRAJECTOR id="T721" start="57" end="66" text="mountains"/>
+
+two llamas in front of a salt lagoon , with snow covered mountains in the background . 
+
+<TRAJECTOR id="T722" start="0" end="12" text="two children"/>
+
+two children on a bench , the one on the left with a pink hood , the on on the right wearing a brown vest . 
+
+<TRAJECTOR id="T723" start="0" end="12" text="two children"/>
+
+two children on a bench , the one on the left with a pink hood , the on on the right wearing a brown vest . 
+
+<TRAJECTOR id="T724" start="51" end="56" text="bread"/>
+
+locals are sitting on the street and are receiving bread . 
+
+<TRAJECTOR id="T725" start="22" end="32" text="the street"/>
+
+locals are sitting on the street and are receiving bread . 
+
+<TRAJECTOR id="T726" start="22" end="32" text="the street"/>
+
+locals are sitting on the street and are receiving bread . 
+
+<TRAJECTOR id="T727" start="22" end="32" text="the street"/>
+
+locals are sitting on the street and are receiving bread . 
+
+<TRAJECTOR id="T728" start="22" end="32" text="the street"/>
+
+locals are sitting on the street and are receiving bread . 
+
+<TRAJECTOR id="T729" start="27" end="38" text="another man"/>
+
+a woman is feeding a man , another man is sitting next to them . 
+
+<TRAJECTOR id="T730" start="27" end="38" text="another man"/>
+
+a woman is feeding a man , another man is sitting next to them . 
+
+<TRAJECTOR id="T731" start="27" end="38" text="another man"/>
+
+a woman is feeding a man , another man is sitting next to them . 
+

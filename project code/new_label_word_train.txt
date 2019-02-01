@@ -1,0 +1,1401 @@
+112	1	group of persons	about 20 kids	about 20 kids in traditional clothing and hats waiting on stairs .	0.229166666667
+112	2	rock	traditional clothing	about 20 kids in traditional clothing and hats waiting on stairs .	0.166666666667
+112	3	rock	traditional clothing	about 20 kids in traditional clothing and hats waiting on stairs .	0.166666666667
+112	4	branch	about 20 kids	about 20 kids in traditional clothing and hats waiting on stairs .	0.0714285714286
+112	5	branch	about 20 kids	about 20 kids in traditional clothing and hats waiting on stairs .	0.0714285714286
+112	6	construction	about 20 kids	about 20 kids in traditional clothing and hats waiting on stairs .	0.0714285714286
+112	7	woman	about 20 kids	about 20 kids in traditional clothing and hats waiting on stairs .	0.2
+112	8	child girl	about 20 kids	about 20 kids in traditional clothing and hats waiting on stairs .	0.583333333333
+112	9	child girl	about 20 kids	about 20 kids in traditional clothing and hats waiting on stairs .	0.583333333333
+112	10	public sign	about 20 kids	about 20 kids in traditional clothing and hats waiting on stairs .	0.0416666666667
+112	11	sky light	about 20 kids	about 20 kids in traditional clothing and hats waiting on stairs .	0.0857142857143
+116	1	man	the background	a house and a green wall with gate in the background .	0.1
+116	2	man	the background	a house and a green wall with gate in the background .	0.1
+116	3	ground	a green wall	a house and a green wall with gate in the background .	0.142857142857
+116	4	rock	a green wall	a house and a green wall with gate in the background .	0.142857142857
+25	1	branch	a sign	a sign saying that plants can't be picked up on the right .	0.0769230769231
+25	2	cloud	plants	a sign saying that plants can't be picked up on the right .	0.0833333333333
+25	3	building	plants	a sign saying that plants can't be picked up on the right .	0.25
+25	4	trunk	plants	a sign saying that plants can't be picked up on the right .	0.1
+25	5	palm	plants	a sign saying that plants can't be picked up on the right .	0.0833333333333
+25	6	cloud	plants	a sign saying that plants can't be picked up on the right .	0.0833333333333
+25	7	cloud	plants	a sign saying that plants can't be picked up on the right .	0.0833333333333
+25	8	car	plants	a sign saying that plants can't be picked up on the right .	0.1
+25	9	group of persons	a sign	a sign saying that plants can't be picked up on the right .	0.121428571429
+25	10	couple of persons	plants	a sign saying that plants can't be picked up on the right .	0.0982142857143
+25	11	road	plants	a sign saying that plants can't be picked up on the right .	0.166666666667
+25	12	window	plants	a sign saying that plants can't be picked up on the right .	0.166666666667
+26	1	building	the ground	a rock hole in the ground surrounded by sand .	0.166666666667
+26	2	cloud	the ground	a rock hole in the ground surrounded by sand .	0.125
+26	3	trees	the ground	a rock hole in the ground surrounded by sand .	0.111111111111
+26	4	car	the ground	a rock hole in the ground surrounded by sand .	0.1
+26	5	group of persons	the ground	a rock hole in the ground surrounded by sand .	0.183333333333
+26	6	group of persons	the ground	a rock hole in the ground surrounded by sand .	0.183333333333
+26	7	palm	the ground	a rock hole in the ground surrounded by sand .	0.125
+28	1	cloud	a white jumper	one man in a white tee-shirt , grey pants and a white cap is holding a shovel , the other one is wearing black pants , a white jumper and a traditional hat , is walking towards him .	0.111111111111
+28	2	statue	a traditional hat	one man in a white tee-shirt , grey pants and a white cap is holding a shovel , the other one is wearing black pants , a white jumper and a traditional hat , is walking towards him .	0.1
+28	3	hill	a white jumper	one man in a white tee-shirt , grey pants and a white cap is holding a shovel , the other one is wearing black pants , a white jumper and a traditional hat , is walking towards him .	0.125
+32	1	city	a yellow building	a yellow building with white columns in the background .	0.0909090909091
+32	2	hill	a yellow building	a yellow building with white columns in the background .	0.125
+32	3	edifice	a yellow building	a yellow building with white columns in the background .	1.0
+32	4	edifice	a yellow building	a yellow building with white columns in the background .	1.0
+33	1	sky light	palm	two palm trees in front of the house .	0.0787878787879
+33	2	trees	trees	two palm trees in front of the house .	1.0
+33	3	waterfall	palm	two palm trees in front of the house .	0.142857142857
+33	4	water	palm	two palm trees in front of the house .	0.1
+33	5	vegetation	palm	two palm trees in front of the house .	0.0909090909091
+35	1	cloud	the house	cars parked in front of the house .	0.0833333333333
+35	2	waterfall	the house	cars parked in front of the house .	0.1
+35	3	vegetation	the house	cars parked in front of the house .	0.0833333333333
+35	4	couple of persons	the house	cars parked in front of the house .	0.0982142857143
+38	1	cloud	a child	a woman and a child are walking over the square .	0.1
+38	2	waterfall	a child	a woman and a child are walking over the square .	0.125
+40	1	cloud	a junction	a large building on the left , a palm tree in centre of picture , ( mostly ) white cars in the street at a junction , some of them turning left , others going straight .	0.0909090909091
+40	2	ground	a junction	a large building on the left , a palm tree in centre of picture , ( mostly ) white cars in the street at a junction , some of them turning left , others going straight .	0.166666666667
+40	3	construction	a junction	a large building on the left , a palm tree in centre of picture , ( mostly ) white cars in the street at a junction , some of them turning left , others going straight .	0.0666666666667
+40	4	vegetation	a junction	a large building on the left , a palm tree in centre of picture , ( mostly ) white cars in the street at a junction , some of them turning left , others going straight .	0.0909090909091
+42	1	cloud	a park	there are red umbrellas in a park on the right .	0.0833333333333
+42	2	church	the right	there are red umbrellas in a park on the right .	0.0714285714286
+42	3	building	umbrellas	there are red umbrellas in a park on the right .	0.125
+42	4	building	umbrellas	there are red umbrellas in a park on the right .	0.125
+42	5	car	umbrellas	there are red umbrellas in a park on the right .	0.0833333333333
+42	6	group of persons	a park	there are red umbrellas in a park on the right .	0.105555555556
+42	7	street	umbrellas	there are red umbrellas in a park on the right .	0.1
+42	8	building	umbrellas	there are red umbrellas in a park on the right .	0.125
+42	9	window	umbrellas	there are red umbrellas in a park on the right .	0.1
+42	10	door	umbrellas	there are red umbrellas in a park on the right .	0.0909090909091
+42	11	couple of persons	a park	there are red umbrellas in a park on the right .	0.0912698412698
+45	1	church	people	people are walking through the park , others are crossing the road in the foreground .	0.142857142857
+45	2	building	the road	people are walking through the park , others are crossing the road in the foreground .	0.2
+45	3	sky blue	people	people are walking through the park , others are crossing the road in the foreground .	0.105555555556
+45	4	sky blue	people	people are walking through the park , others are crossing the road in the foreground .	0.105555555556
+47	1	cloud	a hill	a white , large statue with spread arms on a hill .	0.1
+47	2	building	arms	a white , large statue with spread arms on a hill .	0.2
+47	3	building	arms	a white , large statue with spread arms on a hill .	0.2
+47	4	church	a hill	a white , large statue with spread arms on a hill .	0.0769230769231
+47	5	car	arms	a white , large statue with spread arms on a hill .	0.142857142857
+47	6	tower	arms	a white , large statue with spread arms on a hill .	0.2
+47	7	window	arms	a white , large statue with spread arms on a hill .	0.142857142857
+47	8	couple of persons	a hill	a white , large statue with spread arms on a hill .	0.113095238095
+48	1	sky blue	picture	picture taken from behind .	0.075
+48	2	cloud	picture	picture taken from behind .	0.0833333333333
+48	3	sky blue	picture	picture taken from behind .	0.075
+48	4	church	picture	picture taken from behind .	0.0666666666667
+48	5	building	picture	picture taken from behind .	0.166666666667
+48	6	building	picture	picture taken from behind .	0.166666666667
+48	7	group of persons	picture	picture taken from behind .	0.1125
+48	8	car	picture	picture taken from behind .	0.1
+48	9	tower	picture	picture taken from behind .	0.166666666667
+48	10	group of persons	picture	picture taken from behind .	0.1125
+49	1	sky red sunset dusk	the hill	bushes and small trees on the hill .	0.0583333333333
+49	2	sky light	the hill	bushes and small trees on the hill .	0.0857142857143
+49	3	trees	trees	bushes and small trees on the hill .	1.0
+49	4	palm	the hill	bushes and small trees on the hill .	0.1
+49	5	palm	the hill	bushes and small trees on the hill .	0.1
+49	6	water	the hill	bushes and small trees on the hill .	0.111111111111
+49	7	person	trees	bushes and small trees on the hill .	0.166666666667
+49	8	sand beach	the hill	bushes and small trees on the hill .	0.170454545455
+49	9	person	trees	bushes and small trees on the hill .	0.166666666667
+51	1	sky blue	the hill	street leading up the hill .	0.0884615384615
+51	2	building	the hill	street leading up the hill .	0.125
+51	3	trees	the hill	street leading up the hill .	0.0909090909091
+51	4	palm	the hill	street leading up the hill .	0.1
+51	5	palm	the hill	street leading up the hill .	0.1
+51	6	palm	the hill	street leading up the hill .	0.1
+51	7	window	the hill	street leading up the hill .	0.1
+51	8	edifice	the hill	street leading up the hill .	0.125
+52	1	vegetation	the blue sky	there are white clouds in the blue sky .	0.1
+52	2	branch	the blue sky	there are white clouds in the blue sky .	0.0714285714286
+52	3	boat	the blue sky	there are white clouds in the blue sky .	0.0666666666667
+52	4	sky blue	the blue sky	there are white clouds in the blue sky .	1.0
+52	5	water reflection	the blue sky	there are white clouds in the blue sky .	0.119047619048
+52	6	water	the blue sky	there are white clouds in the blue sky .	0.166666666667
+52	7	wood	the blue sky	there are white clouds in the blue sky .	0.111111111111
+53	1	sky blue	view	view of a city with many dark green trees and white houses with red roofs .	0.0801282051282
+53	2	edifice	houses	view of a city with many dark green trees and white houses with red roofs .	0.5
+53	3	grass	trees	view of a city with many dark green trees and white houses with red roofs .	0.166666666667
+54	1	train	a stadium	there are a few high-rise buildings and a stadium in the centre .	0.142857142857
+54	2	road	a stadium	there are a few high-rise buildings and a stadium in the centre .	0.2
+54	3	branch	a stadium	there are a few high-rise buildings and a stadium in the centre .	0.0666666666667
+54	4	branch	a stadium	there are a few high-rise buildings and a stadium in the centre .	0.0666666666667
+54	5	tire	a stadium	there are a few high-rise buildings and a stadium in the centre .	0.142857142857
+54	6	sky light	a stadium	there are a few high-rise buildings and a stadium in the centre .	0.0787878787879
+54	7	sky light	a stadium	there are a few high-rise buildings and a stadium in the centre .	0.0787878787879
+546	1	woman	the jungle	a cascading waterfall in the middle of the jungle .	0.125
+546	2	man	the jungle	a cascading waterfall in the middle of the jungle .	0.125
+546	3	woman	the jungle	a cascading waterfall in the middle of the jungle .	0.125
+546	4	woman	the jungle	a cascading waterfall in the middle of the jungle .	0.125
+546	5	hand of person	a cascading waterfall	a cascading waterfall in the middle of the jungle .	0.145833333333
+546	6	window	the jungle	a cascading waterfall in the middle of the jungle .	0.111111111111
+546	7	window	the jungle	a cascading waterfall in the middle of the jungle .	0.111111111111
+546	8	wall	the jungle	a cascading waterfall in the middle of the jungle .	0.125
+546	9	floor other	the jungle	a cascading waterfall in the middle of the jungle .	0.0625
+546	10	person	the jungle	a cascading waterfall in the middle of the jungle .	0.166666666667
+546	11	person	the jungle	a cascading waterfall in the middle of the jungle .	0.166666666667
+546	12	person	the jungle	a cascading waterfall in the middle of the jungle .	0.166666666667
+546	13	wall	the jungle	a cascading waterfall in the middle of the jungle .	0.125
+546	14	face of person	a cascading waterfall	a cascading waterfall in the middle of the jungle .	0.154761904762
+55	1	tree	pool	front view with pool of dirty water in the foreground .	0.1
+55	2	house	pool	front view with pool of dirty water in the foreground .	0.166666666667
+55	3	tree	pool	front view with pool of dirty water in the foreground .	0.1
+55	4	church	front view	front view with pool of dirty water in the foreground .	0.0833333333333
+55	5	edifice	pool	front view with pool of dirty water in the foreground .	0.2
+55	6	edifice	pool	front view with pool of dirty water in the foreground .	0.2
+55	7	street	pool	front view with pool of dirty water in the foreground .	0.142857142857
+55	8	sky blue	dirty water	front view with pool of dirty water in the foreground .	0.121794871795
+55	9	cloud	dirty water	front view with pool of dirty water in the foreground .	0.1
+56	1	church	waterfalls	a man in a red tee-shirt and a woman carrying a red bag are watching some waterfalls on a lookout in the foreground .	0.0833333333333
+56	2	sky blue	waterfalls	a man in a red tee-shirt and a woman carrying a red bag are watching some waterfalls on a lookout in the foreground .	0.0972222222222
+56	3	sidewalk	a red bag	a man in a red tee-shirt and a woman carrying a red bag are watching some waterfalls on a lookout in the foreground .	0.125
+56	4	clock	a red bag	a man in a red tee-shirt and a woman carrying a red bag are watching some waterfalls on a lookout in the foreground .	0.125
+56	5	tower	a red bag	a man in a red tee-shirt and a woman carrying a red bag are watching some waterfalls on a lookout in the foreground .	0.166666666667
+56	6	tower	a red bag	a man in a red tee-shirt and a woman carrying a red bag are watching some waterfalls on a lookout in the foreground .	0.166666666667
+57	1	fountain	rocks	green trees , black rocks and a grey sky in the background .	0.166666666667
+57	2	tree	trees	green trees , black rocks and a grey sky in the background .	1.0
+57	3	tree	trees	green trees , black rocks and a grey sky in the background .	1.0
+57	4	road	rocks	green trees , black rocks and a grey sky in the background .	0.166666666667
+57	5	tree	trees	green trees , black rocks and a grey sky in the background .	1.0
+57	6	trees	trees	green trees , black rocks and a grey sky in the background .	1.0
+57	7	building	rocks	green trees , black rocks and a grey sky in the background .	0.166666666667
+57	8	cloud	rocks	green trees , black rocks and a grey sky in the background .	0.1
+57	9	grass	trees	green trees , black rocks and a grey sky in the background .	0.166666666667
+57	10	car	rocks	green trees , black rocks and a grey sky in the background .	0.1
+58	1	flowerbed	a u-shaped cliff	view of giant , thunderous waterfalls over a u-shaped cliff .	0.1
+58	2	grass	a u-shaped cliff	view of giant , thunderous waterfalls over a u-shaped cliff .	0.0909090909091
+58	3	bush	a u-shaped cliff	view of giant , thunderous waterfalls over a u-shaped cliff .	0.1
+58	4	bush	a u-shaped cliff	view of giant , thunderous waterfalls over a u-shaped cliff .	0.1
+58	5	building	a u-shaped cliff	view of giant , thunderous waterfalls over a u-shaped cliff .	0.142857142857
+58	6	cloud	a u-shaped cliff	view of giant , thunderous waterfalls over a u-shaped cliff .	0.111111111111
+58	7	bush	a u-shaped cliff	view of giant , thunderous waterfalls over a u-shaped cliff .	0.1
+58	8	column	a u-shaped cliff	view of giant , thunderous waterfalls over a u-shaped cliff .	0.0833333333333
+58	9	window	a u-shaped cliff	view of giant , thunderous waterfalls over a u-shaped cliff .	0.111111111111
+58	10	flag	a u-shaped cliff	view of giant , thunderous waterfalls over a u-shaped cliff .	0.111111111111
+59	1	stairs	the background	white clouds in a blue sky in the background .	0.0833333333333
+59	2	tree	the background	white clouds in a blue sky in the background .	0.0714285714286
+59	3	building	the background	white clouds in a blue sky in the background .	0.0909090909091
+59	4	street	the background	white clouds in a blue sky in the background .	0.0769230769231
+59	5	sidewalk	the background	white clouds in a blue sky in the background .	0.0769230769231
+59	6	column	the background	white clouds in a blue sky in the background .	0.1
+60	1	sky light	high voltage	a long dam with high voltage pylons .	0.104166666667
+60	2	building	a long dam	a long dam with high voltage pylons .	0.2
+60	3	building	a long dam	a long dam with high voltage pylons .	0.2
+60	4	street	a long dam	a long dam with high voltage pylons .	0.111111111111
+60	5	car	a long dam	a long dam with high voltage pylons .	0.0909090909091
+60	6	sidewalk	a long dam	a long dam with high voltage pylons .	0.111111111111
+60	7	sidewalk	a long dam	a long dam with high voltage pylons .	0.111111111111
+60	8	couple of persons	high voltage	a long dam with high voltage pylons .	0.0912698412698
+60	9	group of persons	high voltage	a long dam with high voltage pylons .	0.105555555556
+60	10	public sign	high voltage	a long dam with high voltage pylons .	0.0357142857143
+60	11	group of persons	high voltage	a long dam with high voltage pylons .	0.105555555556
+60	12	branch	high voltage	a long dam with high voltage pylons .	0.0625
+61	1	street	the background	a blue sky with white fleecy clouds in the background .	0.0769230769231
+61	2	vehicles with tires	the background	a blue sky with white fleecy clouds in the background .	0.0801282051282
+61	3	car	the background	a blue sky with white fleecy clouds in the background .	0.0666666666667
+61	4	car	the background	a blue sky with white fleecy clouds in the background .	0.0666666666667
+61	5	trees	the background	a blue sky with white fleecy clouds in the background .	0.0714285714286
+61	6	trunk	the background	a blue sky with white fleecy clouds in the background .	0.0769230769231
+61	7	trunk	the background	a blue sky with white fleecy clouds in the background .	0.0769230769231
+61	8	car	the background	a blue sky with white fleecy clouds in the background .	0.0666666666667
+61	9	man	the background	a blue sky with white fleecy clouds in the background .	0.1
+62	1	cloud	sides	a narrow , rising street with colourful houses on both sides , among them a green house with balconies and a white car parked in front of it , and a blue-and-white church on the right .	0.1
+62	2	city	sides	a narrow , rising street with colourful houses on both sides , among them a green house with balconies and a white car parked in front of it , and a blue-and-white church on the right .	0.125
+62	3	swimming pool	rising street	a narrow , rising street with colourful houses on both sides , among them a green house with balconies and a white car parked in front of it , and a blue-and-white church on the right .	0.238095238095
+62	4	umbrella	balconies	a narrow , rising street with colourful houses on both sides , among them a green house with balconies and a white car parked in front of it , and a blue-and-white church on the right .	0.125
+62	5	umbrella	balconies	a narrow , rising street with colourful houses on both sides , among them a green house with balconies and a white car parked in front of it , and a blue-and-white church on the right .	0.125
+63	1	sky blue	the street	one car is going up the street .	0.0697115384615
+63	2	cloud	the street	one car is going up the street .	0.0769230769231
+63	3	fountain	the street	one car is going up the street .	0.142857142857
+63	4	grass	the street	one car is going up the street .	0.0769230769231
+63	5	building	the street	one car is going up the street .	0.142857142857
+63	6	trees	the street	one car is going up the street .	0.0833333333333
+63	7	flag	the street	one car is going up the street .	0.111111111111
+63	8	flag	the street	one car is going up the street .	0.111111111111
+63	9	trees	the street	one car is going up the street .	0.0833333333333
+64	1	vegetation	people	there are a few people in the street and a large thundercloud in the background .	0.25
+64	2	rock	the street	there are a few people in the street and a large thundercloud in the background .	0.125
+64	3	construction	people	there are a few people in the street and a large thundercloud in the background .	0.1
+64	4	water	people	there are a few people in the street and a large thundercloud in the background .	0.111111111111
+64	5	sky	people	there are a few people in the street and a large thundercloud in the background .	0.1
+646	1	person	four sides	two light brown church towers with pinnacles on all four sides .	0.142857142857
+646	2	group of persons	four sides	two light brown church towers with pinnacles on all four sides .	0.133928571429
+646	3	group of persons	four sides	two light brown church towers with pinnacles on all four sides .	0.133928571429
+646	4	floor other	towers	two light brown church towers with pinnacles on all four sides .	0.0833333333333
+646	5	sky night	four sides	two light brown church towers with pinnacles on all four sides .	0.0954545454545
+646	6	public sign	four sides	two light brown church towers with pinnacles on all four sides .	0.0416666666667
+651	1	group of persons	the right tower	the left tower with windows , the right tower also with a clock .	0.126984126984
+651	2	hut	the right tower	the left tower with windows , the right tower also with a clock .	0.25
+651	3	sky light	the right tower	the left tower with windows , the right tower also with a clock .	0.0787878787879
+651	4	ground	the right tower	the left tower with windows , the right tower also with a clock .	0.166666666667
+651	5	rock	the right tower	the left tower with windows , the right tower also with a clock .	0.166666666667
+651	6	ground	the right tower	the left tower with windows , the right tower also with a clock .	0.166666666667
+651	7	rock	the right tower	the left tower with windows , the right tower also with a clock .	0.166666666667
+651	8	rock	the right tower	the left tower with windows , the right tower also with a clock .	0.166666666667
+651	9	man	the right tower	the left tower with windows , the right tower also with a clock .	0.111111111111
+651	10	man	the right tower	the left tower with windows , the right tower also with a clock .	0.111111111111
+651	11	man	the right tower	the left tower with windows , the right tower also with a clock .	0.111111111111
+651	12	rock	the right tower	the left tower with windows , the right tower also with a clock .	0.166666666667
+652	1	group of persons	a bit	the artful central nave is a bit darker and has a cross on top .	0.138888888889
+652	2	ground	top	the artful central nave is a bit darker and has a cross on top .	0.2
+652	3	house	a cross	the artful central nave is a bit darker and has a cross on top .	0.25
+652	4	window	a cross	the artful central nave is a bit darker and has a cross on top .	0.2
+652	5	furniture	a cross	the artful central nave is a bit darker and has a cross on top .	0.166666666667
+652	6	child boy	top	the artful central nave is a bit darker and has a cross on top .	0.111111111111
+652	7	child boy	top	the artful central nave is a bit darker and has a cross on top .	0.111111111111
+652	8	face of person	top	the artful central nave is a bit darker and has a cross on top .	0.121428571429
+652	9	face of person	top	the artful central nave is a bit darker and has a cross on top .	0.121428571429
+652	10	sidewalk	a cross	the artful central nave is a bit darker and has a cross on top .	0.142857142857
+652	11	sidewalk	a cross	the artful central nave is a bit darker and has a cross on top .	0.142857142857
+655	1	group of persons	two churches	view of an old town of a city with its colourful buidings and two churches from one of its alleys in the shade .	0.128787878788
+655	2	child boy	alleys	view of an old town of a city with its colourful buidings and two churches from one of its alleys in the shade .	0.0833333333333
+655	3	child girl	alleys	view of an old town of a city with its colourful buidings and two churches from one of its alleys in the shade .	0.0801282051282
+655	4	child girl	alleys	view of an old town of a city with its colourful buidings and two churches from one of its alleys in the shade .	0.0801282051282
+655	5	child boy	alleys	view of an old town of a city with its colourful buidings and two churches from one of its alleys in the shade .	0.0833333333333
+655	6	face of person	a city	view of an old town of a city with its colourful buidings and two churches from one of its alleys in the shade .	0.0884615384615
+656	1	sky blue	the rest	the towers of the churches are still in the sun , the rest in already in the shade .	0.0954545454545
+656	2	construction	the rest	the towers of the churches are still in the sun , the rest in already in the shade .	0.0909090909091
+656	3	person	towers	the towers of the churches are still in the sun , the rest in already in the shade .	0.142857142857
+656	4	man	towers	the towers of the churches are still in the sun , the rest in already in the shade .	0.111111111111
+66	1	water	the rest	a white and blue church , with only the two towers in the sun , the rest in the shade .	0.125
+66	2	construction	the rest	a white and blue church , with only the two towers in the sun , the rest in the shade .	0.0909090909091
+66	3	rock	the sun	a white and blue church , with only the two towers in the sun , the rest in the shade .	0.2
+661	1	house	the side	view from the side , with the old town of a city in the background .	0.111111111111
+661	2	grass	the side	view from the side , with the old town of a city in the background .	0.0833333333333
+661	3	couple of persons	the background	view from the side , with the old town of a city in the background .	0.118055555556
+661	4	sidewalk	the side	view from the side , with the old town of a city in the background .	0.1
+661	5	sky blue	the background	view from the side , with the old town of a city in the background .	0.107954545455
+661	6	window	the side	view from the side , with the old town of a city in the background .	0.1
+662	1	group of persons	a beach	against-the-light photograph of a beach at sunset .	0.154761904762
+662	2	child boy	a beach	against-the-light photograph of a beach at sunset .	0.125
+662	3	child girl	a beach	against-the-light photograph of a beach at sunset .	0.118055555556
+662	4	child girl	a beach	against-the-light photograph of a beach at sunset .	0.118055555556
+662	5	child boy	a beach	against-the-light photograph of a beach at sunset .	0.125
+662	6	child girl	a beach	against-the-light photograph of a beach at sunset .	0.118055555556
+662	7	floor other	against-the-light photograph	against-the-light photograph of a beach at sunset .	0.0714285714286
+662	8	house	against-the-light photograph	against-the-light photograph of a beach at sunset .	0.142857142857
+662	9	house	against-the-light photograph	against-the-light photograph of a beach at sunset .	0.142857142857
+662	10	hill	a beach	against-the-light photograph of a beach at sunset .	0.25
+662	11	tree	a beach	against-the-light photograph of a beach at sunset .	0.1
+662	12	tree	a beach	against-the-light photograph of a beach at sunset .	0.1
+662	13	door	against-the-light photograph	against-the-light photograph of a beach at sunset .	0.111111111111
+662	14	clock	against-the-light photograph	against-the-light photograph of a beach at sunset .	0.1
+663	1	hill	the sky	some clouds in the sky .	0.1
+663	2	group of persons	the sky	some clouds in the sky .	0.118055555556
+663	3	head of person	the sky	some clouds in the sky .	0.107954545455
+663	4	man	the sky	some clouds in the sky .	0.1
+663	5	man	the sky	some clouds in the sky .	0.1
+663	6	man	the sky	some clouds in the sky .	0.1
+663	7	man	the sky	some clouds in the sky .	0.1
+663	8	man	the sky	some clouds in the sky .	0.1
+663	9	floor other	the sky	some clouds in the sky .	0.0416666666667
+663	10	book	the sky	some clouds in the sky .	0.0714285714286
+663	11	table	the sky	some clouds in the sky .	0.0833333333333
+663	12	wall	the sky	some clouds in the sky .	0.0833333333333
+663	13	wall	the sky	some clouds in the sky .	0.0833333333333
+663	14	wall	the sky	some clouds in the sky .	0.0833333333333
+663	15	wall	the sky	some clouds in the sky .	0.0833333333333
+664	1	group of persons	people	there are people at the beach and palm trees in the background .	0.321428571429
+664	2	child boy	trees	there are people at the beach and palm trees in the background .	0.125
+664	3	child boy	trees	there are people at the beach and palm trees in the background .	0.125
+664	4	face of person	palm	there are people at the beach and palm trees in the background .	0.1625
+664	5	cup	the beach	there are people at the beach and palm trees in the background .	0.125
+664	6	face of person	palm	there are people at the beach and palm trees in the background .	0.1625
+668	1	child boy	a small tower	against-the-light photograph of a large , grey building with many arches and columns and a small tower with pinnacles .	0.111111111111
+668	2	child boy	a small tower	against-the-light photograph of a large , grey building with many arches and columns and a small tower with pinnacles .	0.111111111111
+668	3	child boy	a small tower	against-the-light photograph of a large , grey building with many arches and columns and a small tower with pinnacles .	0.111111111111
+668	4	child boy	a small tower	against-the-light photograph of a large , grey building with many arches and columns and a small tower with pinnacles .	0.111111111111
+668	5	group of persons	columns	against-the-light photograph of a large , grey building with many arches and columns and a small tower with pinnacles .	0.128787878788
+668	6	face of person	a small tower	against-the-light photograph of a large , grey building with many arches and columns and a small tower with pinnacles .	0.116883116883
+668	7	face of person	a small tower	against-the-light photograph of a large , grey building with many arches and columns and a small tower with pinnacles .	0.116883116883
+668	8	face of person	a small tower	against-the-light photograph of a large , grey building with many arches and columns and a small tower with pinnacles .	0.116883116883
+668	9	group of persons	columns	against-the-light photograph of a large , grey building with many arches and columns and a small tower with pinnacles .	0.128787878788
+668	10	face of person	a small tower	against-the-light photograph of a large , grey building with many arches and columns and a small tower with pinnacles .	0.116883116883
+669	1	child girl	the building	the paraguayan flag is waving on top of the building .	0.105555555556
+669	2	couple of persons	top	the paraguayan flag is waving on top of the building .	0.113095238095
+669	3	face of person	top	the paraguayan flag is waving on top of the building .	0.121428571429
+669	4	head of person	top	the paraguayan flag is waving on top of the building .	0.121428571429
+669	5	hand of person	top	the paraguayan flag is waving on top of the building .	0.116883116883
+671	1	woman	the background	there are dark palms in the foreground and a blue sky in the background .	0.1
+671	2	woman	the background	there are dark palms in the foreground and a blue sky in the background .	0.1
+671	3	person	the background	there are dark palms in the foreground and a blue sky in the background .	0.125
+671	4	food	a blue sky	there are dark palms in the foreground and a blue sky in the background .	0.142857142857
+671	5	wall	the background	there are dark palms in the foreground and a blue sky in the background .	0.0833333333333
+672	1	group of persons	a lake	steam ship in a lake , docked .	0.154761904762
+672	2	man	a lake	steam ship in a lake , docked .	0.125
+672	3	child	a lake	steam ship in a lake , docked .	0.125
+672	4	child boy	a lake	steam ship in a lake , docked .	0.125
+672	5	woman	a lake	steam ship in a lake , docked .	0.125
+672	6	woman	a lake	steam ship in a lake , docked .	0.125
+672	7	child girl	a lake	steam ship in a lake , docked .	0.118055555556
+672	8	face of person	a lake	steam ship in a lake , docked .	0.154761904762
+672	9	face of person	a lake	steam ship in a lake , docked .	0.154761904762
+672	10	face of person	a lake	steam ship in a lake , docked .	0.154761904762
+672	11	face of person	a lake	steam ship in a lake , docked .	0.154761904762
+674	1	child girl	the flag	the flag of paraguay at the bow of the ship .	0.0871212121212
+674	2	group of persons	the flag	the flag of paraguay at the bow of the ship .	0.10101010101
+674	3	child girl	the flag	the flag of paraguay at the bow of the ship .	0.0871212121212
+674	4	group of persons	the flag	the flag of paraguay at the bow of the ship .	0.10101010101
+674	5	child	the flag	the flag of paraguay at the bow of the ship .	0.0909090909091
+674	6	face of person	the flag	the flag of paraguay at the bow of the ship .	0.0940170940171
+674	7	face of person	the flag	the flag of paraguay at the bow of the ship .	0.0940170940171
+674	8	face of person	the flag	the flag of paraguay at the bow of the ship .	0.0940170940171
+674	9	floor other	the flag	the flag of paraguay at the bow of the ship .	0.0625
+674	10	wall	the flag	the flag of paraguay at the bow of the ship .	0.125
+676	1	couple of persons	the background	a blue sky in the background .	0.118055555556
+676	2	group of persons	the background	a blue sky in the background .	0.1625
+676	3	wall	the background	a blue sky in the background .	0.0833333333333
+676	4	window	the background	a blue sky in the background .	0.0769230769231
+676	5	window	the background	a blue sky in the background .	0.0769230769231
+676	6	child girl	the background	a blue sky in the background .	0.0954545454545
+676	7	child boy	the background	a blue sky in the background .	0.1
+676	8	child boy	the background	a blue sky in the background .	0.1
+676	9	head of person	the background	a blue sky in the background .	0.107954545455
+676	10	hand of person	the background	a blue sky in the background .	0.104166666667
+676	11	head of person	the background	a blue sky in the background .	0.107954545455
+678	1	couple of persons	the background	a grey building with many columns and arches and the modern high-rise buildings of a city with a blue sky in the background .	0.118055555556
+678	2	face of person	buildings	a grey building with many columns and arches and the modern high-rise buildings of a city with a blue sky in the background .	0.116883116883
+678	3	hand of person	buildings	a grey building with many columns and arches and the modern high-rise buildings of a city with a blue sky in the background .	0.113095238095
+678	4	apple	a blue sky	a grey building with many columns and arches and the modern high-rise buildings of a city with a blue sky in the background .	0.1
+678	5	child	buildings	a grey building with many columns and arches and the modern high-rise buildings of a city with a blue sky in the background .	0.111111111111
+678	6	wooden furniture	buildings	a grey building with many columns and arches and the modern high-rise buildings of a city with a blue sky in the background .	0.0833333333333
+678	7	child	buildings	a grey building with many columns and arches and the modern high-rise buildings of a city with a blue sky in the background .	0.111111111111
+678	8	wooden furniture	buildings	a grey building with many columns and arches and the modern high-rise buildings of a city with a blue sky in the background .	0.0833333333333
+679	1	couple of persons	a black steam engine	a black steam engine with one wagon .	0.0940170940171
+679	2	head of person	a black steam engine	a black steam engine with one wagon .	0.0972222222222
+679	3	woman	wagon	a black steam engine with one wagon .	0.0909090909091
+679	4	window	wagon	a black steam engine with one wagon .	0.111111111111
+679	5	head of person	a black steam engine	a black steam engine with one wagon .	0.0972222222222
+679	6	hand of person	a black steam engine	a black steam engine with one wagon .	0.0940170940171
+682	1	child	trees	trees in the background .	0.125
+682	2	humans	the background	trees in the background .	0.166666666667
+682	3	group of persons	the background	trees in the background .	0.1625
+682	4	couple of persons	the background	trees in the background .	0.118055555556
+682	5	couple of persons	the background	trees in the background .	0.118055555556
+682	6	couple of persons	the background	trees in the background .	0.118055555556
+682	7	man	trees	trees in the background .	0.125
+682	8	child	trees	trees in the background .	0.125
+682	9	wooden furniture	trees	trees in the background .	0.0454545454545
+682	10	non wooden furniture	trees	trees in the background .	0.030303030303
+682	11	window	trees	trees in the background .	0.0833333333333
+682	12	window	trees	trees in the background .	0.0833333333333
+682	13	wall	trees	trees in the background .	0.0909090909091
+683	1	woman	a red brick wall	four locals are sitting on a bench in a canteen kitchen , leaning on a red brick wall .	0.111111111111
+683	2	woman	a red brick wall	four locals are sitting on a bench in a canteen kitchen , leaning on a red brick wall .	0.111111111111
+683	3	woman	a red brick wall	four locals are sitting on a bench in a canteen kitchen , leaning on a red brick wall .	0.111111111111
+683	4	floor other	a red brick wall	four locals are sitting on a bench in a canteen kitchen , leaning on a red brick wall .	0.0833333333333
+683	5	wall	a red brick wall	four locals are sitting on a bench in a canteen kitchen , leaning on a red brick wall .	1.0
+683	6	wall	a red brick wall	four locals are sitting on a bench in a canteen kitchen , leaning on a red brick wall .	1.0
+683	7	face of person	a red brick wall	four locals are sitting on a bench in a canteen kitchen , leaning on a red brick wall .	0.116883116883
+683	8	face of person	a red brick wall	four locals are sitting on a bench in a canteen kitchen , leaning on a red brick wall .	0.116883116883
+683	9	door	a red brick wall	four locals are sitting on a bench in a canteen kitchen , leaning on a red brick wall .	0.142857142857
+683	10	face of person	a red brick wall	four locals are sitting on a bench in a canteen kitchen , leaning on a red brick wall .	0.116883116883
+684	1	child boy	three women	the three women are wearing skirts , wests and hats , one of them is holding a yellow plastic bag .	0.2
+684	2	child girl	three women	the three women are wearing skirts , wests and hats , one of them is holding a yellow plastic bag .	0.35
+684	3	group of persons	three women	the three women are wearing skirts , wests and hats , one of them is holding a yellow plastic bag .	0.229166666667
+685	1	paper	the man	the man is wearing trousers , a shirt and a cap .	0.111111111111
+685	2	can	a cap	the man is wearing trousers , a shirt and a cap .	0
+685	3	paper	the man	the man is wearing trousers , a shirt and a cap .	0.111111111111
+685	4	paper	the man	the man is wearing trousers , a shirt and a cap .	0.111111111111
+685	5	wood	the man	the man is wearing trousers , a shirt and a cap .	0.1
+686	1	child boy	towers	against-the-light photograph of a gate in the shade , with towers to its left and right .	0.111111111111
+686	2	child girl	towers	against-the-light photograph of a gate in the shade , with towers to its left and right .	0.105555555556
+686	3	toy	towers	against-the-light photograph of a gate in the shade , with towers to its left and right .	0.25
+686	4	toy	towers	against-the-light photograph of a gate in the shade , with towers to its left and right .	0.25
+686	5	group of persons	towers	against-the-light photograph of a gate in the shade , with towers to its left and right .	0.126984126984
+686	6	child girl	towers	against-the-light photograph of a gate in the shade , with towers to its left and right .	0.105555555556
+686	7	child boy	towers	against-the-light photograph of a gate in the shade , with towers to its left and right .	0.111111111111
+686	8	woman	towers	against-the-light photograph of a gate in the shade , with towers to its left and right .	0.111111111111
+686	9	couple of persons	towers	against-the-light photograph of a gate in the shade , with towers to its left and right .	0.10989010989
+686	10	paper	left	against-the-light photograph of a gate in the shade , with towers to its left and right .	0.1
+686	11	wall	towers	against-the-light photograph of a gate in the shade , with towers to its left and right .	0.25
+686	12	face of person	towers	against-the-light photograph of a gate in the shade , with towers to its left and right .	0.116883116883
+686	13	hand of person	towers	against-the-light photograph of a gate in the shade , with towers to its left and right .	0.113095238095
+686	14	head of person	towers	against-the-light photograph of a gate in the shade , with towers to its left and right .	0.116883116883
+687	1	sky blue	a blue sky	there are dark trees in the foreground and a blue sky in the background .	1.0
+687	2	hill	the background	there are dark trees in the foreground and a blue sky in the background .	0.1
+687	3	city	the background	there are dark trees in the foreground and a blue sky in the background .	0.0769230769231
+687	4	edifice	trees	there are dark trees in the foreground and a blue sky in the background .	0.1
+687	5	roof	trees	there are dark trees in the foreground and a blue sky in the background .	0.0909090909091
+687	6	roof	trees	there are dark trees in the foreground and a blue sky in the background .	0.0909090909091
+687	7	house	trees	there are dark trees in the foreground and a blue sky in the background .	0.0909090909091
+687	8	house	trees	there are dark trees in the foreground and a blue sky in the background .	0.0909090909091
+689	1	group of persons	front view	well exposed front view of the cathedral in asuncion .	0.121428571429
+689	2	sky blue	front view	well exposed front view of the cathedral in asuncion .	0.0801282051282
+689	3	mountain	asuncion	well exposed front view of the cathedral in asuncion .	0.111111111111
+689	4	ground	asuncion	well exposed front view of the cathedral in asuncion .	0.142857142857
+689	5	rock	asuncion	well exposed front view of the cathedral in asuncion .	0.111111111111
+689	6	child boy	asuncion	well exposed front view of the cathedral in asuncion .	0.0909090909091
+689	7	child boy	asuncion	well exposed front view of the cathedral in asuncion .	0.0909090909091
+689	8	child	asuncion	well exposed front view of the cathedral in asuncion .	0.0909090909091
+689	9	man	asuncion	well exposed front view of the cathedral in asuncion .	0.0909090909091
+689	10	woman	asuncion	well exposed front view of the cathedral in asuncion .	0.0909090909091
+689	11	child girl	asuncion	well exposed front view of the cathedral in asuncion .	0.0871212121212
+690	1	sky blue	top	two towers with flags , three arched entry gates , large central ave with several pinnacles and a cross on top .	0.0884615384615
+690	2	mountain	top	two towers with flags , three arched entry gates , large central ave with several pinnacles and a cross on top .	0.142857142857
+690	3	ground	top	two towers with flags , three arched entry gates , large central ave with several pinnacles and a cross on top .	0.2
+690	4	ground	top	two towers with flags , three arched entry gates , large central ave with several pinnacles and a cross on top .	0.2
+690	5	group of persons	gates	two towers with flags , three arched entry gates , large central ave with several pinnacles and a cross on top .	0.180555555556
+690	6	child	gates	two towers with flags , three arched entry gates , large central ave with several pinnacles and a cross on top .	0.166666666667
+690	7	man	gates	two towers with flags , three arched entry gates , large central ave with several pinnacles and a cross on top .	0.166666666667
+690	8	child boy	gates	two towers with flags , three arched entry gates , large central ave with several pinnacles and a cross on top .	0.166666666667
+690	9	woman	gates	two towers with flags , three arched entry gates , large central ave with several pinnacles and a cross on top .	0.166666666667
+690	10	house	a cross	two towers with flags , three arched entry gates , large central ave with several pinnacles and a cross on top .	0.25
+692	1	wall	the right tower	there is a clock on the right tower .	0.25
+692	2	window	the right tower	there is a clock on the right tower .	0.2
+692	3	window	the right tower	there is a clock on the right tower .	0.2
+692	4	wall	the right tower	there is a clock on the right tower .	0.25
+692	5	man	the right tower	there is a clock on the right tower .	0.111111111111
+692	6	woman	the right tower	there is a clock on the right tower .	0.111111111111
+692	7	woman	the right tower	there is a clock on the right tower .	0.111111111111
+692	8	wall	the right tower	there is a clock on the right tower .	0.25
+692	9	floor other	the right tower	there is a clock on the right tower .	0.0833333333333
+692	10	floor other	the right tower	there is a clock on the right tower .	0.0833333333333
+692	11	floor other	the right tower	there is a clock on the right tower .	0.0833333333333
+693	1	child girl	corners	streetlamps at the middle gate and at the corners .	0.0954545454545
+693	2	child girl	corners	streetlamps at the middle gate and at the corners .	0.0954545454545
+693	3	face of person	corners	streetlamps at the middle gate and at the corners .	0.107954545455
+693	4	face of person	corners	streetlamps at the middle gate and at the corners .	0.107954545455
+693	5	sky blue	corners	streetlamps at the middle gate and at the corners .	0.0811688311688
+693	6	ground	corners	streetlamps at the middle gate and at the corners .	0.166666666667
+693	7	rock	corners	streetlamps at the middle gate and at the corners .	0.125
+693	8	woman	corners	streetlamps at the middle gate and at the corners .	0.1
+694	1	man	towers	bells visible in both towers .	0.111111111111
+694	2	sky blue	towers	bells visible in both towers .	0.0811688311688
+694	3	city	towers	bells visible in both towers .	0.0909090909091
+694	4	man	towers	bells visible in both towers .	0.111111111111
+694	5	car	towers	bells visible in both towers .	0.111111111111
+694	6	road	towers	bells visible in both towers .	0.2
+694	7	road	towers	bells visible in both towers .	0.2
+694	8	face of person	towers	bells visible in both towers .	0.116883116883
+696	1	man	a fountain	a fountain and cobbled walkway in the foreground , a pink and white buidling with many arches in the background .	0.111111111111
+696	2	man	a fountain	a fountain and cobbled walkway in the foreground , a pink and white buidling with many arches in the background .	0.111111111111
+696	3	couple of persons	the background	a fountain and cobbled walkway in the foreground , a pink and white buidling with many arches in the background .	0.118055555556
+696	4	camera	a fountain	a fountain and cobbled walkway in the foreground , a pink and white buidling with many arches in the background .	0.142857142857
+696	5	man	a fountain	a fountain and cobbled walkway in the foreground , a pink and white buidling with many arches in the background .	0.111111111111
+696	6	woman	a fountain	a fountain and cobbled walkway in the foreground , a pink and white buidling with many arches in the background .	0.111111111111
+696	7	camera	a fountain	a fountain and cobbled walkway in the foreground , a pink and white buidling with many arches in the background .	0.142857142857
+696	8	child girl	a fountain	a fountain and cobbled walkway in the foreground , a pink and white buidling with many arches in the background .	0.105555555556
+696	9	child boy	a fountain	a fountain and cobbled walkway in the foreground , a pink and white buidling with many arches in the background .	0.111111111111
+696	10	child girl	a fountain	a fountain and cobbled walkway in the foreground , a pink and white buidling with many arches in the background .	0.105555555556
+696	11	hat	a fountain	a fountain and cobbled walkway in the foreground , a pink and white buidling with many arches in the background .	0.142857142857
+696	12	child girl	a fountain	a fountain and cobbled walkway in the foreground , a pink and white buidling with many arches in the background .	0.105555555556
+696	13	paper	the background	a fountain and cobbled walkway in the foreground , a pink and white buidling with many arches in the background .	0.111111111111
+696	14	wall	a fountain	a fountain and cobbled walkway in the foreground , a pink and white buidling with many arches in the background .	0.25
+696	15	child	a fountain	a fountain and cobbled walkway in the foreground , a pink and white buidling with many arches in the background .	0.111111111111
+698	1	wall	trees	trees on the right .	0.0909090909091
+698	2	paper	the right	trees on the right .	0.0769230769231
+698	3	paper	the right	trees on the right .	0.0769230769231
+698	4	table	the right	trees on the right .	0.0833333333333
+698	5	chair	trees	trees on the right .	0.0769230769231
+698	6	chair	trees	trees on the right .	0.0769230769231
+698	7	floor other	trees	trees on the right .	0.0454545454545
+698	8	floor other	trees	trees on the right .	0.0454545454545
+700	1	window	a white building	a white building with lots of columns and arches , a neat lawn and neatly cut trees and bushes in the foreground .	0.2
+700	2	window	a white building	a white building with lots of columns and arches , a neat lawn and neatly cut trees and bushes in the foreground .	0.2
+700	3	wall	a white building	a white building with lots of columns and arches , a neat lawn and neatly cut trees and bushes in the foreground .	0.25
+700	4	wood	lots	a white building with lots of columns and arches , a neat lawn and neatly cut trees and bushes in the foreground .	0.0909090909091
+700	5	woman	bushes	a white building with lots of columns and arches , a neat lawn and neatly cut trees and bushes in the foreground .	0.125
+700	6	person	bushes	a white building with lots of columns and arches , a neat lawn and neatly cut trees and bushes in the foreground .	0.166666666667
+700	7	man	bushes	a white building with lots of columns and arches , a neat lawn and neatly cut trees and bushes in the foreground .	0.125
+700	8	man	bushes	a white building with lots of columns and arches , a neat lawn and neatly cut trees and bushes in the foreground .	0.125
+700	9	woman	bushes	a white building with lots of columns and arches , a neat lawn and neatly cut trees and bushes in the foreground .	0.125
+700	10	person	bushes	a white building with lots of columns and arches , a neat lawn and neatly cut trees and bushes in the foreground .	0.166666666667
+700	11	floor	a white building	a white building with lots of columns and arches , a neat lawn and neatly cut trees and bushes in the foreground .	0.166666666667
+700	12	head of person	bushes	a white building with lots of columns and arches , a neat lawn and neatly cut trees and bushes in the foreground .	0.119047619048
+702	1	group of persons	the building	the flag of paraguay is waving at the top of the building .	0.126984126984
+702	2	woman	the building	the flag of paraguay is waving at the top of the building .	0.111111111111
+702	3	woman	the building	the flag of paraguay is waving at the top of the building .	0.111111111111
+702	4	child boy	the building	the flag of paraguay is waving at the top of the building .	0.111111111111
+702	5	woman	the building	the flag of paraguay is waving at the top of the building .	0.111111111111
+702	6	child boy	the building	the flag of paraguay is waving at the top of the building .	0.111111111111
+702	7	child girl	the building	the flag of paraguay is waving at the top of the building .	0.105555555556
+702	8	child girl	the building	the flag of paraguay is waving at the top of the building .	0.105555555556
+702	9	child boy	the building	the flag of paraguay is waving at the top of the building .	0.111111111111
+702	10	child	the building	the flag of paraguay is waving at the top of the building .	0.111111111111
+702	11	door	the building	the flag of paraguay is waving at the top of the building .	0.166666666667
+702	12	door	the building	the flag of paraguay is waving at the top of the building .	0.166666666667
+702	13	wall	the building	the flag of paraguay is waving at the top of the building .	0.25
+702	14	wall	the building	the flag of paraguay is waving at the top of the building .	0.25
+702	15	face of person	the building	the flag of paraguay is waving at the top of the building .	0.116883116883
+702	16	food	the building	the flag of paraguay is waving at the top of the building .	0.111111111111
+702	17	face of person	the building	the flag of paraguay is waving at the top of the building .	0.116883116883
+704	1	child boy	a flower bed	there is a flower bed on the left .	0.111111111111
+704	2	child	a flower bed	there is a flower bed on the left .	0.111111111111
+704	3	child	a flower bed	there is a flower bed on the left .	0.111111111111
+704	4	child	a flower bed	there is a flower bed on the left .	0.111111111111
+704	5	child	a flower bed	there is a flower bed on the left .	0.111111111111
+704	6	window	a flower bed	there is a flower bed on the left .	0.1
+704	7	window	a flower bed	there is a flower bed on the left .	0.1
+704	8	wall	a flower bed	there is a flower bed on the left .	0.111111111111
+704	9	child girl	a flower bed	there is a flower bed on the left .	0.105555555556
+704	10	couple of persons	a flower bed	there is a flower bed on the left .	0.102678571429
+704	11	group of persons	the left	there is a flower bed on the left .	0.118055555556
+704	12	wooden furniture	a flower bed	there is a flower bed on the left .	0.166666666667
+704	13	face of person	the left	there is a flower bed on the left .	0.107954545455
+705	1	man	very modern building	a very modern building .	0.111111111111
+705	2	group of persons	very modern building	a very modern building .	0.126984126984
+705	3	couple of persons	very modern building	a very modern building .	0.10989010989
+705	4	child	very modern building	a very modern building .	0.111111111111
+705	5	child	very modern building	a very modern building .	0.111111111111
+705	6	man	very modern building	a very modern building .	0.111111111111
+705	7	woman	very modern building	a very modern building .	0.111111111111
+705	8	man	very modern building	a very modern building .	0.111111111111
+705	9	woman	very modern building	a very modern building .	0.111111111111
+705	10	woman	very modern building	a very modern building .	0.111111111111
+705	11	wall	very modern building	a very modern building .	0.25
+705	12	door	very modern building	a very modern building .	0.166666666667
+705	13	window	very modern building	a very modern building .	0.2
+705	14	chair	very modern building	a very modern building .	0.125
+705	15	orange	very modern building	a very modern building .	0.0833333333333
+705	16	orange	very modern building	a very modern building .	0.0833333333333
+705	17	orange	very modern building	a very modern building .	0.0833333333333
+705	18	face of person	very modern building	a very modern building .	0.116883116883
+708	1	woman	the entrance	stairs are leading up to the entrance .	0.1
+708	2	woman	the entrance	stairs are leading up to the entrance .	0.1
+708	3	man	the entrance	stairs are leading up to the entrance .	0.1
+708	4	group of persons	the entrance	stairs are leading up to the entrance .	0.1125
+708	5	woman	the entrance	stairs are leading up to the entrance .	0.1
+708	6	man	the entrance	stairs are leading up to the entrance .	0.1
+708	7	painting	the entrance	stairs are leading up to the entrance .	0.125
+708	8	window	the entrance	stairs are leading up to the entrance .	0.125
+708	9	woman	the entrance	stairs are leading up to the entrance .	0.1
+708	10	balloon	the entrance	stairs are leading up to the entrance .	0.0909090909091
+708	11	balloon	the entrance	stairs are leading up to the entrance .	0.0909090909091
+708	12	balloon	the entrance	stairs are leading up to the entrance .	0.0909090909091
+708	13	balloon	the entrance	stairs are leading up to the entrance .	0.0909090909091
+708	14	floor other	the entrance	stairs are leading up to the entrance .	0.0714285714286
+708	15	wall	the entrance	stairs are leading up to the entrance .	0.142857142857
+708	16	wall	the entrance	stairs are leading up to the entrance .	0.142857142857
+708	17	face of person	the entrance	stairs are leading up to the entrance .	0.104166666667
+709	1	sky blue	glass	the walls are entirely made of glass .	0.113095238095
+709	2	house	walls	the walls are entirely made of glass .	0.2
+709	3	ancent building	walls	the walls are entirely made of glass .	0.25
+709	4	ground	glass	the walls are entirely made of glass .	0.166666666667
+709	5	rock	walls	the walls are entirely made of glass .	0.142857142857
+709	6	house	walls	the walls are entirely made of glass .	0.2
+712	1	child boy	the big roof	one red huge column is supporting the big roof .	0.1
+712	2	child boy	the big roof	one red huge column is supporting the big roof .	0.1
+712	3	couple of persons	the big roof	one red huge column is supporting the big roof .	0.0982142857143
+712	4	child boy	the big roof	one red huge column is supporting the big roof .	0.1
+712	5	child boy	the big roof	one red huge column is supporting the big roof .	0.1
+712	6	paper	the big roof	one red huge column is supporting the big roof .	0.0909090909091
+712	7	chair	the big roof	one red huge column is supporting the big roof .	0.111111111111
+712	8	orange	the big roof	one red huge column is supporting the big roof .	0.0769230769231
+712	9	face of person	the big roof	one red huge column is supporting the big roof .	0.104166666667
+712	10	wall	the big roof	one red huge column is supporting the big roof .	0.142857142857
+712	11	chair	the big roof	one red huge column is supporting the big roof .	0.111111111111
+712	12	face of person	the big roof	one red huge column is supporting the big roof .	0.104166666667
+714	1	group of persons	the foreground	rails in the foreground .	0.0884615384615
+714	2	water	the foreground	rails in the foreground .	0.0666666666667
+714	3	tree	the foreground	rails in the foreground .	0.0526315789474
+714	4	branch	the foreground	rails in the foreground .	0.0625
+714	5	ground	the foreground	rails in the foreground .	0.0769230769231
+714	6	water	the foreground	rails in the foreground .	0.0666666666667
+714	7	child boy	the foreground	rails in the foreground .	0.0666666666667
+714	8	man	the foreground	rails in the foreground .	0.0666666666667
+714	9	child girl	the foreground	rails in the foreground .	0.0645833333333
+714	10	child boy	the foreground	rails in the foreground .	0.0666666666667
+714	11	child boy	the foreground	rails in the foreground .	0.0666666666667
+715	1	group of persons	a green tree	a green tree on the left .	0.125
+715	2	child boy	a green tree	a green tree on the left .	0.125
+715	3	child girl	a green tree	a green tree on the left .	0.118055555556
+715	4	child boy	a green tree	a green tree on the left .	0.125
+715	5	toy	the left	a green tree on the left .	0.125
+715	6	child girl	a green tree	a green tree on the left .	0.118055555556
+715	7	floor other	the left	a green tree on the left .	0.05
+715	8	wall	the left	a green tree on the left .	0.1
+715	9	wall	the left	a green tree on the left .	0.1
+716	1	child boy	lane street	two lane street with large shops on the right and smaller shops on the left .	0.111111111111
+716	2	group of persons	lane street	two lane street with large shops on the right and smaller shops on the left .	0.126984126984
+716	3	child girl	lane street	two lane street with large shops on the right and smaller shops on the left .	0.105555555556
+716	4	child girl	lane street	two lane street with large shops on the right and smaller shops on the left .	0.105555555556
+716	5	child	lane street	two lane street with large shops on the right and smaller shops on the left .	0.111111111111
+716	6	child girl	lane street	two lane street with large shops on the right and smaller shops on the left .	0.105555555556
+716	7	child girl	lane street	two lane street with large shops on the right and smaller shops on the left .	0.105555555556
+716	8	child girl	lane street	two lane street with large shops on the right and smaller shops on the left .	0.105555555556
+716	9	wall	lane street	two lane street with large shops on the right and smaller shops on the left .	0.166666666667
+716	10	paper	the left	two lane street with large shops on the right and smaller shops on the left .	0.1
+716	11	paper	the left	two lane street with large shops on the right and smaller shops on the left .	0.1
+716	12	head of person	lane street	two lane street with large shops on the right and smaller shops on the left .	0.116883116883
+717	1	man	people	people are walking on the sidewalk , some are crossing the street .	0.111111111111
+717	2	group of persons	people	people are walking on the sidewalk , some are crossing the street .	0.321428571429
+717	3	child girl	people	people are walking on the sidewalk , some are crossing the street .	0.105555555556
+717	4	child girl	people	people are walking on the sidewalk , some are crossing the street .	0.105555555556
+717	5	child boy	people	people are walking on the sidewalk , some are crossing the street .	0.111111111111
+717	6	child boy	people	people are walking on the sidewalk , some are crossing the street .	0.111111111111
+717	7	paper	people	people are walking on the sidewalk , some are crossing the street .	0.125
+717	8	cup	the street	people are walking on the sidewalk , some are crossing the street .	0.125
+717	9	paper	people	people are walking on the sidewalk , some are crossing the street .	0.125
+718	1	group of persons	the left side	cars are parked along the left side of the street as well .	0.133928571429
+718	2	child boy	the left side	cars are parked along the left side of the street as well .	0.111111111111
+718	3	head of person	the left side	cars are parked along the left side of the street as well .	0.121428571429
+718	4	wall	the street	cars are parked along the left side of the street as well .	0.125
+718	5	child	the left side	cars are parked along the left side of the street as well .	0.111111111111
+718	6	head of person	the left side	cars are parked along the left side of the street as well .	0.121428571429
+718	7	face of person	the left side	cars are parked along the left side of the street as well .	0.121428571429
+718	8	child	the left side	cars are parked along the left side of the street as well .	0.111111111111
+718	9	wall	the street	cars are parked along the left side of the street as well .	0.125
+719	1	group of persons	the right side	an avenue with seven yellow taxis lined up on the right side .	0.133928571429
+719	2	woman	the right side	an avenue with seven yellow taxis lined up on the right side .	0.111111111111
+719	3	book	the right side	an avenue with seven yellow taxis lined up on the right side .	0.0909090909091
+719	4	face of person	the right side	an avenue with seven yellow taxis lined up on the right side .	0.121428571429
+719	5	child girl	the right side	an avenue with seven yellow taxis lined up on the right side .	0.105555555556
+719	6	child boy	the right side	an avenue with seven yellow taxis lined up on the right side .	0.111111111111
+723	1	group of persons	drivers	some drivers are waiting for customers outside of their taxis .	0.196428571429
+723	2	child	customers	some drivers are waiting for customers outside of their taxis .	0.166666666667
+723	3	couple of persons	drivers	some drivers are waiting for customers outside of their taxis .	0.170454545455
+723	4	man	customers	some drivers are waiting for customers outside of their taxis .	0.166666666667
+723	5	woman	customers	some drivers are waiting for customers outside of their taxis .	0.166666666667
+723	6	child boy	customers	some drivers are waiting for customers outside of their taxis .	0.166666666667
+723	7	child	customers	some drivers are waiting for customers outside of their taxis .	0.166666666667
+723	8	wall	drivers	some drivers are waiting for customers outside of their taxis .	0.1
+723	9	window	drivers	some drivers are waiting for customers outside of their taxis .	0.0909090909091
+723	10	door	drivers	some drivers are waiting for customers outside of their taxis .	0.0833333333333
+723	11	wooden furniture	drivers	some drivers are waiting for customers outside of their taxis .	0.05
+723	12	woman	customers	some drivers are waiting for customers outside of their taxis .	0.166666666667
+725	1	couple of persons	trees	green trees behind them .	0.114583333333
+725	2	face of person	trees	green trees behind them .	0.119047619048
+725	3	face of person	trees	green trees behind them .	0.119047619048
+726	1	window	a terrace	a swimming pool with sun chairs on a terrace in the foreground .	0.166666666667
+726	2	wall	a terrace	a swimming pool with sun chairs on a terrace in the foreground .	0.2
+726	3	couple of persons	pool	a swimming pool with sun chairs on a terrace in the foreground .	0.10989010989
+726	4	face of person	pool	a swimming pool with sun chairs on a terrace in the foreground .	0.116883116883
+726	5	face of person	pool	a swimming pool with sun chairs on a terrace in the foreground .	0.116883116883
+726	6	child boy	pool	a swimming pool with sun chairs on a terrace in the foreground .	0.111111111111
+726	7	orange	sun	a swimming pool with sun chairs on a terrace in the foreground .	0.0909090909091
+726	8	child boy	pool	a swimming pool with sun chairs on a terrace in the foreground .	0.111111111111
+726	9	group of persons	pool	a swimming pool with sun chairs on a terrace in the foreground .	0.126984126984
+726	10	child boy	pool	a swimming pool with sun chairs on a terrace in the foreground .	0.111111111111
+726	11	child girl	pool	a swimming pool with sun chairs on a terrace in the foreground .	0.105555555556
+726	12	group of persons	pool	a swimming pool with sun chairs on a terrace in the foreground .	0.126984126984
+726	13	child	pool	a swimming pool with sun chairs on a terrace in the foreground .	0.111111111111
+726	14	face of person	pool	a swimming pool with sun chairs on a terrace in the foreground .	0.116883116883
+728	1	sky blue	the background	a flat landscape with green trees and houses in the background .	0.107954545455
+728	2	house	houses	a flat landscape with green trees and houses in the background .	1.0
+728	3	door	houses	a flat landscape with green trees and houses in the background .	0.142857142857
+728	4	window	houses	a flat landscape with green trees and houses in the background .	0.166666666667
+728	5	road	houses	a flat landscape with green trees and houses in the background .	0.166666666667
+728	6	child girl	trees	a flat landscape with green trees and houses in the background .	0.118055555556
+728	7	group of persons	the background	a flat landscape with green trees and houses in the background .	0.1625
+728	8	road	houses	a flat landscape with green trees and houses in the background .	0.166666666667
+731	1	cloud	a green lawn	several flagpoles with waving flags on a green lawn in the foreground .	0.0769230769231
+731	2	mountain	a green lawn	several flagpoles with waving flags on a green lawn in the foreground .	0.1
+731	3	city	a green lawn	several flagpoles with waving flags on a green lawn in the foreground .	0.142857142857
+731	4	bush	flags	several flagpoles with waving flags on a green lawn in the foreground .	0.0833333333333
+732	1	man	black building	a large grey and black building behind it .	0.111111111111
+732	2	man	black building	a large grey and black building behind it .	0.111111111111
+732	3	man	black building	a large grey and black building behind it .	0.111111111111
+732	4	couple of persons	black building	a large grey and black building behind it .	0.10989010989
+732	5	balloon	black building	a large grey and black building behind it .	0.1
+732	6	wall	black building	a large grey and black building behind it .	0.25
+732	7	wooden furniture	black building	a large grey and black building behind it .	0.0833333333333
+732	8	woman	black building	a large grey and black building behind it .	0.111111111111
+732	9	door	black building	a large grey and black building behind it .	0.166666666667
+736	1	child boy	top	a huge column with a football on top on the left .	0.111111111111
+736	2	couple of persons	top	a huge column with a football on top on the left .	0.113095238095
+736	3	wooden furniture	top	a huge column with a football on top on the left .	0.0555555555556
+736	4	book	top	a huge column with a football on top on the left .	0.0909090909091
+736	5	child	top	a huge column with a football on top on the left .	0.111111111111
+736	6	group of persons	top	a huge column with a football on top on the left .	0.133928571429
+736	7	man	top	a huge column with a football on top on the left .	0.111111111111
+736	8	couple of persons	top	a huge column with a football on top on the left .	0.113095238095
+736	9	group of persons	top	a huge column with a football on top on the left .	0.133928571429
+736	10	head of person	top	a huge column with a football on top on the left .	0.121428571429
+736	11	wall	top	a huge column with a football on top on the left .	0.111111111111
+736	12	window	top	a huge column with a football on top on the left .	0.1
+736	13	door	top	a huge column with a football on top on the left .	0.0909090909091
+736	14	wooden furniture	top	a huge column with a football on top on the left .	0.0555555555556
+736	15	face of person	top	a huge column with a football on top on the left .	0.121428571429
+737	1	ground	the background	a blue sky with white clouds in the background .	0.125
+737	2	sky	a blue sky	a blue sky with white clouds in the background .	1.0
+737	3	construction	the background	a blue sky with white clouds in the background .	0.0909090909091
+737	4	couple of persons	the background	a blue sky with white clouds in the background .	0.118055555556
+737	5	child girl	the background	a blue sky with white clouds in the background .	0.0954545454545
+737	6	child	the background	a blue sky with white clouds in the background .	0.1
+737	7	child	the background	a blue sky with white clouds in the background .	0.1
+737	8	person	the background	a blue sky with white clouds in the background .	0.125
+737	9	group of persons	the background	a blue sky with white clouds in the background .	0.1625
+737	10	wood	a blue sky	a blue sky with white clouds in the background .	0.111111111111
+738	1	child girl	a huge dam	front view of a huge dam .	0.0871212121212
+738	2	group of persons	front view	front view of a huge dam .	0.121428571429
+738	3	child girl	a huge dam	front view of a huge dam .	0.0871212121212
+738	4	child boy	a huge dam	front view of a huge dam .	0.0909090909091
+738	5	wooden furniture	a huge dam	front view of a huge dam .	0.0625
+738	6	child girl	a huge dam	front view of a huge dam .	0.0871212121212
+738	7	book	a huge dam	front view of a huge dam .	0.1
+738	8	face of person	a huge dam	front view of a huge dam .	0.0940170940171
+739	1	church	tiny spot	water is flowing through one tiny spot .	0.0769230769231
+739	2	window	tiny spot	water is flowing through one tiny spot .	0.1
+739	3	ground	tiny spot	water is flowing through one tiny spot .	0.2
+739	4	sky blue	tiny spot	water is flowing through one tiny spot .	0.0884615384615
+739	5	sky blue	tiny spot	water is flowing through one tiny spot .	0.0884615384615
+739	6	cloud	tiny spot	water is flowing through one tiny spot .	0.1
+739	7	house	tiny spot	water is flowing through one tiny spot .	0.111111111111
+739	8	wood	tiny spot	water is flowing through one tiny spot .	0.1
+742	1	humans	backwater	backwater is flowing off on the left .	0.125
+742	2	woman	backwater	backwater is flowing off on the left .	0.125
+742	3	woman	backwater	backwater is flowing off on the left .	0.125
+742	4	woman	backwater	backwater is flowing off on the left .	0.125
+742	5	man	backwater	backwater is flowing off on the left .	0.125
+742	6	couple of persons	backwater	backwater is flowing off on the left .	0.128787878788
+742	7	head of person	backwater	backwater is flowing off on the left .	0.154761904762
+742	8	wall	the left	backwater is flowing off on the left .	0.1
+742	9	clock	the left	backwater is flowing off on the left .	0.0769230769231
+754	1	group of persons	the foreground	green reed in the foreground .	0.0884615384615
+754	2	woman	the foreground	green reed in the foreground .	0.0666666666667
+754	3	man	the foreground	green reed in the foreground .	0.0666666666667
+754	4	sidewalk	the foreground	green reed in the foreground .	0.0555555555556
+754	5	ground	the foreground	green reed in the foreground .	0.0769230769231
+754	6	man	the foreground	green reed in the foreground .	0.0666666666667
+754	7	construction	the foreground	green reed in the foreground .	0.0714285714286
+767	1	group of persons	singer	rock singer wearing yellow pants and a red t-shirt on a stage .	0.15
+767	2	man	singer	rock singer wearing yellow pants and a red t-shirt on a stage .	0.142857142857
+767	3	man	singer	rock singer wearing yellow pants and a red t-shirt on a stage .	0.142857142857
+767	4	woman	singer	rock singer wearing yellow pants and a red t-shirt on a stage .	0.142857142857
+767	5	man	singer	rock singer wearing yellow pants and a red t-shirt on a stage .	0.142857142857
+767	6	woman	singer	rock singer wearing yellow pants and a red t-shirt on a stage .	0.142857142857
+767	7	hand of person	singer	rock singer wearing yellow pants and a red t-shirt on a stage .	0.138461538462
+767	8	man	singer	rock singer wearing yellow pants and a red t-shirt on a stage .	0.142857142857
+767	9	balloon	t-shirt	rock singer wearing yellow pants and a red t-shirt on a stage .	0.0769230769231
+767	10	face of person	singer	rock singer wearing yellow pants and a red t-shirt on a stage .	0.141666666667
+768	1	group of persons	view	view from behind .	0.121428571429
+768	2	child boy	view	view from behind .	0.0833333333333
+768	3	child boy	view	view from behind .	0.0833333333333
+768	4	child boy	view	view from behind .	0.0833333333333
+768	5	balloon	view	view from behind .	0.0555555555556
+768	6	balloon	view	view from behind .	0.0555555555556
+768	7	sky blue	view	view from behind .	0.0801282051282
+768	8	ground	view	view from behind .	0.1
+768	9	ground	view	view from behind .	0.1
+768	10	floor other	view	view from behind .	0.0357142857143
+768	11	rock	view	view from behind .	0.0833333333333
+778	1	child boy	the background	crowd is cheering in the background .	0.1
+778	2	face of person	the background	crowd is cheering in the background .	0.107954545455
+779	1	child boy	tourists	group of tourists is standing in front of a buildilng .	0.2
+779	2	face of person	tourists	group of tourists is standing in front of a buildilng .	0.216666666667
+779	3	cloth	tourists	group of tourists is standing in front of a buildilng .	0.125
+779	4	window	tourists	group of tourists is standing in front of a buildilng .	0.0909090909091
+779	5	group of persons	group	group of tourists is standing in front of a buildilng .	0.583333333333
+779	6	wall	tourists	group of tourists is standing in front of a buildilng .	0.1
+780	1	child girl	pens	each of them is holding a leaflet und some pens .	0.0871212121212
+780	2	face of person	a leaflet und	each of them is holding a leaflet und some pens .	0.121428571429
+781	1	child girl	people	three locals are standing in the middle of all the people , one of them is holding a box .	0.105555555556
+781	2	face of person	people	three locals are standing in the middle of all the people , one of them is holding a box .	0.121428571429
+783	1	child girl	the left	traditional country house on the left .	0.0954545454545
+783	2	face of person	the left	traditional country house on the left .	0.107954545455
+784	1	child girl	rocks	some rocks in the background .	0.118055555556
+784	2	face of person	rocks	some rocks in the background .	0.133333333333
+784	3	wall	rocks	some rocks in the background .	0.142857142857
+784	4	person	rocks	some rocks in the background .	0.166666666667
+784	5	paper	the background	some rocks in the background .	0.111111111111
+786	1	child girl	a gravel road	a gravel road in the foreground .	0.105555555556
+786	2	face of person	a gravel road	a gravel road in the foreground .	0.116883116883
+786	3	floor other	a gravel road	a gravel road in the foreground .	0.0833333333333
+788	1	child girl	two adults	two adults and four local boys are standing in front of a white house with two trellised windows .	0.291666666667
+788	2	face of person	two adults	two adults and four local boys are standing in front of a white house with two trellised windows .	0.305555555556
+788	3	hand of person	two adults	two adults and four local boys are standing in front of a white house with two trellised windows .	0.3
+789	1	child boy	three boys	three boys are standing , one is kneeing down .	0.6
+789	2	wooden furniture	three boys	three boys are standing , one is kneeing down .	0.05
+789	3	group of persons	three boys	three boys are standing , one is kneeing down .	0.229166666667
+789	4	group of persons	three boys	three boys are standing , one is kneeing down .	0.229166666667
+789	5	wall	three boys	three boys are standing , one is kneeing down .	0.1
+790	1	child boy	boys	adults are holding shoulders of boys .	0.6
+790	2	face of person	adults	adults are holding shoulders of boys .	0.305555555556
+791	1	child girl	boy	one boy is holding a sweeper .	0.183333333333
+791	2	face of person	boy	one boy is holding a sweeper .	0.216666666667
+792	1	child boy	nine children	nine children , some of them waving at the camera , others are a bit shy and are looking away .	0.6
+792	2	face of person	nine children	nine children , some of them waving at the camera , others are a bit shy and are looking away .	0.216666666667
+792	3	person	nine children	nine children , some of them waving at the camera , others are a bit shy and are looking away .	0.333333333333
+792	4	wall	the camera	nine children , some of them waving at the camera , others are a bit shy and are looking away .	0.125
+793	1	child	person	one person is pointing to the camera .	0.333333333333
+793	2	wall	the camera	one person is pointing to the camera .	0.125
+793	3	ground	person	one person is pointing to the camera .	0.2
+793	4	hat	the camera	one person is pointing to the camera .	0.111111111111
+794	1	child girl	bare brickwork	construction site , bare brickwork .	0.0954545454545
+794	2	face of person	bare brickwork	construction site , bare brickwork .	0.104166666667
+795	1	baby	worker	one worker is standing on rails , the other one is leaning against an unfinished brick wall .	0.166666666667
+795	2	face of person	worker	one worker is standing on rails , the other one is leaning against an unfinished brick wall .	0.305555555556
+796	1	baby	picture	close up picture of the itaipu dam .	0.0833333333333
+797	1	child boy	backwater	backwater is flowing off in the foreground .	0.125
+797	2	face of person	backwater	backwater is flowing off in the foreground .	0.154761904762
+797	3	cloth	backwater	backwater is flowing off in the foreground .	0.125
+797	4	wall	backwater	backwater is flowing off in the foreground .	0.1
+798	1	child girl	corners	two men are standing on a lawn in front of a light brown house with blue corners .	0.0954545454545
+798	2	face of person	corners	two men are standing on a lawn in front of a light brown house with blue corners .	0.107954545455
+799	1	child girl	kids	school kids on a grey square , some are dressed in dark blue , others in orange .	0.583333333333
+799	2	sky blue	kids	school kids on a grey square , some are dressed in dark blue , others in orange .	0.0884615384615
+799	3	house	kids	school kids on a grey square , some are dressed in dark blue , others in orange .	0.1
+799	4	face of person	kids	school kids on a grey square , some are dressed in dark blue , others in orange .	0.216666666667
+800	1	child girl	person	one person dressed in orange is standing opposite the line up , leading the group .	0.291666666667
+800	2	face of person	person	one person dressed in orange is standing opposite the line up , leading the group .	0.5625
+800	3	wood	the group	one person dressed in orange is standing opposite the line up , leading the group .	0.125
+800	4	wooden furniture	person	one person dressed in orange is standing opposite the line up , leading the group .	0.0625
+801	1	child girl	a steep hill	two light blue houses behind them with a steep hill in the background .	0.105555555556
+801	2	face of person	a steep hill	two light blue houses behind them with a steep hill in the background .	0.121428571429
+801	3	cloth	houses	two light blue houses behind them with a steep hill in the background .	0.2
+802	1	child girl	a woman	a woman is sitting at table in the middle of a schoolyard .	0.35
+802	2	face of person	a woman	a woman is sitting at table in the middle of a schoolyard .	0.216666666667
+803	1	child boy	the table	there are many books on the table .	0.0909090909091
+803	2	hand of person	the table	there are many books on the table .	0.0940170940171
+803	3	group of persons	the table	there are many books on the table .	0.180555555556
+803	4	couple of persons	the table	there are many books on the table .	0.118055555556
+803	5	wall	books	there are many books on the table .	0.111111111111
+804	1	child girl	two people	two people are sitting next to her , six others are standing about ten metres away from the table .	0.105555555556
+804	2	face of person	two people	two people are sitting next to her , six others are standing about ten metres away from the table .	0.121428571429
+805	1	child girl	a jumper	four boys , one drinking from a cup , one wearing an army cap and waving , the one in the focus wearing a beanie , a jumper and smiling into the camera , and the fourth wearing a cap and carrying a wooden crate .	0.225
+805	2	face of person	a jumper	four boys , one drinking from a cup , one wearing an army cap and waving , the one in the focus wearing a beanie , a jumper and smiling into the camera , and the fourth wearing a cap and carrying a wooden crate .	0.305555555556
+806	1	child girl	kids	four school kids are smiling into the camera in the foreground .	0.583333333333
+806	2	cloud	kids	four school kids are smiling into the camera in the foreground .	0.1
+806	3	wooden furniture	the camera	four school kids are smiling into the camera in the foreground .	0.0833333333333
+806	4	house	the camera	four school kids are smiling into the camera in the foreground .	0.125
+806	5	face of person	kids	four school kids are smiling into the camera in the foreground .	0.216666666667
+806	6	hand of person	kids	four school kids are smiling into the camera in the foreground .	0.212121212121
+807	1	child girl	kids	more kids in the background , some are leaning on the school wall , others are running around .	0.583333333333
+807	2	face of person	kids	more kids in the background , some are leaning on the school wall , others are running around .	0.216666666667
+808	1	child boy	a red trainer	young girl wearing a red trainer with blue and white sleeves is bending down to two old ladies .	0.2
+808	2	face of person	a red trainer	young girl wearing a red trainer with blue and white sleeves is bending down to two old ladies .	0.216666666667
+809	1	child girl	the girl	one of them is stroking the girl's face with her right hand .	0.583333333333
+809	2	child girl	the girl	one of them is stroking the girl's face with her right hand .	0.583333333333
+810	1	child boy	five women	five women in a kitchen , two of them are preparing some food using four bowls , two are standing behind them ( and one next to them ) and are watching .	0.2
+810	2	face of person	five women	five women in a kitchen , two of them are preparing some food using four bowls , two are standing behind them ( and one next to them ) and are watching .	0.216666666667
+811	1	child girl	kids	santa claus in middle of excited kids .	0.583333333333
+811	2	face of person	kids	santa claus in middle of excited kids .	0.216666666667
+811	3	wall	kids	santa claus in middle of excited kids .	0.1
+811	4	wood	kids	santa claus in middle of excited kids .	0.1
+811	5	window	kids	santa claus in middle of excited kids .	0.0909090909091
+812	1	child girl	a woman	a woman with a present in the background .	0.35
+812	2	cloth	a woman	a woman with a present in the background .	0.125
+812	3	window	a woman	a woman with a present in the background .	0.0909090909091
+812	4	wall	a woman	a woman with a present in the background .	0.1
+812	5	face of person	a woman	a woman with a present in the background .	0.216666666667
+813	1	child boy	kids	three social workers and about ten local kids in a room with dark and light blue walls .	0.6
+813	2	cloud	workers	three social workers and about ten local kids in a room with dark and light blue walls .	0.111111111111
+813	3	rock	walls	three social workers and about ten local kids in a room with dark and light blue walls .	0.142857142857
+813	4	rock	walls	three social workers and about ten local kids in a room with dark and light blue walls .	0.142857142857
+813	5	face of person	workers	three social workers and about ten local kids in a room with dark and light blue walls .	0.305555555556
+815	1	child girl	kids	one of the workers is sitting and talking to the kids .	0.583333333333
+815	2	face of person	workers	one of the workers is sitting and talking to the kids .	0.305555555556
+815	3	rock	workers	one of the workers is sitting and talking to the kids .	0.142857142857
+815	4	cloud	workers	one of the workers is sitting and talking to the kids .	0.111111111111
+817	1			{}	0
+817	2			{}	0
+817	3			{}	0
+817	4			{}	0
+817	5			{}	0
+818	1	child girl	kid	one kid is a bit left out , sitting alone on a desk and looking the other way .	0.583333333333
+818	2	face of person	kid	one kid is a bit left out , sitting alone on a desk and looking the other way .	0.216666666667
+818	3	ground	kid	one kid is a bit left out , sitting alone on a desk and looking the other way .	0.142857142857
+818	4	rock	kid	one kid is a bit left out , sitting alone on a desk and looking the other way .	0.125
+818	5	rock	kid	one kid is a bit left out , sitting alone on a desk and looking the other way .	0.125
+819	1	child girl	ten pupils	two tourists , both of them wearing backpacks , are visiting a school with ten pupils .	0.183333333333
+819	2	cloud	ten pupils	two tourists , both of them wearing backpacks , are visiting a school with ten pupils .	0.1
+819	3	ground	ten pupils	two tourists , both of them wearing backpacks , are visiting a school with ten pupils .	0.142857142857
+819	4	ground	ten pupils	two tourists , both of them wearing backpacks , are visiting a school with ten pupils .	0.142857142857
+819	5	rock	ten pupils	two tourists , both of them wearing backpacks , are visiting a school with ten pupils .	0.125
+819	6	rock	ten pupils	two tourists , both of them wearing backpacks , are visiting a school with ten pupils .	0.125
+821	1	child girl	the woman	the woman is wearing brown shorts and a yellow sleveless top .	0.35
+821	2	sky blue	a yellow sleveless top	the woman is wearing brown shorts and a yellow sleveless top .	0.0884615384615
+821	3	face of person	the woman	the woman is wearing brown shorts and a yellow sleveless top .	0.216666666667
+821	4	hand of person	the woman	the woman is wearing brown shorts and a yellow sleveless top .	0.212121212121
+822	1	child boy	the man	the man is wearing long black pants and a blue shirt .	0.266666666667
+822	2	cloud	the man	the man is wearing long black pants and a blue shirt .	0.1
+822	3	wooden furniture	a blue shirt	the man is wearing long black pants and a blue shirt .	0.0625
+822	4	wooden furniture	a blue shirt	the man is wearing long black pants and a blue shirt .	0.0625
+822	5	face of person	the man	the man is wearing long black pants and a blue shirt .	0.216666666667
+823	1	child girl	a school kid	a school kid is sitting at a desk , smiling into the camera and being offered a red apple .	0.583333333333
+823	2	face of person	a school kid	a school kid is sitting at a desk , smiling into the camera and being offered a red apple .	0.216666666667
+824	1	child boy	kids	three other kids in the background .	0.6
+824	2	face of person	kids	three other kids in the background .	0.216666666667
+825	1	child boy	four tourists	four tourists are sitting on a bus .	0.2
+825	2	cloth	a bus	four tourists are sitting on a bus .	0.166666666667
+825	3	wall	a bus	four tourists are sitting on a bus .	0.125
+825	4	paper	four tourists	four tourists are sitting on a bus .	0.111111111111
+825	5	plant	a bus	four tourists are sitting on a bus .	0.125
+825	6	face of person	four tourists	four tourists are sitting on a bus .	0.216666666667
+826	1	child girl	two women	two women in the front row with their heads turned around .	0.35
+826	2	cloud	two women	two women in the front row with their heads turned around .	0.1
+826	3	house	two women	two women in the front row with their heads turned around .	0.1
+826	4	ground	two women	two women in the front row with their heads turned around .	0.142857142857
+827	1	child girl	the window	another one in the second row looking out the window .	0.0871212121212
+827	2	wall	the window	another one in the second row looking out the window .	0.166666666667
+827	3	face of person	the window	another one in the second row looking out the window .	0.0940170940171
+828	1	child boy	man	and one man with sunglasses in the very last row , looking out the window too .	0.266666666667
+828	2	wooden furniture	the window	and one man with sunglasses in the very last row , looking out the window too .	0.0625
+828	3	paper	man	and one man with sunglasses in the very last row , looking out the window too .	0.111111111111
+828	4	face of person	man	and one man with sunglasses in the very last row , looking out the window too .	0.216666666667
+828	5	window	the window	and one man with sunglasses in the very last row , looking out the window too .	1.0
+828	6	window	the window	and one man with sunglasses in the very last row , looking out the window too .	1.0
+828	7	couple of persons	man	and one man with sunglasses in the very last row , looking out the window too .	0.208333333333
+828	8	group of persons	man	and one man with sunglasses in the very last row , looking out the window too .	0.229166666667
+828	9	wall	the window	and one man with sunglasses in the very last row , looking out the window too .	0.166666666667
+829	1	child girl	a tourist group	a tourist group is visiting a school .	0.183333333333
+829	2	wall	a tourist group	a tourist group is visiting a school .	0.1
+829	3	child	a tourist group	a tourist group is visiting a school .	0.2
+829	4	wooden furniture	a tourist group	a tourist group is visiting a school .	0.05
+829	5	face of person	a tourist group	a tourist group is visiting a school .	0.222222222222
+830	1	child girl	kids	the school kids are sitting at their desks , singing a song and clapping their hands , with their teacher clapping as well .	0.583333333333
+830	2	face of person	kids	the school kids are sitting at their desks , singing a song and clapping their hands , with their teacher clapping as well .	0.216666666667
+830	3	cloth	desks	the school kids are sitting at their desks , singing a song and clapping their hands , with their teacher clapping as well .	0.142857142857
+831	1	child girl	tourist	six of the tourists are standing behind them and are watching them , one tourist is taking a photo .	0.183333333333
+831	2	paper	tourist	six of the tourists are standing behind them and are watching them , one tourist is taking a photo .	0.111111111111
+831	3	wall	a photo	six of the tourists are standing behind them and are watching them , one tourist is taking a photo .	0.142857142857
+831	4	wooden furniture	a photo	six of the tourists are standing behind them and are watching them , one tourist is taking a photo .	0.0714285714286
+832	1	child girl	three women	three women are sitting on a wooden bench in front of an about one metre high , red brick wall .	0.35
+832	2	cloud	three women	three women are sitting on a wooden bench in front of an about one metre high , red brick wall .	0.1
+832	3	wooden furniture	a wooden bench	three women are sitting on a wooden bench in front of an about one metre high , red brick wall .	0.666666666667
+832	4	face of person	three women	three women are sitting on a wooden bench in front of an about one metre high , red brick wall .	0.216666666667
+833	1	child boy	jumpers	they are all wearing skirts and jumpers with gilets .	0.25
+833	2	cloud	jumpers	they are all wearing skirts and jumpers with gilets .	0.111111111111
+833	3	wooden furniture	jumpers	they are all wearing skirts and jumpers with gilets .	0.0555555555556
+833	4	construction	jumpers	they are all wearing skirts and jumpers with gilets .	0.0769230769231
+833	5	construction	jumpers	they are all wearing skirts and jumpers with gilets .	0.0769230769231
+833	6	ground	jumpers	they are all wearing skirts and jumpers with gilets .	0.166666666667
+833	7	face of person	jumpers	they are all wearing skirts and jumpers with gilets .	0.305555555556
+834	1	table	a hat	two of them are wearing a hat too .	0.0714285714286
+834	2	child girl	a hat	two of them are wearing a hat too .	0.0871212121212
+834	3	ground	a hat	two of them are wearing a hat too .	0.125
+834	4	ground	a hat	two of them are wearing a hat too .	0.125
+834	5	construction	a hat	two of them are wearing a hat too .	0.0588235294118
+835	1	child girl	man	one man is standing behind the wall .	0.225
+835	2	face of person	man	one man is standing behind the wall .	0.216666666667
+835	3	cloth	the wall	one man is standing behind the wall .	0.2
+836	1	child boy	a red brick	a wooden door on the left is being held open by a red brick .	0.111111111111
+836	2	face of person	a red brick	a wooden door on the left is being held open by a red brick .	0.116883116883
+837	1	child boy	kids	photo of a classroom with some kids sitting at their desks , others standing at their desks , waving into the camera , laughing .	0.6
+837	2	face of person	kids	photo of a classroom with some kids sitting at their desks , others standing at their desks , waving into the camera , laughing .	0.216666666667
+837	3	wall	a classroom	photo of a classroom with some kids sitting at their desks , others standing at their desks , waving into the camera , laughing .	0.166666666667
+837	4	cloth	photo	photo of a classroom with some kids sitting at their desks , others standing at their desks , waving into the camera , laughing .	0.2
+838	1	child boy	two kids	two kids are eating their lunch in the foreground .	0.6
+838	2	face of person	two kids	two kids are eating their lunch in the foreground .	0.216666666667
+838	3	head of person	two kids	two kids are eating their lunch in the foreground .	0.216666666667
+838	4	wall	two kids	two kids are eating their lunch in the foreground .	0.1
+841	1	child boy	the background	there is a wooden wall with pictures of two comic figures in the background .	0.1
+841	2	child boy	the background	there is a wooden wall with pictures of two comic figures in the background .	0.1
+841	3	head of person	the background	there is a wooden wall with pictures of two comic figures in the background .	0.107954545455
+841	4	wooden furniture	pictures	there is a wooden wall with pictures of two comic figures in the background .	0.0714285714286
+841	5	paper	the background	there is a wooden wall with pictures of two comic figures in the background .	0.111111111111
+841	6	wall	a wooden wall	there is a wooden wall with pictures of two comic figures in the background .	1.0
+841	7	window	a wooden wall	there is a wooden wall with pictures of two comic figures in the background .	0.166666666667
+841	8	face of person	the background	there is a wooden wall with pictures of two comic figures in the background .	0.107954545455
+842	1	child boy	black plastic bag	a large , black plastic bag with four packs of pasta , a folder , a leaflet , a small book and cacao powder on a table .	0.125
+842	2	woman	black plastic bag	a large , black plastic bag with four packs of pasta , a folder , a leaflet , a small book and cacao powder on a table .	0.125
+842	3	child girl	black plastic bag	a large , black plastic bag with four packs of pasta , a folder , a leaflet , a small book and cacao powder on a table .	0.118055555556
+842	4	wall	black plastic bag	a large , black plastic bag with four packs of pasta , a folder , a leaflet , a small book and cacao powder on a table .	0.142857142857
+842	5	window	black plastic bag	a large , black plastic bag with four packs of pasta , a folder , a leaflet , a small book and cacao powder on a table .	0.125
+842	6	face of person	black plastic bag	a large , black plastic bag with four packs of pasta , a folder , a leaflet , a small book and cacao powder on a table .	0.138888888889
+843	1	child girl	the background	there is a second , empty table in the background .	0.0954545454545
+843	2	wall	empty table	there is a second , empty table in the background .	0.142857142857
+843	3	window	empty table	there is a second , empty table in the background .	0.125
+843	4	face of person	the background	there is a second , empty table in the background .	0.107954545455
+844	1	humans	a table	six kids are sitting around a table and playing with toy cars .	0.2
+844	2	child boy	six kids	six kids are sitting around a table and playing with toy cars .	0.6
+844	3	face of person	six kids	six kids are sitting around a table and playing with toy cars .	0.216666666667
+845	1	child girl	kid	one kid is standing next to the table .	0.583333333333
+845	2	group of persons	kid	one kid is standing next to the table .	0.229166666667
+845	3	paper	kid	one kid is standing next to the table .	0.111111111111
+845	4	wall	kid	one kid is standing next to the table .	0.1
+845	5	window	kid	one kid is standing next to the table .	0.0909090909091
+845	6	child boy	kid	one kid is standing next to the table .	0.6
+846	1	child girl	a woman	a woman is holding a black plastic bag on the left .	0.35
+846	2	face of person	a woman	a woman is holding a black plastic bag on the left .	0.216666666667
+846	3	paper	a black plastic bag	a woman is holding a black plastic bag on the left .	0.166666666667
+846	4	wood	a black plastic bag	a woman is holding a black plastic bag on the left .	0.142857142857
+846	5	wall	a black plastic bag	a woman is holding a black plastic bag on the left .	0.142857142857
+847	1	child boy	three tourists	three tourists in the background are talking to each other .	0.2
+847	2	group of persons	three tourists	three tourists in the background are talking to each other .	0.229166666667
+847	3	group of persons	three tourists	three tourists in the background are talking to each other .	0.229166666667
+847	4	window	three tourists	three tourists in the background are talking to each other .	0.0909090909091
+847	5	wall	three tourists	three tourists in the background are talking to each other .	0.1
+847	6	face of person	three tourists	three tourists in the background are talking to each other .	0.216666666667
+848	1	child boy	houses	panorama view of houses in la paz .	0.1
+848	2	head of person	houses	panorama view of houses in la paz .	0.104166666667
+848	3	wall	houses	panorama view of houses in la paz .	0.2
+848	4	face of person	houses	panorama view of houses in la paz .	0.104166666667
+849	1	child girl	rocks	red roofed houses in the foreground , with a hill and rugged rocks in the background .	0.118055555556
+849	2	face of person	rocks	red roofed houses in the foreground , with a hill and rugged rocks in the background .	0.133333333333
+849	3	wall	houses	red roofed houses in the foreground , with a hill and rugged rocks in the background .	0.2
+850	1	child girl	kids	photo of eleven school kids and three tourists behind them .	0.583333333333
+850	2	face of person	three tourists	photo of eleven school kids and three tourists behind them .	0.216666666667
+850	3	wall	photo	photo of eleven school kids and three tourists behind them .	0.142857142857
+850	4	cloth	photo	photo of eleven school kids and three tourists behind them .	0.2
+851	1	child boy	kid	a basketball court in the background , with one kid standing below the basket .	0.6
+851	2	group of persons	kid	a basketball court in the background , with one kid standing below the basket .	0.229166666667
+851	3	window	the basket	a basketball court in the background , with one kid standing below the basket .	0.125
+851	4	wall	the basket	a basketball court in the background , with one kid standing below the basket .	0.142857142857
+851	5	wall	the basket	a basketball court in the background , with one kid standing below the basket .	0.142857142857
+851	6	face of person	kid	a basketball court in the background , with one kid standing below the basket .	0.216666666667
+851	7	wooden furniture	the basket	a basketball court in the background , with one kid standing below the basket .	0.1
+852	1	child girl	a large mountain	a large mountain in the distant background .	0.105555555556
+852	2	face of person	a large mountain	a large mountain in the distant background .	0.121428571429
+852	3	window	a large mountain	a large mountain in the distant background .	0.1
+852	4	wall	a large mountain	a large mountain in the distant background .	0.111111111111
+852	5	wooden furniture	a large mountain	a large mountain in the distant background .	0.0555555555556
+853	1	child boy	kids	lots of locals ( both kids and adults ) in front of a blue building .	0.6
+853	2	wooden furniture	a blue building	lots of locals ( both kids and adults ) in front of a blue building .	0.0833333333333
+853	3	wall	a blue building	lots of locals ( both kids and adults ) in front of a blue building .	0.25
+853	4	paper	adults	lots of locals ( both kids and adults ) in front of a blue building .	0.125
+853	5	face of person	adults	lots of locals ( both kids and adults ) in front of a blue building .	0.305555555556
+854	1	child boy	kid	one kid is about to slide down the slide , with one grown up waiting to catch it .	0.6
+854	2	wall	the slide	one kid is about to slide down the slide , with one grown up waiting to catch it .	0.142857142857
+854	3	face of person	kid	one kid is about to slide down the slide , with one grown up waiting to catch it .	0.216666666667
+855	1	child boy	a kid	another woman is carrying a basket in her left hand , with a kid holding her other hand .	0.6
+855	2	wall	a basket	another woman is carrying a basket in her left hand , with a kid holding her other hand .	0.142857142857
+855	3	face of person	a kid	another woman is carrying a basket in her left hand , with a kid holding her other hand .	0.216666666667
+855	4	paper	a kid	another woman is carrying a basket in her left hand , with a kid holding her other hand .	0.111111111111
+856	1	child boy	the background	others are just sitting around or are standing in the background .	0.1
+856	2	ground	the background	others are just sitting around or are standing in the background .	0.125
+856	3	trash	the background	others are just sitting around or are standing in the background .	0.1
+856	4	trash	the background	others are just sitting around or are standing in the background .	0.1
+857	1	child girl	mountains	there are snow covered mountains in the distant background .	0.105555555556
+857	2	child	mountains	there are snow covered mountains in the distant background .	0.111111111111
+857	3	wall	mountains	there are snow covered mountains in the distant background .	0.111111111111
+857	4	face of person	mountains	there are snow covered mountains in the distant background .	0.121428571429
+858	1	child girl	workers	there are two social workers in the foreground .	0.225
+858	2	face of person	workers	there are two social workers in the foreground .	0.305555555556
+858	3	child	workers	there are two social workers in the foreground .	0.25
+858	4	head of person	workers	there are two social workers in the foreground .	0.305555555556
+859	1	child boy	the blue paint	one wearing a red pullover and brown pants is bending over to access the blue paint .	0.1
+859	2	face of person	the blue paint	one wearing a red pullover and brown pants is bending over to access the blue paint .	0.107954545455
+859	3	head of person	the blue paint	one wearing a red pullover and brown pants is bending over to access the blue paint .	0.107954545455
+861	1	child	jeans	the other one in a red tee-shirt and black jeans is watching her .	0.0833333333333
+861	2	face of person	jeans	the other one in a red tee-shirt and black jeans is watching her .	0.0857142857143
+862	1	child boy	another worker	at the back of the room there is another worker wearing a white tee-shirt and blue jeans , acutally painting .	0.25
+862	2	child boy	another worker	at the back of the room there is another worker wearing a white tee-shirt and blue jeans , acutally painting .	0.25
+862	3	wooden furniture	the room	at the back of the room there is another worker wearing a white tee-shirt and blue jeans , acutally painting .	0.0714285714286
+862	4	wall	the room	at the back of the room there is another worker wearing a white tee-shirt and blue jeans , acutally painting .	0.2
+862	5	face of person	another worker	at the back of the room there is another worker wearing a white tee-shirt and blue jeans , acutally painting .	0.305555555556
+863	1	child girl	the ground	there are many newspapers on the ground to protect the kindergarten floor .	0.133928571429
+863	2	window	the kindergarten floor	there are many newspapers on the ground to protect the kindergarten floor .	0.125
+863	3	face of person	the ground	there are many newspapers on the ground to protect the kindergarten floor .	0.1625
+863	4	wooden furniture	the kindergarten floor	there are many newspapers on the ground to protect the kindergarten floor .	0.0714285714286
+863	5	wall	the kindergarten floor	there are many newspapers on the ground to protect the kindergarten floor .	0.142857142857
+863	6	wood	the ground	there are many newspapers on the ground to protect the kindergarten floor .	0.125
+864	1	child girl	three workers	all three workers are wearing a mask .	0.225
+864	2	child	three workers	all three workers are wearing a mask .	0.25
+864	3	face of person	three workers	all three workers are wearing a mask .	0.305555555556
+865	1	child girl	girls	portrait of two dark-haired girls with a mountain in the background .	0.583333333333
+865	2	paper	the background	portrait of two dark-haired girls with a mountain in the background .	0.111111111111
+865	3	window	a mountain	portrait of two dark-haired girls with a mountain in the background .	0.1
+865	4	face of person	girls	portrait of two dark-haired girls with a mountain in the background .	0.170454545455
+865	5	wood	the background	portrait of two dark-haired girls with a mountain in the background .	0.1
+865	6	wall	a mountain	portrait of two dark-haired girls with a mountain in the background .	0.111111111111
+865	7	non wooden furniture	a mountain	portrait of two dark-haired girls with a mountain in the background .	0.037037037037
+868	1	child boy	a man	a man is carrying a heavy rice bag .	0.266666666667
+868	2	face of person	a man	a man is carrying a heavy rice bag .	0.216666666667
+868	3	wood	a heavy rice bag	a man is carrying a heavy rice bag .	0.1
+869	1	child girl	another man	a car on the left , another man on the right .	0.225
+869	2	wooden furniture	a car	a car on the left , another man on the right .	0.0625
+869	3	face of person	another man	a car on the left , another man on the right .	0.216666666667
+869	4	hand of person	another man	a car on the left , another man on the right .	0.212121212121
+871	1	child girl	a hill	a street behind them , with some houses on a hill in the background .	0.105555555556
+871	2	wooden furniture	houses	a street behind them , with some houses on a hill in the background .	0.0714285714286
+871	3	wooden furniture	houses	a street behind them , with some houses on a hill in the background .	0.0714285714286
+871	4	head of person	a hill	a street behind them , with some houses on a hill in the background .	0.121428571429
+871	5	floor other	houses	a street behind them , with some houses on a hill in the background .	0.0714285714286
+871	6	floor other	houses	a street behind them , with some houses on a hill in the background .	0.0714285714286
+871	7	wall	houses	a street behind them , with some houses on a hill in the background .	0.2
+871	8	head of person	a hill	a street behind them , with some houses on a hill in the background .	0.121428571429
+872	1	group of persons	six tourists	six tourists are standing in front of blackboard of a primary school .	0.229166666667
+872	2	child boy	six tourists	six tourists are standing in front of blackboard of a primary school .	0.2
+872	3	face of person	six tourists	six tourists are standing in front of blackboard of a primary school .	0.216666666667
+873	1	child boy	tourist	one tourist is taking a photo .	0.2
+873	2	face of person	tourist	one tourist is taking a photo .	0.216666666667
+873	3	child boy	tourist	one tourist is taking a photo .	0.2
+873	4	person	tourist	one tourist is taking a photo .	0.333333333333
+875	1	child girl	kids	local kids are sitting at their desks , singing and clapping .	0.583333333333
+875	2	child	kids	local kids are sitting at their desks , singing and clapping .	1.0
+875	3	child	kids	local kids are sitting at their desks , singing and clapping .	1.0
+875	4	face of person	kids	local kids are sitting at their desks , singing and clapping .	0.216666666667
+875	5	face of person	kids	local kids are sitting at their desks , singing and clapping .	0.216666666667
+879	1	child boy	kid	one kid has just opened one book .	0.6
+879	2	wooden furniture	book	one kid has just opened one book .	0.0555555555556
+879	3	paper	kid	one kid has just opened one book .	0.111111111111
+879	4	child	kid	one kid has just opened one book .	1.0
+879	5	couple of persons	kid	one kid has just opened one book .	0.208333333333
+879	6	window	book	one kid has just opened one book .	0.1
+879	7	window	book	one kid has just opened one book .	0.1
+879	8	face of person	kid	one kid has just opened one book .	0.216666666667
+885	1	child girl	the background	there are posters and pictures on the wall in the background .	0.0954545454545
+885	2	child girl	the background	there are posters and pictures on the wall in the background .	0.0954545454545
+885	3	wall	the wall	there are posters and pictures on the wall in the background .	1.0
+885	4	face of person	the background	there are posters and pictures on the wall in the background .	0.107954545455
+892	1	child boy	children	a little red wooden desk and two red and two blue chairs in front of a green wall full with children's paintings .	0.6
+892	2	face of person	children	a little red wooden desk and two red and two blue chairs in front of a green wall full with children's paintings .	0.216666666667
+892	3	child boy	children	a little red wooden desk and two red and two blue chairs in front of a green wall full with children's paintings .	0.6
+892	4	wall	a green wall	a little red wooden desk and two red and two blue chairs in front of a green wall full with children's paintings .	1.0
+893	1	child boy	the back	an improvised cupboard with lots of drawers in a corner at the back of the room .	0.111111111111
+893	2	face of person	the back	an improvised cupboard with lots of drawers in a corner at the back of the room .	0.196428571429
+893	3	couple of persons	the back	an improvised cupboard with lots of drawers in a corner at the back of the room .	0.113095238095
+893	4	wooden furniture	the room	an improvised cupboard with lots of drawers in a corner at the back of the room .	0.0714285714286
+893	5	wall	the room	an improvised cupboard with lots of drawers in a corner at the back of the room .	0.2
+894	1	child girl	workers	volunteer workers help with the construction in a kindergarten .	0.225
+894	2	group of persons	workers	volunteer workers help with the construction in a kindergarten .	0.321428571429
+894	3	child girl	workers	volunteer workers help with the construction in a kindergarten .	0.225
+894	4	face of person	workers	volunteer workers help with the construction in a kindergarten .	0.305555555556
+895	1	child boy	the ground	four volunteers are squatting down and are trying to prise the ground with hammer and chisel .	0.142857142857
+895	2	head of person	the ground	four volunteers are squatting down and are trying to prise the ground with hammer and chisel .	0.1625
+895	3	couple of persons	the ground	four volunteers are squatting down and are trying to prise the ground with hammer and chisel .	0.15
+895	4	face of person	the ground	four volunteers are squatting down and are trying to prise the ground with hammer and chisel .	0.1625
+895	5	child	the ground	four volunteers are squatting down and are trying to prise the ground with hammer and chisel .	0.142857142857
+895	6	face of person	the ground	four volunteers are squatting down and are trying to prise the ground with hammer and chisel .	0.1625
+895	7	paper	the ground	four volunteers are squatting down and are trying to prise the ground with hammer and chisel .	0.142857142857
+896	1	child boy	the background	movable wooden walls are leaning on the wall in the background .	0.1
+896	2	face of person	the background	movable wooden walls are leaning on the wall in the background .	0.107954545455
+897	1	couple of persons	tourists	tourists are posing in a room , ten of them are standing , one is squatting .	0.208333333333
+897	2	child girl	tourists	tourists are posing in a room , ten of them are standing , one is squatting .	0.183333333333
+897	3	child	tourists	tourists are posing in a room , ten of them are standing , one is squatting .	0.2
+897	4	head of person	tourists	tourists are posing in a room , ten of them are standing , one is squatting .	0.216666666667
+899	1	child girl	kids	one kid is posing with them , five other kids are sitting at a table and eating out of three bowls .	0.583333333333
+899	2	group of persons	kids	one kid is posing with them , five other kids are sitting at a table and eating out of three bowls .	0.229166666667
+899	3	head of person	kids	one kid is posing with them , five other kids are sitting at a table and eating out of three bowls .	0.216666666667
+899	4	face of person	kids	one kid is posing with them , five other kids are sitting at a table and eating out of three bowls .	0.216666666667
+899	5	face of person	kids	one kid is posing with them , five other kids are sitting at a table and eating out of three bowls .	0.216666666667
+900	1	child girl	tourists	there are posters and pictures at the wall behind the tourists .	0.183333333333
+900	2	face of person	tourists	there are posters and pictures at the wall behind the tourists .	0.216666666667
+900	3	group of persons	tourists	there are posters and pictures at the wall behind the tourists .	0.229166666667
+900	4	head of person	tourists	there are posters and pictures at the wall behind the tourists .	0.216666666667
+901	1	child boy	pupils	pupils are sitting at their wooden desks in an open air classroom .	0.2
+901	2	face of person	pupils	pupils are sitting at their wooden desks in an open air classroom .	0.216666666667
+901	3	ground	an open air classroom	pupils are sitting at their wooden desks in an open air classroom .	0.142857142857
+901	4	rock	an open air classroom	pupils are sitting at their wooden desks in an open air classroom .	0.125
+904	1	child boy	hands	two of them raising their hands , others smiling .	0.0714285714286
+904	2	ground	hands	two of them raising their hands , others smiling .	0.0833333333333
+904	3	rock	hands	two of them raising their hands , others smiling .	0.0714285714286
+905	1	child boy	a green hat	three are wearing a green hat .	0.0909090909091
+905	2	ground	a green hat	three are wearing a green hat .	0.125
+905	3	rock	a green hat	three are wearing a green hat .	0.125
+905	4	orange	a green hat	three are wearing a green hat .	0.0714285714286
+905	5	hand of person	a green hat	three are wearing a green hat .	0.0912698412698
+906	1	child girl	red brick wall	red brick wall and windows in the background .	0.105555555556
+906	2	ground	red brick wall	red brick wall and windows in the background .	0.166666666667
+906	3	ground	red brick wall	red brick wall and windows in the background .	0.166666666667
+906	4	face of person	red brick wall	red brick wall and windows in the background .	0.116883116883
+906	5	rock	red brick wall	red brick wall and windows in the background .	0.166666666667
+906	6	rock	red brick wall	red brick wall and windows in the background .	0.166666666667
+906	7	rock	red brick wall	red brick wall and windows in the background .	0.166666666667
+907	1	child boy	seven tourists	seven tourists are visiting a classroom .	0.2
+907	2	ground	seven tourists	seven tourists are visiting a classroom .	0.142857142857
+907	3	ground	seven tourists	seven tourists are visiting a classroom .	0.142857142857
+907	4	rock	a classroom	seven tourists are visiting a classroom .	0.125
+907	5	face of person	seven tourists	seven tourists are visiting a classroom .	0.216666666667
+908	1	child girl	two kids	children are sitting at round tables , nearly all of them wearing a green hat ( except for two kids ) .	0.583333333333
+908	2	ground	two kids	children are sitting at round tables , nearly all of them wearing a green hat ( except for two kids ) .	0.142857142857
+908	3	rock	two kids	children are sitting at round tables , nearly all of them wearing a green hat ( except for two kids ) .	0.125
+908	4	rock	two kids	children are sitting at round tables , nearly all of them wearing a green hat ( except for two kids ) .	0.125
+908	5	face of person	two kids	children are sitting at round tables , nearly all of them wearing a green hat ( except for two kids ) .	0.216666666667
+909	1	child boy	kids	tourists are smiling at the kids .	0.6
+909	2	face of person	kids	tourists are smiling at the kids .	0.216666666667
+909	3	ground	kids	tourists are smiling at the kids .	0.142857142857
+910	1	child boy	the background	there are posters and maps on the wall in the background .	0.1
+910	2	face of person	the background	there are posters and maps on the wall in the background .	0.107954545455
+910	3	child boy	the background	there are posters and maps on the wall in the background .	0.1
+910	4	hand of person	the background	there are posters and maps on the wall in the background .	0.104166666667
+912	1	child boy	tourists	tourists are visiting an old people's home .	0.2
+912	2	ground	people	tourists are visiting an old people's home .	0.142857142857
+912	3	rock	tourists	tourists are visiting an old people's home .	0.125
+912	4	rock	tourists	tourists are visiting an old people's home .	0.125
+912	5	rock	tourists	tourists are visiting an old people's home .	0.125
+914	1	child girl	old lady	each tourist is leading one old lady , arm in arm .	0.25
+914	2	face of person	each tourist	each tourist is leading one old lady , arm in arm .	0.216666666667
+915	1	child girl	ladies	the old ladies are wearing traditional dresses and a hat .	0.25
+915	2	face of person	ladies	the old ladies are wearing traditional dresses and a hat .	0.170454545455
+916	1	child boy	the room	the room is decorated with balloons .	0.1
+916	2	face of person	the room	the room is decorated with balloons .	0.104166666667
+916	3	head of person	the room	the room is decorated with balloons .	0.104166666667
+917	1	child girl	also an old lady	there is a picture on the wall in the background , and also an old lady carrying a green balloon .	0.25
+917	2	hat	the wall	there is a picture on the wall in the background , and also an old lady carrying a green balloon .	0.125
+917	3	hand of person	also an old lady	there is a picture on the wall in the background , and also an old lady carrying a green balloon .	0.166666666667
+918	1	child boy	the wreckage	a destroyed house with the wreckage lying around in front it .	0.125
+918	2	face of person	the wreckage	a destroyed house with the wreckage lying around in front it .	0.138888888889
+919	1	child boy	the background	three ordinary a bit elevated houses in the background .	0.1
+919	2	face of person	the background	three ordinary a bit elevated houses in the background .	0.107954545455
+919	3	head of person	the background	three ordinary a bit elevated houses in the background .	0.107954545455
+921	1	child boy	kid	six pupils are sitting around a round table on wooden chairs , each of them is holding a fruit ( tangerine ? ) and is wearing a hat ( except for one kid ) .	0.6
+921	2	group of persons	kid	six pupils are sitting around a round table on wooden chairs , each of them is holding a fruit ( tangerine ? ) and is wearing a hat ( except for one kid ) .	0.229166666667
+921	3	child boy	kid	six pupils are sitting around a round table on wooden chairs , each of them is holding a fruit ( tangerine ? ) and is wearing a hat ( except for one kid ) .	0.6
+921	4	face of person	kid	six pupils are sitting around a round table on wooden chairs , each of them is holding a fruit ( tangerine ? ) and is wearing a hat ( except for one kid ) .	0.216666666667
+922	1	child boy	the wall	pictures and comics on the wall behind them .	0.1
+922	2	ground	the wall	pictures and comics on the wall behind them .	0.142857142857
+922	3	ground	the wall	pictures and comics on the wall behind them .	0.142857142857
+922	4	rock	the wall	pictures and comics on the wall behind them .	0.142857142857
+922	5	rock	the wall	pictures and comics on the wall behind them .	0.142857142857
+922	6	rock	the wall	pictures and comics on the wall behind them .	0.142857142857
+922	7	face of person	the wall	pictures and comics on the wall behind them .	0.104166666667
+923	1	child boy	the background	car tyres in the background on the right .	0.1
+923	2	ground	tyres	car tyres in the background on the right .	0.142857142857
+923	3	rock	tyres	car tyres in the background on the right .	0.111111111111
+923	4	rock	tyres	car tyres in the background on the right .	0.111111111111
+923	5	face of person	the background	car tyres in the background on the right .	0.107954545455
+924	1	child boy	around 50 pupils	a teacher and around 50 pupils on the slope of a hill .	0.2
+924	2	sky	the slope	a teacher and around 50 pupils on the slope of a hill .	0.111111111111
+924	3	ground	the slope	a teacher and around 50 pupils on the slope of a hill .	0.25
+924	4	rock	the slope	a teacher and around 50 pupils on the slope of a hill .	0.166666666667
+924	5	rock	the slope	a teacher and around 50 pupils on the slope of a hill .	0.166666666667
+925	1	child girl	kids	half of the kids are dressed in orange , many of them wearing a hat , a beanie or a cap .	0.583333333333
+925	2	face of person	kids	half of the kids are dressed in orange , many of them wearing a hat , a beanie or a cap .	0.216666666667
+925	3	ground	kids	half of the kids are dressed in orange , many of them wearing a hat , a beanie or a cap .	0.142857142857
+925	4	rock	a cap	half of the kids are dressed in orange , many of them wearing a hat , a beanie or a cap .	0.125
+925	5	rock	a cap	half of the kids are dressed in orange , many of them wearing a hat , a beanie or a cap .	0.125
+926	1	child girl	two trees	small bushes and two trees at the top of the hill .	0.118055555556
+926	2	face of person	the hill	small bushes and two trees at the top of the hill .	0.121428571429
+926	3	ground	the hill	small bushes and two trees at the top of the hill .	0.2
+926	4	rock	the hill	small bushes and two trees at the top of the hill .	0.142857142857
+926	5	rock	the hill	small bushes and two trees at the top of the hill .	0.142857142857
+926	6	rock	the hill	small bushes and two trees at the top of the hill .	0.142857142857
+927	1	child girl	a lake	a lake in the background .	0.118055555556
+927	2	hat	a lake	a lake in the background .	0.0909090909091
+927	3	ground	a lake	a lake in the background .	0.166666666667
+927	4	face of person	a lake	a lake in the background .	0.154761904762
+928	1	child girl	kids	school kids are posing for the camera in a football-like setup - nine are standing at the back , ten are squatting at the front .	0.583333333333
+928	2	hat	a football-like setup	school kids are posing for the camera in a football-like setup - nine are standing at the back , ten are squatting at the front .	0.125
+928	3	ground	the back	school kids are posing for the camera in a football-like setup - nine are standing at the back , ten are squatting at the front .	0.142857142857
+929	1	child girl	the camera	each of them are having a fruit in their hands , most of them are smiling , one is even waving at the camera .	0.0871212121212
+929	2	house	the camera	each of them are having a fruit in their hands , most of them are smiling , one is even waving at the camera .	0.125
+929	3	ground	the camera	each of them are having a fruit in their hands , most of them are smiling , one is even waving at the camera .	0.125
+929	4	ground	the camera	each of them are having a fruit in their hands , most of them are smiling , one is even waving at the camera .	0.125
+929	5	hat	the camera	each of them are having a fruit in their hands , most of them are smiling , one is even waving at the camera .	0.111111111111
+929	6	face of person	the camera	each of them are having a fruit in their hands , most of them are smiling , one is even waving at the camera .	0.0940170940171
+930	1	child girl	a blackboard	a blackboard in the background .	0.105555555556
+930	2	ground	a blackboard	a blackboard in the background .	0.166666666667
+930	3	face of person	a blackboard	a blackboard in the background .	0.116883116883
+931	1	child boy	kid	one kid in the centre of the front row is holding a teddy .	0.6
+931	2	face of person	kid	one kid in the centre of the front row is holding a teddy .	0.216666666667
+932	1	child boy	the pupil	classroom with most of the pupil sitting at theirs desk and wearing green hats .	0.2
+932	2	cloth	hats	classroom with most of the pupil sitting at theirs desk and wearing green hats .	0.166666666667
+932	3	face of person	the pupil	classroom with most of the pupil sitting at theirs desk and wearing green hats .	0.216666666667
+933	1	child boy	boys	one girl is standing at her desk , another one is walking to her desk , three other boys are standing and looking at a picture of minnie mouse on the wall .	0.6
+933	2	face of person	boys	one girl is standing at her desk , another one is walking to her desk , three other boys are standing and looking at a picture of minnie mouse on the wall .	0.216666666667
+934	1	child boy	the background	shelves and posters in the background .	0.1
+934	2	face of person	the background	shelves and posters in the background .	0.107954545455
+935	1	child boy	children	children are sitting at their desks , together with a tourist sitting in the last row .	0.6
+935	2	face of person	a tourist	children are sitting at their desks , together with a tourist sitting in the last row .	0.216666666667
+935	3	cloth	desks	children are sitting at their desks , together with a tourist sitting in the last row .	0.142857142857
+936	1	child boy	three children	three children are standing on the left , looking at a map of peru .	0.6
+936	2	face of person	three children	three children are standing on the left , looking at a map of peru .	0.216666666667
+936	3	cloth	a map	three children are standing on the left , looking at a map of peru .	0.2
+937	1	child boy	the back	there are two posters on the wall at the back , and there is a bookshelf with a lot of boxes and folders on the left .	0.111111111111
+937	2	face of person	the back	there are two posters on the wall at the back , and there is a bookshelf with a lot of boxes and folders on the left .	0.196428571429
+938	1	child boy	boy	one boy holding a white box , most likely a present from the volunteer kneeing in front of him .	0.6
+938	2	cloth	a white box	one boy holding a white box , most likely a present from the volunteer kneeing in front of him .	0.2
+938	3	cloth	a white box	one boy holding a white box , most likely a present from the volunteer kneeing in front of him .	0.2
+939	1	child boy	the boy	several kids are around him , looking at the box while the boy himself is looking somewhere else .	0.6
+939	2	hat	the box	several kids are around him , looking at the box while the boy himself is looking somewhere else .	0.125
+939	3	face of person	the boy	several kids are around him , looking at the box while the boy himself is looking somewhere else .	0.216666666667
+941	1	child boy	kid	one kid in the foreground is wearing a green hat .	0.6
+941	2	ground	kid	one kid in the foreground is wearing a green hat .	0.142857142857
+941	3	construction	the foreground	one kid in the foreground is wearing a green hat .	0.0714285714286
+941	4	cloth	a green hat	one kid in the foreground is wearing a green hat .	0.166666666667
+942	1	woman	the background	there are both round tables and wooden desks in the background .	0.1
+942	2	hat	round	there are both round tables and wooden desks in the background .	0.111111111111
+942	3	ground	the background	there are both round tables and wooden desks in the background .	0.125
+942	4	ground	the background	there are both round tables and wooden desks in the background .	0.125
+942	5	house	round	there are both round tables and wooden desks in the background .	0.125
+942	6	rock	round	there are both round tables and wooden desks in the background .	0.125
+942	7	face of person	the background	there are both round tables and wooden desks in the background .	0.107954545455
+943	1	child boy	a volunteer	a volunteer , squatting down and browsing through a school book .	0.142857142857
+943	2	face of person	a volunteer	a volunteer , squatting down and browsing through a school book .	0.141666666667
+943	3	ground	a school book	a volunteer , squatting down and browsing through a school book .	0.111111111111
+943	4	cloth	a school book	a volunteer , squatting down and browsing through a school book .	0.142857142857
+944	1	child girl	children	school children around her , looking at the book too .	0.583333333333
+944	2	hat	the book	school children around her , looking at the book too .	0.1
+944	3	ground	children	school children around her , looking at the book too .	0.142857142857
+944	4	ground	children	school children around her , looking at the book too .	0.142857142857
+947	1	child girl	school equipment	in the background there is a table with school equipment on it .	0.105555555556
+947	2	face of person	school equipment	in the background there is a table with school equipment on it .	0.116883116883
+947	3	ground	school equipment	in the background there is a table with school equipment on it .	0.166666666667
+947	4	ground	school equipment	in the background there is a table with school equipment on it .	0.166666666667
+947	5	construction	the background	in the background there is a table with school equipment on it .	0.0909090909091
+948	1	child boy	the kid	the kid in the foreground is holding a pencil .	0.6
+948	2	ground	the kid	the kid in the foreground is holding a pencil .	0.142857142857
+948	3	face of person	the kid	the kid in the foreground is holding a pencil .	0.216666666667
+949	1	child girl	kids	tourists are standing in front of the blackboard in a classroom , all the kids are sitting at their desks .	0.583333333333
+949	2	hat	the blackboard	tourists are standing in front of the blackboard in a classroom , all the kids are sitting at their desks .	0.142857142857
+949	3	face of person	kids	tourists are standing in front of the blackboard in a classroom , all the kids are sitting at their desks .	0.216666666667
+950	1	child girl	the side wall	there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows .	0.105555555556
+950	2	hat	the blackboard	there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows .	0.142857142857
+950	3	jewelry	the blackboard	there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows .	0.166666666667
+951	1	child girl	a little girl	a boy wearing a green jacket and a red cap is carrying a little girl on his back .	0.583333333333
+951	2	hat	a red cap	a boy wearing a green jacket and a red cap is carrying a little girl on his back .	0.333333333333
+951	3	jewelry	a red cap	a boy wearing a green jacket and a red cap is carrying a little girl on his back .	0.125
+952	1	child girl	children	children are sitting at their desks and are singing a song with their teacher .	0.583333333333
+952	2	hat	desks	children are sitting at their desks and are singing a song with their teacher .	0.1
+952	3	face of person	children	children are sitting at their desks and are singing a song with their teacher .	0.216666666667
+953	1	child girl	the back	there is a large window , a blackboard and a shelf at the back of the classroom .	0.105555555556
+953	2	face of person	the back	there is a large window , a blackboard and a shelf at the back of the classroom .	0.196428571429
+953	3	hat	a blackboard	there is a large window , a blackboard and a shelf at the back of the classroom .	0.142857142857
+953	4	jewelry	a blackboard	there is a large window , a blackboard and a shelf at the back of the classroom .	0.166666666667
+955	1	child girl	a poster	there is a wall on the left with a map of peru , a poster and minnie mouse on it .	0.0954545454545
+955	2	face of person	a poster	there is a wall on the left with a map of peru , a poster and minnie mouse on it .	0.107954545455
+955	3	jewelry	a map	there is a wall on the left with a map of peru , a poster and minnie mouse on it .	0.142857142857
+955	4	ground	the left	there is a wall on the left with a map of peru , a poster and minnie mouse on it .	0.166666666667
+955	5	hat	a map	there is a wall on the left with a map of peru , a poster and minnie mouse on it .	0.125
+957	1	child girl	bricks	close-up photo of a building with a blue front , red doors , brown bricks below the windows and the wires that stick out from the roof .	0.105555555556
+957	2	hat	the roof	close-up photo of a building with a blue front , red doors , brown bricks below the windows and the wires that stick out from the roof .	0.166666666667
+957	3	face of person	bricks	close-up photo of a building with a blue front , red doors , brown bricks below the windows and the wires that stick out from the roof .	0.116883116883
+957	4	construction	bricks	close-up photo of a building with a blue front , red doors , brown bricks below the windows and the wires that stick out from the roof .	0.0666666666667
+958	1	child girl	pupils	a few pupils are in front of the building .	0.183333333333
+958	2	hat	the building	a few pupils are in front of the building .	0.142857142857
+958	3	jewelry	the building	a few pupils are in front of the building .	0.166666666667
+959	1	child girl	a valley	view of a city in a valley .	0.105555555556
+959	2	hat	a valley	view of a city in a valley .	0.1
+959	3	face of person	a valley	view of a city in a valley .	0.121428571429
+960	1	child boy	bushes	bushes , houses and roofs in the foreground .	0.125
+960	2	face of person	bushes	bushes , houses and roofs in the foreground .	0.119047619048
+960	3	cloth	roofs	bushes , houses and roofs in the foreground .	0.2
+961	1	child boy	the background	an overcast sky in the background .	0.1
+961	2	face of person	the background	an overcast sky in the background .	0.107954545455
+961	3	cloth	the background	an overcast sky in the background .	0.1
+962	1	child girl	tourists	tourists are standing at the entrance of classroom .	0.183333333333
+962	2	sky blue	tourists	tourists are standing at the entrance of classroom .	0.0884615384615
+962	3	face of person	tourists	tourists are standing at the entrance of classroom .	0.216666666667
+963	1	child girl	backpacks	all of them are carrying backpacks .	0.0871212121212
+963	2	face of person	backpacks	all of them are carrying backpacks .	0.0940170940171
+963	3	hut	backpacks	all of them are carrying backpacks .	0.125
+965	1	child boy	female tourist	one female tourist is carrying a huge bunch of balloons .	0.2
+965	2	face of person	female tourist	one female tourist is carrying a huge bunch of balloons .	0.216666666667
+965	3	construction	a huge bunch	one female tourist is carrying a huge bunch of balloons .	0.0833333333333
+966	1	cloud	tourists	tourists are standing in front of the blackboard in a classroom .	0.1
+966	2	child boy	tourists	tourists are standing in front of the blackboard in a classroom .	0.2
+966	3	face of person	tourists	tourists are standing in front of the blackboard in a classroom .	0.216666666667
+966	4	branch	tourists	tourists are standing in front of the blackboard in a classroom .	0.0714285714286
+966	5	hill	the blackboard	tourists are standing in front of the blackboard in a classroom .	0.125
+967	1	child boy	kids	all the kids are sitting at their desks , some of them turned around to look at the camera .	0.6
+967	2	face of person	kids	all the kids are sitting at their desks , some of them turned around to look at the camera .	0.216666666667
+967	3	vegetation	kids	all the kids are sitting at their desks , some of them turned around to look at the camera .	0.1
+967	4	hat	the camera	all the kids are sitting at their desks , some of them turned around to look at the camera .	0.111111111111
+969	1	child boy	the side wall	there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows .	0.111111111111
+969	2	face of person	the side wall	there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows .	0.121428571429
+969	3	ground	the side wall	there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows .	0.2
+970	1	child boy	workers	many people are working on the bare brickwork of a house or are watching the workers from below .	0.25
+970	2	face of person	workers	many people are working on the bare brickwork of a house or are watching the workers from below .	0.305555555556
+971	1	child boy	the bare brickwork	many wires are sticking out of the bare brickwork .	0.1
+971	2	face of person	the bare brickwork	many wires are sticking out of the bare brickwork .	0.104166666667
+991	1	child boy	person	one person is climbing up a ladder .	0.333333333333
+991	2	face of person	person	one person is climbing up a ladder .	0.5625
+991	3	painting	a ladder	one person is climbing up a ladder .	0.111111111111
+992	1	child	the house	many pallets are lying piled up in front of the house .	0.1
+992	2	face of person	the house	many pallets are lying piled up in front of the house .	0.104166666667
+992	3	painting	the house	many pallets are lying piled up in front of the house .	0.125
+993	1	child boy	kids	excited kids are standing at their desks in a classroom .	0.6
+993	2	face of person	kids	excited kids are standing at their desks in a classroom .	0.216666666667
+993	3	cloth	a classroom	excited kids are standing at their desks in a classroom .	0.166666666667
+994	1	child boy	them	some of them seem to be very happy and are laughing .	0.0
+994	2	face of person	them	some of them seem to be very happy and are laughing .	0.0
+994	3	wood	them	some of them seem to be very happy and are laughing .	0.0
+995	1	child girl	trees	there are pictures of trees on the wall at the back .	0.118055555556
+995	2	hat	the wall	there are pictures of trees on the wall at the back .	0.125
+995	3	wood	the back	there are pictures of trees on the wall at the back .	0.1
+995	4	face of person	the back	there are pictures of trees on the wall at the back .	0.196428571429
+996	1	child girl	two girls	two girls have an open book on their desk .	0.583333333333
+996	2	hat	desk	two girls have an open book on their desk .	0.1
+996	3	face of person	two girls	two girls have an open book on their desk .	0.170454545455
+997	1	child boy	each side	a house with a pink roof and a green and white tower with three levels , each of them having a window on each side .	0.111111111111
+997	2	face of person	each side	a house with a pink roof and a green and white tower with three levels , each of them having a window on each side .	0.121428571429
+998	1	child boy	block	one block in the front with three windows and the writing casa parroquial - amor de dios .	0.125
+998	2	face of person	block	one block in the front with three windows and the writing casa parroquial - amor de dios .	0.133333333333
+998	3	wall	block	one block in the front with three windows and the writing casa parroquial - amor de dios .	0.2
+999	1	child boy	the background	another house with a green and yellow and red roof in the background .	0.1
+999	2	water	the background	another house with a green and yellow and red roof in the background .	0.1
+999	3	ground	red roof	another house with a green and yellow and red roof in the background .	0.142857142857
+999	4	face of person	the background	another house with a green and yellow and red roof in the background .	0.107954545455
+999	5	ground	red roof	another house with a green and yellow and red roof in the background .	0.142857142857
+999	6	cloth	red roof	another house with a green and yellow and red roof in the background .	0.2

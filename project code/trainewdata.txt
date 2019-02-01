@@ -1,0 +1,1028 @@
+112	 about 20 kids in traditional clothing and hats waiting on stairs . 	about 20 kids
+112	 about 20 kids in traditional clothing and hats waiting on stairs . 	traditional clothing
+112	 about 20 kids in traditional clothing and hats waiting on stairs . 	hats
+112	 about 20 kids in traditional clothing and hats waiting on stairs . 	stairs
+116	 a house and a green wall with gate in the background . 	a house
+116	 a house and a green wall with gate in the background . 	a green wall
+116	 a house and a green wall with gate in the background . 	gate
+116	 a house and a green wall with gate in the background . 	the background
+25	 a sign saying that plants can't be picked up on the right . 	a sign
+25	 a sign saying that plants can't be picked up on the right . 	plants
+25	 a sign saying that plants can't be picked up on the right . 	the right
+26	 a rock hole in the ground surrounded by sand . 	a rock hole
+26	 a rock hole in the ground surrounded by sand . 	the ground
+26	 a rock hole in the ground surrounded by sand . 	sand
+28	 one man in a white tee-shirt , grey pants and a white cap is holding a shovel , the other one is wearing black pants , a white jumper and a traditional hat , is walking towards him . 	man
+28	 one man in a white tee-shirt , grey pants and a white cap is holding a shovel , the other one is wearing black pants , a white jumper and a traditional hat , is walking towards him . 	a white tee-shirt
+28	 one man in a white tee-shirt , grey pants and a white cap is holding a shovel , the other one is wearing black pants , a white jumper and a traditional hat , is walking towards him . 	pants
+28	 one man in a white tee-shirt , grey pants and a white cap is holding a shovel , the other one is wearing black pants , a white jumper and a traditional hat , is walking towards him . 	a white cap
+28	 one man in a white tee-shirt , grey pants and a white cap is holding a shovel , the other one is wearing black pants , a white jumper and a traditional hat , is walking towards him . 	a shovel
+28	 one man in a white tee-shirt , grey pants and a white cap is holding a shovel , the other one is wearing black pants , a white jumper and a traditional hat , is walking towards him . 	pants
+28	 one man in a white tee-shirt , grey pants and a white cap is holding a shovel , the other one is wearing black pants , a white jumper and a traditional hat , is walking towards him . 	a white jumper
+28	 one man in a white tee-shirt , grey pants and a white cap is holding a shovel , the other one is wearing black pants , a white jumper and a traditional hat , is walking towards him . 	a traditional hat
+28	 one man in a white tee-shirt , grey pants and a white cap is holding a shovel , the other one is wearing black pants , a white jumper and a traditional hat , is walking towards him . 	him
+32	 a yellow building with white columns in the background . 	a yellow building
+32	 a yellow building with white columns in the background . 	columns
+32	 a yellow building with white columns in the background . 	the background
+33	 two palm trees in front of the house . 	palm
+33	 two palm trees in front of the house . 	trees
+33	 two palm trees in front of the house . 	front
+33	 two palm trees in front of the house . 	the house
+35	 cars parked in front of the house . 	cars
+35	 cars parked in front of the house . 	front
+35	 cars parked in front of the house . 	the house
+38	 a woman and a child are walking over the square . 	a woman
+38	 a woman and a child are walking over the square . 	a child
+38	 a woman and a child are walking over the square . 	the square
+40	 a large building on the left , a palm tree in centre of picture , ( mostly ) white cars in the street at a junction , some of them turning left , others going straight . 	a large building
+40	 a large building on the left , a palm tree in centre of picture , ( mostly ) white cars in the street at a junction , some of them turning left , others going straight . 	the left
+40	 a large building on the left , a palm tree in centre of picture , ( mostly ) white cars in the street at a junction , some of them turning left , others going straight . 	a palm tree
+40	 a large building on the left , a palm tree in centre of picture , ( mostly ) white cars in the street at a junction , some of them turning left , others going straight . 	picture
+40	 a large building on the left , a palm tree in centre of picture , ( mostly ) white cars in the street at a junction , some of them turning left , others going straight . 	cars
+40	 a large building on the left , a palm tree in centre of picture , ( mostly ) white cars in the street at a junction , some of them turning left , others going straight . 	the street
+40	 a large building on the left , a palm tree in centre of picture , ( mostly ) white cars in the street at a junction , some of them turning left , others going straight . 	a junction
+40	 a large building on the left , a palm tree in centre of picture , ( mostly ) white cars in the street at a junction , some of them turning left , others going straight . 	them
+40	 a large building on the left , a palm tree in centre of picture , ( mostly ) white cars in the street at a junction , some of them turning left , others going straight . 	others
+42	 there are red umbrellas in a park on the right . 	umbrellas
+42	 there are red umbrellas in a park on the right . 	a park
+42	 there are red umbrellas in a park on the right . 	the right
+45	 people are walking through the park , others are crossing the road in the foreground . 	people
+45	 people are walking through the park , others are crossing the road in the foreground . 	the park
+45	 people are walking through the park , others are crossing the road in the foreground . 	others
+45	 people are walking through the park , others are crossing the road in the foreground . 	the road
+45	 people are walking through the park , others are crossing the road in the foreground . 	the foreground
+47	 a white , large statue with spread arms on a hill . 	large statue
+47	 a white , large statue with spread arms on a hill . 	spread
+47	 a white , large statue with spread arms on a hill . 	arms
+47	 a white , large statue with spread arms on a hill . 	a hill
+48	 picture taken from behind . 	picture
+48	 picture taken from behind . 	behind
+49	 bushes and small trees on the hill . 	bushes
+49	 bushes and small trees on the hill . 	trees
+49	 bushes and small trees on the hill . 	the hill
+51	 street leading up the hill . 	the hill
+52	 there are white clouds in the blue sky . 	clouds
+52	 there are white clouds in the blue sky . 	the blue sky
+53	 view of a city with many dark green trees and white houses with red roofs . 	view
+53	 view of a city with many dark green trees and white houses with red roofs . 	a city
+53	 view of a city with many dark green trees and white houses with red roofs . 	trees
+53	 view of a city with many dark green trees and white houses with red roofs . 	houses
+53	 view of a city with many dark green trees and white houses with red roofs . 	roofs
+54	 there are a few high-rise buildings and a stadium in the centre . 	buildings
+54	 there are a few high-rise buildings and a stadium in the centre . 	a stadium
+546	 a cascading waterfall in the middle of the jungle . 	a cascading waterfall
+546	 a cascading waterfall in the middle of the jungle . 	the middle
+546	 a cascading waterfall in the middle of the jungle . 	the jungle
+55	 front view with pool of dirty water in the foreground . 	front view
+55	 front view with pool of dirty water in the foreground . 	pool
+55	 front view with pool of dirty water in the foreground . 	dirty water
+55	 front view with pool of dirty water in the foreground . 	the foreground
+56	 a man in a red tee-shirt and a woman carrying a red bag are watching some waterfalls on a lookout in the foreground . 	a man
+56	 a man in a red tee-shirt and a woman carrying a red bag are watching some waterfalls on a lookout in the foreground . 	a red tee-shirt
+56	 a man in a red tee-shirt and a woman carrying a red bag are watching some waterfalls on a lookout in the foreground . 	a woman
+56	 a man in a red tee-shirt and a woman carrying a red bag are watching some waterfalls on a lookout in the foreground . 	a red bag
+56	 a man in a red tee-shirt and a woman carrying a red bag are watching some waterfalls on a lookout in the foreground . 	waterfalls
+56	 a man in a red tee-shirt and a woman carrying a red bag are watching some waterfalls on a lookout in the foreground . 	a lookout
+56	 a man in a red tee-shirt and a woman carrying a red bag are watching some waterfalls on a lookout in the foreground . 	the foreground
+57	 green trees , black rocks and a grey sky in the background . 	trees
+57	 green trees , black rocks and a grey sky in the background . 	rocks
+57	 green trees , black rocks and a grey sky in the background . 	sky
+57	 green trees , black rocks and a grey sky in the background . 	the background
+58	 view of giant , thunderous waterfalls over a u-shaped cliff . 	view
+58	 view of giant , thunderous waterfalls over a u-shaped cliff . 	waterfalls
+58	 view of giant , thunderous waterfalls over a u-shaped cliff . 	a u-shaped cliff
+59	 white clouds in a blue sky in the background . 	a blue sky
+59	 white clouds in a blue sky in the background . 	the background
+60	 a long dam with high voltage pylons . 	a long dam
+60	 a long dam with high voltage pylons . 	high voltage
+61	 a blue sky with white fleecy clouds in the background . 	a blue sky
+61	 a blue sky with white fleecy clouds in the background . 	white fleecy
+61	 a blue sky with white fleecy clouds in the background . 	the background
+62	 a narrow , rising street with colourful houses on both sides , among them a green house with balconies and a white car parked in front of it , and a blue-and-white church on the right . 	rising street
+62	 a narrow , rising street with colourful houses on both sides , among them a green house with balconies and a white car parked in front of it , and a blue-and-white church on the right . 	houses
+62	 a narrow , rising street with colourful houses on both sides , among them a green house with balconies and a white car parked in front of it , and a blue-and-white church on the right . 	sides
+62	 a narrow , rising street with colourful houses on both sides , among them a green house with balconies and a white car parked in front of it , and a blue-and-white church on the right . 	them
+62	 a narrow , rising street with colourful houses on both sides , among them a green house with balconies and a white car parked in front of it , and a blue-and-white church on the right . 	a green house
+62	 a narrow , rising street with colourful houses on both sides , among them a green house with balconies and a white car parked in front of it , and a blue-and-white church on the right . 	balconies
+62	 a narrow , rising street with colourful houses on both sides , among them a green house with balconies and a white car parked in front of it , and a blue-and-white church on the right . 	a white car
+62	 a narrow , rising street with colourful houses on both sides , among them a green house with balconies and a white car parked in front of it , and a blue-and-white church on the right . 	front
+62	 a narrow , rising street with colourful houses on both sides , among them a green house with balconies and a white car parked in front of it , and a blue-and-white church on the right . 	it
+62	 a narrow , rising street with colourful houses on both sides , among them a green house with balconies and a white car parked in front of it , and a blue-and-white church on the right . 	a blue-and-white church
+62	 a narrow , rising street with colourful houses on both sides , among them a green house with balconies and a white car parked in front of it , and a blue-and-white church on the right . 	the right
+63	 one car is going up the street . 	car
+63	 one car is going up the street . 	the street
+64	 there are a few people in the street and a large thundercloud in the background . 	people
+64	 there are a few people in the street and a large thundercloud in the background . 	the street
+64	 there are a few people in the street and a large thundercloud in the background . 	a large thundercloud
+64	 there are a few people in the street and a large thundercloud in the background . 	the background
+646	 two light brown church towers with pinnacles on all four sides . 	light brown church
+646	 two light brown church towers with pinnacles on all four sides . 	towers
+646	 two light brown church towers with pinnacles on all four sides . 	pinnacles
+646	 two light brown church towers with pinnacles on all four sides . 	four sides
+651	 the left tower with windows , the right tower also with a clock . 	tower
+651	 the left tower with windows , the right tower also with a clock . 	windows
+651	 the left tower with windows , the right tower also with a clock . 	the right tower
+651	 the left tower with windows , the right tower also with a clock . 	a clock
+652	 the artful central nave is a bit darker and has a cross on top . 	the artful central nave
+652	 the artful central nave is a bit darker and has a cross on top . 	a bit
+652	 the artful central nave is a bit darker and has a cross on top . 	a cross
+652	 the artful central nave is a bit darker and has a cross on top . 	top
+655	 view of an old town of a city with its colourful buidings and two churches from one of its alleys in the shade . 	view
+655	 view of an old town of a city with its colourful buidings and two churches from one of its alleys in the shade . 	an old town
+655	 view of an old town of a city with its colourful buidings and two churches from one of its alleys in the shade . 	a city
+655	 view of an old town of a city with its colourful buidings and two churches from one of its alleys in the shade . 	buidings
+655	 view of an old town of a city with its colourful buidings and two churches from one of its alleys in the shade . 	two churches
+655	 view of an old town of a city with its colourful buidings and two churches from one of its alleys in the shade . 	alleys
+655	 view of an old town of a city with its colourful buidings and two churches from one of its alleys in the shade . 	the shade
+656	 the towers of the churches are still in the sun , the rest in already in the shade . 	towers
+656	 the towers of the churches are still in the sun , the rest in already in the shade . 	churches
+656	 the towers of the churches are still in the sun , the rest in already in the shade . 	the sun
+656	 the towers of the churches are still in the sun , the rest in already in the shade . 	the rest
+656	 the towers of the churches are still in the sun , the rest in already in the shade . 	the shade
+66	 a white and blue church , with only the two towers in the sun , the rest in the shade . 	blue church
+66	 a white and blue church , with only the two towers in the sun , the rest in the shade . 	two towers
+66	 a white and blue church , with only the two towers in the sun , the rest in the shade . 	the sun
+66	 a white and blue church , with only the two towers in the sun , the rest in the shade . 	the rest
+66	 a white and blue church , with only the two towers in the sun , the rest in the shade . 	the shade
+661	 view from the side , with the old town of a city in the background . 	the side
+661	 view from the side , with the old town of a city in the background . 	the old town
+661	 view from the side , with the old town of a city in the background . 	a city
+661	 view from the side , with the old town of a city in the background . 	the background
+662	 against-the-light photograph of a beach at sunset . 	against-the-light photograph
+662	 against-the-light photograph of a beach at sunset . 	a beach
+663	 some clouds in the sky . 	the sky
+664	 there are people at the beach and palm trees in the background . 	people
+664	 there are people at the beach and palm trees in the background . 	the beach
+664	 there are people at the beach and palm trees in the background . 	palm
+664	 there are people at the beach and palm trees in the background . 	trees
+664	 there are people at the beach and palm trees in the background . 	the background
+668	 against-the-light photograph of a large , grey building with many arches and columns and a small tower with pinnacles . 	against-the-light photograph
+668	 against-the-light photograph of a large , grey building with many arches and columns and a small tower with pinnacles . 	building
+668	 against-the-light photograph of a large , grey building with many arches and columns and a small tower with pinnacles . 	arches
+668	 against-the-light photograph of a large , grey building with many arches and columns and a small tower with pinnacles . 	columns
+668	 against-the-light photograph of a large , grey building with many arches and columns and a small tower with pinnacles . 	a small tower
+668	 against-the-light photograph of a large , grey building with many arches and columns and a small tower with pinnacles . 	pinnacles
+669	 the paraguayan flag is waving on top of the building . 	the paraguayan flag
+669	 the paraguayan flag is waving on top of the building . 	top
+669	 the paraguayan flag is waving on top of the building . 	the building
+671	 there are dark palms in the foreground and a blue sky in the background . 	palms
+671	 there are dark palms in the foreground and a blue sky in the background . 	the foreground
+671	 there are dark palms in the foreground and a blue sky in the background . 	a blue sky
+671	 there are dark palms in the foreground and a blue sky in the background . 	the background
+672	 steam ship in a lake , docked . 	steam ship
+672	 steam ship in a lake , docked . 	a lake
+674	 the flag of paraguay at the bow of the ship . 	the flag
+674	 the flag of paraguay at the bow of the ship . 	paraguay
+674	 the flag of paraguay at the bow of the ship . 	the bow
+674	 the flag of paraguay at the bow of the ship . 	the ship
+676	 a blue sky in the background . 	a blue sky
+676	 a blue sky in the background . 	the background
+678	 a grey building with many columns and arches and the modern high-rise buildings of a city with a blue sky in the background . 	building
+678	 a grey building with many columns and arches and the modern high-rise buildings of a city with a blue sky in the background . 	columns
+678	 a grey building with many columns and arches and the modern high-rise buildings of a city with a blue sky in the background . 	arches
+678	 a grey building with many columns and arches and the modern high-rise buildings of a city with a blue sky in the background . 	the modern high-rise
+678	 a grey building with many columns and arches and the modern high-rise buildings of a city with a blue sky in the background . 	buildings
+678	 a grey building with many columns and arches and the modern high-rise buildings of a city with a blue sky in the background . 	a city
+678	 a grey building with many columns and arches and the modern high-rise buildings of a city with a blue sky in the background . 	a blue sky
+678	 a grey building with many columns and arches and the modern high-rise buildings of a city with a blue sky in the background . 	the background
+679	 a black steam engine with one wagon . 	a black steam engine
+679	 a black steam engine with one wagon . 	wagon
+682	 trees in the background . 	trees
+682	 trees in the background . 	the background
+683	 four locals are sitting on a bench in a canteen kitchen , leaning on a red brick wall . 	four locals
+683	 four locals are sitting on a bench in a canteen kitchen , leaning on a red brick wall . 	a bench
+683	 four locals are sitting on a bench in a canteen kitchen , leaning on a red brick wall . 	a canteen kitchen
+683	 four locals are sitting on a bench in a canteen kitchen , leaning on a red brick wall . 	a red brick wall
+684	 the three women are wearing skirts , wests and hats , one of them is holding a yellow plastic bag . 	three women
+684	 the three women are wearing skirts , wests and hats , one of them is holding a yellow plastic bag . 	wests
+684	 the three women are wearing skirts , wests and hats , one of them is holding a yellow plastic bag . 	hats
+684	 the three women are wearing skirts , wests and hats , one of them is holding a yellow plastic bag . 	them
+684	 the three women are wearing skirts , wests and hats , one of them is holding a yellow plastic bag . 	a yellow plastic bag
+685	 the man is wearing trousers , a shirt and a cap . 	the man
+685	 the man is wearing trousers , a shirt and a cap . 	trousers
+685	 the man is wearing trousers , a shirt and a cap . 	a shirt
+685	 the man is wearing trousers , a shirt and a cap . 	a cap
+686	 against-the-light photograph of a gate in the shade , with towers to its left and right . 	against-the-light photograph
+686	 against-the-light photograph of a gate in the shade , with towers to its left and right . 	a gate
+686	 against-the-light photograph of a gate in the shade , with towers to its left and right . 	the shade
+686	 against-the-light photograph of a gate in the shade , with towers to its left and right . 	towers
+686	 against-the-light photograph of a gate in the shade , with towers to its left and right . 	left
+686	 against-the-light photograph of a gate in the shade , with towers to its left and right . 	right
+687	 there are dark trees in the foreground and a blue sky in the background . 	trees
+687	 there are dark trees in the foreground and a blue sky in the background . 	the foreground
+687	 there are dark trees in the foreground and a blue sky in the background . 	a blue sky
+687	 there are dark trees in the foreground and a blue sky in the background . 	the background
+689	 well exposed front view of the cathedral in asuncion . 	front view
+689	 well exposed front view of the cathedral in asuncion . 	asuncion
+690	 two towers with flags , three arched entry gates , large central ave with several pinnacles and a cross on top . 	two towers
+690	 two towers with flags , three arched entry gates , large central ave with several pinnacles and a cross on top . 	flags
+690	 two towers with flags , three arched entry gates , large central ave with several pinnacles and a cross on top . 	arched entry
+690	 two towers with flags , three arched entry gates , large central ave with several pinnacles and a cross on top . 	gates
+690	 two towers with flags , three arched entry gates , large central ave with several pinnacles and a cross on top . 	large central ave
+690	 two towers with flags , three arched entry gates , large central ave with several pinnacles and a cross on top . 	pinnacles
+690	 two towers with flags , three arched entry gates , large central ave with several pinnacles and a cross on top . 	a cross
+690	 two towers with flags , three arched entry gates , large central ave with several pinnacles and a cross on top . 	top
+692	 there is a clock on the right tower . 	a clock
+692	 there is a clock on the right tower . 	the right tower
+693	 streetlamps at the middle gate and at the corners . 	streetlamps
+693	 streetlamps at the middle gate and at the corners . 	the middle gate
+693	 streetlamps at the middle gate and at the corners . 	corners
+694	 bells visible in both towers . 	towers
+696	 a fountain and cobbled walkway in the foreground , a pink and white buidling with many arches in the background . 	a fountain
+696	 a fountain and cobbled walkway in the foreground , a pink and white buidling with many arches in the background . 	walkway
+696	 a fountain and cobbled walkway in the foreground , a pink and white buidling with many arches in the background . 	the foreground
+696	 a fountain and cobbled walkway in the foreground , a pink and white buidling with many arches in the background . 	white buidling
+696	 a fountain and cobbled walkway in the foreground , a pink and white buidling with many arches in the background . 	arches
+696	 a fountain and cobbled walkway in the foreground , a pink and white buidling with many arches in the background . 	the background
+698	 trees on the right . 	trees
+698	 trees on the right . 	the right
+700	 a white building with lots of columns and arches , a neat lawn and neatly cut trees and bushes in the foreground . 	a white building
+700	 a white building with lots of columns and arches , a neat lawn and neatly cut trees and bushes in the foreground . 	lots
+700	 a white building with lots of columns and arches , a neat lawn and neatly cut trees and bushes in the foreground . 	columns
+700	 a white building with lots of columns and arches , a neat lawn and neatly cut trees and bushes in the foreground . 	arches
+700	 a white building with lots of columns and arches , a neat lawn and neatly cut trees and bushes in the foreground . 	a neat lawn
+700	 a white building with lots of columns and arches , a neat lawn and neatly cut trees and bushes in the foreground . 	trees
+700	 a white building with lots of columns and arches , a neat lawn and neatly cut trees and bushes in the foreground . 	bushes
+700	 a white building with lots of columns and arches , a neat lawn and neatly cut trees and bushes in the foreground . 	the foreground
+702	 the flag of paraguay is waving at the top of the building . 	the flag
+702	 the flag of paraguay is waving at the top of the building . 	paraguay
+702	 the flag of paraguay is waving at the top of the building . 	the top
+702	 the flag of paraguay is waving at the top of the building . 	the building
+704	 there is a flower bed on the left . 	a flower bed
+704	 there is a flower bed on the left . 	the left
+705	 a very modern building . 	very modern building
+708	 stairs are leading up to the entrance . 	stairs
+708	 stairs are leading up to the entrance . 	the entrance
+709	 the walls are entirely made of glass . 	walls
+709	 the walls are entirely made of glass . 	glass
+712	 one red huge column is supporting the big roof . 	red huge column
+712	 one red huge column is supporting the big roof . 	the big roof
+714	 rails in the foreground . 	the foreground
+715	 a green tree on the left . 	a green tree
+715	 a green tree on the left . 	the left
+716	 two lane street with large shops on the right and smaller shops on the left . 	lane street
+716	 two lane street with large shops on the right and smaller shops on the left . 	shops
+716	 two lane street with large shops on the right and smaller shops on the left . 	the right
+716	 two lane street with large shops on the right and smaller shops on the left . 	shops
+716	 two lane street with large shops on the right and smaller shops on the left . 	the left
+717	 people are walking on the sidewalk , some are crossing the street . 	people
+717	 people are walking on the sidewalk , some are crossing the street . 	the sidewalk
+717	 people are walking on the sidewalk , some are crossing the street . 	the street
+718	 cars are parked along the left side of the street as well . 	the left side
+718	 cars are parked along the left side of the street as well . 	the street
+719	 an avenue with seven yellow taxis lined up on the right side . 	an avenue
+719	 an avenue with seven yellow taxis lined up on the right side . 	taxis
+719	 an avenue with seven yellow taxis lined up on the right side . 	the right side
+723	 some drivers are waiting for customers outside of their taxis . 	drivers
+723	 some drivers are waiting for customers outside of their taxis . 	customers
+723	 some drivers are waiting for customers outside of their taxis . 	taxis
+725	 green trees behind them . 	trees
+725	 green trees behind them . 	them
+726	 a swimming pool with sun chairs on a terrace in the foreground . 	pool
+726	 a swimming pool with sun chairs on a terrace in the foreground . 	sun
+726	 a swimming pool with sun chairs on a terrace in the foreground . 	a terrace
+726	 a swimming pool with sun chairs on a terrace in the foreground . 	the foreground
+728	 a flat landscape with green trees and houses in the background . 	a flat landscape
+728	 a flat landscape with green trees and houses in the background . 	trees
+728	 a flat landscape with green trees and houses in the background . 	houses
+728	 a flat landscape with green trees and houses in the background . 	the background
+731	 several flagpoles with waving flags on a green lawn in the foreground . 	flagpoles
+731	 several flagpoles with waving flags on a green lawn in the foreground . 	flags
+731	 several flagpoles with waving flags on a green lawn in the foreground . 	a green lawn
+731	 several flagpoles with waving flags on a green lawn in the foreground . 	the foreground
+732	 a large grey and black building behind it . 	black building
+732	 a large grey and black building behind it . 	it
+736	 a huge column with a football on top on the left . 	a huge column
+736	 a huge column with a football on top on the left . 	a football
+736	 a huge column with a football on top on the left . 	top
+736	 a huge column with a football on top on the left . 	the left
+737	 a blue sky with white clouds in the background . 	a blue sky
+737	 a blue sky with white clouds in the background . 	clouds
+737	 a blue sky with white clouds in the background . 	the background
+738	 front view of a huge dam . 	front view
+738	 front view of a huge dam . 	a huge dam
+739	 water is flowing through one tiny spot . 	tiny spot
+742	 backwater is flowing off on the left . 	backwater
+742	 backwater is flowing off on the left . 	the left
+754	 green reed in the foreground . 	the foreground
+767	 rock singer wearing yellow pants and a red t-shirt on a stage . 	singer
+767	 rock singer wearing yellow pants and a red t-shirt on a stage . 	pants
+767	 rock singer wearing yellow pants and a red t-shirt on a stage . 	t-shirt
+767	 rock singer wearing yellow pants and a red t-shirt on a stage . 	a stage
+768	 view from behind . 	view
+768	 view from behind . 	behind
+778	 crowd is cheering in the background . 	the background
+779	 group of tourists is standing in front of a buildilng . 	group
+779	 group of tourists is standing in front of a buildilng . 	tourists
+779	 group of tourists is standing in front of a buildilng . 	front
+779	 group of tourists is standing in front of a buildilng . 	a buildilng
+780	 each of them is holding a leaflet und some pens . 	them
+780	 each of them is holding a leaflet und some pens . 	a leaflet und
+780	 each of them is holding a leaflet und some pens . 	pens
+781	 three locals are standing in the middle of all the people , one of them is holding a box . 	three locals
+781	 three locals are standing in the middle of all the people , one of them is holding a box . 	the middle
+781	 three locals are standing in the middle of all the people , one of them is holding a box . 	people
+781	 three locals are standing in the middle of all the people , one of them is holding a box . 	them
+781	 three locals are standing in the middle of all the people , one of them is holding a box . 	a box
+783	 traditional country house on the left . 	traditional country house
+783	 traditional country house on the left . 	the left
+784	 some rocks in the background . 	rocks
+784	 some rocks in the background . 	the background
+786	 a gravel road in the foreground . 	a gravel road
+786	 a gravel road in the foreground . 	the foreground
+788	 two adults and four local boys are standing in front of a white house with two trellised windows . 	two adults
+788	 two adults and four local boys are standing in front of a white house with two trellised windows . 	boys
+788	 two adults and four local boys are standing in front of a white house with two trellised windows . 	front
+788	 two adults and four local boys are standing in front of a white house with two trellised windows . 	a white house
+788	 two adults and four local boys are standing in front of a white house with two trellised windows . 	windows
+789	 three boys are standing , one is kneeing down . 	three boys
+789	 three boys are standing , one is kneeing down . 	one
+790	 adults are holding shoulders of boys . 	adults
+790	 adults are holding shoulders of boys . 	shoulders
+790	 adults are holding shoulders of boys . 	boys
+791	 one boy is holding a sweeper . 	boy
+791	 one boy is holding a sweeper . 	a sweeper
+792	 nine children , some of them waving at the camera , others are a bit shy and are looking away . 	nine children
+792	 nine children , some of them waving at the camera , others are a bit shy and are looking away . 	them
+792	 nine children , some of them waving at the camera , others are a bit shy and are looking away . 	the camera
+792	 nine children , some of them waving at the camera , others are a bit shy and are looking away . 	others
+792	 nine children , some of them waving at the camera , others are a bit shy and are looking away . 	a bit
+793	 one person is pointing to the camera . 	person
+793	 one person is pointing to the camera . 	the camera
+794	 construction site , bare brickwork . 	construction site
+794	 construction site , bare brickwork . 	bare brickwork
+795	 one worker is standing on rails , the other one is leaning against an unfinished brick wall . 	worker
+795	 one worker is standing on rails , the other one is leaning against an unfinished brick wall . 	rails
+795	 one worker is standing on rails , the other one is leaning against an unfinished brick wall . 	the other one
+795	 one worker is standing on rails , the other one is leaning against an unfinished brick wall . 	an unfinished brick wall
+796	 close up picture of the itaipu dam . 	picture
+796	 close up picture of the itaipu dam . 	the itaipu dam
+797	 backwater is flowing off in the foreground . 	backwater
+797	 backwater is flowing off in the foreground . 	the foreground
+798	 two men are standing on a lawn in front of a light brown house with blue corners . 	two men
+798	 two men are standing on a lawn in front of a light brown house with blue corners . 	a lawn
+798	 two men are standing on a lawn in front of a light brown house with blue corners . 	front
+798	 two men are standing on a lawn in front of a light brown house with blue corners . 	a light brown house
+798	 two men are standing on a lawn in front of a light brown house with blue corners . 	corners
+799	 school kids on a grey square , some are dressed in dark blue , others in orange . 	school
+799	 school kids on a grey square , some are dressed in dark blue , others in orange . 	kids
+799	 school kids on a grey square , some are dressed in dark blue , others in orange . 	square
+799	 school kids on a grey square , some are dressed in dark blue , others in orange . 	others
+799	 school kids on a grey square , some are dressed in dark blue , others in orange . 	orange
+800	 one person dressed in orange is standing opposite the line up , leading the group . 	person
+800	 one person dressed in orange is standing opposite the line up , leading the group . 	orange
+800	 one person dressed in orange is standing opposite the line up , leading the group . 	the line
+800	 one person dressed in orange is standing opposite the line up , leading the group . 	the group
+801	 two light blue houses behind them with a steep hill in the background . 	houses
+801	 two light blue houses behind them with a steep hill in the background . 	them
+801	 two light blue houses behind them with a steep hill in the background . 	a steep hill
+801	 two light blue houses behind them with a steep hill in the background . 	the background
+802	 a woman is sitting at table in the middle of a schoolyard . 	a woman
+802	 a woman is sitting at table in the middle of a schoolyard . 	table
+802	 a woman is sitting at table in the middle of a schoolyard . 	the middle
+802	 a woman is sitting at table in the middle of a schoolyard . 	a schoolyard
+803	 there are many books on the table . 	books
+803	 there are many books on the table . 	the table
+804	 two people are sitting next to her , six others are standing about ten metres away from the table . 	two people
+804	 two people are sitting next to her , six others are standing about ten metres away from the table . 	her
+804	 two people are sitting next to her , six others are standing about ten metres away from the table . 	six others
+804	 two people are sitting next to her , six others are standing about ten metres away from the table . 	about ten metres
+804	 two people are sitting next to her , six others are standing about ten metres away from the table . 	the table
+805	 four boys , one drinking from a cup , one wearing an army cap and waving , the one in the focus wearing a beanie , a jumper and smiling into the camera , and the fourth wearing a cap and carrying a wooden crate . 	four boys
+805	 four boys , one drinking from a cup , one wearing an army cap and waving , the one in the focus wearing a beanie , a jumper and smiling into the camera , and the fourth wearing a cap and carrying a wooden crate . 	a cup
+805	 four boys , one drinking from a cup , one wearing an army cap and waving , the one in the focus wearing a beanie , a jumper and smiling into the camera , and the fourth wearing a cap and carrying a wooden crate . 	an army cap
+805	 four boys , one drinking from a cup , one wearing an army cap and waving , the one in the focus wearing a beanie , a jumper and smiling into the camera , and the fourth wearing a cap and carrying a wooden crate . 	the focus
+805	 four boys , one drinking from a cup , one wearing an army cap and waving , the one in the focus wearing a beanie , a jumper and smiling into the camera , and the fourth wearing a cap and carrying a wooden crate . 	a beanie
+805	 four boys , one drinking from a cup , one wearing an army cap and waving , the one in the focus wearing a beanie , a jumper and smiling into the camera , and the fourth wearing a cap and carrying a wooden crate . 	a jumper
+805	 four boys , one drinking from a cup , one wearing an army cap and waving , the one in the focus wearing a beanie , a jumper and smiling into the camera , and the fourth wearing a cap and carrying a wooden crate . 	the camera
+805	 four boys , one drinking from a cup , one wearing an army cap and waving , the one in the focus wearing a beanie , a jumper and smiling into the camera , and the fourth wearing a cap and carrying a wooden crate . 	a cap
+805	 four boys , one drinking from a cup , one wearing an army cap and waving , the one in the focus wearing a beanie , a jumper and smiling into the camera , and the fourth wearing a cap and carrying a wooden crate . 	a wooden crate
+806	 four school kids are smiling into the camera in the foreground . 	school
+806	 four school kids are smiling into the camera in the foreground . 	kids
+806	 four school kids are smiling into the camera in the foreground . 	the camera
+806	 four school kids are smiling into the camera in the foreground . 	the foreground
+807	 more kids in the background , some are leaning on the school wall , others are running around . 	kids
+807	 more kids in the background , some are leaning on the school wall , others are running around . 	the background
+807	 more kids in the background , some are leaning on the school wall , others are running around . 	the school wall
+807	 more kids in the background , some are leaning on the school wall , others are running around . 	others
+808	 young girl wearing a red trainer with blue and white sleeves is bending down to two old ladies . 	young girl
+808	 young girl wearing a red trainer with blue and white sleeves is bending down to two old ladies . 	a red trainer
+808	 young girl wearing a red trainer with blue and white sleeves is bending down to two old ladies . 	sleeves
+808	 young girl wearing a red trainer with blue and white sleeves is bending down to two old ladies . 	ladies
+809	 one of them is stroking the girl's face with her right hand . 	them
+809	 one of them is stroking the girl's face with her right hand . 	the girl
+809	 one of them is stroking the girl's face with her right hand . 	face
+809	 one of them is stroking the girl's face with her right hand . 	right hand
+810	 five women in a kitchen , two of them are preparing some food using four bowls , two are standing behind them ( and one next to them ) and are watching . 	five women
+810	 five women in a kitchen , two of them are preparing some food using four bowls , two are standing behind them ( and one next to them ) and are watching . 	a kitchen
+810	 five women in a kitchen , two of them are preparing some food using four bowls , two are standing behind them ( and one next to them ) and are watching . 	them
+810	 five women in a kitchen , two of them are preparing some food using four bowls , two are standing behind them ( and one next to them ) and are watching . 	some food
+810	 five women in a kitchen , two of them are preparing some food using four bowls , two are standing behind them ( and one next to them ) and are watching . 	them
+810	 five women in a kitchen , two of them are preparing some food using four bowls , two are standing behind them ( and one next to them ) and are watching . 	one
+810	 five women in a kitchen , two of them are preparing some food using four bowls , two are standing behind them ( and one next to them ) and are watching . 	them
+811	 santa claus in middle of excited kids . 	middle
+811	 santa claus in middle of excited kids . 	kids
+812	 a woman with a present in the background . 	a woman
+812	 a woman with a present in the background . 	a present
+812	 a woman with a present in the background . 	the background
+813	 three social workers and about ten local kids in a room with dark and light blue walls . 	workers
+813	 three social workers and about ten local kids in a room with dark and light blue walls . 	kids
+813	 three social workers and about ten local kids in a room with dark and light blue walls . 	a room
+813	 three social workers and about ten local kids in a room with dark and light blue walls . 	walls
+815	 one of the workers is sitting and talking to the kids . 	workers
+815	 one of the workers is sitting and talking to the kids . 	kids
+818	 one kid is a bit left out , sitting alone on a desk and looking the other way . 	kid
+818	 one kid is a bit left out , sitting alone on a desk and looking the other way . 	a bit
+818	 one kid is a bit left out , sitting alone on a desk and looking the other way . 	a desk
+818	 one kid is a bit left out , sitting alone on a desk and looking the other way . 	the other way
+819	 two tourists , both of them wearing backpacks , are visiting a school with ten pupils . 	two tourists
+819	 two tourists , both of them wearing backpacks , are visiting a school with ten pupils . 	them
+819	 two tourists , both of them wearing backpacks , are visiting a school with ten pupils . 	backpacks
+819	 two tourists , both of them wearing backpacks , are visiting a school with ten pupils . 	a school
+819	 two tourists , both of them wearing backpacks , are visiting a school with ten pupils . 	ten pupils
+821	 the woman is wearing brown shorts and a yellow sleveless top . 	the woman
+821	 the woman is wearing brown shorts and a yellow sleveless top . 	shorts
+821	 the woman is wearing brown shorts and a yellow sleveless top . 	a yellow sleveless top
+822	 the man is wearing long black pants and a blue shirt . 	the man
+822	 the man is wearing long black pants and a blue shirt . 	pants
+822	 the man is wearing long black pants and a blue shirt . 	a blue shirt
+823	 a school kid is sitting at a desk , smiling into the camera and being offered a red apple . 	a school kid
+823	 a school kid is sitting at a desk , smiling into the camera and being offered a red apple . 	a desk
+823	 a school kid is sitting at a desk , smiling into the camera and being offered a red apple . 	the camera
+823	 a school kid is sitting at a desk , smiling into the camera and being offered a red apple . 	a red apple
+824	 three other kids in the background . 	kids
+824	 three other kids in the background . 	the background
+825	 four tourists are sitting on a bus . 	four tourists
+825	 four tourists are sitting on a bus . 	a bus
+826	 two women in the front row with their heads turned around . 	two women
+826	 two women in the front row with their heads turned around . 	the front row
+826	 two women in the front row with their heads turned around . 	heads
+827	 another one in the second row looking out the window . 	another one
+827	 another one in the second row looking out the window . 	the second row
+827	 another one in the second row looking out the window . 	the window
+828	 and one man with sunglasses in the very last row , looking out the window too . 	man
+828	 and one man with sunglasses in the very last row , looking out the window too . 	sunglasses
+828	 and one man with sunglasses in the very last row , looking out the window too . 	very last row
+828	 and one man with sunglasses in the very last row , looking out the window too . 	the window
+829	 a tourist group is visiting a school . 	a tourist group
+829	 a tourist group is visiting a school . 	a school
+830	 the school kids are sitting at their desks , singing a song and clapping their hands , with their teacher clapping as well . 	the school
+830	 the school kids are sitting at their desks , singing a song and clapping their hands , with their teacher clapping as well . 	kids
+830	 the school kids are sitting at their desks , singing a song and clapping their hands , with their teacher clapping as well . 	desks
+830	 the school kids are sitting at their desks , singing a song and clapping their hands , with their teacher clapping as well . 	a song
+830	 the school kids are sitting at their desks , singing a song and clapping their hands , with their teacher clapping as well . 	hands
+830	 the school kids are sitting at their desks , singing a song and clapping their hands , with their teacher clapping as well . 	teacher
+831	 six of the tourists are standing behind them and are watching them , one tourist is taking a photo . 	tourists
+831	 six of the tourists are standing behind them and are watching them , one tourist is taking a photo . 	them
+831	 six of the tourists are standing behind them and are watching them , one tourist is taking a photo . 	them
+831	 six of the tourists are standing behind them and are watching them , one tourist is taking a photo . 	tourist
+831	 six of the tourists are standing behind them and are watching them , one tourist is taking a photo . 	a photo
+832	 three women are sitting on a wooden bench in front of an about one metre high , red brick wall . 	three women
+832	 three women are sitting on a wooden bench in front of an about one metre high , red brick wall . 	a wooden bench
+832	 three women are sitting on a wooden bench in front of an about one metre high , red brick wall . 	front
+832	 three women are sitting on a wooden bench in front of an about one metre high , red brick wall . 	red brick wall
+833	 they are all wearing skirts and jumpers with gilets . 	they
+833	 they are all wearing skirts and jumpers with gilets . 	jumpers
+833	 they are all wearing skirts and jumpers with gilets . 	gilets
+834	 two of them are wearing a hat too . 	them
+834	 two of them are wearing a hat too . 	a hat
+835	 one man is standing behind the wall . 	man
+835	 one man is standing behind the wall . 	the wall
+836	 a wooden door on the left is being held open by a red brick . 	a wooden door
+836	 a wooden door on the left is being held open by a red brick . 	the left
+836	 a wooden door on the left is being held open by a red brick . 	a red brick
+837	 photo of a classroom with some kids sitting at their desks , others standing at their desks , waving into the camera , laughing . 	photo
+837	 photo of a classroom with some kids sitting at their desks , others standing at their desks , waving into the camera , laughing . 	a classroom
+837	 photo of a classroom with some kids sitting at their desks , others standing at their desks , waving into the camera , laughing . 	kids
+837	 photo of a classroom with some kids sitting at their desks , others standing at their desks , waving into the camera , laughing . 	desks
+837	 photo of a classroom with some kids sitting at their desks , others standing at their desks , waving into the camera , laughing . 	others
+837	 photo of a classroom with some kids sitting at their desks , others standing at their desks , waving into the camera , laughing . 	desks
+837	 photo of a classroom with some kids sitting at their desks , others standing at their desks , waving into the camera , laughing . 	the camera
+838	 two kids are eating their lunch in the foreground . 	two kids
+838	 two kids are eating their lunch in the foreground . 	lunch
+838	 two kids are eating their lunch in the foreground . 	the foreground
+841	 there is a wooden wall with pictures of two comic figures in the background . 	a wooden wall
+841	 there is a wooden wall with pictures of two comic figures in the background . 	pictures
+841	 there is a wooden wall with pictures of two comic figures in the background . 	figures
+841	 there is a wooden wall with pictures of two comic figures in the background . 	the background
+842	 a large , black plastic bag with four packs of pasta , a folder , a leaflet , a small book and cacao powder on a table . 	black plastic bag
+842	 a large , black plastic bag with four packs of pasta , a folder , a leaflet , a small book and cacao powder on a table . 	four packs
+842	 a large , black plastic bag with four packs of pasta , a folder , a leaflet , a small book and cacao powder on a table . 	pasta
+842	 a large , black plastic bag with four packs of pasta , a folder , a leaflet , a small book and cacao powder on a table . 	a folder
+842	 a large , black plastic bag with four packs of pasta , a folder , a leaflet , a small book and cacao powder on a table . 	a leaflet
+842	 a large , black plastic bag with four packs of pasta , a folder , a leaflet , a small book and cacao powder on a table . 	a small book
+842	 a large , black plastic bag with four packs of pasta , a folder , a leaflet , a small book and cacao powder on a table . 	a table
+843	 there is a second , empty table in the background . 	empty table
+843	 there is a second , empty table in the background . 	the background
+844	 six kids are sitting around a table and playing with toy cars . 	six kids
+844	 six kids are sitting around a table and playing with toy cars . 	a table
+844	 six kids are sitting around a table and playing with toy cars . 	toy
+844	 six kids are sitting around a table and playing with toy cars . 	cars
+845	 one kid is standing next to the table . 	kid
+845	 one kid is standing next to the table . 	the table
+846	 a woman is holding a black plastic bag on the left . 	a woman
+846	 a woman is holding a black plastic bag on the left . 	a black plastic bag
+846	 a woman is holding a black plastic bag on the left . 	the left
+847	 three tourists in the background are talking to each other . 	three tourists
+847	 three tourists in the background are talking to each other . 	the background
+848	 panorama view of houses in la paz . 	view
+848	 panorama view of houses in la paz . 	houses
+849	 red roofed houses in the foreground , with a hill and rugged rocks in the background . 	houses
+849	 red roofed houses in the foreground , with a hill and rugged rocks in the background . 	the foreground
+849	 red roofed houses in the foreground , with a hill and rugged rocks in the background . 	a hill
+849	 red roofed houses in the foreground , with a hill and rugged rocks in the background . 	rocks
+849	 red roofed houses in the foreground , with a hill and rugged rocks in the background . 	the background
+850	 photo of eleven school kids and three tourists behind them . 	photo
+850	 photo of eleven school kids and three tourists behind them . 	school
+850	 photo of eleven school kids and three tourists behind them . 	kids
+850	 photo of eleven school kids and three tourists behind them . 	three tourists
+850	 photo of eleven school kids and three tourists behind them . 	them
+851	 a basketball court in the background , with one kid standing below the basket . 	a basketball court
+851	 a basketball court in the background , with one kid standing below the basket . 	the background
+851	 a basketball court in the background , with one kid standing below the basket . 	kid
+851	 a basketball court in the background , with one kid standing below the basket . 	the basket
+852	 a large mountain in the distant background . 	a large mountain
+852	 a large mountain in the distant background . 	the distant background
+853	 lots of locals ( both kids and adults ) in front of a blue building . 	lots
+853	 lots of locals ( both kids and adults ) in front of a blue building . 	locals
+853	 lots of locals ( both kids and adults ) in front of a blue building . 	kids
+853	 lots of locals ( both kids and adults ) in front of a blue building . 	adults
+853	 lots of locals ( both kids and adults ) in front of a blue building . 	front
+853	 lots of locals ( both kids and adults ) in front of a blue building . 	a blue building
+854	 one kid is about to slide down the slide , with one grown up waiting to catch it . 	kid
+854	 one kid is about to slide down the slide , with one grown up waiting to catch it . 	the slide
+854	 one kid is about to slide down the slide , with one grown up waiting to catch it . 	one
+854	 one kid is about to slide down the slide , with one grown up waiting to catch it . 	it
+855	 another woman is carrying a basket in her left hand , with a kid holding her other hand . 	another woman
+855	 another woman is carrying a basket in her left hand , with a kid holding her other hand . 	a basket
+855	 another woman is carrying a basket in her left hand , with a kid holding her other hand . 	left hand
+855	 another woman is carrying a basket in her left hand , with a kid holding her other hand . 	a kid
+855	 another woman is carrying a basket in her left hand , with a kid holding her other hand . 	other hand
+856	 others are just sitting around or are standing in the background . 	others
+856	 others are just sitting around or are standing in the background . 	the background
+857	 there are snow covered mountains in the distant background . 	snow
+857	 there are snow covered mountains in the distant background . 	mountains
+857	 there are snow covered mountains in the distant background . 	the distant background
+858	 there are two social workers in the foreground . 	workers
+858	 there are two social workers in the foreground . 	the foreground
+859	 one wearing a red pullover and brown pants is bending over to access the blue paint . 	a red pullover
+859	 one wearing a red pullover and brown pants is bending over to access the blue paint . 	pants
+859	 one wearing a red pullover and brown pants is bending over to access the blue paint . 	the blue paint
+861	 the other one in a red tee-shirt and black jeans is watching her . 	the other one
+861	 the other one in a red tee-shirt and black jeans is watching her . 	a red tee-shirt
+861	 the other one in a red tee-shirt and black jeans is watching her . 	jeans
+861	 the other one in a red tee-shirt and black jeans is watching her . 	her
+862	 at the back of the room there is another worker wearing a white tee-shirt and blue jeans , acutally painting . 	the back
+862	 at the back of the room there is another worker wearing a white tee-shirt and blue jeans , acutally painting . 	the room
+862	 at the back of the room there is another worker wearing a white tee-shirt and blue jeans , acutally painting . 	another worker
+862	 at the back of the room there is another worker wearing a white tee-shirt and blue jeans , acutally painting . 	a white tee-shirt
+862	 at the back of the room there is another worker wearing a white tee-shirt and blue jeans , acutally painting . 	jeans
+862	 at the back of the room there is another worker wearing a white tee-shirt and blue jeans , acutally painting . 	acutally painting
+863	 there are many newspapers on the ground to protect the kindergarten floor . 	newspapers
+863	 there are many newspapers on the ground to protect the kindergarten floor . 	the ground
+863	 there are many newspapers on the ground to protect the kindergarten floor . 	the kindergarten floor
+864	 all three workers are wearing a mask . 	three workers
+864	 all three workers are wearing a mask . 	a mask
+865	 portrait of two dark-haired girls with a mountain in the background . 	portrait
+865	 portrait of two dark-haired girls with a mountain in the background . 	girls
+865	 portrait of two dark-haired girls with a mountain in the background . 	a mountain
+865	 portrait of two dark-haired girls with a mountain in the background . 	the background
+868	 a man is carrying a heavy rice bag . 	a man
+868	 a man is carrying a heavy rice bag . 	a heavy rice bag
+869	 a car on the left , another man on the right . 	a car
+869	 a car on the left , another man on the right . 	the left
+869	 a car on the left , another man on the right . 	another man
+869	 a car on the left , another man on the right . 	the right
+871	 a street behind them , with some houses on a hill in the background . 	a street
+871	 a street behind them , with some houses on a hill in the background . 	them
+871	 a street behind them , with some houses on a hill in the background . 	houses
+871	 a street behind them , with some houses on a hill in the background . 	a hill
+871	 a street behind them , with some houses on a hill in the background . 	the background
+872	 six tourists are standing in front of blackboard of a primary school . 	six tourists
+872	 six tourists are standing in front of blackboard of a primary school . 	front
+872	 six tourists are standing in front of blackboard of a primary school . 	blackboard
+872	 six tourists are standing in front of blackboard of a primary school . 	a primary school
+873	 one tourist is taking a photo . 	tourist
+873	 one tourist is taking a photo . 	a photo
+875	 local kids are sitting at their desks , singing and clapping . 	kids
+875	 local kids are sitting at their desks , singing and clapping . 	desks
+879	 one kid has just opened one book . 	kid
+879	 one kid has just opened one book . 	book
+885	 there are posters and pictures on the wall in the background . 	posters
+885	 there are posters and pictures on the wall in the background . 	pictures
+885	 there are posters and pictures on the wall in the background . 	the wall
+885	 there are posters and pictures on the wall in the background . 	the background
+892	 a little red wooden desk and two red and two blue chairs in front of a green wall full with children's paintings . 	a little red wooden desk
+892	 a little red wooden desk and two red and two blue chairs in front of a green wall full with children's paintings . 	chairs
+892	 a little red wooden desk and two red and two blue chairs in front of a green wall full with children's paintings . 	front
+892	 a little red wooden desk and two red and two blue chairs in front of a green wall full with children's paintings . 	a green wall
+892	 a little red wooden desk and two red and two blue chairs in front of a green wall full with children's paintings . 	children
+892	 a little red wooden desk and two red and two blue chairs in front of a green wall full with children's paintings . 	paintings
+893	 an improvised cupboard with lots of drawers in a corner at the back of the room . 	cupboard
+893	 an improvised cupboard with lots of drawers in a corner at the back of the room . 	lots
+893	 an improvised cupboard with lots of drawers in a corner at the back of the room . 	drawers
+893	 an improvised cupboard with lots of drawers in a corner at the back of the room . 	a corner
+893	 an improvised cupboard with lots of drawers in a corner at the back of the room . 	the back
+893	 an improvised cupboard with lots of drawers in a corner at the back of the room . 	the room
+894	 volunteer workers help with the construction in a kindergarten . 	volunteer
+894	 volunteer workers help with the construction in a kindergarten . 	workers
+894	 volunteer workers help with the construction in a kindergarten . 	the construction
+894	 volunteer workers help with the construction in a kindergarten . 	a kindergarten
+895	 four volunteers are squatting down and are trying to prise the ground with hammer and chisel . 	four volunteers
+895	 four volunteers are squatting down and are trying to prise the ground with hammer and chisel . 	the ground
+896	 movable wooden walls are leaning on the wall in the background . 	walls
+896	 movable wooden walls are leaning on the wall in the background . 	the wall
+896	 movable wooden walls are leaning on the wall in the background . 	the background
+897	 tourists are posing in a room , ten of them are standing , one is squatting . 	tourists
+897	 tourists are posing in a room , ten of them are standing , one is squatting . 	a room
+897	 tourists are posing in a room , ten of them are standing , one is squatting . 	them
+899	 one kid is posing with them , five other kids are sitting at a table and eating out of three bowls . 	kid
+899	 one kid is posing with them , five other kids are sitting at a table and eating out of three bowls . 	them
+899	 one kid is posing with them , five other kids are sitting at a table and eating out of three bowls . 	kids
+899	 one kid is posing with them , five other kids are sitting at a table and eating out of three bowls . 	a table
+900	 there are posters and pictures at the wall behind the tourists . 	posters
+900	 there are posters and pictures at the wall behind the tourists . 	pictures
+900	 there are posters and pictures at the wall behind the tourists . 	the wall
+900	 there are posters and pictures at the wall behind the tourists . 	tourists
+901	 pupils are sitting at their wooden desks in an open air classroom . 	pupils
+901	 pupils are sitting at their wooden desks in an open air classroom . 	desks
+901	 pupils are sitting at their wooden desks in an open air classroom . 	an open air classroom
+904	 two of them raising their hands , others smiling . 	them
+904	 two of them raising their hands , others smiling . 	hands
+904	 two of them raising their hands , others smiling . 	others
+905	 three are wearing a green hat . 	a green hat
+906	 red brick wall and windows in the background . 	red brick wall
+906	 red brick wall and windows in the background . 	windows
+906	 red brick wall and windows in the background . 	the background
+907	 seven tourists are visiting a classroom . 	seven tourists
+907	 seven tourists are visiting a classroom . 	a classroom
+908	 children are sitting at round tables , nearly all of them wearing a green hat ( except for two kids ) . 	children
+908	 children are sitting at round tables , nearly all of them wearing a green hat ( except for two kids ) . 	tables
+908	 children are sitting at round tables , nearly all of them wearing a green hat ( except for two kids ) . 	them
+908	 children are sitting at round tables , nearly all of them wearing a green hat ( except for two kids ) . 	a green hat
+908	 children are sitting at round tables , nearly all of them wearing a green hat ( except for two kids ) . 	two kids
+909	 tourists are smiling at the kids . 	tourists
+909	 tourists are smiling at the kids . 	kids
+910	 there are posters and maps on the wall in the background . 	posters
+910	 there are posters and maps on the wall in the background . 	maps
+910	 there are posters and maps on the wall in the background . 	the wall
+910	 there are posters and maps on the wall in the background . 	the background
+912	 tourists are visiting an old people's home . 	tourists
+912	 tourists are visiting an old people's home . 	people
+912	 tourists are visiting an old people's home . 	home
+914	 each tourist is leading one old lady , arm in arm . 	each tourist
+914	 each tourist is leading one old lady , arm in arm . 	old lady
+914	 each tourist is leading one old lady , arm in arm . 	arm
+914	 each tourist is leading one old lady , arm in arm . 	arm
+915	 the old ladies are wearing traditional dresses and a hat . 	ladies
+915	 the old ladies are wearing traditional dresses and a hat . 	dresses
+915	 the old ladies are wearing traditional dresses and a hat . 	a hat
+916	 the room is decorated with balloons . 	the room
+916	 the room is decorated with balloons . 	balloons
+917	 there is a picture on the wall in the background , and also an old lady carrying a green balloon . 	a picture
+917	 there is a picture on the wall in the background , and also an old lady carrying a green balloon . 	the wall
+917	 there is a picture on the wall in the background , and also an old lady carrying a green balloon . 	the background
+917	 there is a picture on the wall in the background , and also an old lady carrying a green balloon . 	also an old lady
+917	 there is a picture on the wall in the background , and also an old lady carrying a green balloon . 	a green balloon
+918	 a destroyed house with the wreckage lying around in front it . 	house
+918	 a destroyed house with the wreckage lying around in front it . 	the wreckage
+918	 a destroyed house with the wreckage lying around in front it . 	front
+918	 a destroyed house with the wreckage lying around in front it . 	it
+919	 three ordinary a bit elevated houses in the background . 	a bit
+919	 three ordinary a bit elevated houses in the background . 	houses
+919	 three ordinary a bit elevated houses in the background . 	the background
+921	 six pupils are sitting around a round table on wooden chairs , each of them is holding a fruit ( tangerine ? ) and is wearing a hat ( except for one kid ) . 	six pupils
+921	 six pupils are sitting around a round table on wooden chairs , each of them is holding a fruit ( tangerine ? ) and is wearing a hat ( except for one kid ) . 	a round table
+921	 six pupils are sitting around a round table on wooden chairs , each of them is holding a fruit ( tangerine ? ) and is wearing a hat ( except for one kid ) . 	chairs
+921	 six pupils are sitting around a round table on wooden chairs , each of them is holding a fruit ( tangerine ? ) and is wearing a hat ( except for one kid ) . 	them
+921	 six pupils are sitting around a round table on wooden chairs , each of them is holding a fruit ( tangerine ? ) and is wearing a hat ( except for one kid ) . 	a fruit
+921	 six pupils are sitting around a round table on wooden chairs , each of them is holding a fruit ( tangerine ? ) and is wearing a hat ( except for one kid ) . 	a hat
+921	 six pupils are sitting around a round table on wooden chairs , each of them is holding a fruit ( tangerine ? ) and is wearing a hat ( except for one kid ) . 	kid
+922	 pictures and comics on the wall behind them . 	pictures
+922	 pictures and comics on the wall behind them . 	comics
+922	 pictures and comics on the wall behind them . 	the wall
+922	 pictures and comics on the wall behind them . 	them
+923	 car tyres in the background on the right . 	car
+923	 car tyres in the background on the right . 	tyres
+923	 car tyres in the background on the right . 	the background
+923	 car tyres in the background on the right . 	the right
+924	 a teacher and around 50 pupils on the slope of a hill . 	a teacher
+924	 a teacher and around 50 pupils on the slope of a hill . 	around 50 pupils
+924	 a teacher and around 50 pupils on the slope of a hill . 	the slope
+924	 a teacher and around 50 pupils on the slope of a hill . 	a hill
+925	 half of the kids are dressed in orange , many of them wearing a hat , a beanie or a cap . 	half
+925	 half of the kids are dressed in orange , many of them wearing a hat , a beanie or a cap . 	kids
+925	 half of the kids are dressed in orange , many of them wearing a hat , a beanie or a cap . 	orange
+925	 half of the kids are dressed in orange , many of them wearing a hat , a beanie or a cap . 	them
+925	 half of the kids are dressed in orange , many of them wearing a hat , a beanie or a cap . 	a hat
+925	 half of the kids are dressed in orange , many of them wearing a hat , a beanie or a cap . 	a beanie
+925	 half of the kids are dressed in orange , many of them wearing a hat , a beanie or a cap . 	a cap
+926	 small bushes and two trees at the top of the hill . 	bushes
+926	 small bushes and two trees at the top of the hill . 	two trees
+926	 small bushes and two trees at the top of the hill . 	the top
+926	 small bushes and two trees at the top of the hill . 	the hill
+927	 a lake in the background . 	a lake
+927	 a lake in the background . 	the background
+928	 school kids are posing for the camera in a football-like setup - nine are standing at the back , ten are squatting at the front . 	school
+928	 school kids are posing for the camera in a football-like setup - nine are standing at the back , ten are squatting at the front . 	kids
+928	 school kids are posing for the camera in a football-like setup - nine are standing at the back , ten are squatting at the front . 	the camera
+928	 school kids are posing for the camera in a football-like setup - nine are standing at the back , ten are squatting at the front . 	a football-like setup
+928	 school kids are posing for the camera in a football-like setup - nine are standing at the back , ten are squatting at the front . 	the back
+928	 school kids are posing for the camera in a football-like setup - nine are standing at the back , ten are squatting at the front . 	the front
+929	 each of them are having a fruit in their hands , most of them are smiling , one is even waving at the camera . 	them
+929	 each of them are having a fruit in their hands , most of them are smiling , one is even waving at the camera . 	a fruit
+929	 each of them are having a fruit in their hands , most of them are smiling , one is even waving at the camera . 	hands
+929	 each of them are having a fruit in their hands , most of them are smiling , one is even waving at the camera . 	them
+929	 each of them are having a fruit in their hands , most of them are smiling , one is even waving at the camera . 	the camera
+930	 a blackboard in the background . 	a blackboard
+930	 a blackboard in the background . 	the background
+931	 one kid in the centre of the front row is holding a teddy . 	kid
+931	 one kid in the centre of the front row is holding a teddy . 	the front row
+932	 classroom with most of the pupil sitting at theirs desk and wearing green hats . 	classroom
+932	 classroom with most of the pupil sitting at theirs desk and wearing green hats . 	the pupil
+932	 classroom with most of the pupil sitting at theirs desk and wearing green hats . 	theirs desk
+932	 classroom with most of the pupil sitting at theirs desk and wearing green hats . 	hats
+933	 one girl is standing at her desk , another one is walking to her desk , three other boys are standing and looking at a picture of minnie mouse on the wall . 	girl
+933	 one girl is standing at her desk , another one is walking to her desk , three other boys are standing and looking at a picture of minnie mouse on the wall . 	desk
+933	 one girl is standing at her desk , another one is walking to her desk , three other boys are standing and looking at a picture of minnie mouse on the wall . 	another one
+933	 one girl is standing at her desk , another one is walking to her desk , three other boys are standing and looking at a picture of minnie mouse on the wall . 	desk
+933	 one girl is standing at her desk , another one is walking to her desk , three other boys are standing and looking at a picture of minnie mouse on the wall . 	boys
+933	 one girl is standing at her desk , another one is walking to her desk , three other boys are standing and looking at a picture of minnie mouse on the wall . 	a picture
+933	 one girl is standing at her desk , another one is walking to her desk , three other boys are standing and looking at a picture of minnie mouse on the wall . 	mouse
+933	 one girl is standing at her desk , another one is walking to her desk , three other boys are standing and looking at a picture of minnie mouse on the wall . 	the wall
+934	 shelves and posters in the background . 	shelves
+934	 shelves and posters in the background . 	posters
+934	 shelves and posters in the background . 	the background
+935	 children are sitting at their desks , together with a tourist sitting in the last row . 	children
+935	 children are sitting at their desks , together with a tourist sitting in the last row . 	desks
+935	 children are sitting at their desks , together with a tourist sitting in the last row . 	a tourist
+935	 children are sitting at their desks , together with a tourist sitting in the last row . 	the last row
+936	 three children are standing on the left , looking at a map of peru . 	three children
+936	 three children are standing on the left , looking at a map of peru . 	the left
+936	 three children are standing on the left , looking at a map of peru . 	a map
+937	 there are two posters on the wall at the back , and there is a bookshelf with a lot of boxes and folders on the left . 	two posters
+937	 there are two posters on the wall at the back , and there is a bookshelf with a lot of boxes and folders on the left . 	the wall
+937	 there are two posters on the wall at the back , and there is a bookshelf with a lot of boxes and folders on the left . 	the back
+937	 there are two posters on the wall at the back , and there is a bookshelf with a lot of boxes and folders on the left . 	a bookshelf
+937	 there are two posters on the wall at the back , and there is a bookshelf with a lot of boxes and folders on the left . 	a lot
+937	 there are two posters on the wall at the back , and there is a bookshelf with a lot of boxes and folders on the left . 	boxes
+937	 there are two posters on the wall at the back , and there is a bookshelf with a lot of boxes and folders on the left . 	folders
+937	 there are two posters on the wall at the back , and there is a bookshelf with a lot of boxes and folders on the left . 	the left
+938	 one boy holding a white box , most likely a present from the volunteer kneeing in front of him . 	boy
+938	 one boy holding a white box , most likely a present from the volunteer kneeing in front of him . 	a white box
+938	 one boy holding a white box , most likely a present from the volunteer kneeing in front of him . 	a present
+938	 one boy holding a white box , most likely a present from the volunteer kneeing in front of him . 	the volunteer kneeing
+938	 one boy holding a white box , most likely a present from the volunteer kneeing in front of him . 	front
+938	 one boy holding a white box , most likely a present from the volunteer kneeing in front of him . 	him
+939	 several kids are around him , looking at the box while the boy himself is looking somewhere else . 	kids
+939	 several kids are around him , looking at the box while the boy himself is looking somewhere else . 	him
+939	 several kids are around him , looking at the box while the boy himself is looking somewhere else . 	the box
+939	 several kids are around him , looking at the box while the boy himself is looking somewhere else . 	the boy
+939	 several kids are around him , looking at the box while the boy himself is looking somewhere else . 	himself
+941	 one kid in the foreground is wearing a green hat . 	kid
+941	 one kid in the foreground is wearing a green hat . 	the foreground
+941	 one kid in the foreground is wearing a green hat . 	a green hat
+942	 there are both round tables and wooden desks in the background . 	round
+942	 there are both round tables and wooden desks in the background . 	tables
+942	 there are both round tables and wooden desks in the background . 	desks
+942	 there are both round tables and wooden desks in the background . 	the background
+943	 a volunteer , squatting down and browsing through a school book . 	a volunteer
+943	 a volunteer , squatting down and browsing through a school book . 	a school book
+944	 school children around her , looking at the book too . 	school
+944	 school children around her , looking at the book too . 	children
+944	 school children around her , looking at the book too . 	her
+944	 school children around her , looking at the book too . 	the book
+947	 in the background there is a table with school equipment on it . 	the background
+947	 in the background there is a table with school equipment on it . 	a table
+947	 in the background there is a table with school equipment on it . 	school equipment
+947	 in the background there is a table with school equipment on it . 	it
+948	 the kid in the foreground is holding a pencil . 	the kid
+948	 the kid in the foreground is holding a pencil . 	the foreground
+948	 the kid in the foreground is holding a pencil . 	a pencil
+949	 tourists are standing in front of the blackboard in a classroom , all the kids are sitting at their desks . 	tourists
+949	 tourists are standing in front of the blackboard in a classroom , all the kids are sitting at their desks . 	front
+949	 tourists are standing in front of the blackboard in a classroom , all the kids are sitting at their desks . 	the blackboard
+949	 tourists are standing in front of the blackboard in a classroom , all the kids are sitting at their desks . 	a classroom
+949	 tourists are standing in front of the blackboard in a classroom , all the kids are sitting at their desks . 	kids
+949	 tourists are standing in front of the blackboard in a classroom , all the kids are sitting at their desks . 	desks
+950	 there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows . 	a clock
+950	 there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows . 	the blackboard
+950	 there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows . 	letters dios
+950	 there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows . 	amor
+950	 there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows . 	the clock
+950	 there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows . 	the blackboard
+950	 there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows . 	higiene
+950	 there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows . 	es
+950	 there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows . 	the side wall
+950	 there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows . 	windows
+951	 a boy wearing a green jacket and a red cap is carrying a little girl on his back . 	a boy
+951	 a boy wearing a green jacket and a red cap is carrying a little girl on his back . 	a green jacket
+951	 a boy wearing a green jacket and a red cap is carrying a little girl on his back . 	a red cap
+951	 a boy wearing a green jacket and a red cap is carrying a little girl on his back . 	a little girl
+951	 a boy wearing a green jacket and a red cap is carrying a little girl on his back . 	back
+952	 children are sitting at their desks and are singing a song with their teacher . 	children
+952	 children are sitting at their desks and are singing a song with their teacher . 	desks
+952	 children are sitting at their desks and are singing a song with their teacher . 	a song
+952	 children are sitting at their desks and are singing a song with their teacher . 	teacher
+953	 there is a large window , a blackboard and a shelf at the back of the classroom . 	a large window
+953	 there is a large window , a blackboard and a shelf at the back of the classroom . 	a blackboard
+953	 there is a large window , a blackboard and a shelf at the back of the classroom . 	a shelf
+953	 there is a large window , a blackboard and a shelf at the back of the classroom . 	the back
+953	 there is a large window , a blackboard and a shelf at the back of the classroom . 	the classroom
+955	 there is a wall on the left with a map of peru , a poster and minnie mouse on it . 	a wall
+955	 there is a wall on the left with a map of peru , a poster and minnie mouse on it . 	the left
+955	 there is a wall on the left with a map of peru , a poster and minnie mouse on it . 	a map
+955	 there is a wall on the left with a map of peru , a poster and minnie mouse on it . 	a poster
+955	 there is a wall on the left with a map of peru , a poster and minnie mouse on it . 	mouse
+955	 there is a wall on the left with a map of peru , a poster and minnie mouse on it . 	it
+957	 close-up photo of a building with a blue front , red doors , brown bricks below the windows and the wires that stick out from the roof . 	close-up photo
+957	 close-up photo of a building with a blue front , red doors , brown bricks below the windows and the wires that stick out from the roof . 	a building
+957	 close-up photo of a building with a blue front , red doors , brown bricks below the windows and the wires that stick out from the roof . 	a blue front
+957	 close-up photo of a building with a blue front , red doors , brown bricks below the windows and the wires that stick out from the roof . 	doors
+957	 close-up photo of a building with a blue front , red doors , brown bricks below the windows and the wires that stick out from the roof . 	bricks
+957	 close-up photo of a building with a blue front , red doors , brown bricks below the windows and the wires that stick out from the roof . 	windows
+957	 close-up photo of a building with a blue front , red doors , brown bricks below the windows and the wires that stick out from the roof . 	wires
+957	 close-up photo of a building with a blue front , red doors , brown bricks below the windows and the wires that stick out from the roof . 	the roof
+958	 a few pupils are in front of the building . 	pupils
+958	 a few pupils are in front of the building . 	front
+958	 a few pupils are in front of the building . 	the building
+959	 view of a city in a valley . 	view
+959	 view of a city in a valley . 	a city
+959	 view of a city in a valley . 	a valley
+960	 bushes , houses and roofs in the foreground . 	bushes
+960	 bushes , houses and roofs in the foreground . 	houses
+960	 bushes , houses and roofs in the foreground . 	roofs
+960	 bushes , houses and roofs in the foreground . 	the foreground
+961	 an overcast sky in the background . 	sky
+961	 an overcast sky in the background . 	the background
+962	 tourists are standing at the entrance of classroom . 	tourists
+962	 tourists are standing at the entrance of classroom . 	the entrance
+962	 tourists are standing at the entrance of classroom . 	classroom
+963	 all of them are carrying backpacks . 	them
+963	 all of them are carrying backpacks . 	backpacks
+965	 one female tourist is carrying a huge bunch of balloons . 	female tourist
+965	 one female tourist is carrying a huge bunch of balloons . 	a huge bunch
+965	 one female tourist is carrying a huge bunch of balloons . 	balloons
+966	 tourists are standing in front of the blackboard in a classroom . 	tourists
+966	 tourists are standing in front of the blackboard in a classroom . 	front
+966	 tourists are standing in front of the blackboard in a classroom . 	the blackboard
+966	 tourists are standing in front of the blackboard in a classroom . 	a classroom
+967	 all the kids are sitting at their desks , some of them turned around to look at the camera . 	kids
+967	 all the kids are sitting at their desks , some of them turned around to look at the camera . 	desks
+967	 all the kids are sitting at their desks , some of them turned around to look at the camera . 	them
+967	 all the kids are sitting at their desks , some of them turned around to look at the camera . 	the camera
+969	 there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows . 	a clock
+969	 there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows . 	the blackboard
+969	 there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows . 	letters dios
+969	 there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows . 	amor
+969	 there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows . 	the clock
+969	 there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows . 	the blackboard
+969	 there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows . 	higiene
+969	 there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows . 	es
+969	 there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows . 	the side wall
+969	 there is a clock above the blackboard , and also the letters dios es amor between the clock and the blackboard , and higiene es salud on the side wall below the windows . 	windows
+970	 many people are working on the bare brickwork of a house or are watching the workers from below . 	people
+970	 many people are working on the bare brickwork of a house or are watching the workers from below . 	the bare brickwork
+970	 many people are working on the bare brickwork of a house or are watching the workers from below . 	a house
+970	 many people are working on the bare brickwork of a house or are watching the workers from below . 	workers
+971	 many wires are sticking out of the bare brickwork . 	wires
+971	 many wires are sticking out of the bare brickwork . 	the bare brickwork
+991	 one person is climbing up a ladder . 	person
+991	 one person is climbing up a ladder . 	a ladder
+992	 many pallets are lying piled up in front of the house . 	pallets
+992	 many pallets are lying piled up in front of the house . 	front
+992	 many pallets are lying piled up in front of the house . 	the house
+993	 excited kids are standing at their desks in a classroom . 	kids
+993	 excited kids are standing at their desks in a classroom . 	desks
+993	 excited kids are standing at their desks in a classroom . 	a classroom
+994	 some of them seem to be very happy and are laughing . 	them
+995	 there are pictures of trees on the wall at the back . 	pictures
+995	 there are pictures of trees on the wall at the back . 	trees
+995	 there are pictures of trees on the wall at the back . 	the wall
+995	 there are pictures of trees on the wall at the back . 	the back
+996	 two girls have an open book on their desk . 	two girls
+996	 two girls have an open book on their desk . 	an open book
+996	 two girls have an open book on their desk . 	desk
+997	 a house with a pink roof and a green and white tower with three levels , each of them having a window on each side . 	a house
+997	 a house with a pink roof and a green and white tower with three levels , each of them having a window on each side . 	a pink roof
+997	 a house with a pink roof and a green and white tower with three levels , each of them having a window on each side . 	white tower
+997	 a house with a pink roof and a green and white tower with three levels , each of them having a window on each side . 	three levels
+997	 a house with a pink roof and a green and white tower with three levels , each of them having a window on each side . 	them
+997	 a house with a pink roof and a green and white tower with three levels , each of them having a window on each side . 	a window
+997	 a house with a pink roof and a green and white tower with three levels , each of them having a window on each side . 	each side
+998	 one block in the front with three windows and the writing casa parroquial - amor de dios . 	block
+998	 one block in the front with three windows and the writing casa parroquial - amor de dios . 	the front
+998	 one block in the front with three windows and the writing casa parroquial - amor de dios . 	three windows
+998	 one block in the front with three windows and the writing casa parroquial - amor de dios . 	the writing
+998	 one block in the front with three windows and the writing casa parroquial - amor de dios . 	dios
+999	 another house with a green and yellow and red roof in the background . 	another house
+999	 another house with a green and yellow and red roof in the background . 	red roof
+999	 another house with a green and yellow and red roof in the background . 	the background
+1000	 tourists are standing in the classroom of a school in front of the blackboard . 	tourists
+1000	 tourists are standing in the classroom of a school in front of the blackboard . 	the classroom
+1000	 tourists are standing in the classroom of a school in front of the blackboard . 	a school
+1000	 tourists are standing in the classroom of a school in front of the blackboard . 	front
+1000	 tourists are standing in the classroom of a school in front of the blackboard . 	the blackboard
+1001	 there is a clock and the writing dios es amor above the blackboard . 	a clock
+1001	 there is a clock and the writing dios es amor above the blackboard . 	the writing
+1001	 there is a clock and the writing dios es amor above the blackboard . 	dios
+1001	 there is a clock and the writing dios es amor above the blackboard . 	amor
+1001	 there is a clock and the writing dios es amor above the blackboard . 	the blackboard
+1003	 tourists are standing on a wet sidewalk and are carrying bags of food . 	tourists
+1003	 tourists are standing on a wet sidewalk and are carrying bags of food . 	a wet sidewalk
+1003	 tourists are standing on a wet sidewalk and are carrying bags of food . 	bags
+1003	 tourists are standing on a wet sidewalk and are carrying bags of food . 	food
+1004	 people are wearing rain coats and jackets . 	people
+1004	 people are wearing rain coats and jackets . 	rain
+1004	 people are wearing rain coats and jackets . 	coats
+1004	 people are wearing rain coats and jackets . 	jackets
+1005	 a house with brick walls and two garage doors behind them . 	a house
+1005	 a house with brick walls and two garage doors behind them . 	brick
+1005	 a house with brick walls and two garage doors behind them . 	walls
+1005	 a house with brick walls and two garage doors behind them . 	garage
+1005	 a house with brick walls and two garage doors behind them . 	doors
+1005	 a house with brick walls and two garage doors behind them . 	them
+1006	 a group picture of happy people wearing orange hats and white and orange sleeveless shirts . 	a group picture
+1006	 a group picture of happy people wearing orange hats and white and orange sleeveless shirts . 	people
+1006	 a group picture of happy people wearing orange hats and white and orange sleeveless shirts . 	orange
+1006	 a group picture of happy people wearing orange hats and white and orange sleeveless shirts . 	hats
+1006	 a group picture of happy people wearing orange hats and white and orange sleeveless shirts . 	orange sleeveless
+1006	 a group picture of happy people wearing orange hats and white and orange sleeveless shirts . 	shirts
+1007	 school kids are posing for a picture on a grey square . 	school
+1007	 school kids are posing for a picture on a grey square . 	kids
+1007	 school kids are posing for a picture on a grey square . 	a picture
+1007	 school kids are posing for a picture on a grey square . 	square
+1008	 one tourist is holding one kid in the background . 	tourist
+1008	 one tourist is holding one kid in the background . 	kid
+1008	 one tourist is holding one kid in the background . 	the background
+1009	 some kids standing in front of the kids posing . 	kids
+1009	 some kids standing in front of the kids posing . 	front
+1009	 some kids standing in front of the kids posing . 	kids
+1010	 portrait of a dark-skinned , dark-haired boy wearing a white and blue jumper with a red collar . 	portrait
+1010	 portrait of a dark-skinned , dark-haired boy wearing a white and blue jumper with a red collar . 	dark-haired boy
+1010	 portrait of a dark-skinned , dark-haired boy wearing a white and blue jumper with a red collar . 	blue jumper
+1010	 portrait of a dark-skinned , dark-haired boy wearing a white and blue jumper with a red collar . 	a red collar
+1011	 a dark-skinned , dark-haired boy wearing a blue tee-shirt ( one sleeve green , the other one pink ) is standing in a classroom . 	dark-haired boy
+1011	 a dark-skinned , dark-haired boy wearing a blue tee-shirt ( one sleeve green , the other one pink ) is standing in a classroom . 	a blue tee-shirt
+1011	 a dark-skinned , dark-haired boy wearing a blue tee-shirt ( one sleeve green , the other one pink ) is standing in a classroom . 	sleeve green
+1011	 a dark-skinned , dark-haired boy wearing a blue tee-shirt ( one sleeve green , the other one pink ) is standing in a classroom . 	a classroom
+1015	 a teacher and other kids in the background , and also a large window ( thus the picture is not very well exposed ) . 	a teacher
+1015	 a teacher and other kids in the background , and also a large window ( thus the picture is not very well exposed ) . 	kids
+1015	 a teacher and other kids in the background , and also a large window ( thus the picture is not very well exposed ) . 	the background
+1015	 a teacher and other kids in the background , and also a large window ( thus the picture is not very well exposed ) . 	also a large window
+1015	 a teacher and other kids in the background , and also a large window ( thus the picture is not very well exposed ) . 	thus the picture
+1026	 portrait of a dark-skinned , dark-haired girl wearing a light blue tee-shirt with three pictures of people and a usa flag in the shape of a heart on it . 	portrait
+1026	 portrait of a dark-skinned , dark-haired girl wearing a light blue tee-shirt with three pictures of people and a usa flag in the shape of a heart on it . 	dark-haired girl
+1026	 portrait of a dark-skinned , dark-haired girl wearing a light blue tee-shirt with three pictures of people and a usa flag in the shape of a heart on it . 	a light blue tee-shirt
+1026	 portrait of a dark-skinned , dark-haired girl wearing a light blue tee-shirt with three pictures of people and a usa flag in the shape of a heart on it . 	three pictures
+1026	 portrait of a dark-skinned , dark-haired girl wearing a light blue tee-shirt with three pictures of people and a usa flag in the shape of a heart on it . 	people
+1026	 portrait of a dark-skinned , dark-haired girl wearing a light blue tee-shirt with three pictures of people and a usa flag in the shape of a heart on it . 	flag
+1026	 portrait of a dark-skinned , dark-haired girl wearing a light blue tee-shirt with three pictures of people and a usa flag in the shape of a heart on it . 	the shape
+1026	 portrait of a dark-skinned , dark-haired girl wearing a light blue tee-shirt with three pictures of people and a usa flag in the shape of a heart on it . 	a heart
+1026	 portrait of a dark-skinned , dark-haired girl wearing a light blue tee-shirt with three pictures of people and a usa flag in the shape of a heart on it . 	it
+1029	 portrait of a dark-skinned , dark-haired girl in a yellow blouse with a blue collar . 	portrait
+1029	 portrait of a dark-skinned , dark-haired girl in a yellow blouse with a blue collar . 	dark-haired girl
+1029	 portrait of a dark-skinned , dark-haired girl in a yellow blouse with a blue collar . 	a yellow blouse
+1029	 portrait of a dark-skinned , dark-haired girl in a yellow blouse with a blue collar . 	a blue collar
+1030	 a dark-skinned , dark-haired girl in a blue jumper and red pants is sitting on the floor . 	dark-haired girl
+1030	 a dark-skinned , dark-haired girl in a blue jumper and red pants is sitting on the floor . 	a blue jumper
+1030	 a dark-skinned , dark-haired girl in a blue jumper and red pants is sitting on the floor . 	pants
+1030	 a dark-skinned , dark-haired girl in a blue jumper and red pants is sitting on the floor . 	the floor
+1033	 a dark-skinned , dark-haired girl in a white tee-shirt . 	dark-haired girl
+1033	 a dark-skinned , dark-haired girl in a white tee-shirt . 	a white tee-shirt
+1037	 a dark-skinned , dark-haired girl wearing a white tee-shirt with pink edges and blue pants is kneeing on the ground . 	dark-haired girl
+1037	 a dark-skinned , dark-haired girl wearing a white tee-shirt with pink edges and blue pants is kneeing on the ground . 	a white tee-shirt
+1037	 a dark-skinned , dark-haired girl wearing a white tee-shirt with pink edges and blue pants is kneeing on the ground . 	edges
+1037	 a dark-skinned , dark-haired girl wearing a white tee-shirt with pink edges and blue pants is kneeing on the ground . 	pants
+1037	 a dark-skinned , dark-haired girl wearing a white tee-shirt with pink edges and blue pants is kneeing on the ground . 	the ground
+1039	 a dark-skinned , dark-haired girl in a white jumper with paintings of dogs , bones and dogprints and pink-and-white chequered shorts . 	dark-haired girl
+1039	 a dark-skinned , dark-haired girl in a white jumper with paintings of dogs , bones and dogprints and pink-and-white chequered shorts . 	a white jumper
+1039	 a dark-skinned , dark-haired girl in a white jumper with paintings of dogs , bones and dogprints and pink-and-white chequered shorts . 	paintings
+1039	 a dark-skinned , dark-haired girl in a white jumper with paintings of dogs , bones and dogprints and pink-and-white chequered shorts . 	dogs
+1039	 a dark-skinned , dark-haired girl in a white jumper with paintings of dogs , bones and dogprints and pink-and-white chequered shorts . 	bones
+1039	 a dark-skinned , dark-haired girl in a white jumper with paintings of dogs , bones and dogprints and pink-and-white chequered shorts . 	dogprints
+1039	 a dark-skinned , dark-haired girl in a white jumper with paintings of dogs , bones and dogprints and pink-and-white chequered shorts . 	shorts
+1040	 a dark-skinned , dark-haired boy in a red tee-shirt with blue sleeves is standing next to a school desk . 	dark-haired boy
+1040	 a dark-skinned , dark-haired boy in a red tee-shirt with blue sleeves is standing next to a school desk . 	a red tee-shirt
+1040	 a dark-skinned , dark-haired boy in a red tee-shirt with blue sleeves is standing next to a school desk . 	sleeves
+1040	 a dark-skinned , dark-haired boy in a red tee-shirt with blue sleeves is standing next to a school desk . 	a school desk
+1041	 a dark-skinned , dark-haired boy wearing a blue pullover is standing in front of a brown door . 	dark-haired boy
+1041	 a dark-skinned , dark-haired boy wearing a blue pullover is standing in front of a brown door . 	a blue pullover
+1041	 a dark-skinned , dark-haired boy wearing a blue pullover is standing in front of a brown door . 	front
+1041	 a dark-skinned , dark-haired boy wearing a blue pullover is standing in front of a brown door . 	a brown door
+1049	 a dark-haired , dark-skinned girl is sitting on a red couch , wearing a pink pullover with a little bear . 	dark-skinned girl
+1049	 a dark-haired , dark-skinned girl is sitting on a red couch , wearing a pink pullover with a little bear . 	a red couch
+1049	 a dark-haired , dark-skinned girl is sitting on a red couch , wearing a pink pullover with a little bear . 	a pink pullover
+1049	 a dark-haired , dark-skinned girl is sitting on a red couch , wearing a pink pullover with a little bear . 	a little bear
+1053	 a dark-skinned , dark-haired boy sitting at his school desk wearing a light blue shirt below a dark blue pullover . 	dark-haired boy
+1053	 a dark-skinned , dark-haired boy sitting at his school desk wearing a light blue shirt below a dark blue pullover . 	school desk
+1053	 a dark-skinned , dark-haired boy sitting at his school desk wearing a light blue shirt below a dark blue pullover . 	a light blue shirt
+1053	 a dark-skinned , dark-haired boy sitting at his school desk wearing a light blue shirt below a dark blue pullover . 	a dark blue pullover
+1056	 a dark-skinned girl wearing a brown hat , a light shirt below a pink shirt and a dark green vest . 	a dark-skinned girl
+1056	 a dark-skinned girl wearing a brown hat , a light shirt below a pink shirt and a dark green vest . 	a brown hat
+1056	 a dark-skinned girl wearing a brown hat , a light shirt below a pink shirt and a dark green vest . 	a light shirt
+1056	 a dark-skinned girl wearing a brown hat , a light shirt below a pink shirt and a dark green vest . 	a pink shirt
+1056	 a dark-skinned girl wearing a brown hat , a light shirt below a pink shirt and a dark green vest . 	a dark green vest
+1060	 a dark-skinned , dark-haired girl wearing a yellow blouse with a blue collar . 	dark-haired girl
+1060	 a dark-skinned , dark-haired girl wearing a yellow blouse with a blue collar . 	a yellow blouse
+1060	 a dark-skinned , dark-haired girl wearing a yellow blouse with a blue collar . 	a blue collar
